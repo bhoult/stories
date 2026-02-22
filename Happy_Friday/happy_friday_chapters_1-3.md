@@ -13,7 +13,7 @@ I'd told my mom my stomach hurt, which she didn't believe because she's an ER nu
 
 "I won't," I said, which we both knew was a lie but a small enough one that it didn't matter.
 
-She left at 5:45 because she's always early. Night shift at St. Anne's — she's been doing it for four years, Friday through Monday, twelve hours, because the differential pay is better and because, she says, "somebody has to be there when normal people are sleeping." We live in a single-wide in Shady Oaks Mobile Home Park off Route 22, and the night differential is the difference between a single-wide and sleeping in her car, so she works it. She's an ER nurse, which means she comes home smelling like hand sanitizer and talks about her patients in a language I only half understand. Triage. Bolus. Lactated Ringer's. She says these words over dinner and I absorb them without context, like vocabulary words from a country I've never visited.
+She left at 5:45 because she's always early. Night shift at Johnson Regional — she's been doing it for four years, Friday through Monday, twelve hours, because the differential pay is better and because, she says, "somebody has to be there when normal people are sleeping." We live in a single-wide in Shady Oaks Mobile Home Park off Route 22, and the night differential is the difference between a single-wide and sleeping in her car, so she works it. She's an ER nurse, which means she comes home smelling like hand sanitizer and talks about her patients in a language I only half understand. Triage. Bolus. Lactated Ringer's. She says these words over dinner and I absorb them without context, like vocabulary words from a country I've never visited.
 
 At the door she did the thing she always does on Fridays. She turned back and pointed at me — not sternly, just pointed, like a little acknowledgment that we were both here and this was our routine and it was okay — and she said, "Happy Friday, bud."
 
@@ -35,7 +35,7 @@ The trailer was quiet the way it always is on Friday nights — just me and the 
 
 I'm describing this because later the geography of this park — seventeen occupied units in a U-shape off a gravel drive, community laundry building at the entrance, dumpster enclosure at the back, Route 22 on one side and a soybean field on the other — becomes the most important map I ever study. I need you to see it now, while it's still just a place where people live cheap and keep to themselves.
 
-At 11:14 PM I heard sirens. Multiple. Not the single wail of an ambulance heading to St. Anne's, which is basically white noise here — Route 22 is the ambulance corridor. This was layered. Three, four vehicles from different directions, overlapping, close and then far and then close again. I paused the game because the sound was interfering with my concentration, which tells you everything you need to know about my priorities at that moment.
+At 11:14 PM I heard sirens. Multiple. Not the single wail of an ambulance heading to Johnson Regional, which is basically white noise here — Route 22 is the ambulance corridor. This was layered. Three, four vehicles from different directions, overlapping, close and then far and then close again. I paused the game because the sound was interfering with my concentration, which tells you everything you need to know about my priorities at that moment.
 
 My phone buzzed. AP News notification:
 
@@ -53,11 +53,17 @@ I switched to Reddit. The front page was already a disaster. A megathread on r/a
 
 The conspiracy theories were growing like mold. In the first two hundred comments I counted: Chinese bioweapon, Russian bioweapon, 5G activation, Bill Gates depopulation agenda, punishment from God for gay marriage, punishment from God for not allowing gay marriage, nanobots in the water supply, leaked government experiment, mass formation psychosis, aliens, something about immigrants, something about Elon Musk, and — this one I remember because it was all caps — "THIS IS WHAT HAPPENS WHEN YOU LET THEM TAKE THE GUNS." Everyone was explaining the thing they didn't understand by blaming the people they already hated. Nobody was describing what was actually happening because nobody knew what was actually happening, so they described their fears instead and called it information. This is, I would learn, what people do when the world stops making sense: they don't sit with the not-knowing. They fill it in with whatever was already in their heads. It's like a coloring book where the picture is blank but everyone brought their own crayons.
 
+I wasn't any different. I had my own coloring book and my own crayons, and they were all labeled with things I'd absorbed from movies and games and late-night Wikipedia spirals. Some kind of virus, I figured. A fast-acting neurological thing — prion disease, maybe, or a weaponized pathogen. The affected people were sick. They were confused. They'd be disoriented for a while and then the CDC would figure it out and there'd be a vaccine or a treatment and the news cycle would move on. That was my framework: this is a medical emergency, it's scary but temporary, the adults with the degrees and the hazmat suits will handle it. Shelter in place meant wait it out. The system was overwhelmed but the system was still there.
+
+I held onto that framework for about thirty-six more hours. It was wrong in every particular, but it was comfortable, and comfort is the thing you give up last.
+
 I didn't find anything useful. I went back to my game.
 
 Twenty minutes later I heard gunshots.
 
 Not close — maybe a mile, maybe more, past Route 22 toward the highway. But distinct: the flat crack of a handgun, rapid, five or six shots. Then nothing. Then, from a different direction, more — a heavier sound, a rifle, three deliberate pops. In Arkansas you hear guns. Hunting season, target practice, someone shooting a copperhead in their yard. It's background noise. But this wasn't the right pattern. Hunting rifles are spaced — one shot, pause, one shot. Target practice is rhythmic. This was urgent. This was someone shooting at something they were afraid of, which is a different sound entirely, and I knew the difference even though I'd never consciously thought about it before.
+
+My brain went straight to the movies. Barricade the doors. Find weapons. Head for the roof. Shoot anything that shuffles. That's the playbook for this, right? That's what you do when the sick people start walking around and the government says shelter in place. You board up and hold out and eventually the National Guard rolls in with Humvees and bullhorns. I'd seen this movie. Everybody's seen this movie.
 
 The dogs at the end of the park were going insane. Barking, howling, the frantic kind that means something is wrong in a way that dogs understand and people pretend not to.
 
@@ -117,7 +123,7 @@ He was wearing the bathrobe now. He was standing in the gravel between his trail
 
 He was just standing there. Not getting his mail. Not smoking. Both hands at his sides. Facing the drive. Not moving. The bathrobe flapped a little in the breeze and he didn't reach for it.
 
-I watched him for maybe a minute, chewing cereal, waiting for him to do something. He didn't do anything. But there was evidence around him that he'd done something during the night. The spigot on the side of his trailer was dripping — not broken-dripping, turned-on-and-not-quite-closed dripping. There was a wet streak on the gravel below it. And his garbage can, which had been upright by his steps yesterday, was on its side, the bag torn open, contents scattered. It could have been raccoons. We got raccoons sometimes. But the bag wasn't shredded the way raccoons shred things — it was pulled open from the top, the way a person would open it, and some of the contents were missing and others were spread across the gravel as if someone had sorted through them. I noticed this. I didn't understand it yet.
+I watched him for maybe a minute, chewing cereal, waiting for him to do something. He didn't do anything. My first thought was that he was sick — whatever was overwhelming the hospital had gotten to Pembrook. Some kind of neurological thing, a fugue state, maybe a stroke. He'd stand there for a while and then he'd snap out of it or collapse, and when the ambulances started running again someone would take him to Johnson Regional and they'd figure out what was wrong. That was the frame I put around it: a sick old man in a bathrobe. Temporary. Fixable. But there was evidence around him that he'd done something during the night. The spigot on the side of his trailer was dripping — not broken-dripping, turned-on-and-not-quite-closed dripping. There was a wet streak on the gravel below it. And his garbage can, which had been upright by his steps yesterday, was on its side, the bag torn open, contents scattered. It could have been raccoons. We got raccoons sometimes. But the bag wasn't shredded the way raccoons shred things — it was pulled open from the top, the way a person would open it, and some of the contents were missing and others were spread across the gravel as if someone had sorted through them. I noticed this. I didn't understand it yet.
 
 The lot across from his: empty. The Garcias' truck was gone — they'd left, or they were already at work when it started, or something else. Two units down from Pembrook, Mrs. Watts's door was closed, curtains drawn. Sienna Okafor's place, two lots over from ours: porch light on, no movement. The laundry building at the park entrance: door ajar, lights off. Route 22 beyond it: nothing.
 
@@ -129,7 +135,7 @@ My lower back was killing me. I'd been standing at the window for over an hour, 
 
 ---
 
-I tried my mom again at 10:15, 10:30, and 10:47. Voicemail, voicemail, voicemail. I texted twice more. I called St. Anne's main line and got a recording: "Thank you for calling St. Anne's Regional Medical Center. Due to an unprecedented volume of patients, we are unable to take your call at this time. If this is a life-threatening emergency, please dial 911. Please do not come to the emergency department unless your condition requires immediate medical attention. We appreciate your patience during this difficult time." It was the most polite way I'd ever been told that the hospital was drowning.
+I tried my mom again at 10:15, 10:30, and 10:47. Voicemail, voicemail, voicemail. I texted twice more. I called Johnson Regional main line and got a recording: "Thank you for calling Johnson Regional Medical Center. Due to an unprecedented volume of patients, we are unable to take your call at this time. If this is a life-threatening emergency, please dial 911. Please do not come to the emergency department unless your condition requires immediate medical attention. We appreciate your patience during this difficult time." It was the most polite way I'd ever been told that the hospital was drowning.
 
 I tried the internet again. It was still working — the infrastructure was fine, the cell towers and fiber optics didn't care about behavioral crises — but the content had gotten worse. The Reddit megathread had passed 100,000 comments and fractured into chaos. The useful observations were buried under an avalanche of panic and ideology. A commenter with a medical username had posted a detailed theory about prion disease and gotten two thousand upvotes and a hundred replies explaining why it was wrong. Someone was insisting it was the vaccine. Someone else was insisting it was the people who didn't get the vaccine. A long post about chemtrails had been gilded three times. Someone had posted cell phone video from what looked like a suburb in Ohio — a woman being slowly surrounded by four people walking toward her in perfect synchronization — and the top comment was "obviously staged."
 
@@ -171,7 +177,9 @@ I was watching. I was building a picture I didn't want to see. They drank. They 
 
 Mr. Pembrook had moved. Not far — he'd drifted about ten feet from his previous position and was now closer to the spigot on the side of his trailer. As I watched, he reached out and turned the handle. Water ran. He bent to it, put his mouth to the stream, and drank for about fifteen seconds. Then he turned the handle back — not all the way, leaving it dripping — and returned to his position. The whole sequence was mechanical, purposeful, utterly without the self-consciousness that a human being would bring to the act of drinking from a garden hose in their front yard in an open bathrobe. He needed water. He got water. He went back to waiting.
 
-This was the moment I understood, without having the language for it yet, that these things were not going to just stop. They were not going to stand there until they fell over. They were taking care of themselves, the way any living thing takes care of itself, and whatever was running them had figured out — already, within the first twenty-four hours — how to keep the machinery going.
+I'd been telling myself they were deteriorating. Confused, disoriented, running on fumes — they'd wander around for a day or two and then collapse, and the CDC or whoever would come through and clean it up. That was the comfortable version. The version where this was a medical crisis with a timeline and an ending.
+
+The woman eating green tomatoes off the vine killed that version. This was the moment I understood, without having the language for it yet, that these things were not going to just stop. They were not going to stand there until they fell over. They were taking care of themselves, the way any living thing takes care of itself, and whatever was running them had figured out — already, within the first twenty-four hours — how to keep the machinery going.
 
 I ate Frosted Mini-Wheats and monitored the drive through the blinds and thought about this.
 
@@ -184,6 +192,8 @@ At 7 PM, with the light almost gone, I checked the news one more time. The FEMA 
 *Avoid strenuous physical activity and high-stress situations.* I read that three times. It was specific in a way the earlier alert wasn't — and specific in a way that made no sense in the context of a normal emergency. Why would FEMA care about your stress level? Why would physical activity matter? In a fire you run. In a tornado you take cover. In a flood you get to high ground. In all of those emergencies, strenuous physical activity is what keeps you alive. Why was this one different?
 
 I didn't figure it out that night. But I remembered it. And remembering it, later, kept me alive.
+
+The movie in my head was still running — the one where you board up, hold out, and the cavalry arrives. But the movie was starting to skip. In the movie, FEMA tells you to shelter in place because help is coming. They don't tell you to manage your stress level. In the movie, the sick people shamble and deteriorate and fall down eventually. They don't eat from gardens and drink from hoses and sort through garbage with the efficiency of someone who plans to be here next week. The movie was wrong. I didn't know how wrong yet.
 
 I ate the leftover pasta cold, standing at the kitchen counter in the dark. It was my mom's recipe — garlic, tomatoes, the cheap pasta from Dollar General that she insists tastes the same as the expensive kind, and she's right. It tasted like Tuesday, which was when she made it, which was three days ago, which was a different century.
 
@@ -265,6 +275,10 @@ At around 10 AM, Lisa Anderson came out of her trailer.
 
 ---
 
+I was still operating on the zombie-movie framework. The one thing I thought I knew — the one thing every movie agrees on — is how it spreads: contact. Bites. Scratches. Bodily fluids. You get too close, they grab you, teeth or fingernails break skin, and that's it. Which meant that if you stayed behind walls and didn't let them touch you, you were safe. The walls were enough. The lock on the door was enough. Time was on your side because they were deteriorating and help was coming and as long as nobody got bit, everybody still inside their trailers was going to be fine.
+
+I was about to watch that framework collapse in three minutes.
+
 I have to talk about the Andersons for a minute.
 
 The Andersons lived four units from us, at the bend in the U where the drive curves. Terry and Lisa. He drove a delivery truck for a feed company. She worked the register at Family Dollar. They argued loudly enough and often enough that everyone in the park knew the shape of their marriage — the fights about money, the silences that followed, the way their screen door banged when one of them walked out to cool down. My mom, who knew more about them than she'd say, once told me, "People are doing their best, Nate. Sometimes their best is loud."
@@ -335,6 +349,8 @@ The grin. The smoothing. The blank.
 
 I would see it again. I would see it too many times. But the first time was the one that taught me what I was actually looking at, and what I was looking at was not a disease or a possession or a punishment. It was a recruitment. Something was inviting people in, and the invitation looked like a smile, and the cost of the invitation was everything you were.
 
+Nobody touched her. Nobody bit her. Nobody scratched her or bled on her or breathed on her. They just scared her enough, and the fear did the rest. Every zombie movie I'd ever seen was wrong. The walls didn't matter. The locks didn't matter. The thing that got you wasn't on the other side of the door. It was inside your own body, waiting for the right chemical signal.
+
 ---
 
 I closed the blinds.
@@ -345,7 +361,9 @@ Here is what I knew: Pembrook was one of them. Lisa Anderson was one of them now
 
 And here is the other thing I knew, the thing that sat heavier: they ate. They drank. They foraged through garbage and tore tomatoes off vines and drank from garden hoses. They were not dying. They were not winding down. They were maintaining themselves with the mechanical persistence of something that intended to still be here tomorrow, and the day after that, and the day after that. Whatever this was, it wasn't a spasm. It wasn't a fever that would break. It was a new steady state, and the things outside my window were settling into it the way water settles into a basin — filling every available space, finding equilibrium, and staying.
 
-You couldn't wait this out. That was the thought I had on Day Two, sitting on a bathroom floor in a single-wide trailer, and it would turn out to be the most important thought I ever had, though I didn't know it yet and wouldn't fully understand why for weeks.
+You couldn't wait this out. The movie was over — the one where you barricade and hold and the National Guard shows up on Day Five with MREs and hazmat suits. That movie required the sick people to deteriorate. These weren't deteriorating. That movie required the walls to keep you safe. The walls were irrelevant when the mechanism was your own adrenaline. That movie required a cavalry. The cavalry was probably standing in a parking lot somewhere with blank faces, because the thing that turns you is the thing soldiers are trained to produce.
+
+That was the thought I had on Day Two, sitting on a bathroom floor in a single-wide trailer, and it would turn out to be the most important thought I ever had, though I didn't know it yet and wouldn't fully understand why for weeks.
 
 One data point on the fear mechanism. Multiple observations on the biology. You can't draw a conclusion from one data point. That's not science, that's a guess. But it was the start of a pattern that I would spend the next six weeks filling in, and filling in wrong, and filling in less wrong, over and over, the way you always learn things: by being wrong in progressively more useful ways.
 

@@ -10,7 +10,7 @@ Two hundred yards. My back door to Jim's church. In the old world, four minutes.
 
 "Good. Honest people live longer." She opened the door.
 
-The park was quiet in the pre-dawn grey. Six Turned visible. Pembrook in his usual spot, face tilted toward the eastern horizon. The discoloration on his skin was darker than two days ago — the greyish-green spreading down his forearms. Whatever was happening to him was progressing.
+The park was quiet in the pre-dawn grey. Six Turned visible. Pembrook in his usual spot, face tilted toward the eastern horizon. The discoloration on his skin was darker than two days ago — the greyish-green spreading down his forearms. My first thought was decomposition — that the Turned were breaking down, rotting on their feet the way corpses do, and that if we waited long enough they'd simply fall apart. It was the last piece of the old framework, the zombie-movie version where the dead things eventually stop being a problem because dead things decay. But Pembrook wasn't decaying. He was eating and drinking and sorting garbage with purpose. Whatever was happening to his skin was something else — not breaking down but changing, progressing toward something I couldn't identify.
 
 We moved. Slow. Measured. Sienna moved better than I did — lighter, more coordinated, her feet finding the quieter spots between stones. I moved like what I was: a hundred and eighty pounds of anxiety impersonating nonchalance. Each crunch of gravel sent a jolt through me that I had to manually override, and at one point Sienna's hand touched my elbow — a brief pressure — and the spiral broke and I didn't think about the fact that her hand touched my elbow because I was focused on survival and not on the warmth of the contact point, I was *not* thinking about it, I was thinking about gravel.
 
@@ -39,6 +39,18 @@ The bolt clicked home. The sound of a lock engaging had never meant more.
 
 Jim made coffee. The power was still on — barely — and he made it on the kitchen's electric burner and poured three cups and the smell of it was so ordinary that my knees went soft. Sienna took hers black. I took mine with enough sugar to qualify as dessert because I was fifteen and had the palate of a fifteen-year-old and I did not care that Sienna watched me dump three packets of sugar in and raised one eyebrow.
 
+Jim sat across from us and studied our faces. He took his time. I realized he was making a decision — not about whether to help us, but about how much to tell us.
+
+"How did you get here?" he asked. Not the route. He meant: how did you survive?
+
+I told him. The window. The watching. The pattern — everyone who panicked turned, everyone who stayed calm didn't. I told him about the textbook and the sympathetic nervous system and the adrenaline cascade. I talked too long. I always talk too long when I'm nervous and I was nervous because this was the first adult I'd spoken to in five days who was alive and sane and I wanted him to take me seriously.
+
+Jim listened without interrupting. When I finished he nodded once, slowly, the way you nod when someone confirms something you already believed for different reasons.
+
+"The Lord protects the peaceful," he said. "That's what I've been telling myself. The meek shall inherit the earth — I always read that as a promise about the afterlife. Turns out it might be operational advice."
+
+He'd been watching the same pattern I had. The people who prayed, who sat still, who surrendered to something larger than their fear — they survived. The people who fought, who panicked, who trusted their own strength — they turned. Jim had framed it as theology. God's hand, sheltering the faithful. His conclusion was identical to mine: *stay calm, don't fight, don't flee.* His reasoning was completely different.
+
 "Jim," I said. "What medications are you on?"
 
 He set his mug down. "That's personal, son."
@@ -47,15 +59,25 @@ He set his mug down. "That's personal, son."
 
 He looked at me the way adults look at you when you've asked a question that forces them to take you seriously — the slight recalibration, the moment where "kid" becomes "person." "Metoprolol. Fifty milligrams, twice a day. For my heart."
 
-"It's a beta-blocker. It suppresses the sympathetic nervous system — the adrenaline response. That's why they don't bother you. It's not peace. It's pharmacology."
+"It's a beta-blocker. It suppresses the sympathetic nervous system — the adrenaline response. That's why they don't bother you."
 
 Jim picked up his coffee. Sipped it. Put it down.
 
-"Those aren't mutually exclusive," he said.
+"Those aren't mutually exclusive," he said. "The medication and the peace."
 
-He was right in a way I was too smart to understand at the time. The metoprolol kept his body under the threshold. His faith kept his mind there. And his faith had produced the sign in the window, which had saved at least three lives, while my correct understanding of the mechanism had produced a notebook. The textbook calls it cognitive dissonance when someone holds a wrong belief that produces right behavior. But maybe the dissonance isn't in Jim. Maybe it's in me — the kid who understands the mechanism and does nothing, watching a man who doesn't understand it save lives.
+He was right in a way I was too smart to understand at the time. The metoprolol kept his body under the threshold. His faith kept his mind there. And his faith had produced the sign in the window, which had saved at least three lives, while my correct understanding of the mechanism had produced a notebook.
 
-Wrong reasons. Right answers. I would see this pattern until it broke me.
+I would learn, later, to hold both of these truths at once without needing to resolve them — Jim's theology and my pharmacology, both incomplete, both functional, pointing at the same survival behavior from opposite directions. The textbook had a term for the discomfort of holding contradictory beliefs simultaneously: cognitive dissonance. Most people resolve it by collapsing one side — picking the explanation that feels better and discarding the other. Jim didn't. He held "God protects the peaceful" and "metoprolol suppresses the HPA axis" in the same hand and didn't flinch. That capacity — the willingness to sit with two incompatible truths without demanding a single answer — would turn out to be more important than either truth alone. The people who survived this world would be the ones who could hold the old and the new at the same time, who could let their assumptions and their observations coexist long enough for something useful to emerge from the friction.
+
+But I didn't understand that yet. I just thought Jim was wrong for the right reasons. Wrong reasons, right answers. I would see this pattern until it broke me.
+
+Jim watched me process this. Then he made his decision.
+
+"There are others," he said. "Downstairs."
+
+He'd been waiting. He'd opened his door to us, given us coffee, listened to our story — but he'd kept the others hidden until he was sure. Sure of what? That we weren't going to panic. That we weren't going to bring noise and chaos and adrenaline into the one quiet place he'd built. That our hearts were steady enough to be trusted with the people he'd already gathered.
+
+I understood this. I would have done the same thing.
 
 ---
 
@@ -277,7 +299,7 @@ Marcus scanned. Most channels dead. Channel 9 — emergency — carried a faint 
 
 "Five days. Nobody's updated it."
 
-The implication: the system generating the message still ran, but the people managing it were gone. The government was a recording playing to empty rooms.
+The implication: the system generating the message still ran, but the people managing it were gone. "Assistance is being coordinated" — I'd believed some version of that since Day One. Believed that somewhere, in a bunker or a command center, adults with plans and authority were working the problem. The automated loop on Channel 9 was the sound of that belief dying. The government wasn't coordinating assistance. The government was a recording playing to empty rooms.
 
 He kept scanning. Fragments — half-sentences, voices fading in and out. A man in Missouri. Gone by morning. A woman in Oklahoma reporting I-44 impassable. A group in Memphis coordinating evacuation south. Marcus had listened for them the next day. Nothing.
 
@@ -302,6 +324,8 @@ The fragments, assembled:
 - A name: *"Dr. Eleanor Moss"*
 - A reference to *"the campus"* and a state route number — 16
 
+*Do not match any known terrestrial phylogeny.* I read that fragment three times. I'd been carrying an assumption since Day One — the same one everybody carried, the same one the Reddit threads and the news anchors and the conspiracy theorists all shared: this was a pathogen. A virus, a prion, a bioweapon, something that fit into the categories we already had for things that make people sick. Dr. Moss had just crossed out every one of those categories. Not terrestrial. Not from here. The organism on the comet article I'd read in *Popular Science* surfaced in my memory and connected to the fragment and the connection was so obvious and so enormous that I sat there and didn't say anything for a full minute.
+
 State Route 16. It ran north through the Boston Mountains to the university towns on the other side. The University of Arkansas at Fayetteville. A real research university with biology labs and equipment and, apparently, at least one scientist who was still doing science while the world ended.
 
 "Fayetteville," Marcus said. He'd arrived at the same conclusion. "Sixty miles northwest. Through the mountains."
@@ -320,9 +344,11 @@ Marcus was quiet for a moment. Then: "How many bodies?"
 
 "The interchange." He nodded, as if confirming something he'd already suspected. "High-traffic area. Lots of initial casualties. The Turned would drift there for the food. Which means the interchange is a feeding ground now, not just a concentration point."
 
-"Could we drive through it?"
+"Could we drive through it?" I was still thinking like the old world. Roads go places. Cars are faster than walking. Highways are how you get from where you are to where you need to be. It seemed obvious.
 
 "Drive." He said the word like I'd suggested we fly. "Kid, I need you to understand something about vehicles in this situation. A car engine is the loudest thing in a silent world. You fire up a truck and every Turned in a half-mile radius knows where you are. The highways are funnels — they concentrate everything into narrow corridors. Every interchange, every rest stop, every truck stop is a congregation point because those are the places people went when they were trying to get out, and those people are still there, and they're not people anymore." He paused. "I drove for three days before I parked. The last ten miles I was threading between abandoned vehicles and clusters of Turned, and two of those clusters started massing up in a way I did not like. If I'd stalled, or hit something, or blown a tire — I'd be standing in a rest stop parking lot right now with a smooth face."
+
+Roads weren't escape routes. Roads were traps — funnels that concentrated the Turned at every chokepoint. Another assumption from the old world, gone.
 
 "So roads are out."
 

@@ -8,10 +8,6 @@ But by Day 2 my phone was dead and the TV was off and I'd read every magazine in
 
 I didn't understand half of it. I understood enough. The sympathetic nervous system ran on chemicals: epinephrine, norepinephrine, cortisol. Produced by the adrenal glands in response to perceived threat. The system was involuntary — you didn't choose to activate it any more than you chose to digest food. I read about beta-blockers. I read about the feedback loop between the amygdala and the hypothalamus — the cycle where fear triggers chemicals that trigger more fear.
 
-I read a passage about cognitive dissonance that stopped me cold: *"When individuals are confronted with information that contradicts their existing beliefs, the resulting psychological discomfort often causes them to reject the new information rather than revise the belief."* It was a sentence about patient compliance. It was also a sentence about every person on the internet who'd decided this was 5G or God's wrath rather than sit with the weight of not knowing. The brain would rather be wrong and comfortable than right and terrified. I circled the passage.
-
-I would come back to it many times.
-
 ---
 
 That night I learned the worst thing about them.
@@ -44,11 +40,11 @@ I put my hand over my mouth and bit down hard enough to leave marks. The sound t
 
 It was perfect. The warmth. The tiredness underneath. The pause before "bud."
 
-"I brought Taco Bell. Come on, open up."
+"I brought Chick-fil-A. Come on, open up."
 
-She doesn't bring Taco Bell. She brings Whataburger. The closest Taco Bell is twenty minutes in the wrong direction — she turns left out of the hospital parking lot, and the Whataburger is three blocks from the turn. Patty melt with jalapeños and a Dr Pepper. Every time. The organism had Lisa's memories of our family but not my mom's memories of her own drive home.
+She doesn't bring Chick-fil-A. She brings Whataburger. Mom turns left out of the Johnson Regional Medical Center parking lot, passes the Taco Bell, and a mile down hits the Whataburger. Patty melt with jalapeños and a Dr Pepper. Every time. The closest Chick-fil-A is twenty-five minutes away in Russellville — Lisa Anderson's commute, not Mom's. Lisa drove to Russellville for work. The organism was using Lisa's neural architecture to puppet Mom's voice, and Lisa's brain associated "bringing dinner home" with the Chick-fil-A she passed every day on 64. The organism didn't know the difference. It grabbed the strongest food-plus-homecoming association it could find and it grabbed the wrong woman's.
 
-The only reason I didn't open the door was a fast food restaurant. The margin between surviving and not is the difference between a Whataburger and a Taco Bell. I am fifteen years old and I am alive because of a wrong guess about a drive-through, and if you think you'd do better — if you think your logic would hold when the voice on the other side of the door is the only person in the world you want to see — then you don't understand what this is.
+The only reason I didn't open the door was a fast food restaurant. The margin between surviving and not is the difference between a Whataburger and a Chick-fil-A. I am fifteen years old and I am alive because an alien organism used the wrong woman's memory of a drive-through, and if you think you'd do better — if you think your logic would hold when the voice on the other side of the door is the only person in the world you want to see — then you don't understand what this is.
 
 "Happy Friday, bud."
 
@@ -72,15 +68,17 @@ Day three. Monday. I was supposed to be in Mrs. Tillman's class making a poster 
 
 My hand was swollen where I'd bitten it. Red-streaked, hot to the touch. I cleaned it with dish soap and wrapped it in a clean sock. *Brunner & Suddarth* said untreated bite wounds progress to cellulitis in 24-48 hours. I needed antibiotics. I needed a world that still had pharmacies.
 
-I ate cold SpaghettiOs from the can and read about neural plasticity — the brain's ability to rewire itself around new inputs. The textbook framed it clinically: *"The central nervous system demonstrates remarkable capacity to reorganize synaptic connections in response to novel environmental demands."* What this meant in practice was that my brain, after three days of monitoring threats through a kitchen window, was literally restructuring itself around the task. The pathways for "watch for danger" were strengthening. The pathways for "go to school" and "worry about grades" and "be a normal kid" were dimming. I could feel it happening — the old concerns falling away like dead pixels, the new ones sharpening into focus. It wasn't courage. It was adaptation. The brain doesn't care what you're adapting to. It just adapts.
+I ate cold SpaghettiOs from the can and read more of the textbook. My hand throbbed. The fever made the words swim if I read too long, so I read in bursts — ten minutes on, ten minutes staring at the ceiling.
 
-There's a concept in game theory called the prisoner's dilemma — I know about it from a Wikipedia binge at 2 AM one night, the kind where you start with "what's the fastest animal" and end up reading about Cold War nuclear strategy. The setup: two prisoners, each deciding independently whether to cooperate or betray. If both cooperate, both get a moderate sentence. If one betrays, the betrayer goes free and the cooperator gets the worst outcome. If both betray, both lose.
+I kept coming back to the window. Seventeen occupied lots in the park. Some of those people were still alive — I'd seen curtains move, heard a toilet flush through the thin walls. Each of us hiding alone. Each of us running out of food alone. Each of us watching alone.
 
-I was thinking about this because of the park. Seventeen occupied lots. Some of the people inside were still alive — I'd seen curtains move, heard a toilet flush through the thin walls. Each of us was a prisoner making the same calculation: stay hidden alone, or try to cooperate? Cooperation meant exposure, noise, risk. Isolation meant safety, but also meant no shared information, no shared resources, no one to keep watch while you slept.
+There's a concept in game theory called the prisoner's dilemma — I know about it from a Wikipedia binge at 2 AM one night, the kind where you start with "what's the fastest animal" and end up reading about Cold War nuclear strategy. Two prisoners, each deciding independently whether to cooperate or defect. If both cooperate, both get a decent outcome. If one defects while the other cooperates, the defector walks free and the cooperator gets the worst possible result. If both defect, both get a penalty — not as bad as being the sucker, but worse than if they'd trusted each other.
 
-The optimal strategy in an iterated prisoner's dilemma — the one that beats everything else over time — is called tit-for-tat. You cooperate first. You match whatever the other player does. You forgive quickly. It's a strategy built on trust, and trust requires contact, and contact was the thing that could kill you.
+The math is ugly. In a single round, the only rational move is to defect. Whatever the other player does, you're better off betraying. This is why it's a dilemma — rationality leads to a worse outcome than trust would. The thing that changes the math is repetition. In an *iterated* prisoner's dilemma — the same players, over and over — cooperation becomes viable because the future matters. The winning strategy is called tit-for-tat: cooperate first, then mirror whatever the other player does, and forgive quickly. Trust built on repetition. The long game rewarding the risk of the first move.
 
-I was living inside the dilemma and I couldn't solve it from the inside. I wrote it in the notebook and put a star next to it and the star didn't help.
+I was living inside the dilemma. Seventeen lots, seventeen prisoners, each making the calculation: risk contact or stay safe alone? In a single round — one encounter with a stranger — defecting is rational. But this wasn't a single round. We were all going to be here tomorrow, and the day after, and the day after that, and the people who cooperated early would build the networks that kept them alive later, and the people who stayed hidden would run out of food and medicine and watch-hours and die rational and alone.
+
+I couldn't solve it from the inside. I wrote it in the notebook and put a star next to it and the star didn't help.
 
 ---
 
@@ -95,6 +93,8 @@ Most entries said "unknown" in column two. I'd only witnessed one turning direct
 The textbook had given me the vocabulary. The observations had given me the pattern. What I didn't have was the threshold — the line between safe and gone. And I couldn't get it from a window.
 
 ---
+
+Part of me was still waiting. I knew the bite theory was wrong. I knew they ate and maintained and weren't going to collapse. I knew the fear mechanism was the key. But underneath all of that — underneath the notebook entries and the textbook citations and the careful observations — there was still a fifteen-year-old kid who believed the adults were going to fix this. The National Guard had been activated. FEMA was posting advisories. Somewhere out there, people with authority and resources and plans were working the problem, and all I had to do was stay alive long enough for them to reach me. That was still the story I was telling myself on Day Three. It was the last comfortable story I had.
 
 I made my first mistake at 3:15 PM.
 
@@ -182,7 +182,7 @@ She'd done what I'd done: watched. But she'd watched with different eyes. She co
 
 She was also the most distractingly present person I had ever been in a room with, and by "distractingly present" I mean that my brain, which had been functioning as a passable survival computer for four days, immediately downgraded to a calculator with a dead battery. She moved through my kitchen with the economy of someone who'd spent her life in motion and I kept losing my train of thought mid-sentence because she'd turn her head or shift her weight and some useless ancient part of my brain would say *hey notice this* and I would notice it and then I'd forget what I was saying and have to start over and she'd look at me with an expression that said she knew exactly what was happening and was choosing not to comment on it, which was worse.
 
-I am fifteen. I weigh a hundred and eighty pounds. I have never been on a date or kissed anyone or had a conversation with a girl that lasted more than two minutes without me finding a reason to leave. I am aware that this is not the time. I am aware that there are monsters outside and my mother is missing and the human race is being converted into infrastructure for an alien ecology. I am aware of all of this, and none of it matters to the part of my brain that has noticed that Sienna Okafor has very nice collarbones, and I would like that part of my brain to shut up, and it will not shut up, and so I am going to ignore it and focus on survival and hope that nobody ever reads this paragraph.
+I am fifteen. I weigh a hundred and eighty pounds. I have never been on a date or kissed anyone or had a conversation with a girl that lasted more than two minutes without me finding a reason to leave. I am aware that this is not the time. I am aware that there are monsters outside and my mother is missing and something I don't understand is turning people into blank-faced herding machines. I am aware of all of this, and none of it matters to the part of my brain that has noticed that Sienna Okafor has very nice collarbones, and I would like that part of my brain to shut up, and it will not shut up, and so I am going to ignore it and focus on survival and hope that nobody ever reads this paragraph.
 
 ---
 
@@ -252,7 +252,7 @@ She didn't leave.
 
 ---
 
-She told me about the soldiers.
+She told me about the soldiers. I wanted to hear this. Part of me — the part still clinging to the movie — needed to hear that the military was out there, that the blockade was holding, that the system was functioning somewhere even if it hadn't reached us yet. The National Guard at the interchange was proof that somebody with authority and firepower was handling this. That was the last thread of the old framework: the cavalry exists, even if the cavalry is late.
 
 "Six Humvees, two trucks. They set up at the interchange. Floodlights, barriers. Maybe forty soldiers."
 
@@ -264,7 +264,7 @@ She paused. Looked at the counter.
 
 "The last one — a sergeant — he stopped shooting. Just stood there. Watched them walk toward him. And they walked right past him. He'd stopped fighting and they lost interest."
 
-I sat with this.
+I sat with this. The last thread snapped. Forty soldiers with training and weapons and discipline, and the weapons were worse than useless — the combat itself was the thing that turned them. The cavalry wasn't late. The cavalry was already gone. Every assumption I'd been holding onto from the old world — that someone with more resources and more authority was working this problem, that the system would eventually reach down to a kid in a trailer park and pull him out — all of it was gone. Nobody was coming. The people most equipped to fight were the most vulnerable, because fighting was the trigger.
 
 "That sergeant figured it out," I said. "Under fire, in real time, he figured out that fighting was the problem. That takes —" I didn't have a word for what that took. It wasn't courage. It was something harder than courage — the willingness to abandon every instinct you have in the moment when those instincts are loudest.
 
