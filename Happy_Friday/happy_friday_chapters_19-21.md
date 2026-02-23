@@ -86,7 +86,13 @@ I wrote by firelight. The notebook was wrinkled from the septic tank and smelled
 
 **JOURNAL ENTRY #13:**
 
-*The trail is hard. Ruth is struggling. Caleb fell twice. I threw up on the second switchback and Sienna pretended not to notice, which is the nicest thing she's ever done for me. But nothing tried to kill us today. Nothing used a familiar voice. Nothing stood in a parking lot wearing someone's face. The forest is empty of the thing that's ending the world, and the emptiness is the closest thing to safety we've found.*
+*The trail is hard. Ruth is struggling. Caleb fell twice. I threw up on the second switchback and —*
+
+*I was going to write "Sienna pretended not to notice, which is the nicest thing she's ever done for me." But I caught myself. The joke. The self-deprecating deflection. The bit where I'm the fat kid who can't handle a switchback and isn't it funny. Sienna told me to stop building the case for my own helplessness and I'm still doing it, automatically, the way you bite your nails — not because you decide to but because the hand finds the mouth before the brain intervenes.*
+
+*So here's what actually happened: I threw up on the second switchback and then I kept walking. I kept walking because stopping wasn't an option and because the pack on my back was the heaviest pack in the group and I was carrying it because I could, because my body — the one I've been apologizing for since page one of this notebook — carried twenty-five pounds up a mountain switchback and didn't stop. The throwing up was what happened. The not-stopping was what I did. Those are different things. I'm trying to learn the difference.*
+
+*Nothing tried to kill us today. Nothing used a familiar voice. Nothing stood in a parking lot wearing someone's face. The forest is empty of the thing that's ending the world, and the emptiness is the closest thing to safety we've found.*
 
 *Dale is starting withdrawal. I can see it in his hands. He held Caleb through it and the boy didn't feel the shaking and I don't know how Dale did that but it's the bravest thing I've seen anyone do and I've seen Sienna sprint through a herd of Turned carrying a seven-year-old.*
 

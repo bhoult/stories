@@ -415,6 +415,38 @@ I walked laps. Sienna walked with me. We walked in loops around the church, the 
 
 "My version of encouragement involves a stopwatch and a coach screaming at you from the infield. This is gentle."
 
+We walked another lap. The Turned tracked us. The gravel crunched. My breathing was loud enough to qualify as a broadcast.
+
+"Nate."
+
+"Yeah."
+
+"The Lyles are dead."
+
+I didn't say anything.
+
+"Three people are dead. You saw it coming. You told Craig. He didn't listen. And right now, in your head, you're building the version where that's not your fault. Because you warned him. Because he had a gun and you had a notebook. Because you're fifteen and you're fat and what were you supposed to do — you did everything you could. Right?"
+
+"I did do everything I could."
+
+"No. You did everything you were *comfortable* doing. You walked over there once, said your piece, and walked back. When he didn't listen, you filed it under 'not my problem' because you'd already decided you weren't the kind of person who could make someone listen. You decided that before you walked over there. You decided it before you decided to go. You decided it on Day One, when you sat at your window and watched Lisa Anderson get taken and said 'I'm fifteen and I weigh a hundred and eighty pounds' like those numbers were a verdict instead of a starting point."
+
+I stopped walking. She stopped with me.
+
+"I couldn't save Lisa Anderson."
+
+"Maybe not. But you could have done something you hadn't already decided was impossible. You could have banged on the window. You could have thrown something. You could have screamed — not to save her, maybe, but to try, so that the trying was on the record, so that the next time you looked in the mirror you'd see a person who tried and failed instead of a person who calculated that trying wasn't worth it." She was breathing hard too — not from the walking, from the saying. "You keep using your body as an excuse. 'I can't run. I'm out of shape. I get winded on stairs.' But you also figured out the fear mechanism. You also read the textbook. You also walked to the Lyles' house and back through nine Turned. Your body does things, Nate. You just won't take credit for them because taking credit means taking responsibility, and taking responsibility means the next failure is *yours*."
+
+"It was mine. The Lyles —"
+
+"Yes. It was yours. And mine. And Jim's. And everyone's who saw what was coming and accepted Craig's 'no' like it was the end of the conversation." She looked at me and her eyes were fierce and wet at the same time. "In the best case scenario, Nate — the absolute best case — everything that goes wrong is your fault. Because if it's your fault, that means you had the power to prevent it, which means you have the power to do better next time. If nothing is your fault — if you're just a fat fifteen-year-old kid who can't run and can't help and can't change anything — then you're powerless. And you're not powerless. You're the person who figured out what's happening when the entire rest of the world couldn't. So stop building the case for why you can't do things and start building plans for how to do them better."
+
+The Turned in the parking lot swayed. A bird — an actual bird, a real one, alive — crossed the parking lot and landed on the church sign. We stood in the gravel and my lungs burned and my legs ached and the thing Sienna had just said was sitting in my chest like a stone, heavy and cold and true.
+
+"The old world could afford what you're doing," she said, quieter now. "The comfortable lies. The passive withdrawal. The *I'm not that kind of person* excuse. The old world had margins. Room for people to hide inside their own limitations and still survive. This world doesn't. This world consumes people who don't adapt. You know this. You wrote it in the notebook. You just haven't applied it to yourself."
+
+I started walking again. She walked with me. The next lap was faster.
+
 I laughed. It was the second laugh since before the Turned. She looked at me when I laughed and something in her expression shifted — surprise, pleasure, the brief illumination of a person who had forgotten that sounds like that existed. Then she looked forward and set a slightly faster pace and I matched it and my lungs burned worse and I was alive.
 
 **Day three: preparation.** Jim held a final service.

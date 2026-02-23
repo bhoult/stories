@@ -277,7 +277,33 @@ I opened the notebook. The pages were wrinkled — the notebook had been in my b
 *(6) Tell people where you're going. I left a note. A note is not telling people. Telling people is standing in front of them and saying "I'm going here" and watching them react and incorporating their reaction into your plan. A note is cowardice in written form. I know because Sienna stood at the door for six hours thinking I was dead and that is worse than the septic tank and worse than the swarm and worse than anything I've done in my life.*
 
 *(7) Sienna laughed. In the middle of the worst night of my life, while I was standing in the dark covered in sewage, she laughed. It was the first laugh since before the Turned. I think laughter might be a survival tool. Not because it's calming — it's not, it spikes the heart rate — but because it's the sound the brain makes when it encounters something so far outside its model that the only response is to reboot. She rebooted. I needed it more than I needed the rain barrel.*
--e 
+
+---
+
+The next morning Sienna came to the steeple while I was on watch. She sat down across from me and didn't say anything for a long time. I knew this silence — it was the one she used when she was choosing words, which meant the words were going to matter.
+
+"You keep doing this thing," she said.
+
+"Which thing? I do a lot of things. Most of them badly."
+
+"That. That right there. The joke. The *I'm just a fat kid in a steeple* routine. You did it before the septic tank too — 'I'm the strategy kid, not the action kid.' You said it like it was a joke. Then you went alone into a house full of Turned because nobody expected you to actually *do* anything, because you'd already told everyone not to expect it."
+
+I didn't say anything because she was right and I didn't have a joke for that.
+
+"The note," she said. "You left a note because you didn't want anyone to argue with you. Because if someone argued, you'd have to defend the decision, and defending it would mean admitting you'd *made* a decision, and making decisions is the thing you keep telling yourself you can't do because you're fifteen and overweight and you get winded on stairs."
+
+"I do get winded on stairs."
+
+"Everyone gets winded on stairs, Nate. The stairs aren't the point." She leaned forward. "The point is you keep building this case — this really smart, really funny, really airtight case — for why you can't be responsible for anything. And as long as nothing is your responsibility, nothing is your fault. And as long as nothing is your fault, you never have to sit with the fact that you could have done better. It's perfect. It's the perfect defense. And it's going to get someone killed."
+
+The binoculars were in my hands and I was gripping them hard enough that the rubber eyepieces were deforming.
+
+"I went into that house," I said. "I made a decision. I —"
+
+"You went into that house and left a *note*. That's not a decision. That's running away with documentation." She paused. "You're the smartest person I've ever met. You see things nobody else sees. But you use the smart to build reasons why you can't act, instead of plans for how to act better. And I'm telling you this because —" Her voice changed. Went quieter. "Because the next time you go alone and leave a note, I might not be standing at the door when you come back. And you need to decide whether that matters to you more than being right about your own limitations."
+
+She went downstairs. I sat in the steeple and looked through the binoculars and didn't see anything because my eyes were blurring and I told myself it was the cold air and it wasn't the cold air.
+
 ---
 
 # Chapter 15: Sienna Runs

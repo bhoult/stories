@@ -234,6 +234,8 @@ We argued. About everything. She wanted to leave — find help, the National Gua
 
 That landed. It landed because the line between observing and hiding is the same line between caution and cowardice and I'd been on the wrong side of it for four days and calling it strategy.
 
+But the landing didn't stick. I had a reflex for this — a well-practiced move that deflected the blow before it could bruise. I did it without thinking: *I'm a hundred and eighty pounds. I can't run. I'm fifteen. What am I supposed to do — waddle out there and reason with them?* The self-deprecation was instant and complete and it felt like honesty, because it *was* honest — I really was fat, I really couldn't run, I really was fifteen — and the fact that it was honest made it invisible as a defense. You can't argue with someone's accurate self-assessment. You can only watch them use it as a reason to stay still.
+
 She saw it on my face and didn't apologize. I respected that even as I wanted to crawl under the sink.
 
 "I want to go back to the highway interchange," she said. "The military blockade. There were vehicles, equipment —"

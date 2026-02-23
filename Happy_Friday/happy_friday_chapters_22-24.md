@@ -188,6 +188,24 @@ Dale looked at Jim. Two men in folding chairs — one in a pew, one standing —
 
 ---
 
+**JOURNAL ENTRY #17:**
+
+*Dale's damage was his skillset. His words, not mine. But I've been sitting with them since the lesson, turning them over the way he turns wood in his hands, and I think the principle extends further than he meant it.*
+
+*My damage is my skillset too. But not the way I've been telling it.*
+
+*I've been telling the story where I'm a fat kid who happened to be good at pattern recognition. In that story, the body is the limitation and the brain is the asset and the gap between them is the joke — the running gag (emphasis on running, which I can't do) that gets me through the day. The joke is: isn't it funny that the least capable body in the group houses the most useful mind. Everybody laughs. Nobody expects me to change.*
+
+*Sienna told me to stop. She said I was building the case for my own powerlessness. She said the old world could afford comfortable lies and passive withdrawal and this world can't. She said that in the best case scenario, everything that goes wrong is my fault, because that means I can fix it.*
+
+*I hated her for saying it. I hate her less now. I hate her less every day, which is a trajectory that points toward something I don't have a word for yet.*
+
+*Here is what I'm trying to learn: the body is not a verdict. The body is a starting point. I weigh less than I did on Day One — not much, but some, because five weeks of rationing and walking will do that. I carried twenty-five pounds up a mountain. I walked through a septic tank. I will walk through whatever comes next, not because I'm the kind of person who walks through things but because I'm choosing to be that person, today, and tomorrow I'll choose again. Strategy requires responsibility and action and change. Learning from mistakes and doing better. The notebook is not a substitute for the walk. The walk is the thing.*
+
+*I'm not going to stop being funny about it. The humor is mine and I'm keeping it. But I'm going to stop using the humor as a door I hide behind. The door is open now. Sienna opened it. I'm walking through.*
+
+---
+
 We broke camp after the lesson and climbed back onto the ridgeline. The trail wound northwest through the last of the Boston Mountains — gentler now, the ridges lower, the valleys between them wider. We were descending toward the Arkansas River valley on the far side, where Fayetteville sat on the plateau beyond.
 
 Dale walked near the front now. His pace was steady — not the shuffling, shaking walk of the withdrawal weeks but something approaching his natural gait, the walk of a man who had come through the worst of it and was standing on the other side. Maria walked behind him, and I noticed — the way I notice things, the way I can't not notice things — that she wasn't walking behind him to support him. She was walking behind him because he was setting the pace and she was following it, and the dynamic between them had shifted from "managing the addict" to "walking with the man," and the shift was small and enormous and neither of them acknowledged it.

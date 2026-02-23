@@ -154,6 +154,12 @@ I pressed the transmit button.
 
 "Write it down. Whatever you learn, whatever you get wrong, write it down. The journal is the survival tool. Not because it predicts the future but because it records the past, and the past — honestly recorded, including the failures — is the only map we have.
 
+"One more thing. I spent the first four weeks telling myself I was just a kid. Fifteen, overweight, no training, no skills — I had a whole list, and every item on it was accurate, and every item was a reason I couldn't be expected to do anything. It was the most comfortable thought I had. It was also the most dangerous one.
+
+"Because if nothing is your fault — if you're just a fat kid who got unlucky — then you're powerless. You can't fix what isn't yours. You can't improve what you won't own. Someone I trust told me that the best-case scenario is that everything that goes wrong is your responsibility. Not your *fault* — your responsibility. Because responsibility is the same thing as power. It means you can change it.
+
+"I'm slow. That's not a confession — it's a logistics problem, and logistics problems have solutions. I'm scared. That's not a weakness — it's data about a mechanism I now understand better than most people alive. Every true thing about yourself is either a wall you hide behind or a constraint you build a strategy around. The facts don't change. What you do with them is the only thing that ever changes.
+
 "I'm going to keep broadcasting. Dr. Moss has data — scientific data, medication protocols, the frequency specifications for the emitter that keeps the Turned back. She'll share it. I'll share what I have — the human part, the mistakes, the lessons that don't fit in a lab report.
 
 "If you're hearing this, you've survived six weeks. That means you've already done the hardest part. You've already learned more than you know. You've already adapted in ways you haven't recognized yet.
