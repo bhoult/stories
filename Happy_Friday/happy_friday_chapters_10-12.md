@@ -56,7 +56,7 @@ The "you" carried weight. She didn't mean it cruelly. She meant: you, the kid wh
 
 ---
 
-They went at noon, when I'd observed the Turned were most dispersed. I watched from the steeple. Jim and Marcus walked north on the residential streets behind the church — side streets, quiet, a few Turned visible at distance but none close. They moved at Jim's pace, which was the pace of a man who'd been walking calmly through a dangerous world for two weeks and had elevated it to an art form.
+They went at noon, when I'd observed the Turned were most dispersed. I watched from the steeple, walkie-talkie in hand, the same setup as every mission since we'd found the radios — I called down the positions, they adjusted their route. Jim and Marcus walked north on the residential streets behind the church — side streets, quiet, a few Turned visible at distance but none close. They moved at Jim's pace, which was the pace of a man who'd been walking calmly through a dangerous world for two weeks and had elevated it to an art form.
 
 I had the binoculars. Sienna was beside me. She'd insisted on steeple duty during the mission, and I'd agreed, and we were sitting eighteen inches apart in the narrow space and I was acutely aware of the eighteen inches in the way that you are aware of eighteen inches when you're fifteen and the person next to you is Sienna Okafor and you've been trying to convince yourself for six days that you don't notice things about her and you absolutely notice everything about her.
 

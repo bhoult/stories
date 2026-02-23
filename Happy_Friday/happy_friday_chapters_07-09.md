@@ -171,11 +171,21 @@ I want you to know about these hours because they matter as much as the crises. 
 
 Sienna couldn't sit still.
 
-On the second day at the church, she announced she was going to scout the surrounding blocks. Not asked — announced. I opened my mouth to argue and she said, "I'm not asking," and left through the side door before Jim could finish saying "Be careful."
+By the second day we'd established a protocol for the steeple — two-hour observation shifts, binoculars, the notebook for logging Turned positions. The steeple was the best tactical asset we had: a hundred-foot sightline in every direction, elevated, with louver openings on all four sides. The problem was communication. Seeing a threat meant nothing if you couldn't warn the people on the ground.
+
+Jim solved it. He'd been cleaning out the children's ministry closet — Vacation Bible School supplies, construction paper, glue sticks, a felt Noah's Ark — and found a pair of walkie-talkies. FRS radios, the kind you buy at Walmart for twelve dollars so your kids can play secret agent in the backyard. Bright yellow plastic. Range: maybe a mile, less with walls. The batteries were half-dead. We had spares from the church's emergency kit.
+
+"Toys," Maria said, looking at them.
+
+"Radios," I said. "One in the steeple, one on the ground. The person watching can talk to the person moving. Range is short but we're working in a six-block radius. It's enough."
+
+They were cheap and tinny and the transmission button stuck if you pressed it too hard and the audio quality was the aural equivalent of looking through wax paper. They were also the difference between a watcher and a guide. The steeple wasn't just an observation post anymore. It was a nerve center.
+
+On the second day, Sienna announced she was going to scout the surrounding blocks. Not asked — announced. I opened my mouth to argue and she said, "I'm not asking," and took one of the walkie-talkies and left through the side door before Jim could finish saying "Be careful."
 
 She came back three hours later.
 
-I was in the steeple — we'd established an observation post, two-hour shifts — and I watched her cross Highway 21, moving well. Then I watched her face as she came through the side door, and I knew something was wrong because her expression had the particular flatness of someone who has seen something they can't process and has decided to postpone processing it.
+I was in the steeple with the other walkie-talkie and the binoculars, and I'd tracked her for the first two blocks before she moved out of my sightline. We'd used the radios twice — once when I spotted a cluster of three Turned drifting south on Maple and warned her to detour east, once when she'd reached the interchange and I couldn't see her and her voice came through the static saying "I'm fine, stop asking" in the tone of someone who needed to not be managed. The radios weren't perfect. The range dropped in and out, the static was constant, and there were dead zones behind the larger buildings where the signal vanished entirely. But when I watched her cross Highway 21, moving well, I'd known she was coming because she'd radioed from two blocks out. Then I watched her face as she came through the side door, and I knew something was wrong because her expression had the particular flatness of someone who has seen something they can't process and has decided to postpone processing it.
 
 She climbed to the steeple. We sat on opposite sides of the narrow space, the binoculars between us, the late October sun cutting through the louvers.
 

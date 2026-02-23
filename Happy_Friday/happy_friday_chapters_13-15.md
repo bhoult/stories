@@ -34,7 +34,7 @@ Maria looked at me. She had an expression I was learning to read — the one tha
 
 ---
 
-They left at 10 AM. Jim and Marcus. Two men walking east on a residential street in the quiet of an October morning that smelled like dead leaves and distant fire. I watched through the binoculars.
+They left at 10 AM. Jim and Marcus. Two men walking east on a residential street in the quiet of an October morning that smelled like dead leaves and distant fire. Jim had one walkie-talkie clipped to his belt, volume low. I had the other in my hand, beside the binoculars.
 
 Sienna was beside me in the steeple. The space was narrow enough that our shoulders almost touched when we both leaned toward the louvers. I was focused on the binoculars. I was also focused on the almost-touching. I was capable of holding both kinds of attention simultaneously and it was making me worse at both of them.
 
@@ -50,11 +50,25 @@ Sienna was beside me in the steeple. The space was narrow enough that our should
 
 I chose to interpret "nervous" as referring to the mission and not to the eighteen-inch gap between her shoulder and mine, and I adjusted my breathing and said nothing and she said nothing and the silence was the kind that has a lot of things in it.
 
-Through the binoculars: Jim and Marcus reached the end of the church's block. Turned were visible — three on Maple, two in a yard on the cross street. Jim and Marcus walked past them. Steady pace. No eye contact. The Turned tracked them — that slow head-turn — and didn't approach.
+Through the binoculars: Jim and Marcus reached the end of the church's block. Turned were visible — three on Maple, two in a yard on the cross street.
 
-Block two. A cluster of four Turned near a stop sign. Marcus adjusted his path, giving them a wider berth — twenty feet instead of ten. Jim matched. The cluster tracked, didn't move. I could see Jim's lips moving. He was either praying or counting breaths. Possibly both.
+I keyed the walkie-talkie. "Three on Maple, north side. Two more in the yard on the cross street, east. You're clear on the south sidewalk."
 
-Block three. Empty. The houses here were dark, curtains drawn. Some had doors standing open — the residents gone, fled or turned, the homes left behind with the casual incompleteness of interrupted lives. A garden hose still running, the water pooling in a driveway. A bicycle on its side in a yard. Jim and Marcus walked through the remnants and didn't look at them the way you don't look at a car wreck — not because you don't see it but because seeing it costs something you can't afford.
+Jim's hand moved to his belt — a brief acknowledgment tap, not a verbal reply. We'd worked this out beforehand: I talked, they listened. Every transmission was a risk — the radios were quiet but not silent, and we didn't know if the Turned responded to electronic sound the way they responded to human voices. So Jim and Marcus stayed off the radio unless they needed to. I was the eyes. They were the feet. The steeple and the street connected by twelve dollars of yellow plastic.
+
+Jim and Marcus walked past the three on Maple. Steady pace. No eye contact. The Turned tracked them — that slow head-turn — and didn't approach.
+
+Block two. A cluster of four Turned near a stop sign. I could see them before Jim and Marcus could — the elevation gave me a full block of advance warning.
+
+"Four at the stop sign, block two. Tight cluster. Recommend the south side — give them twenty feet."
+
+Marcus adjusted his path, giving them a wider berth — twenty feet instead of ten. Jim matched. The cluster tracked, didn't move. I could see Jim's lips moving. He was either praying or counting breaths. Possibly both.
+
+Block three. Empty. The houses here were dark, curtains drawn. Some had doors standing open — the residents gone, fled or turned, the homes left behind with the casual incompleteness of interrupted lives. A garden hose still running, the water pooling in a driveway. A bicycle on its side in a yard.
+
+"Block three is clear. No movement. Pharmacy visible ahead — two in the parking lot."
+
+Jim and Marcus walked through the remnants and didn't look at them the way you don't look at a car wreck — not because you don't see it but because seeing it costs something you can't afford.
 
 Block four. The pharmacy was visible — a small building on the corner, glass front, sign that read OZARK FAMILY PHARMACY in green letters. The parking lot had two Turned in it. They stood near the entrance, not blocking it, just present.
 
@@ -72,7 +86,9 @@ Marcus stopped. He'd been steady for four blocks — the steadiest person in our
 
 I watched Marcus through the binoculars. He was standing in the middle of Maple Street, fifty feet from the pharmacy, and his hand was shaking and the two Turned in the parking lot were watching him. Not approaching. But watching, with that tilt, that evaluation.
 
-Jim noticed. He turned back. He put his hand on Marcus's shoulder. I couldn't hear what he said. But I watched Marcus close his eyes. Take a breath. Jim's hand stayed on his shoulder. They stood there for maybe thirty seconds — a pastor and a truck driver on a residential street at the end of the world, one man holding the other steady through the sheer physical fact of contact.
+I keyed the radio. Kept my voice low, steady — the tone mattered as much as the words. "Jim. The two in the lot are watching but not moving. You have time. Marcus needs a minute."
+
+Jim noticed. He turned back. He put his hand on Marcus's shoulder. I couldn't hear what he said — he didn't use the radio for it, because some things are between two people and not for a fifteen-year-old in a steeple. But I watched Marcus close his eyes. Take a breath. Jim's hand stayed on his shoulder. They stood there for maybe thirty seconds — a pastor and a truck driver on a residential street at the end of the world, one man holding the other steady through the sheer physical fact of contact.
 
 Marcus opened his eyes. Nodded. They walked to the pharmacy.
 
@@ -88,7 +104,11 @@ Still there: metoprolol. Atenolol. Propranolol. Carvedilol. Bottles of beta-bloc
 
 The right supplies were always there. Nobody took them because nobody knew.
 
-Jim and Marcus loaded a bag. Through the binoculars I watched Marcus reading labels, selecting bottles, organizing by type. He was methodical now — the tremor was gone, replaced by the focus of a task. Jim kept watch. The two Turned in the parking lot had drifted to the far side, drawn by something to the east. The walk home was clear.
+Jim and Marcus loaded a bag. Through the binoculars I watched Marcus reading labels, selecting bottles, organizing by type. He was methodical now — the tremor was gone, replaced by the focus of a task. Jim kept watch. The two Turned in the parking lot had drifted to the far side, drawn by something to the east.
+
+"Route's clear back to block two," I radioed. "The cluster at the stop sign has dispersed — one left, stationary. Recommend the same path, south sidewalk."
+
+Jim's voice came through the static — the first time he'd transmitted. "Copy. Five minutes." The brevity was Jim: no wasted words, no wasted signal.
 
 They made it back at 11:47 AM. Ninety minutes, round trip, for a walk that in the old world would have taken twenty minutes. Marcus came through the side door and set the bag on the folding table and unzipped it and inside were four months of beta-blockers, three months of SSRIs, two months of benzodiazepines, and a collection of anxiolytics that nobody in the church except me could pronounce.
 
@@ -158,7 +178,7 @@ He stopped. The knife was still. Maria, in the pantry closet, had her back to us
 
 *The pharmacy run worked. Medications secured. The right supplies were on the shelves because nobody understood what they needed. The opioids were gone. The beta-blockers were untouched. If you want a one-sentence summary of why the world ended, it's that: people grabbed what felt urgent and left what was actually important because the important thing looked boring and had a name they couldn't pronounce.*
 
-*Marcus nearly broke on block four. Alcohol rebound. His hands shaking in the street with two Turned watching. Jim pulled him through — literally, physically, one hand on his shoulder. I watched from the steeple and I couldn't help and I couldn't look away and I'm starting to understand that this is my role: the watcher. The person who sees everything and can do nothing about most of it. I don't know if that's a skill or a punishment.*
+*Marcus nearly broke on block four. Alcohol rebound. His hands shaking in the street with two Turned watching. I radioed Jim — told him the Turned were watching but not moving, that he had time. Jim pulled him through — literally, physically, one hand on his shoulder. I guided them around the cluster on block two, warned them when the route was clear. From the steeple I could see everything and affect some of it and I'm starting to understand that this is my role: the eyes. The person who sees the pattern and calls it down to the people in the middle of it. It's not nothing. But it's not enough. It's never going to feel like enough.*
 
 *Dale has thirteen days. I don't have a solution. The propranolol might bridge the withdrawal but "might" isn't a word I'm comfortable with when the failure mode is losing a person. Dale knows this better than I do. He's lived through withdrawal before. He knows exactly what it feels like when your chemistry betrays you, and he's asking me to be ready for the version of that where betrayal is permanent.*
 
@@ -176,7 +196,7 @@ The reasoning was sound. This is the dangerous thing about bad decisions — the
 
 Jim and Marcus had walked eight blocks and back. Sienna went to the military interchange. I was the one who hadn't gone anywhere except the steeple, and the distance between "the person who plans" and "the person who acts" had started to feel like an accusation. But that wasn't the real reason. The real reason was vanity — the same vanity that had sent me to the Lyles, the belief that my understanding was superior, dressed up as initiative.
 
-So I went. 5:30 AM, just after dawn. I left a note on the table — "Scouting nearby blocks, back by 8" — which I told myself counted as telling people and which did not count as telling people.
+So I went. 5:30 AM, just after dawn. I left a note on the table — "Scouting nearby blocks, back by 8" — which I told myself counted as telling people and which did not count as telling people. I left the walkie-talkie on the charging shelf. If I'd taken it, someone would have heard the click of the charging cradle and woken up and asked where I was going, and I didn't want to be asked because being asked meant being argued with and being argued with meant admitting this was a decision instead of just a thing I was doing.
 
 The first three houses went fine. That's the sentence that should terrify you. "Fine" is the sound confidence makes before it kills you.
 
@@ -324,7 +344,7 @@ I opened the notebook. The pages were wrinkled — the notebook had been in my b
 
 *(6) If your only option is a septic tank, take the septic tank. You will hate yourself but you will be alive to hate yourself and alive is the prerequisite for everything else.*
 
-*(7) Tell people where you're going. I left a note. A note is not telling people. Telling people is standing in front of them and saying "I'm going here" and watching them react and incorporating their reaction into your plan. A note is cowardice in written form. I know because Sienna stood at the door for six hours thinking I was dead and that is worse than the septic tank and worse than the swarm and worse than anything I've done in my life.*
+*(7) Tell people where you're going. Take the radio. I left a note and left the walkie-talkie on the shelf because taking it meant someone would know and knowing meant arguing and arguing meant admitting I'd made a choice. A note is cowardice in written form. A radio left behind is cowardice in silence. If I'd had the radio, someone in the steeple could have warned me about the convergence. If I'd told someone, they'd have talked me out of going alone. Sienna stood at the door for six hours thinking I was dead and that is worse than the septic tank and worse than the swarm and worse than anything I've done in my life.*
 
 *(8) Sienna laughed. In the middle of the worst night of my life, while I was standing in the dark covered in sewage, she laughed. It was the first laugh since before the Turned. I think laughter might be a survival tool. Not because it's calming — it's not, it spikes the heart rate — but because it's the sound the brain makes when it encounters something so far outside its model that the only response is to reboot. She rebooted. I needed it more than I needed the rain barrel.*
 
@@ -406,15 +426,21 @@ She stopped. Not because I said it with authority — I didn't have authority, I
 
 Jim was at the bottom of the stairs. He'd heard everything. He looked at Sienna and something passed between them — a recognition, an understanding that transcended the tactical framework. Jim, who had put the sign in the window. Jim, who had made coffee. Jim, who had done the right thing for the wrong reason and saved lives by the act of opening a door. He recognized what Sienna was doing because it was what he'd been doing for two weeks, and the fact that the organism punished it didn't make it wrong.
 
-"Go," Jim said. "Walk as far as you can. Run only if you have to. And Nate —" He looked at me. "Watch. Don't follow."
+"Go," Jim said. "Walk as far as you can. Run only if you have to. And Nate —" He looked at me. "Watch. Guide her back."
+
+Sienna took the walkie-talkie from the charging shelf. Jim took the other. He didn't go to the steeple — he stayed on the ground floor, near the side door, because someone needed to be ready to open it fast and someone needed to be in the steeple, and I was already moving up the stairs.
 
 ---
 
-I watched from the steeple.
+I watched from the steeple. The walkie-talkie was in my left hand, the binoculars in my right.
 
 Sienna left through the side door. She moved south on the residential streets, fast-walking — not running, not yet, but moving at the limit of walking speed, her athlete's body covering ground efficiently. Her posture was controlled. Her arms were at her sides. She was doing everything right.
 
-Block one. Two Turned in a yard to the west. They tracked her — the head-turn. Didn't approach. She was moving fast but not panicking. The blood pressure cuff was on her wrist; I could see her glancing at it. Managing. Measuring. The runner who couldn't run, calculating her pace against her chemistry.
+Block one. Two Turned in a yard to the west.
+
+"Two in the yard to your left," I radioed. "They're tracking but not moving. Keep your pace."
+
+They tracked her — the head-turn. Didn't approach. She was moving fast but not panicking. The blood pressure cuff was on her wrist; I could see her glancing at it. Managing. Measuring. The runner who couldn't run, calculating her pace against her chemistry.
 
 She reached Birch Street. The yellow house was there. The child was there — still in the yard, still rocking. From this angle, closer now, I could see his face: dark hair, light skin, streaked with dirt and tears. Seven, maybe six. Wearing pajamas and one shoe. He'd been alone for days — you could see it in the way he held himself, the fetal curl, the complete abdication of the vigilance that even children maintain when they believe someone is coming. He'd stopped believing.
 
@@ -430,17 +456,25 @@ Here is what I saw from the steeple and what I did about it.
 
 I saw Sienna pick up the child. I saw the child clutch her neck and press his face against her shoulder and I saw his body convulse with sobs — real sobs, the kind that shake the whole frame — and I saw the sound of those sobs ripple outward like a stone dropped in water because the three Turned on the south end of Birch had stopped drifting and were walking toward the yellow house with a purpose that wasn't their standard patrol.
 
+I keyed the radio. "Three incoming from the south. Moving with purpose. You need to go now."
+
 I saw Sienna stand. I saw her assess — the child on her hip, the Turned incoming, the two blocks back to the church. I saw the moment she made the calculation and the moment the calculation said *run.*
 
 She ran.
 
 She ran the way she was built to run — long stride, balanced, the biomechanics of a girl who'd trained for the 400-meter since she was twelve. Even carrying a child, even with the wrong shoes and the cracked asphalt and the two blocks of residential street between her and safety, she was fast. She covered the first block in maybe forty seconds.
 
+"Jim, she's running. One block out, coming fast. Get the door."
+
 Through the binoculars I watched her face. Her mouth was open. Her chest was heaving. And her expression was the thing I'd been afraid of — not fear but something beyond fear, the expression of a person whose body is doing the thing the organism needs. I could see the flush climbing her neck and her jawline, the exertion and the adrenaline merging into a single biochemical signal, and the Turned behind her were closing — not running, they never ran, but more of them now, emerging from between houses, drawn by the sound of crying and the scent of terror, five, six, seven.
+
+"Seven behind her. Converging from side streets. She's fast but they're drawn by the kid's screaming."
 
 The child was screaming. Not words — a continuous wail, the sound of a child who has been alone for days and has been picked up by a stranger and is being carried at a sprint through a world that has stopped making sense. The sound carried. Every Turned in a two-block radius was orienting toward it.
 
-Sienna reached the church's block. Fifty yards to the side door. She was sprinting flat out and the child was screaming and behind her the Turned were converging and I could see — through the binoculars, at magnification, in the kind of detail I didn't want — the moment something changed in her stride.
+Sienna reached the church's block. Fifty yards to the side door.
+
+"Fifty yards, Jim. Door open. She's coming in hot." She was sprinting flat out and the child was screaming and behind her the Turned were converging and I could see — through the binoculars, at magnification, in the kind of detail I didn't want — the moment something changed in her stride.
 
 A hitch. A falter. Not fatigue — something else. Her right foot caught the asphalt wrong and she stumbled half a step and caught herself and kept running but the stumble wasn't physical. I'd seen her run before, watched her do laps around the church yard in the mornings when she thought no one was watching. She didn't stumble. She was too good, too trained, too controlled. The stumble came from inside — a disruption in the signal between brain and body, a glitch in the operating system.
 
@@ -456,15 +490,43 @@ She made it through the door.
 
 Jim slammed it shut. I heard the bolt. From the steeple, two floors up, I heard the bolt engage and I heard Sienna hit the floor — not fall, collapse, the controlled descent of a body that has been pushed past its limit and is shutting down to protect itself.
 
+Then I heard something else. A sound I couldn't identify — sharp, flat, like a book being slapped against a table. Then silence. Then the child crying again, but differently now, a scared cry instead of a desperate one. Then Jim's voice, low and urgent, words I couldn't make out from two floors up.
+
 I watched the Turned arrive at the door. Seven of them. They stood in the parking lot. They didn't try the door. Below threshold — seven wasn't enough for the frenzy. They stood and they waited and after forty minutes they drifted away.
 
 ---
 
 I came downstairs.
 
-Sienna was on the basement floor. Ruth had a blanket over her. The child — later we'd learn his name was Caleb, Caleb Reeves, seven years old, from the yellow house on Birch, parents gone since Day 2 — was in Jim's arms, silent now, the screaming replaced by the exhausted stillness of a child who has cried until there's nothing left. Dale was carving. Maria was counting cans. The rhythms of the group absorbing a crisis, each person processing through their particular ritual.
+Sienna was on the basement floor. Ruth had a blanket over her. The child — later we'd learn his name was Caleb, Caleb Reeves, seven years old, from the yellow house on Birch, parents gone since Day 2 — was in Maria's arms, not Jim's. That was the first thing I noticed. The second thing was the bruise.
 
-Sienna's hands were shaking. Not the small tremor Marcus had shown during the pharmacy run — a full-body vibration, deep, the kind that starts in the core and radiates outward. She was wrapped in the blanket and shaking inside it and her eyes were closed and her face was wet and she was breathing in the pattern Jim had taught — four in, hold, six out — but the pattern was ragged, broken by the shaking, the breathing of a person who was holding herself together with technique because everything else had failed.
+It was on Sienna's left jaw, below the ear. Fresh — the skin darkening from red to purple, the swelling just starting. The kind of bruise that comes from a closed fist, not a fall. I looked at it and then I looked at Jim and Jim was sitting in a pew with his hands between his knees, staring at the floor, and his right hand was wrapped in a wet cloth and he was holding it the way you hold something that has betrayed you.
+
+Dale told me later. In pieces, the way Dale told everything — carved out slowly, the details emerging one at a time.
+
+Sienna had come through the door and collapsed and Jim had caught her and the child, and Sienna was on the floor and she was safe and it should have been over. But it wasn't over. Her heart rate wasn't coming down. The sprint, the child's screaming, the Turned fifteen yards behind her — the adrenaline had momentum and being inside the church didn't stop the chemistry the way slamming a door stops a pursuer. She was on the floor and her eyes were wrong. Not closed — open, but unfocused, the pupils blown wide, and she was making a sound that wasn't words and wasn't the drone but was somewhere between them, a low continuous moan that Dale said made the hair on his arms stand up because it sounded like the beginning of something.
+
+Jim had knelt beside her. He'd taken her face in his hands. He'd said her name — "Sienna. Sienna, look at me. You're safe. You're in the church. Sienna." And she'd looked at him but the look wasn't recognition. It was the blank, smooth, unfocused gaze of someone whose self was leaving the building.
+
+"Her skin was hot," Dale said. "Jim touched her face and jerked back like he'd touched a stove. And her color — you could see it. Not green, not yet, but wrong. Flushed past red into something that didn't have a name. Like sunburn but from the inside."
+
+Jim made the decision in less than a second. Dale said he didn't hesitate, didn't warn her, didn't wind up. He just closed his fist and hit her — a short, sharp blow to the jaw, the kind of punch that comes from someone who learned to fight fifty years ago and has spent every year since choosing not to. Sienna's head snapped sideways. Her eyes rolled back. She went limp.
+
+The moan stopped.
+
+Maria was already there with the blood pressure cuff. She'd strapped it on before Jim's hand had unclenched. "142 over 95," she said. Then thirty seconds later: "138 over 92." Then: "It's coming down. It's coming down."
+
+Jim hadn't moved. He was kneeling beside an unconscious eighteen-year-old girl he'd just hit in the face, and his hand was shaking — not fear-shaking, not the kind the organism produces, but the deep tremor of a man whose body was rejecting what his brain had decided to do. Ruth brought him the wet cloth without being asked. He wrapped his hand and sat in the pew and didn't speak.
+
+Sienna came to about four minutes later. Confused, disoriented, the bruise already spreading. Jim told her what he'd done before she could ask. "I hit you," he said. "You were past the breathing. You were past your name. I hit you because I didn't know another way to stop it and I am sorry and I would do it again."
+
+She'd looked at him for a long time. Then she'd said, "Good."
+
+That was it. Good. Not *thank you* and not *it's okay* and not *I forgive you.* Good. The word of a person who understood exactly what had almost happened and who was grateful to be conscious and bruised and alive and still herself, and who knew that the man sitting across from her with his wrapped hand and his wet eyes had done the hardest thing anyone had done since the world ended — not the punch, which was mechanics, but the decision, which was everything.
+
+Jim was still in the pew. He didn't look up. Ruth was beside him but not touching him, the same way I would later sit beside Sienna — present, not intruding. The group had rearranged itself around the event the way water rearranges around a stone: Dale carving, Maria counting, Ruth attending, Jim sitting with the weight of what saving someone's life cost when saving it looked like violence.
+
+Sienna's hands were shaking. Not the small tremor Marcus had shown during the pharmacy run — a full-body vibration, deep, the kind that starts in the core and radiates outward. She was wrapped in the blanket and shaking inside it and her eyes were closed and her face was wet and the bruise on her jaw was a dark purple now, vivid against her brown skin, and she was breathing in the pattern Jim had taught — four in, hold, six out — but the pattern was ragged, broken by the shaking, the breathing of a person who was holding herself together with technique because everything else had failed.
 
 I sat next to her. On the floor. Not touching. Present.
 
@@ -484,7 +546,7 @@ She opened her eyes. They were red. She looked at me.
 
 "From the steeple. Yes."
 
-"You saw all of it."
+"I heard you. On the radio. The whole time." A pause. "Three incoming from the south. She's coming in hot." She said it in my voice — flat, steady, the voice I'd used because steady voices keep other people steady and because controlling the voice was the only thing I could control. "You got Jim to the door."
 
 "Yes."
 
@@ -492,9 +554,9 @@ She opened her eyes. They were red. She looked at me.
 
 "Jim told me —"
 
-"I know what Jim told you. I'm not asking what Jim told you. I'm asking what you did."
+"I know what Jim told you. And I know you guided me back and I know you called the Turned count and I know you got the door open. I'm not asking what you did with the radio. I'm asking what you would have done if the radio wasn't enough."
 
-I didn't answer. The answer was: I watched. From a safe distance, through binoculars, I watched the person I — I watched Sienna almost die, almost become something else, and I stayed where I was and did nothing because doing nothing was the safe choice and the smart choice and the correct choice and it was also the choice that a coward would make and I couldn't tell the difference anymore.
+I didn't answer. The answer was: I don't know. From a safe distance, through binoculars, I'd guided the person I — I'd guided Sienna through two blocks of converging Turned, and I'd gotten Jim to the door, and none of it was nothing. But she wasn't asking about the radio. She was asking whether I'd have come down the stairs and run into the street and done the thing that might have killed us both, and I didn't know and the not-knowing was worse than knowing I was a coward because at least a coward has made a decision.
 
 "You did the right thing," she said. "Staying. Watching. Not following. If you'd come after me, I'd have had to worry about you, and worrying about you would have pushed me over. You staying put kept me below the line."
 
@@ -506,7 +568,7 @@ I didn't answer. The answer was: I watched. From a safe distance, through binocu
 
 She almost smiled. Almost. The ghost of the laugh she'd given me after the septic tank — the sound of a brain encountering something outside its model. Then the almost-smile faded and she closed her eyes again and the shaking continued and I sat next to her and didn't touch her and the not-touching was its own kind of contact, the way silence between two people who understand each other is its own kind of conversation.
 
-Caleb was asleep in Jim's arms. Seven years old. Pajamas and one shoe. He'd survived for days alone in a house where his parents had turned, hiding under his bed, drinking water from the bathroom tap, eating cereal from the box. He'd come outside because he couldn't stand being alone anymore, and the not-standing-it had been louder than the fear, and that was why he was crying in the yard — not because he was afraid but because he was choosing to not be alone even if not being alone meant dying.
+Caleb was asleep in Maria's lap — she'd taken him when Jim couldn't hold anything anymore, and the boy had curled against her with the instinct of a child who doesn't care whose arms they are as long as arms exist. Seven years old. Pajamas and one shoe. He'd survived for days alone in a house where his parents had turned, hiding under his bed, drinking water from the bathroom tap, eating cereal from the box. He'd come outside because he couldn't stand being alone anymore, and the not-standing-it had been louder than the fear, and that was why he was crying in the yard — not because he was afraid but because he was choosing to not be alone even if not being alone meant dying.
 
 Seven years old and he'd made a choice that most adults couldn't make. Sienna had honored that choice by running. I had honored it by not running. And the organism had learned — because it was always learning — that the small, crying ones could draw the fast, brave ones into range.
 
@@ -516,11 +578,11 @@ I didn't write this last thought in the journal. Some observations are too ugly 
 
 *Sienna almost turned today saving a kid. She did the right thing and it almost killed her — not killed her, worse than killed her. Killed is an ending. Turning is a continuation in a form that uses your face and your voice and your memories to hunt the people you loved.*
 
-*I watched from the steeple. I did the safe thing. The smart thing. The thing the mechanism demanded. And it was also the cowardly thing and I don't know if those are different things anymore.*
+*I guided her from the steeple. Called the Turned positions, warned her when the three oriented, got Jim to the door. It wasn't nothing. I keep telling myself it wasn't nothing because "nothing" is the word that fits the shape of what it felt like, and the radio doesn't change the shape. The safe thing. The smart thing. The thing the mechanism demanded. Sienna says I kept her below the line by staying put. I believe her. And it was also the cowardly thing and I don't know if those are different things anymore.*
 
-*The Turned don't punish bad people. They punish brave ones. They punish the ones who run toward the crying. They punish the instinct that makes humans human — the impulse to help, to connect, to risk yourself for someone else. The organism has designed a world where kindness is a death sentence and selfishness is a survival strategy. I don't know what kind of world that is. I don't know what kind of person survives it. I'm afraid the answer is: my kind. The kind who watches. The kind who calculates. The kind who stays in the steeple.*
+*The Turned don't punish bad people. They punish brave ones. They punish the ones who run toward the crying. They punish the instinct that makes humans human — the impulse to help, to connect, to risk yourself for someone else. The organism has designed a world where kindness is a death sentence and selfishness is a survival strategy. I don't know what kind of world that is. I don't know what kind of person survives it. I'm afraid the answer is: my kind. The kind who guides from a distance. The kind who calculates. The kind who stays in the steeple with a radio and calls it "enough."*
 
-*Caleb is seven. He's asleep in Jim's arms. Dale is carving him a dinosaur because Sienna asked him to and Dale would carve anything Sienna asked him to because everyone would do anything Sienna asked them to because she is the person who ran toward the crying while the rest of us watched from windows.*
+*Caleb is seven. He's asleep in Maria's lap. Jim is in a pew with a wet cloth around his hand because he punched an eighteen-year-old girl in the face to keep her from turning, and the punch worked and the cloth is for the shaking, not the knuckles. Dale is carving Caleb a dinosaur because Sienna asked him to and Dale would carve anything Sienna asked him to because everyone would do anything Sienna asked them to because she is the person who ran toward the crying while the rest of us watched from windows.*
 
 *Eight people now. Fifteen days of food at current rationing. The cost of doing the right thing is 1.3 days. Maria was right about the arithmetic. She's always right about the arithmetic. The arithmetic is not the point.*
 
