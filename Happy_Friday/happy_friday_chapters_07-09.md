@@ -235,7 +235,11 @@ I underlined "watch this" twice.
 
 Jim held a service on Wednesday. Six people in candlelight. He read a psalm, said a prayer, was quiet. Ruth sang "Amazing Grace" — first verse, thin soprano, cracks on the high notes. The silence after was the most sacred thing I'd ever experienced, and I don't believe in sacred.
 
-Later that night, I couldn't sleep. I went to the sanctuary and found Jim sitting in a pew in the dark, hands folded, staring at the cross on the wall. He didn't look like a man at peace. He looked like a man holding something heavy.
+Later that night I dreamed I was back in the trailer. Everything was right — the wood-grain paneling, the burn mark on the counter, the Sprite and Saltines lined up neat. But the front door was open and someone was standing on the step, facing in, and the someone was me. Not a mirror — a second me, standing in the gravel in my gym shorts and the too-small Panthers t-shirt, looking in with a face that was smooth and blank and tilted slightly toward the porch light the way the Turned tilt toward the sun. The me in the doorway raised one hand. Not waving. Reaching. And I understood, in the dream-logic way where understanding doesn't require evidence, that if I took the hand I would never be afraid again, and the price of never being afraid was everything else.
+
+I woke gasping in the church basement. My heart was hammering — I pressed my fist against my sternum and counted, the way I'd learned to, ninety-eight, ninety-two, eighty-six. Around me, the others slept. Dale's knife had stopped. Ruth was breathing in the measured rhythm of a woman who'd been falling asleep to the same internal clock for seventy-two years. I lay there until the count dropped to seventy and the dream faded from image to residue, and then I got up because the alternative was closing my eyes and seeing myself standing in the doorway again.
+
+I went to the sanctuary and found Jim sitting in a pew in the dark, hands folded, staring at the cross on the wall. He didn't look like a man at peace. He looked like a man holding something heavy.
 
 "Can't sleep either?" I said.
 
@@ -266,6 +270,14 @@ He said this to me and not to any of the adults because I was the one who'd name
 "Your faith got us here," I said. "That's data."
 
 "Data." He said the word like it was a foreign food he was willing to try. "I suppose it is."
+
+He was quiet for a while. Then he said, almost to himself: "I had a dream last night. Water rising in a valley. People walking single file along a ridge — our people, I think, though I couldn't see faces. And a sound. Not music. A frequency. Like a tuning fork pressed against the bones of the earth."
+
+He shook his head. "Probably the tinnitus. Vietnam gave me a lifetime supply."
+
+I didn't say anything. It was a dream. People dream about water and walking and strange sounds. It didn't mean anything.
+
+But I wrote it in the notebook later, because I write everything in the notebook, and months afterward I would read that entry and the hair on my arms would stand up, because Jim had described — exactly, precisely, in details he had no way of knowing — the herd crossing in the river valley and the frequency emitter at the university. He'd dreamed it on Day 7. We wouldn't live it until Day 40.
 
 He sat in the dark pew and I sat behind him and neither of us said anything else and after a while I went back to the basement and lay on a pew and looked at the ceiling and thought about faith and pharmacology and the place where they overlapped, and I didn't sleep but I was closer to sleeping than I'd been in a week.
 

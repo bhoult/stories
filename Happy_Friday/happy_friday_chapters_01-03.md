@@ -419,4 +419,12 @@ At one point the footsteps paused near my unit, and I heard a different sound �
 
 Somewhere past Highway 21, in the direction of the subdivisions down toward town, a single rifle shot. Then nothing.
 
+At some point — I don't know when, the dark doesn't have hours — I must have slipped under, because I was in the hospital. Not visiting. Working. I was wearing my mom's scrubs and they fit, which was wrong, and I was walking the hallway toward the ER and the fluorescents were buzzing the way fluorescents do and everything was fine. Mom was at the nurses' station. She looked up and said "Happy Friday, bud" and I said "It's Sunday" and she said "No, honey, it's always Friday now" and smiled, and the smile was too wide, and I was awake.
+
+My heart was slamming. I could feel it in my throat, in my wrists, behind my eyes. I pressed my hand flat against my chest and counted — not breaths, heartbeats. One hundred and twelve, one hundred and eight, one hundred and four. I counted them down the way you'd count down a launch sequence, because somewhere in the part of my brain that was still working I understood that my heart rate was the thing that could kill me now, that the fear wasn't just fear anymore, it was a mechanism, and the mechanism was running, and I had to shut it down manually because the automatic systems had stopped being trustworthy.
+
+Ninety-six. Eighty-eight. Eighty-two.
+
+I sat there with my hand on my chest until the number felt safe, whatever safe meant, and I did not let myself close my eyes again.
+
 I sat in the bathroom in the dark and I listened and I did not sleep and the trailer settled around me — the creaks and pops of a metal box cooling in the October night — and every sound was both familiar and alien, because this was my home and also it wasn't anymore, because home requires a person and the person wasn't here, and what was here instead was just a fifteen-year-old and some thin walls and the knowledge that the thin walls were the only thing between him and a thing that grinned when it was hungry and ate when it was done.

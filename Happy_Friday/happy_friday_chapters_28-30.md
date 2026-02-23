@@ -62,6 +62,24 @@ She caught me watching once. Looked up at the window. I didn't look away. She di
 
 I was not a hero. I was a fifteen-year-old who had been given a responsibility he didn't want and a grief he couldn't process and who was dealing with both the only way he knew how: by writing them down and trying to figure out what they meant.
 
+What I was not doing was sleeping.
+
+This was the thing I hadn't expected. In the trailer, on the trail, in the churches and campsites and exposed ridgelines — I'd slept badly, but I'd slept. The body's emergency systems kept sleep shallow, cycling through the lightest stages, ready to wake at any sound. Adrenaline and cortisol made a poor sedative but an effective alarm system. I'd spent six weeks in a state of perpetual half-rest, never dropping deep enough to dream fully, the animal brain keeping one ear open for the thing that might kill us.
+
+Behind the emitter, in a real bed with a real mattress and a locked door and the frequency humming in the walls like a mechanical lullaby, my body finally let go. And everything I'd suppressed came flooding in.
+
+The first night at the university, I had the worst nightmare of my life. Not the defining one — that had already broken me on the road — but something worse because it was *comprehensive.* The dreams weren't fragments anymore. They were complete, vivid, architectural. The trailer and the hospital and the overpass and the septic tank and the herd — all of it, stitched together, the emitter's hum woven through every scene like a soundtrack, and in every scene I was too slow, too late, too small, and the people I loved were standing behind glass I couldn't break.
+
+I woke at 3 AM with my heart at 114 and my hand already on my pulse and the counting was automatic now — 114, 108, 104, 98, 92, 86 — the descent taking longer than it used to because the dreams went deeper than the waking fears ever had. On the trail, the nightmares had been compressed, fragmented, starved of oxygen by the same adrenaline that kept me alive. In safety, they had room to breathe. They expanded. They furnished themselves. They took their time.
+
+The second night was worse. The third was worse than that. By the fourth night I understood the paradox: the safest place I'd been since Day One was producing the most dangerous sleep of my life. My body, finally permitted to rest, was processing six weeks of unprocessed horror in high-definition, and each dream sent my heart rate climbing toward the threshold I'd spent six weeks learning to avoid.
+
+I started sleeping with the blood pressure cuff on. Sienna's idea — the cuff beeped at 120, a failsafe, a mechanical ceiling. Three nights out of five, the beep woke me. I'd lie in the dark with the cuff inflating on my arm and the emitter humming in the walls and I'd count — four in, hold, six out — until the numbers came down, and then I'd stare at the ceiling and not sleep, because not sleeping was safer than sleeping, which was the same conclusion I'd reached in the trailer on Day One and which turned out to be true in every setting, in every bed, in every version of safety the world could offer.
+
+I was not the only one. Marcus's dormitory door was open every morning — he slept with it open now, the enclosed space too much, the need for an exit route stronger than the need for privacy. Dale carved at 2 AM some nights, the knife and the wood and the muscle memory the only things that worked when the recovery dreams came back. Ruth's light was on at all hours. Even Sienna — who slept better than any of us, the runner's body efficient at recovery — told me once, quietly, that she dreamed about the dissolving. The edge. The warmth. And that in the dream, she didn't turn back.
+
+Safety, it turned out, was when the bill came due.
+
 ---
 
 From the campus perimeter, through the binoculars, I studied the Turned. They stood at the four-hundred-yard line — the edge of the emitter's effective range — in a ring that was visible from any elevated point on campus. Hundreds of them. The population of Fayetteville and the surrounding area, accumulated over six weeks, drawn by the same instincts that had drawn them to the river valley and the highway interchanges: human infrastructure, water, the gravitational pull of the built environment.
@@ -75,6 +93,30 @@ This was, in its grim way, hope. Not the kind of hope you put on a poster. The k
 I stood at the perimeter and watched the Turned sway at their line and I thought about time. About the emitter's declining curve and the organism's ascending one and the intersection point where the first would fail and the second would arrive. About the medications that would run out and the knowledge that wouldn't. About the people behind me — on the track, under the hood, in the library, at the whiteboard — who were rebuilding something that didn't have a name yet but was the thing you built when the old world was gone and the new one hadn't started and you were standing in the gap between them with nothing but your skills and your damage and your willingness to keep writing things down.
 
 I went inside to prepare for the broadcast.
+
+Over breakfast that morning — real eggs, from chickens the botany grad student kept behind the greenhouse, the first real eggs in six weeks — Jim told me something. Casual. Smiling. The way Jim told everything, as if the telling were a gift he was handing you and the content were incidental to the giving.
+
+"I had a dream last night," he said. Buttering toast. Not looking up. "A highway. Long, flat, one of those Texas ones that goes forever. A truck — a big rig, eighteen-wheeler — parked on the shoulder. And a little girl running toward it. Running fast, the way kids run when they see someone they love."
+
+He took a bite of toast. Chewed. Swallowed.
+
+"She was laughing," he said. "That's the part I remember. She was laughing and the sun was behind her and her shadow was longer than she was." He looked at me. The steady, luminous look. "It felt like a good dream. It felt like something that was going to happen."
+
+Behind us, at the next table, Marcus went very still. His fork stopped halfway to his mouth. His face didn't change — the same flat, weathered expression he wore for everything — but his body went rigid in the way of a man who has just heard something impossible.
+
+Ava was nine. She lived in Odessa, Texas. The highway Jim described was I-20 — the highway Marcus had driven ten thousand times, the highway that connected his routes to his daughter's birthday parties, the highway his phone had died on. Marcus had told no one about Ava except me, in a whisper, on a night when the dark was thick enough to hold a confession. Jim had never heard the name. Jim had never seen the photo on the dead phone. Jim had no way to know about a little girl in Texas or the highway that led to her.
+
+Marcus set down his fork. He looked at Jim. Jim looked back. The look between them lasted three seconds and contained something I couldn't interpret and didn't try to.
+
+"That's a good dream, Preacher," Marcus said. His voice was steady. His eyes were not.
+
+Jim nodded. Went back to his toast. The morning continued. Nobody said anything else about it.
+
+I wrote it in the journal. I underlined it twice. I wrote no interpretation, because I had none, because I had never had any interpretation for Jim's dreams, because the dreams operated in a register that my analytical machinery couldn't reach and that Jim's faith accepted without requiring it to make sense. Three dreams, now four. Water rising in a valley. A woman in a lab coat. A boy on a roof writing everything. A girl on a highway, laughing, running toward a truck.
+
+Each one true. Each one impossible.
+
+I underlined it a third time and turned the page.
 
 ---
 

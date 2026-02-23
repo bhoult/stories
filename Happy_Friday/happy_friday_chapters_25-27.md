@@ -155,7 +155,35 @@ I wrote by firelight. The notebook was nearly full. I'd need a new one soon — 
 *Ruth is weak. Her atenolol is at three days. Fayetteville is twenty miles. The math is tight. The math is always tight.*
 
 *We walk.*
--e 
+
+---
+
+That night, everyone dreamed.
+
+I know because I woke at 2 AM to a basement full of sounds — small sounds, the night-language of eight people whose bodies had held steady for three hours and whose minds, released from the discipline of waking, were processing what the discipline had suppressed. Marcus was muttering — not words, just the cadence of words, the rhythm of a conversation with someone who wasn't there. Sienna's legs were moving under her sleeping bag, running, the stride pattern I knew from watching her on the trail. Ruth made a sound I'd never heard her make — a thin, keening note, barely audible, the sound of a woman who corrected grammar by day and wept for her husband by night. Dale's hands were moving on empty air, carving, the muscle memory so deep it ran in his sleep.
+
+I lay in my own sleeping bag with my hand on my pulse — 74, safe, but the dreams had been there, waiting behind my eyelids, and the herd was in every one. A thousand faces turning. The ambient voices. The word *bud* in the fog. In one fragment I'd been walking through them but they were walking too, all of us going the same direction, single file along a ridge, and I couldn't tell which ones were us and which ones were them and the not-knowing was the worst part.
+
+In the morning, nobody talked about it directly. But the signs were there — the heaviness, the slow starts, the way people stared at their coffee like it owed them something. Maria said, "I couldn't get warm all night," and Dale said, "Me neither," and the temperature had been fine and they weren't talking about cold.
+
+Jim found me while I was refilling the water bottles from the creek. He looked rested — Jim always looked rested, the metoprolol and the faith combining into a composure that seemed to extend into sleep. But his eyes had something in them. Not fatigue. Attention.
+
+"I had a dream," he said. Casual. The way he said everything — conversational, unforced, as if the content of the sentence were incidental to the act of saying it.
+
+I waited.
+
+"I was sitting on a roof. A big building — flat roof, institutional. Below me was a campus. Buildings, quadrangles, oak trees. And there was a sound. A sound like a bell that never stopped ringing — not loud, just constant, in the bones, everywhere." He paused. Picked up a pebble from the creek bank and turned it in his fingers. "A boy was sitting next to me. Young. Writing in a notebook. Writing fast, like he was afraid he'd forget."
+
+"What was he writing?"
+
+Jim looked at me. The look was steady and contained something I couldn't name — not surprise, not certainty, something between. The look of a man who had learned to hold what he received without demanding that it make sense.
+
+"Everything," he said. "He was writing everything."
+
+He dropped the pebble in the creek and walked back to camp. I stood there with the water bottles and the creek running cold over the stones and the hair on my arms standing up because Jim had just described a roof I'd never seen and a campus I'd never visited and a sound I'd never heard and a boy writing in a notebook who was, unmistakably, me.
+
+I wrote it down. I underlined it. I wrote no interpretation because I had none.
+
 ---
 
 # Chapter 26: The Frequency

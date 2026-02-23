@@ -59,7 +59,13 @@ I wrote in the notebook:
 *She used Mom's voice. They access memories. The mimicry is targeted — the stimulus most likely to provoke a response. It's not cruelty. It's optimization. They find the thing you miss most and they put it on the other side of a door.*
 
 *I miss her so much I can't breathe and the thing that used her voice knows that.*
--e 
+
+I did not sleep. I want to be precise about the not-sleeping, because it wasn't a choice — it was a condition. My brain had the Knock on a loop and the loop had no off switch. Forty-five minutes of audio, start to finish, playing behind my eyes every time I closed them. Lisa's voice. Then Mom's voice. "Happy Friday, bud." The inflection rising on "Friday," falling on "bud." Over and over. I tried to think about something else — the textbook, the observations, the mechanism — and my mind returned to the loop the way a compass needle returns to north. Not because I wanted it. Because the needle doesn't care what you want.
+
+Sometime around 3 AM I realized the loop itself was dangerous. Each replay spiked something in my chest — not full panic, but a cousin of it, a low sustained hum of cortisol that the textbook would call "chronic stress activation." The organism didn't need to scare me all at once. It could do it in installments. Play the voice, let the chemistry build, play it again. The Knock wasn't just an attempt to get me to open the door. It was a deposit. A seed planted in the replay machinery of a brain that couldn't stop replaying. The organism was patient. My brain was doing its work for it, for free, in the dark.
+
+I pressed my palms against my eyes and counted backward from a hundred by sevens. A cognitive interrupt — the kind of task that forces the prefrontal cortex to override the amygdala. It worked, partly. The loop dimmed to background noise. It didn't stop.
+
 ---
 
 # Chapter 5: The Playlist
@@ -323,5 +329,11 @@ She talked about Jaylen. The dinosaur quizzes. How he'd correct her with this gr
 We drank Nesquik mixed with canned evaporated milk, because that was what was left in the cabinet and neither of us wanted water. It was too sweet and slightly gritty and we both drank it slowly, not because it was good but because drinking it slowly meant the conversation lasted longer, and the conversation was the first interruption in the isolation either of us had felt in days, and we were not ready for it to end.
 
 I am not going to tell you what time we finally stopped talking. I am going to tell you that when we did, the trailer was less empty than it had been since Friday, and that is a fact worth recording even if I can't measure it.
+
+She took the couch. I took the bathroom floor — my spot now, the place where the walls were closest and the dark felt managed. I lay there listening to the trailer settle and to the new sound layered over it: another person breathing.
+
+Sometime after midnight I heard her twitch. A small sound — not a word, not a scream. A catch in her breath, then a sharp exhale, then the rustle of her shifting position. Then again, a few minutes later. A murmur that might have been "Jay" — the first syllable of a name she'd said seventeen times that evening. Her legs moved against the cushions, the runner's body running somewhere in the dark behind her eyes.
+
+I lay on the bathroom floor and listened and didn't go to her and didn't call out. In the morning she said nothing about it. I didn't ask. We were both carrying things that came out only when consciousness stepped aside, and the unspoken agreement — already, on the first night — was that we would not name each other's ghosts.
 
 Tomorrow we would cross Highway 21.

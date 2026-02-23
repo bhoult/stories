@@ -42,6 +42,34 @@ Two days later I opened the notebook.
 -e 
 ---
 
+That night I dreamed she was fine.
+
+Not the hospital version — the real one. The kitchen in the trailer, 6 PM on a Thursday, still in her scrubs because she'd worked a double and hadn't changed. Making coffee she shouldn't have been drinking that late. The radio on the counter playing something country and terrible that she loved. The particular way she leaned her hip against the counter while the pot brewed — the posture of a woman who had been on her feet for sixteen hours and was going to be on them for eight more because I had a dentist appointment in the morning and she wanted to make sure I ate breakfast before we left.
+
+"Happy Friday, bud," she said.
+
+And it was right. It was *her* — the voice, the cadence, the way the words carried the specific weight of a person who said them every week not because it was Friday but because the saying was a ritual and the ritual was love and the love was the thing she'd built our whole small life around. It was the realest thing I'd dreamed since the world ended. Not the nightmare versions — not the too-wide smile, not the Knock-voice bleeding through — just my mother, in our kitchen, saying the thing she always said.
+
+I said, "It's Thursday, Mom."
+
+"Close enough," she said, and smiled, and poured two cups, and the dream was so ordinary and so perfect that I would have lived in it forever.
+
+Then I was outside.
+
+Not a transition — just outside, in the parking lot, at night, and the trailer was the hospital and the kitchen window was a hospital window three stories up and she was standing behind the glass. Still in scrubs. Still holding the coffee. But her face was wrong — smooth, blank, the expression I'd seen on two hundred Turned and had seen on her, across the parking lot, two days ago. Her mouth moved. No sound through the glass. She put her hand against the window, palm flat, fingers spread.
+
+I put my hand against the glass. I couldn't not. The glass was warm.
+
+I woke walking.
+
+I was ten feet from my sleeping bag, moving toward the chapel door, and my heart was at 118 and I didn't know where I was or when I was or whether the glass had been real. My hand was still raised, palm out, reaching for a window that wasn't there.
+
+I didn't go back to the sleeping bag. I couldn't. The dream was still in the room — not the nightmare part, the *good* part, the kitchen and the coffee and her voice — and going back to sleep meant either returning to it or losing it and I couldn't survive either one.
+
+I took the binoculars and went out the side door and walked.
+
+---
+
 # Chapter 23: Nate Walks
 
 *Third-person interstitial.*
@@ -125,6 +153,8 @@ On the morning of Day 38 I woke up and the analytical machinery was back online.
 But first there was the morning, and the morning was slow. Ruth made me tea from a packet she'd been hoarding — chamomile, the paper tag still attached, the string hanging over the side of a chipped mug someone had left in the chapel's tiny kitchen. She didn't say anything while she made it. She didn't say anything when she handed it to me. She sat in the pew across from mine and read her romance novel and the only sound was pages turning and the tea cooling and the specific silence of a person who is keeping you company without requiring you to be anything.
 
 Jim came through with Caleb. Caleb climbed onto my pew and leaned against me and showed me a rock he'd found — quartz, milky, with a vein of something glittery running through it. "Marcus says it's worth a million dollars," he said. "He's lying but I'm keeping it." Then he climbed down and went outside to find more rocks, and the whole interaction lasted forty-five seconds and cost nothing and was worth everything.
+
+What Caleb doesn't know — what I hope he never knows — is that he cries in his sleep. Every night. Small, hitching sounds, the kind a child makes when the crying has gone on so long the body has automated it. He never remembers in the morning. Jim holds him through it, one hand on Caleb's back, not waking him, because waking him would mean explaining and explaining would mean making it real and the mercy, for now, is that Caleb's grief lives only in his sleep where he can't see it. None of us mention it. We lie in our sleeping bags and listen to a seven-year-old cry for parents he hasn't talked about since Week Two and we say nothing because saying something would break the one protection he has left, which is not knowing.
 
 These are the moments that don't make the journal entries. The tea. The rock. The sound of Ruth turning pages. They happened between the crises the way grass grows between stones — quietly, persistently, without anyone deciding they should. I want you to know about them because the version of this story that only contains the fear and the strategy and the running is not the true version. The true version has chamomile tea in it. The true version has a seven-year-old showing you a rock.
 

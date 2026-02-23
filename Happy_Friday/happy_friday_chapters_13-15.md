@@ -278,6 +278,12 @@ I opened the notebook. The pages were wrinkled — the notebook had been in my b
 
 *(7) Sienna laughed. In the middle of the worst night of my life, while I was standing in the dark covered in sewage, she laughed. It was the first laugh since before the Turned. I think laughter might be a survival tool. Not because it's calming — it's not, it spikes the heart rate — but because it's the sound the brain makes when it encounters something so far outside its model that the only response is to reboot. She rebooted. I needed it more than I needed the rain barrel.*
 
+I slept that night. I didn't mean to — I'd planned to stay awake, stay in the steeple, make up for the hours I'd cost the group. But the body overrules the plan. I fell asleep on the pew in the basement, still smelling like the tank despite two more washings, and I dreamed of the dark.
+
+Not the septic tank. Something larger. An infinite version of the same space — no walls, no lid, no bottom. Just dark, extending in every direction, and somewhere above me the sound of the house being torn apart. Not close. Not approaching. Just constant, like weather. The tearing was the texture of the world. And I was standing in it with my hands at my sides and I couldn't move, not because I was frozen but because there was nowhere to move *to*. Every direction was the same dark. Every step would land in the same place.
+
+I woke with my fists clenched so hard that my palms were marked with crescent moons from my fingernails. Four deep impressions in each hand, the skin white and then flushing red. For a disoriented second I thought my fingers were pruned — waterlogged — and the tank rushed back and my heart spiked and I pressed my thumb against my wrist and counted. The count took longer than usual. The dream didn't want to let go.
+
 ---
 
 The next morning Sienna came to the steeple while I was on watch. She sat down across from me and didn't say anything for a long time. I knew this silence — it was the one she used when she was choosing words, which meant the words were going to matter.
@@ -467,3 +473,17 @@ I didn't write this last thought in the journal. Some observations are too ugly 
 *Caleb is seven. He's asleep in Jim's arms. Dale is carving him a dinosaur because Sienna asked him to and Dale would carve anything Sienna asked him to because everyone would do anything Sienna asked them to because she is the person who ran toward the crying while the rest of us watched from windows.*
 
 *Eight people now. Fifteen days of food at current rationing. The cost of doing the right thing is 1.3 days. Maria was right about the arithmetic. She's always right about the arithmetic. The arithmetic is not the point.*
+
+The next morning Ruth brought me tea — chamomile, from a box she'd found in the church kitchen, brewed over a candle. She sat across from me at the folding table and sipped hers and said nothing for a while, which was unusual for Ruth, who generally said things the way other people breathed — constantly and with conviction.
+
+"I dream about Leonard," she said. Not looking at me. Looking at the tea. "Every night since this started. He's standing in the yard. Our yard, the house on Poplar Street. He's wearing his work clothes — the blue Dickies, the boots with the left heel worn down. And I know he's turned. In the dream, I know. His face is smooth and his posture is wrong and he's standing in the garden where he grew tomatoes for forty years, and he's one of them."
+
+She sipped her tea.
+
+"The worst part isn't seeing him. The worst part is that I'm *relieved* he's already dead." She said this calmly, the way she said everything — with the precision of a woman who'd spent thirty-nine years choosing words for a living. "He died in 2019. Heart attack on a job site. And every night I dream that he's turned, and every night I wake up relieved that the heart attack got him first, and the relief is — it's obscene, Nate. Being grateful that your husband died before the world ended. Being grateful that he's in a cemetery and not standing in a parking lot with a smooth face."
+
+She set her cup down.
+
+"I'm telling you this because you think you're the only one who doesn't sleep. You're not. None of us sleep. We just don't talk about it because talking about it means admitting that the things we carry at night are the things we can't carry during the day, and during the day we have to function." She stood. "Your tea is getting cold. Drink it. Chamomile is good for anxiety and it's better than that dreadful instant coffee."
+
+She went upstairs. I drank the tea and wrote what she'd told me in the notebook and underlined *none of us sleep* because it was the truest thing anyone had said to me in weeks.

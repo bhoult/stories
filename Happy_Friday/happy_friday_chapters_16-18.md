@@ -108,6 +108,10 @@ I sat in the steeple until dawn.
 
 I didn't go downstairs. I didn't tell anyone. They knew — they'd heard the sounds, the gunfire, the collapse. Sienna came to the stairs twice and I heard her and didn't answer and she didn't come up. She understood that I was in a place she couldn't reach and that the place I was in required being alone in it.
 
+Sometime before dawn I must have dozed, because Craig was alive. He was on the bullhorn, standing on his porch, and the words coming out were my rules — "Stay calm. Stay small. Stay quiet." — but read backward, scrambled, the syntax inverted so the meaning collapsed in on itself. "Quiet stay. Small stay. Calm stay." He was grinning — the wrong grin, the Turned grin — and reading from my notebook, holding it up, and the pages were blank. He read the blank pages into the bullhorn and the sound that came out was the drone, the summoning call, and the Turned were coming from every direction but they were coming toward *me*, toward the steeple, and the steeple was swaying —
+
+I jerked awake. My hand went to my wrist. One hundred and six. I pressed my back against the louver frame and counted it down in the cold air, watching my breath cloud, watching the parking lot below where the Turned stood in their positions, watching the Lyles' house — the dark shape three blocks north — and the house was still standing and for one disoriented second I thought it hadn't happened yet, that the dream was the memory and the memory was the dream, and then the second passed and the house was rubble and the flag was in the mud and I was awake and Craig was dead and the steeple was not swaying.
+
 At first light I raised the binoculars.
 
 The Lyles' house was gone. Not damaged — gone. The structure had been reduced to a debris field: lumber, drywall, roofing, the wreckage of a life scattered across a lot and into the street. The American flag was in the mud, trampled, half-buried in plaster dust. The chrysanthemum — Tammy's chrysanthemum, in its clay pot by the front door — was crushed under a section of wall framing. The generator was a blackened ruin. The plywood was splinters.
@@ -458,6 +462,16 @@ Jim prayed. The prayer was short: "Lord, we're leaving tomorrow. We don't know i
 Ruth said, "The trail doesn't need flattening. I need better knees."
 
 Jim said, "I'll pray for those too."
+
+During the planning days Jim mentioned a dream. Casual, over coffee, the way he mentioned everything — as if the thing he was saying was less important than the act of saying it and the act of saying it was less important than the coffee.
+
+"I dreamed about a woman in a lab coat," he said. "She was standing at a desk covered in papers — printouts, graphs, numbers I couldn't read. She showed me one of the printouts and said, 'The numbers are wrong but the math is close.' Then she took the printout back and corrected something and showed it to me again and said, 'Closer.'" He sipped his coffee. "She had kind eyes. Tired. The eyes of someone who's been working too long on something that matters too much."
+
+I looked at him. "You've never met Dr. Moss."
+
+"I've never met anyone in a lab coat, son. The closest I've come to a laboratory is the church kitchen, and Ruth's the only one running experiments in there." He smiled. "Probably just my brain filling in details. I've been listening to her broadcasts. The subconscious builds a picture."
+
+He was probably right. The brain does that — takes scattered data and assembles it into narratives during sleep. It didn't mean anything. Except that Jim had described a woman at a desk correcting printouts, and when we reached the university five weeks later, Dr. Moss's desk was covered in exactly the printouts he'd described, and she did have kind eyes, and she did say something about the math being close, and Jim looked at me when she said it and said nothing, and I said nothing, and neither of us needed to.
 
 Marcus packed the CB radio. He'd been listening every evening, catching fragments of Moss's broadcasts, confirming she was still there, still transmitting, still offering what she had. The last fragment, caught the night before: "— the frequency emitter has a range of approximately eighty meters. Within that radius, the Turned's collective coordination is disrupted. They become individuals again. Disoriented. Passive. The emitter buys time. It is not a solution. But time is what —" Static.
 

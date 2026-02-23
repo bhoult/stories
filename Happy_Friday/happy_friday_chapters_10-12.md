@@ -258,6 +258,16 @@ Sienna was sitting on the floor near the stairs, stretching — a habit from her
 
 We didn't solve anything that evening. We didn't plan or strategize or calculate. We just occupied the same room and let the room be enough. I am recording this because the journal is supposed to be a survival document, and this was survival — not the dramatic kind, not the running and hiding kind, but the kind where you remind yourself that the people around you are people and not just assets on a board, and that the board is not the point. The board was never the point.
 
+That night Marcus woke the basement.
+
+It wasn't a scream — it was a name, pulled out of him like something physical. "Ava!" — sharp, desperate, the sound of a man reaching for something in the dark and finding nothing. By the time I was fully awake he was sitting up on his pew, hands on his knees, breathing hard. The room was quiet. Ruth had her eyes open. Dale, on the nearest pew, hadn't moved, but his voice came through the dark, low and even.
+
+"I dream about the highway too," Dale said.
+
+Marcus said nothing. After a minute his breathing slowed. He lay back down. The dark settled over us again.
+
+In the morning nobody mentioned it. But I wrote it in the notebook: *Marcus dreams about Ava. The phone screen going dark. Three days in the cab with nothing but bourbon and a dead phone and the sound of Turned walking past the windows. He carries the dream the way he carries the phone — something broken he won't put down.*
+
 ---
 
 I went up to the steeple after the broadcast. I needed to think, and thinking happened better with the binoculars and the long view — the park, the road, the Lyles' compound to the north, the Walmart across the interstate to the south. The October sun was low, casting long shadows across the parking lot. The Turned stood in their positions, faces angled toward the light.
@@ -467,6 +477,8 @@ We walked back to the church. Sienna didn't touch my arm this time. She walked b
 She looked at me sideways. "That might be the most honest thing you've ever said."
 
 ---
+
+I'd started dreading sleep. Not for what I saw — the dreams were bad, the trailer dream, the Knock on loop, variations I won't catalog — but for the waking. There's a moment between sleep and consciousness, maybe two seconds, when you don't remember where you are or what the world has become. And in those two seconds your body startles — the orienting reflex, *Brunner & Suddarth* calls it — and your heart rate spikes before your brain catches up. Two seconds of uncontrolled fear. In the old world, harmless. In this world, a conversion risk. I'd started sleeping with my hand on my pulse, thumb pressed against the artery in my wrist, so that the first thing I felt on waking was my own heartbeat, and the first conscious act was counting it down. It was not a good way to sleep. It was the way I slept now.
 
 At the church, I sat in the steeple and counted the Turned around the Lyles' house through the binoculars. Twenty-three now. One more since this morning. Brett was on the porch, shotgun across his knees, watching the perimeter. Craig was checking the boards on the north-facing windows. Tammy was nowhere visible.
 

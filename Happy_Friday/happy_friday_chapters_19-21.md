@@ -84,6 +84,10 @@ Sienna leaned against my shoulder at some point and neither of us acknowledged i
 
 I wrote by firelight. The notebook was wrinkled from the septic tank and smelled faintly of things I wouldn't name. The pen was a ballpoint from Ruth's purse. The fire popped and the smoke rose and the stars were out and behind us the trail continued into the dark, climbing the next ridge, and the next, and the next.
 
+That night I dreamed I was in the trailer. Everything was right — the paneling, the counter, the burn mark. But the trailer was moving. Not on wheels — being dragged, the whole structure shuddering, the floor tilting, and through the kitchen window the trees were not the park's trees but the OHT forest, oaks and hickories scrolling past as the trailer was pulled through terrain it was never built for. I could hear the skirting tearing underneath, the vinyl shredding against rock, and I ran to the back door and opened it and the drop was not the gravel lot but a ravine, a hundred feet of empty air, and the trailer was sliding toward the edge and I couldn't stop it because you can't stop a house.
+
+I woke to the sound of wind in the canopy and for three heartbeats I didn't know which world was real — the forest or the trailer — and my hand found my wrist and counted and the count was high, one-ten, one-oh-six, and I lay still and watched the fire embers and breathed until the numbers came down and the trailer dissolved and I was on a rock in the Boston Mountains and the stars were the only things that hadn't changed.
+
 **JOURNAL ENTRY #13:**
 
 *The trail is hard. Ruth is struggling. Caleb fell twice. I threw up on the second switchback and —*
@@ -238,7 +242,15 @@ Dale looked at him. "It sounds like data. The relapse rate for decisions made in
 
 "Statistics and faith aren't —"
 
-"Mutually exclusive," the group said, more or less in unison, and Jim laughed — a real laugh, surprised and warm — and the fire popped and the stars turned and we didn't make any decisions and in the morning the world was slightly less wrong than it had been the night before.
+"Mutually exclusive," the group said, more or less in unison, and Jim laughed — a real laugh, surprised and warm — and the fire popped and the stars turned and we didn't make any decisions.
+
+Dale was quiet for a while. Then he said, to the fire more than to us: "I dream about using. Every night. Not drugs — the knife." He held up the fox carving, the blade catching firelight. "In the dream, the knife is the wrong shape. The blade curves where it shouldn't. And the wood won't hold a form — I carve and carve and the shavings fall and the shape underneath is always the same shapeless lump. I can't make it into anything." He turned the fox in his hands. "Recovery dreams. You'd think they'd stop after three years. They don't stop. They just change what you're recovering from."
+
+Maria put her hand on his knee. Not a gesture — a placement. Deliberate, firm, the hand of a woman who had spent six years watching this man fight something invisible and had learned that the fight sometimes needed a physical anchor.
+
+"The carving is the opposite of the dream," Dale said. "In the dream, nothing holds its shape. In the morning, the wood is still the fox. The real thing is more durable than the dream. That's the lesson. That's always the lesson. But the dream doesn't know that, so it keeps coming back."
+
+In the morning the world was slightly less wrong than it had been the night before.
 
 **JOURNAL ENTRY #14:**
 
