@@ -82,25 +82,29 @@ The count hit critical.
 
 I saw it happen. Through the binoculars, in the moonlight, I saw the change. It was like watching water go from liquid to boil — a phase transition, sudden and total. The Turned surrounding the house had been in their herding mode: strategic, patient, using the voices, applying psychological pressure. Then something shifted. A ripple went through the crowd — a physical shudder, a synchronization of movement that traveled through the mass like a wave. The voices stopped. The drone stopped. Everything stopped for maybe two seconds.
 
-Then they rushed the house.
+Then they went insane.
 
-Not walked. Not the patient two-miles-an-hour approach. A rush — dozens of human bodies moving at once toward the same point with a force that was not individual but collective, the way a wave is not individual drops of water but the ocean moving as one. They hit the plywood. The plywood held for about four minutes.
+Not rushed. Not swarmed. Went *insane* — the coordination that had been building for three weeks shattered into something that had no strategy and no restraint and no resemblance to the patient, calculating organism I'd been studying. They hit the house from every direction at once, but "hit" is the wrong word. They *attacked* it. They tore at the plywood with their fingers, pulling and ripping, nails splitting and fingers breaking and the fingers kept pulling. They climbed — scaled the walls like animals, finding handholds in the siding, hauling themselves up the face of the house toward the roof with a speed and a fluidity that human bodies are not supposed to have. Through the binoculars I watched a woman climb the north wall hand over hand, reach the eave, and start peeling shingles off the roof with her bare hands, tearing through the tar paper underneath, ripping at the decking boards. Her fingers were shredded. She kept going.
 
 I timed it. I timed it because timing things is what I do when I can't do anything else, and the alternative to timing was feeling, and feeling would have meant screaming, and screaming would have carried three blocks and added my voice to the night and I could not, I could not, I could not.
 
-Four minutes for the plywood. The boarded windows went in sequence — north side first, then east, then the front. I could hear the wood splitting from the steeple. Not individual boards — the collective force of thirty, forty, fifty human bodies pushing, pulling, tearing at the same barrier. The plywood didn't break along the screws. It broke along the grain. They were pulling it apart the way you'd pull apart bread.
+Four minutes for the plywood. The boarded windows went in sequence — north side first, then east, then the front. They didn't push the plywood off. They *dismantled* it — fingers hooked under edges, pulling in different directions, the wood splitting along the grain as twenty hands tore it apart the way you'd tear apart bread. I could hear the wood splitting from the steeple — a sound like bones cracking, continuous, overlapping.
 
-The walls lasted slightly longer. Drywall is not a structural material — it's gypsum and paper, designed for interior finishing, not for resisting the sustained force of a swarm. I could hear it going — a crumbling, cracking sound, different from the wood, softer, more continuous. They were punching through it. Not with tools — with hands, with shoulders, with the blind mechanical force of bodies that felt no pain and had no self-preservation and could push until the thing they were pushing against gave way.
+The walls went next. A man — I couldn't identify him in the moonlight — lowered his head and drove it into the brick façade on the east side. Not once. Over and over, a rhythmic battering that sent chips of mortar spraying with each impact. The brick didn't give but the mortar between the bricks did, and after six or seven blows he was pulling bricks out of the wall with bloody hands and the ones behind him were climbing through the gap before it was wide enough, squeezing their bodies through jagged openings, the brick edges tearing skin and muscle as they forced themselves through and they did not slow down. Others were punching through drywall on the interior walls — I could hear the crumbling, the gypsum giving way, and through the broken windows I could see them inside the house, climbing over each other, pulling down ceiling joists, tearing open closet doors, moving through the structure the way termites move through wood — consuming it from the inside out.
 
-The roof section went last. I watched it — a corner of the roof lifting, separating from the framing as the Turned on the east side pulled the wall out from under it. The section collapsed into the house. Through the binoculars I saw it fall on at least six of them and they didn't flinch, didn't dodge, didn't react. The ones underneath were crushed or pinned and the ones who weren't kept tearing.
+One of them reached the roof through the attic access and began tearing at the rafters from above. Others climbed the exterior and met him there. They pulled the roof apart in sections — not lifting it off but disassembling it, rafter by rafter, sheathing board by sheathing board, with the methodical frenzy of something that didn't know how to stop. A roof section collapsed and fell into the house and took six of them with it and the ones it fell on kept moving under the debris, still tearing, still pulling, broken arms still swinging at the framing around them. One crawled out from under a section of ridge beam with his ribcage visibly deformed — the ribs on his left side pushed inward, the chest wall caved — and he got up and went back to the wall he'd been pulling apart. The organism didn't register damage. The body was a tool and the tool was expendable.
 
-Brett's shotgun fired three more times during the breach. Then it stopped.
+They attacked each other. Not deliberately — incidentally, the way you'd shove through a crowd that was in your way. When two Turned reached for the same section of wall, they fought for it — clawing, biting, shoving — and the one that lost didn't retreat. It turned on the nearest surface and kept destroying. I watched through the binoculars as a Turned woman pulled a man off a window frame by the shoulders, threw him to the ground, and went through the window herself. The man got up with a dislocated shoulder — the arm hanging wrong, swinging loose — and started battering the wall beside the window with his good arm, then his bad arm, then his head.
+
+Brett's shotgun fired three more times during the breach. Each blast knocked a Turned backward — I saw the impacts through the binoculars, the bodies jerking, falling — and the ones that fell got up. Not all of them. Some didn't get up. But the ones that did got up with holes in them and kept coming, and the ones that didn't were trampled by the ones behind them, and then the shotgun stopped.
 
 Craig's rifle fired once.
 
-Then nothing.
+Then nothing. Just the sound.
 
-The generator exploded at 10:31 PM. The fuel tank ruptured when the east wall came down — a flash, brief and orange, and then darkness. The fire didn't spread. There wasn't enough structure left to burn. The sounds continued for a while in the dark — tearing, crumbling, the unmistakable sound of a house being disassembled by a hundred human hands — and then those sounds faded too, and the night was quiet.
+The sound was the worst part. Not the destruction — the destruction had a rhythm, a tempo, the mechanical beat of a demolition. The sound underneath it was human. Not voices — the Turned weren't speaking anymore, weren't using the names, weren't trying keys. They were making sounds that had no words: grunts, impacts, the wet tearing of materials that might have been wood and might not have been, and underneath it all a continuous low vibration, subsonic, felt in the steeple floor more than heard, as if the collective itself was humming at a frequency below language.
+
+The generator exploded at 10:31 PM. The fuel tank ruptured when the east wall came down — a flash, brief and orange, and then darkness. The fire didn't spread. There wasn't enough structure left to burn. The sounds continued in the dark — but they were changing. The tearing became less rhythmic, more scattered. The frenzy was burning itself out, the Turned running down like machines that had exhausted their fuel. The last sounds were individual — a single set of hands still pulling at something in the rubble, then stopping. Then silence.
 
 ---
 
@@ -116,9 +120,23 @@ At first light I raised the binoculars.
 
 The Lyles' house was gone. Not damaged — gone. The structure had been reduced to a debris field: lumber, drywall, roofing, the wreckage of a life scattered across a lot and into the street. The American flag was in the mud, trampled, half-buried in plaster dust. The chrysanthemum — Tammy's chrysanthemum, in its clay pot by the front door — was crushed under a section of wall framing. The generator was a blackened ruin. The plywood was splinters.
 
-The Turned had scattered. Post-frenzy dispersal — the same pattern I'd observed after the ranch house incident, but on a larger scale. They milled in the debris, dazed, their coordination dissolved, individuals drifting without purpose. Some of them were damaged — limbs at wrong angles, wounds that didn't bleed, the consequences of throwing human bodies through structural materials without regard for the body. They'd heal. The organism maintained its hosts. But for now they wandered through the rubble of the Lyles' home like sleepwalkers in a junkyard.
+The Turned had scattered. Post-frenzy dispersal — the same pattern I'd observed after the ranch house incident, but on a larger scale. They milled in the debris, dazed, their coordination dissolved, individuals drifting without purpose.
 
-I saw new faces among them. Craig, still in his sheriff's jacket, standing in his own front yard with blank eyes and a smooth face. Brett, shirtless, blood on his arms that wasn't his, drifting toward the road. The trucker — I recognized the cap — standing motionless near the remains of the porch. Others I couldn't identify at distance.
+The damage was extraordinary. Through the binoculars I could see the cost of what the swarm had done to itself. A woman sat in the rubble with both arms broken below the elbow — the forearms bent at angles that made my stomach clench — and she was trying to stand and couldn't because her arms couldn't push her up and she kept trying, the broken limbs folding under her weight, and the organism kept making her try. A man stood near the remains of the porch with his jaw hanging loose on one side, dislocated or broken, the lower teeth visible in a way they shouldn't have been. Others had torn hands, crushed fingers, scalps split open from battering brick, chest walls caved from being buried under debris. One — the headbatter from the east wall — stood swaying with his forehead caved in, the skull visibly deformed, and he was still upright, still blinking, still tracking movement. The organism maintained function. It didn't maintain the body.
+
+At least twenty of them were on the ground. Not standing. Not moving. Lying in the debris with the stillness that means nothing is operating anymore — the blood loss too great, the internal damage too severe, the ribs that had broken inward finally cutting the arteries they'd been grinding against for an hour. They'd destroyed themselves against the house the way moths destroy themselves against a light, and the destruction hadn't registered as a reason to stop. The frenzy had run until the bodies failed.
+
+The ones that were still moving had noticed the ones that weren't.
+
+I watched through the binoculars and I want to tell you I looked away but I didn't. A Turned man — one of the less damaged ones, a scrape across his forehead but otherwise functional — knelt beside a body in the rubble. The body was a woman who'd fallen from the roof. Her neck was at a wrong angle. The man knelt and he began to eat.
+
+Not frantically. Not the frenzy. This was the hunting behavior — directed, purposeful, caloric. He ate the way a predator eats, pulling and tearing with the same hands that had torn the plywood an hour ago, and two others joined him within minutes, drawn by the behavior or the smell or whatever signal the organism used to coordinate feeding. They ate methodically. Efficiently. The organism wasting nothing.
+
+Across the debris field, the same thing was happening in three other places. The living Turned consuming the dead ones. The swarm's own casualties becoming the swarm's next meal. By the time the sun was fully up, the bodies on the ground were being reduced — not to nothing, not yet, but to less. The soft tissue going first. The bones last.
+
+The organism had designed a system with no waste. The frenzy destroyed the structure. The frenzy destroyed some of the Turned. The survivors ate the destroyed. The calories fueled the next cycle. I was watching a closed loop, self-sustaining, and the efficiency of it was the most horrifying thing I'd seen since the world ended because it meant the organism hadn't made a mistake. The self-destruction wasn't a flaw. It was a feature. The swarm was designed to lose bodies, and the bodies were designed to be consumed, and the whole thing ran like a machine that burned its own parts for fuel.
+
+I saw new faces among the survivors. Craig, still in his sheriff's jacket, standing in his own front yard with blank eyes and a smooth face. Brett, shirtless, blood on his arms that wasn't his, drifting toward the road. The trucker — I recognized the cap — standing motionless near what had been the porch. Others I couldn't identify at distance.
 
 I didn't see Tammy. I didn't see the couple from the subdivisions.
 
@@ -165,6 +183,10 @@ The second I didn't show anyone. It's the thought that arrived while I was watch
 *When the swarm hit the Lyles' house, the roof section collapsed and took out at least six of them. They don't protect themselves. They don't dodge. They don't notice when the thing they're tearing apart falls on them. The frenzy makes them destroy everything in reach and "everything in reach" includes each other.*
 
 *I keep thinking about this. What if the space they were in was worse? What if the structure was weaker, or heavier, or positioned over terrain that didn't forgive a collapse? The quarry off Route 7 — the one with the gravel cliffs that are always sloughing off sections. You wouldn't need to fight them. You'd just need to get enough of them in the wrong place and let physics do the rest.*
+
+*And then I think about Marcus. Marcus approached one with intent and it saw him coming. It shifted — dropped into that hunting crouch, the claws, the bark — before he was close enough to swing. Craig used a bullhorn and brought hundreds of swarmers. The organism responds to threat at every scale. Individual approach triggers hunting. Collective noise triggers swarming. But both responses are predictable. The organism can't NOT respond. It's hardwired.*
+
+*The interchange overpass. Sixty feet above the highway. If you could make them come to a place where coming was falling — where the response they couldn't suppress was the thing that killed them — you wouldn't need a hatchet. You wouldn't need to get within ten feet. You'd just need them to arrive, and arriving would be enough.*
 
 *I don't want to be thinking about this. But I am. And I think the reason I'm thinking about it is that nobody else will, because thinking about it requires you to look at forty human beings — people who were people, who had names, who had families — and calculate the mechanics of their destruction. I can do this. I don't know what that says about me. I'm afraid it says the true thing.*
 -e 
@@ -258,11 +280,45 @@ The discussion took three hours.
 
 I'm not going to recount all of it because most of it was the kind of circular argument that happens when frightened people try to reach consensus about a terrifying decision, and the circularity is not a failure of the people but a feature of the fear. Every objection looped back to the same core: *here is safe and out there is not.* And every response looped back to the same counter: *here is safe now and won't be soon.*
 
-Before the leaving debate consumed everything, we formalized three protocols. The first was newcomer verification — if we encountered survivors on the trail. Jim's coffee method, refined: sustained conversation (the Turned couldn't maintain extended back-and-forth), fine motor tasks (sipping from a cup, adjusting grip as the liquid cooled — the micro-corrections degraded in Turned), and a heart rate check with the blood pressure cuff. Three gates. Anyone who cleared all three was probably still a person.
+Before the leaving debate consumed everything, Marcus put the kill question on the table. Formally, this time.
 
-The second was the watch rotation callback. "The watch rotation is the most important job we have," Jim said, "and nobody wants to do it because nobody wants to be the person who has to decide, in the dark, whether the person in the next pew is still a person." On the trail, with no basement and no walls, the watch would be even more critical. We'd sleep in shifts. The watcher would have the cuff and a flashlight and the worst job in the world.
+"I answered my own question," he said. "You can kill them. They die like people. But you can't kill them *quietly.*"
 
-The third was distraction doctrine. I laid out what we knew by type: "Herding Turned respond to sound and light — any stimulus that might mean a panicking human. A continuous noise draws them and holds their attention for thirty seconds to a minute. Hunters are harder — directed, problem-solving, noise works only briefly because they're already locked on a target. And swarmers are beyond distraction. Once the density threshold tips and the frenzy starts, you can bang every pot in a kitchen and they won't hear you over their own destruction." The hand-crank radio would travel with us. Standard procedure for any high-risk movement: position a noise source away from the group's path before proceeding.
+He described it for the people who hadn't watched from the steeple — the approach, the shift, the hunting crouch. Dale's hands were still. Ruth's novel was closed. Jim listened with his eyes down.
+
+"The organism detected me before I was in range," Marcus said. "Ten feet out, the thing changed. Dropped into a crouch, hands up like claws, came at me on tiptoes — fast, silent. Not the shuffling. Something else entirely. Then it made a sound — the bark — and three more shifted into the same thing. Four predators, closing on me from different angles. I got one. I almost didn't get back."
+
+"So one-by-one elimination is off the table," Maria said.
+
+"It's worse than off the table. It's a recruitment strategy. Every kill triggers the bark. The bark converts every herder in earshot into a hunter. You go out to reduce their numbers and you increase the number of the *worst kind.*"
+
+"What about trapping?" Dale asked. He hadn't forgotten. "Isolate one, contain it, study it."
+
+"The approach triggers the shift," I said. "If you're walking toward one with intent — with a rope, a net, anything that signals 'I'm here to interact with you' — it reads the approach the same way it read Marcus. The organism doesn't distinguish between killing intent and capturing intent. It distinguishes between passive proximity and deliberate approach."
+
+"So we can't kill them and we can't catch them," Ruth said. "What exactly can we do?"
+
+Maria leaned forward. Her voice had the quality it got when she'd finished calculating and was about to deliver the answer. "We can use them."
+
+The table was quiet.
+
+"Every behavior they have is a response to a stimulus. Herding responds to human proximity and fear. Hunting responds to the bark and to deliberate approach. Swarming responds to density. Every response is predictable. Every predictable response is a lever." She looked around the room. "The question isn't 'can we kill them.' The question is 'can we make their own behavior work against them.' Craig tried to fight them with guns and the fighting is what killed him. But what if you didn't fight? What if you just... arranged the furniture?"
+
+The room was processing this. I could see it — the shift from "can we destroy them?" to "can we redirect them?" It was the same shift I'd felt in the steeple watching the roof come down, the thought about the quarry, the thought about terrain that didn't forgive a collapse. Maria had arrived at the same place from a different direction: not physics, but behavioral engineering.
+
+"She's right," I said. "The organism is predictable. It responds to stimulus the way a machine responds to inputs. If we map the inputs — sound triggers herding attraction, deliberate approach triggers hunting, density triggers swarming — then we can manipulate the outputs. We don't need to be stronger than them. We need to be smarter about where we put them."
+
+Jim looked at me. He didn't say anything. But I could see him holding two things at once: the grief for what we were discussing and the recognition that discussing it might be the thing that kept his congregation alive.
+
+We moved on. We formalized four protocols — four, not three. The first was the question of approach.
+
+"Can we kill them?" was answered: yes, but the cost is catastrophic. "Can we trap them?" was answered: probably not without triggering the hunting response. "Can we use their behavior?" was answered: maybe. That "maybe" was the most useful word we'd produced in three weeks.
+
+The second was newcomer verification — if we encountered survivors on the trail. Jim's coffee method, refined: sustained conversation (the Turned couldn't maintain extended back-and-forth), fine motor tasks (sipping from a cup, adjusting grip as the liquid cooled — the micro-corrections degraded in Turned), and a heart rate check with the blood pressure cuff. Three gates. Anyone who cleared all three was probably still a person.
+
+The third was the watch rotation callback. "The watch rotation is the most important job we have," Jim said, "and nobody wants to do it because nobody wants to be the person who has to decide, in the dark, whether the person in the next pew is still a person." On the trail, with no basement and no walls, the watch would be even more critical. We'd sleep in shifts. The watcher would have the cuff and a flashlight and the worst job in the world.
+
+The fourth was distraction doctrine. I laid out what we knew by type: "Herding Turned respond to sound and light — any stimulus that might mean a panicking human. A continuous noise draws them and holds their attention for thirty seconds to a minute. Hunters are harder — directed, problem-solving, noise works only briefly because they're already locked on a target. And swarmers are beyond distraction. Once the density threshold tips and the frenzy starts, you can bang every pot in a kitchen and they won't hear you over their own destruction." The hand-crank radio would travel with us. Standard procedure for any high-risk movement: position a noise source away from the group's path before proceeding.
 
 The loops intersected and diverged and re-intersected and at one point Ruth and Maria had a disagreement about food rationing that was actually a disagreement about whether leaving was an act of courage or an abandonment of everything they'd built, and at another point Dale said "I'll go wherever you need me to go" in a voice that was so flat and so steady that I realized he was already grieving his Suboxone and had made his peace with whatever came after, and that Dale's version of bravery was quieter and harder than any version I'd encountered.
 

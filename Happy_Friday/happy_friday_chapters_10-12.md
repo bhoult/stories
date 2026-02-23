@@ -262,6 +262,40 @@ Sienna was sitting on the floor near the stairs, stretching — a habit from her
 
 We didn't solve anything that evening. We didn't plan or strategize or calculate. We just occupied the same room and let the room be enough. I am recording this because the journal is supposed to be a survival document, and this was survival — not the dramatic kind, not the running and hiding kind, but the kind where you remind yourself that the people around you are people and not just assets on a board, and that the board is not the point. The board was never the point.
 
+Marcus broke the quiet. Not deliberately — Marcus never did anything deliberately except drive and drink, and he was doing less of both. He was sitting on his pew, back against the wall, flask between his knees.
+
+"Question," he said. "Serious one."
+
+Jim looked up from his Bible.
+
+"Has anyone tried killing one?"
+
+The room changed. Not the temperature — the air. Ruth's novel lowered an inch. Dale's knife paused mid-stroke. Maria's head turned from the pantry with the precise rotation of a radar dish acquiring a target.
+
+"Killing," Jim said. The word sat in his mouth like a stone.
+
+"They stand in the parking lot. They don't move. They don't dodge. Somebody walks up with a hatchet, hits one in the head — what happens? Does it die?"
+
+"They're people, Marcus."
+
+"They're standing in a parking lot in the rain using dead people's voices to scare other people into joining them. That's not people behavior, Jim. That's predator behavior wearing a people costume."
+
+Dale's knife moved again — one slow stroke. "What if they feel it?"
+
+Marcus looked at him. "What if they do? Isn't that worse? Being trapped inside something that uses your body to hurt people you love — isn't that the thing that's worse than dying?"
+
+Nobody had an answer for that. Jim's mouth opened and closed. Ruth's novel went back up, but her eyes weren't tracking the page.
+
+"We don't know enough," I said. "We don't know if they can be killed — Moss said they're physically resilient, the organism maintains the host. We don't know if killing one triggers a response from the others. We don't know anything, and not knowing is the thing that should stop us, not morality."
+
+"Morality's the thing that should stop us first," Jim said. Quiet. Certain.
+
+"Then morality and ignorance are on the same side for once," I said. "We don't kill what we don't understand."
+
+Marcus capped his flask. "I'm not saying we should. I'm asking if anyone's tried." He looked around the room. "Because if nobody's tried, then nobody knows. And 'nobody knows' is a hell of a thing to bet your life on."
+
+The question hung in the basement like smoke. Nobody answered it. Nobody put it away, either.
+
 That night Marcus woke the basement.
 
 It wasn't a scream — it was a name, pulled out of him like something physical. "Ava!" — sharp, desperate, the sound of a man reaching for something in the dark and finding nothing. By the time I was fully awake he was sitting up on his pew, hands on his knees, breathing hard. The room was quiet. Ruth had her eyes open. Dale, on the nearest pew, hadn't moved, but his voice came through the dark, low and even.
@@ -328,6 +362,38 @@ And separately: *Marcus dreams about Ava. The phone screen going dark. Three day
 
 I went up to the steeple after the broadcast. I needed to think, and thinking happened better with the binoculars and the long view — the park, the road, the Lyles' compound to the north, the Walmart across the interstate to the south. The October sun was low, casting long shadows across the parking lot. The Turned stood in their positions, faces angled toward the light.
 
+Jim came up the stairs about twenty minutes later. He didn't say anything at first — just stood at the louvers, looking out at the parking lot with the expression of a man conducting a service for people who couldn't hear him.
+
+"Tom Hadley," he said, pointing. "Third from the left. The one by the utility pole."
+
+I found him through the binoculars. A heavyset man in a flannel shirt, face tilted toward the sun, the standard posture. Nothing distinctive.
+
+"He directed the choir," Jim said. "Twenty-two years. Every Sunday, Wednesday rehearsal, Christmas cantata. He had this thing he did" — Jim raised his right hand, fingers together, making a small scooping motion — "when the sopranos came in. Like he was pulling the sound out of the air."
+
+I looked again. Tom Hadley's hands were at his sides. Then — so subtle I would have missed it without the binoculars — his right hand moved. Fingers together, a small scooping motion, the ghost of a cue to singers who would never sing again. The motion lasted two seconds. Then his hand dropped and he was still.
+
+"That's not the organism," Jim said. "The organism doesn't know how to conduct a choir. That's Tom."
+
+I lowered the binoculars. Jim was watching Hadley the way a father watches a sleeping child — with tenderness and with the specific grief of seeing someone present and unreachable at the same time.
+
+"Marcus asked if we could kill them," I said.
+
+"I heard."
+
+"If Tom's still in there — if the person persists inside the host — then killing the Turned isn't pest control. It's something else."
+
+"It's murder," Jim said. Simply. Not arguing. Naming.
+
+"Or mercy."
+
+"Maybe. But we don't get to decide that from a steeple with binoculars. We don't get to decide that without knowing what he feels, if he feels, whether the Tom doing the scooping motion is a person trapped or a recording playing back. And since we can't know —"
+
+"We don't act."
+
+"We don't act *yet.*" He looked at me. "I'm not saying never. I'm saying not from ignorance. Not from convenience. If we ever do that — if we ever cross that line — it has to be because we understand what we're ending. Not because it's easier than understanding."
+
+He went back downstairs. I stayed in the steeple and watched Tom Hadley conduct his empty choir, and I didn't know which possibility unsettled me more — that he was still in there, or that he wasn't and the organism was borrowing his hands for a purpose I couldn't fathom.
+
 I was revising assumptions. This was the process — the thing *Brunner & Suddarth* didn't teach but that the situation was teaching me, one failure at a time. You observe. You form a model. The model predicts behavior. When the behavior deviates from the prediction, you revise the model. You don't get attached to the model. You don't defend it. You let it be wrong and you build a better one.
 
 My first model: the Turned are dangerous because they herd you and scare you and the fear turns you. This was true but incomplete.
@@ -361,6 +427,52 @@ The sun went down. The Turned shifted. Sixteen faces turned toward the last of t
 ---
 
 # Chapter 12: Nate Tells the Lyles
+
+On Day 12, while the Moss broadcast was still settling into everyone's models, Sienna and I ran experiments.
+
+"Experiments" makes it sound planned. It started as watching. We were on the steeple — morning shift, the two of us — and I'd been tracking the new scrub-woman's behavior for twenty minutes. She stood in the lot, face to the sun, arms at her sides. Motionless. I tossed a pen cap through the louver. It landed six feet from her. She didn't flinch. Didn't look. Didn't register the object at all.
+
+"They don't startle," I said.
+
+"Drop something bigger," Sienna said.
+
+I tossed a hymnal page — crumpled, golf-ball-sized. It hit the gravel two feet from the Turned. Nothing. A gust could have done it. The Turned's eyes didn't move.
+
+Sienna pulled off her shoe — a canvas sneaker, one of the church donation pairs — and threw it. Not at the Turned. Near her. The shoe landed with a soft thud in the gravel, three feet from the woman's bare toes.
+
+The Turned looked down.
+
+Not quickly — the slow, deliberate tilt. She looked at the shoe the way you'd look at a leaf that had blown onto your porch. Then she bent, picked it up, and walked to the church's side door. She set the shoe on the doorstep. Placed it there — sole down, aligned with the door frame, the way you'd return a neighbor's misdelivered package. Then she walked back to her position and faced the sun again.
+
+Sienna and I looked at each other.
+
+"We're not invisible," I said. "We're catalogued."
+
+"She knew it was ours."
+
+"She knew it came from the building. She returned it to the building's entrance. That's — that's object association. That's memory. That's the organism tracking where we are and processing our behavior in real time."
+
+Sienna stared at the shoe on the doorstep. "She didn't come inside. She didn't try the door. She just... gave it back."
+
+"Because we're not a threat. We're below threshold. The organism has *filed* us." I wrote it in the notebook. My hand was shaking slightly. Not from fear — from the implications. "They know exactly where we are. They've known since Jim put the sign up. And they're choosing not to act because we're more useful alive. We're fear batteries they're not ready to harvest yet."
+
+We spent the next hour testing proximity. From the steeple we watched Jim's morning walk — his daily circuit of the parking lot, slow, calm, passing within ten feet of three Turned. No reaction. We watched a stray cat cross the lot — the Turned tracked it, the head-turn, but didn't pursue. The cat was too small to be worth the caloric effort, apparently. Or the organism didn't categorize cats as food yet.
+
+"Marcus's question," Sienna said. "Has anyone tried killing one."
+
+"Yeah."
+
+"If they don't react to proximity — if you can walk right up to one and it just stands there —"
+
+"Then the question isn't theoretical. Someone *could* walk up with a sharp object and —"
+
+"And what? We don't know what happens. We don't know if killing one activates the others. We don't know if the organism has a defense mechanism we haven't seen."
+
+"We don't know," I agreed. But the shoe on the doorstep was bothering me in a way I couldn't articulate. The Turned didn't flinch from objects. They didn't react to proximity. They passively allowed you to approach. It was like walking up to a machine that was turned off — until you remembered that the machine was watching you, had filed you, and had returned your shoe to your door with the casual precision of something that understood property and territory and the relationship between the two.
+
+The passivity wasn't weakness. It was strategy. And strategy implies a response to deviation.
+
+---
 
 I decided to go to the Lyles on Day 13.
 

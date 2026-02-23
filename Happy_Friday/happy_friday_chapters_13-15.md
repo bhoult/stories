@@ -22,6 +22,18 @@ The plan was simple because complicated plans produce anxiety. Marcus and Jim wo
 
 We did have one contingency. The hand-crank radio from Henderson's house — the one I'd found during scouting — was positioned on the church roof, wedged against the steeple base where it wouldn't blow off. If Jim and Marcus got into trouble, Sienna would climb out through the steeple hatch and crank it. Continuous noise, loud, from an elevated position two blocks away from the pharmacy. The hymnal experiment had shown thirty seconds of attention from a single sound. A sustained broadcast should buy longer — enough for two men to change direction, take a side street, disappear. Distraction as standard operating procedure. It wasn't much. It was what we had.
 
+Dale, from his chair, said something that had nothing to do with the pharmacy and everything to do with the question Marcus had planted two days earlier. "What if we trapped one?"
+
+The planning paused.
+
+"Not killed," Dale said. His knife was moving — he was working on the turtle now, the shell taking shape in careful symmetry. "Trapped. Lure one into a room. Lock the door. Watch what it does. Does it call? Does it try to escape? Does it sit down and do the thing it was doing before, like nothing changed?" He looked up. "Because if it calls — if trapping one brings the others — then killing one probably does too. And if it doesn't call, then maybe a single Turned separated from the group behaves differently. Maybe there's something to learn."
+
+Maria's eyes had the calculating look. "That's also how you'd test whether they can be sedated. Isolate one, administer a dose, observe the response."
+
+Jim was uncomfortable — I could see it in the way his hands pressed together. But he didn't object. Observation wasn't killing. Containment wasn't violence. "After the pharmacy," he said. "One thing at a time."
+
+The idea stayed on the table. Not approved. Not dismissed. Tabled, which in a small group is its own form of approval — the acknowledgment that the question deserved an answer, even if the answer scared you.
+
 Maria had argued against the mission entirely. "Jim has forty days of metoprolol. Ruth has twenty-five of atenolol. Dale has —" She'd paused, calibrating whether to say it. "Dale has his situation. We have time. Why risk two people for supplies we don't need this week?"
 
 "Because we need them next month," I said. "And next month the Turned will be more numerous, more coordinated, and more hungry. The pharmacy is eight blocks away now. In three weeks it might be inside the perimeter of a swarm cluster. The window is closing."
@@ -183,7 +195,95 @@ He stopped. The knife was still. Maria, in the pantry closet, had her back to us
 *Dale has thirteen days. I don't have a solution. The propranolol might bridge the withdrawal but "might" isn't a word I'm comfortable with when the failure mode is losing a person. Dale knows this better than I do. He's lived through withdrawal before. He knows exactly what it feels like when your chemistry betrays you, and he's asking me to be ready for the version of that where betrayal is permanent.*
 
 *I need to be ready. I don't know what "ready" looks like. I don't think anyone does.*
--e 
+
+---
+
+On Day 16 — the day between the pharmacy run and the stupidest thing I've ever done — Marcus answered his own question.
+
+He didn't ask permission. Marcus wasn't a committee person. He'd asked the question on Day 10 and nobody had answered it and the not-answering had been eating at him the way the flask ate at him — a low, persistent hunger for resolution that no amount of group discussion could satisfy. So at 7 AM, while Jim was on morning watch in the steeple and the rest of us were eating cold oatmeal in the basement, Marcus put on his jacket and picked up the hand hatchet from the tool bag and went out the side door.
+
+I know this because Jim radioed down. His voice was flat, controlled, the voice of a man watching something he couldn't stop. "Marcus is outside. He's walking toward the lot. He has the hatchet."
+
+I was up the stairs in thirty seconds. Sienna was behind me. Through the binoculars I found Marcus — moving south across the parking lot, steady pace, the hatchet low at his side. He was heading toward the nearest Turned: a man I'd catalogued as "Blue Polo," one of the original sixteen, who stood near the parking lot entrance facing east with the standard vacant expression and the standard wrong smile.
+
+"Marcus," I said into the walkie-talkie. "Marcus, stop. We don't know what happens."
+
+He didn't respond. The radio was on his belt. He could hear me. He kept walking.
+
+At twenty feet, Blue Polo tracked him. The head-turn — slow, automatic, the same tracking they gave Jim on his morning walks, the same passive monitoring they gave everything that moved. Marcus kept coming. Fifteen feet. The smile was there. The organism trying to herd, to convert, to do what it always did.
+
+At ten feet, Marcus's pace changed. He was no longer walking past. He was walking *toward.* Deliberately. The hatchet came up.
+
+I saw the shift.
+
+It happened in the Turned's eyes first — a snap, like a lens focusing. The vacant drift locked onto Marcus with a precision that hadn't been there a second ago. Then the body changed. Blue Polo dropped into a crouch so fast it looked like his strings had been cut — but it wasn't a collapse. It was a coil. Low, weight on the balls of his feet, knees bent, and his hands came up. Fingers spread. Curled. Not fists — claws, the fingers hooked and rigid, the posture of something that had hunted before on worlds that weren't this one.
+
+The smile was gone. What replaced it was *hunger.* A focused, predatory stare that tracked Marcus the way a cat tracks a bird through glass. The face wasn't vacant anymore. It was *intent* — every muscle taut, the jaw slightly open, the eyes locked and unblinking and radiating something older than human expression had words for.
+
+Blue Polo rose onto his toes. And he began to move.
+
+Fast. Quiet. Not the shuffling drift of a herder — a stalking, fluid advance, low to the ground, closing the distance on tiptoes with a silence that was worse than any sound. He moved like water moving downhill. Like something for which this movement was natural, practiced, ancient.
+
+Then the bark. Short. Sharp. A single percussive sound that came from Blue Polo's chest, not his throat — a vibration that carried across the parking lot and hit the other Turned like a switch being thrown.
+
+Three of them dropped into the same crouch. Same claws. Same hungry focus. The nearest was fifty yards away and she covered twenty of those yards in the time it took me to process what I was seeing — on her toes, silent, hands up, fingers curled, closing on Marcus from the east while Blue Polo closed from the south.
+
+"Marcus, *run!*" I said it into the radio and out loud and neither was loud enough.
+
+Marcus swung. The hatchet connected — a single downward strike to the base of Blue Polo's skull, the kind of blow you give a fence post with a splitting maul. The impact made a sound I don't want to describe. Blue Polo dropped. He dropped the way a person drops — instantly, totally, the body going from animate to inanimate in the space between one heartbeat and the absence of the next.
+
+He died like a person. That's the thing I can't get past. The organism made him move like a predator and sound like something from another world, but he died like a man. The body that hit the gravel was a human body and the blood that pooled under his head was human blood.
+
+Marcus didn't have time to look at what he'd done. The three hunters were coming — fast, silent, converging from three directions on tiptoes with their claws up and their faces locked in that focused, predatory stare. Marcus turned and ran. He ran the way a man runs when the thing behind him doesn't need to breathe hard — flat out, no looking back, the hatchet still in his hand and his boots slamming the gravel and behind him the three hunters moving in that terrible fluid silence, gaining, gaining.
+
+He made it to the side door with maybe five yards to spare. Jim had it open — Jim, who'd come down from the steeple in the time it took Marcus to cross the lot, who'd understood what was needed and been there, the way Jim was always there when someone was running toward a door. Marcus came through and Jim slammed it and the bolt engaged and outside I could hear them — not the drone, not the herding voices, but a sound I hadn't heard before: a low, continuous, focused breathing, three sets of lungs working in concert, punctuated by that bark, that short sharp coordination call, as they circled the building looking for another way in.
+
+They circled for forty minutes. Then, slowly, the hunting posture faded. They straightened. The claws relaxed. The focused stare went vacant. One by one they drifted back to their positions and resumed the standard herding posture — smiling, swaying, faces to the sun, as if nothing had happened. As if their bodies hadn't just been something else entirely.
+
+---
+
+The hatchet sat on the church steps. Nobody picked it up.
+
+The blade was dark with blood that was already drying in the October air. Marcus had dropped it on his way through the door and it lay on the concrete like an accusation. Maria was the first to address it.
+
+"Is it transmissible?" she said. "Through blood. Through skin contact. If the organism is in the host's circulatory system —"
+
+Nobody knew. Marcus was sitting on a pew, breathing hard, his hands on his knees. His right hand — the hatchet hand — had blood on the knuckles and the wrist. He'd already poured bleach water over it, the kind of thorough, panicked scrubbing that accomplishes everything chemically and nothing psychologically.
+
+"We need to assume it could be," I said. "Until we know otherwise, Turned blood is a biohazard. Contact with broken skin, mucous membranes, open cuts — any of those could be a transmission route."
+
+"We don't know that," Marcus said. His voice was flat.
+
+"We don't know it isn't. And the cost of being wrong is conversion through a cut instead of through fear. A new vector."
+
+The room was quiet. We'd added a new fear to the collection. Not just turning from panic. Turning from a scratch. From a splash of blood. From the hatchet sitting on the church steps.
+
+Dale picked up the hatchet with a dish towel — carefully, not touching the blade — and carried it to the backyard. He burned the wooden handle. Maria boiled the steel head in the church kitchen's largest pot for thirty minutes. She checked Marcus's blood pressure every hour for the rest of the day. 118/76. 120/78. 116/74. Normal. Normal. Normal.
+
+But the normalcy didn't mean safe. It meant *not yet.*
+
+That afternoon, from the steeple, I watched what the Turned did with the body.
+
+It took about three hours. The herders had drifted back to their positions after the hunting posture faded — all except two. These two knelt beside Blue Polo's body where it lay on the gravel, and they ate. Not frenzied. Not the swarm behavior. Methodical. Directed. The hunting mode applied to something that couldn't run. They pulled and tore with their hands, working through the soft tissue with an efficiency that said the organism had done this before, on other worlds, with other hosts. A third joined after twenty minutes, drawn by the behavior or the scent.
+
+By late afternoon, what remained on the gravel was mostly skeletal. Bones, tendons, the durable architecture of a human body stripped of everything the organism could metabolize. The three feeders drifted back to their positions, faced the sun, and resumed the standard herding posture as if nothing had happened. The bones stayed on the gravel. Nobody went to collect them. The organism disposed of its dead by consuming them.
+
+I watched the whole thing. I watched because watching was what I did and because looking away felt like a betrayal of the man Marcus had killed — the man who had coached Little League, the man Jim called Gary Sutton, the man whose bones were now scattered in a church parking lot because Marcus had wanted to answer a question and the answer was worse than the question.
+
+In the steeple that evening, I wrote in the notebook:
+
+*Marcus killed a Turned today. It died like a person. But the organism detected his approach before he was close enough to swing. At ten feet, the Turned shifted — dropped into a crouch, hands up, fingers curled like claws, rose onto its toes and came at Marcus in a stalking run that was silent and fast and nothing like the shuffling drift of the herders. The smile was gone. What replaced it was a predator. The bark brought three others and they all did the same thing — same crouch, same claws, same silent stalking advance.*
+
+*The organism read Marcus before Marcus reached it. Not the hatchet — the approach. The deliberateness. A person walking past doesn't trigger it. A person walking toward it with intent does. The herding posture is a mask. Underneath it the organism is a predator wearing a person like a suit, and it has been reading predator approaches for longer than humans have existed.*
+
+*One-by-one elimination isn't a strategy. You can't sneak up on something that sees you coming. And even if you land the blow — Marcus did — the bark fires before the body falls. Every kill broadcasts your location to every Turned within earshot, and the ones that come aren't herders. They're hunters.*
+
+*The hatchet is boiled. The blood is cleaned. Marcus's vitals are normal. We don't know if that means anything. We don't know if the organism transmits through blood. We don't know a lot of things. What we know is this: the Turned can be killed. They die like people. And the organism has infrastructure-level defense against individual elimination — a defense that turns every kill into a recruitment call for something worse than what you just killed.*
+
+*And afterward, the organism eats its dead. Three Turned knelt beside the body and consumed it over three hours. Methodical. Efficient. What's left is bones. The organism wastes nothing. The dead become calories for the living. The system is closed — self-sustaining, self-fueling, and designed from the ground up to turn every loss into a gain.*
+
+*The organism has thought about this longer than we have.*
+-e
 ---
 
 # Chapter 14: The Septic Tank
@@ -585,6 +685,40 @@ I didn't write this last thought in the journal. Some observations are too ugly 
 *Caleb is seven. He's asleep in Maria's lap. Jim is in a pew with a wet cloth around his hand because he punched an eighteen-year-old girl in the face to keep her from turning, and the punch worked and the cloth is for the shaking, not the knuckles. Dale is carving Caleb a dinosaur because Sienna asked him to and Dale would carve anything Sienna asked him to because everyone would do anything Sienna asked them to because she is the person who ran toward the crying while the rest of us watched from windows.*
 
 *Eight people now. Fifteen days of food at current rationing. The cost of doing the right thing is 1.3 days. Maria was right about the arithmetic. She's always right about the arithmetic. The arithmetic is not the point.*
+
+That evening I found Jim on the church steps. He was sitting on the concrete with his wrapped hand in his lap, looking at the parking lot where the Turned stood in their positions. The bruise on Sienna's jaw was upstairs. The hatchet blood was in the boiling pot. The two events — the punch and the kill — were sitting in Jim's body like stones, and I could see them in the slope of his shoulders.
+
+I sat next to him. The concrete was cold.
+
+"That was Gary Sutton," he said. Not looking at me. Looking at the lot. "The one Marcus killed. He coached Little League for fifteen years. Taught those boys to throw a curveball."
+
+I didn't say anything. I waited.
+
+"I watched him for three days before Marcus went out there. His hands." Jim raised his right arm, miming a motion — the wrist snap of a sidearm throw, repeated, mechanical. "Over and over. The same pitch. The organism is using his hands to repeat the motion because it's stored in his muscles, in his motor cortex, in the part of him that learned it so deeply it became automatic."
+
+"Or the organism is just replaying a motor loop," I said. "The way a record plays a groove. It doesn't mean Gary was experiencing it."
+
+"Tom Hadley conducts the choir. Gary threw curveballs. Pembrook stands at his mailbox. Every one of them is doing something they did when they were people. You don't think that means anything?"
+
+"I think it means the organism has access to procedural memory. Motor patterns. Muscle memory. That's not the same as consciousness, Jim. A recording of a person isn't a person."
+
+"At what point does the recording stop being the person?" He looked at me now. His eyes were red from the day and from the night and from the punch. "If I played you a recording of your mother's voice — her actual voice, saying something she actually said — would you tell me there's no part of her in that recording?"
+
+The question landed wrong. He knew it landed wrong. He didn't apologize because the question wasn't about apology. It was about the line between a person and the residue of a person, and he was asking me to tell him where that line was because he'd just punched an eighteen-year-old girl to keep her on one side of it and a man he'd served coffee to had just killed a man who might have been on the other side of it and Jim needed to know — needed someone to tell him — that those two acts weren't the same thing.
+
+"At what point does running on a loop stop being human?" I said.
+
+Jim was quiet for a long time. The Turned swayed in the lot. Tom Hadley's hand twitched — the conducting motion, brief, automatic. Gary Sutton was gone. His position in the lot was empty. What Marcus had left on the gravel was bones now — scattered, picked clean, the durable architecture of a human being stripped of everything the organism could use. The organism disposed of its dead by consuming them. Jim had watched that too.
+
+"At what point does killing someone who can't fight back stop being murder?" Jim said.
+
+Neither of us won. Neither of us tried to. We sat on the church steps in the cold and watched the Turned repeat their loops and we held two positions that couldn't both be right and might both be true, and the space between them was the space where every hard decision in the next three weeks would live.
+
+Jim stood up. He put his good hand on my shoulder.
+
+"I don't know the answer," he said. "But I trust you to keep asking the question. Even when the answer scares you. Especially then."
+
+He went inside. I stayed on the steps until the cold drove me in.
 
 The next morning Ruth brought me tea — chamomile, from a box she'd found in the church kitchen, brewed over a candle. She sat across from me at the folding table and sipped hers and said nothing for a while, which was unusual for Ruth, who generally said things the way other people breathed — constantly and with conviction.
 
