@@ -82,13 +82,13 @@ I couldn't solve it from the inside. I wrote it in the notebook and put a star n
 
 ---
 
-I watched the park. The Turned had multiplied — eleven now, some familiar, some drifted in from Route 22. They stood in a pattern that covered the exits: drive, gaps between trailers, the route to the road. A net.
+I watched the park. The Turned had multiplied — eleven now, some familiar, some drifted in from Highway 21. They stood in a pattern that covered the exits: drive, gaps between trailers, the route to the road. A net.
 
 I started the list. At the top of a new page: **PLAYLIST.** Not because it was a playlist but because naming things makes them manageable.
 
 Column one: name. Column two: what they were doing when they turned. Column three: behavior after.
 
-Most entries said "unknown" in column two. I'd only witnessed one turning directly. But the pattern was there: everyone who turned was afraid. Everyone unafraid was untouched. Pastor Jim across Route 22 walked between his house and the church every day and nothing happened to him. The variable wasn't location. It was something about the quality of his movement.
+Most entries said "unknown" in column two. I'd only witnessed one turning directly. But the pattern was there: everyone who turned was afraid. Everyone unafraid was untouched. Pastor Jim across Highway 21 walked between his house and the church every day and nothing happened to him. The variable wasn't location. It was something about the quality of his movement.
 
 The textbook had given me the vocabulary. The observations had given me the pattern. What I didn't have was the threshold — the line between safe and gone. And I couldn't get it from a window.
 
@@ -112,25 +112,35 @@ I ran. Gravel like gunshots under my feet. Knocked a propane tank — a clang li
 
 I couldn't reach my trailer. Two between me and it. I veered toward Henderson's place, saw the gap between skirting and ground, and my body threw itself flat before my brain gave permission.
 
+Here is what happens when a hundred and eighty pounds of teenager dives for an eighteen-inch gap between vinyl skirting and gravel: the stomach hits first. Not the hands, not the chest — the stomach, because that's where the weight is, and the weight is what gravity cares about. The impact compressed everything in my abdomen upward and I vomited — instantly, violently, the cold SpaghettiOs from six hours ago coming up in a hot rush across the dead leaves and my own forearms. I didn't stop moving. You can vomit and crawl simultaneously; I learned this the way I learn everything, by doing it wrong in real time. The skirting's raw edge caught my back as I scraped under — a vinyl lip with an aluminum rail behind it — and I felt it open the skin along my shoulder blade in a line that was either three inches or six inches long; I couldn't tell and it didn't matter because I was under the trailer and nothing else mattered.
+
 ---
 
 Seven hours under Mr. Henderson's trailer.
 
-Eighteen inches of clearance. Face in dead leaves and mud. Can't roll over. Can't sit up. Through the lattice skirting I could see feet — bare, shoed, standing in a loose cluster. Four, then six, then more. The drone continued for the first hour, drawing them in.
+Eighteen inches of clearance. Face in dead leaves and mud and my own vomit, which I'd crawled through and was now lying in. Can't roll over. Can't sit up. Every movement produced sound — the crinkle of leaves, the wet shift of mud, the scrape of my jacket against the trailer's underside. I learned to breathe without moving my chest, pulling air in shallow sips, because even the rise and fall of my ribs made the leaves rustle.
+
+Through the lattice skirting I could see feet — bare, shoed, standing in a loose cluster. Four, then six, then more. The drone continued for the first hour, drawing them in.
 
 At one point a face appeared at the gap in the skirting. Upside down. Someone bending to look. I pressed my face into the mud and stopped breathing and the face was there for ten seconds and then withdrew. They couldn't reach me. They didn't try to tear the skirting off. This was important data — in small numbers, they didn't dismantle structures. They herded, they waited, they applied pressure. But they didn't attack.
 
 I stored this.
 
-It got dark. Temperature dropped — low forties. Mud soaked through my clothes. I started shaking so hard my teeth rattled. The condensation from the trailer's underside dripped onto my back in cold, rhythmic drops. My hand throbbed where I'd bitten it, the infection spreading its warmth into skin that was otherwise freezing, which was a horrible kind of irony — the only warm part of me was the part that was dying.
+It got dark. Temperature dropped — low forties. Mud soaked through my clothes. I started shaking so hard my teeth rattled. Something wet was spreading across my back — the cut from the skirting, or condensation dripping from the trailer's underside, or both. I couldn't see it and I couldn't reach it and I couldn't tell if the warmth was blood or the cold was water and after a while I stopped trying to distinguish them. The ground under me was wet too — mud, certainly, but also something else, a sharper smell underneath the mud-smell, and I realized I was lying near what was probably a sewage line connection, and the wetness seeping through my shirt might be mud or might be something I was choosing not to name. My hand throbbed where I'd bitten it, the infection spreading its warmth into skin that was otherwise freezing, which was a horrible kind of irony — the only warm part of me was the part that was dying.
 
-But the cold did something I didn't expect. It killed the panic. Not immediately — the first hour I was terrified. But as hypothermia crept in, the fear receded. My body redirected every resource to not freezing, and it turns out fear and cold compete for the same energy and cold wins. By hour three I was just miserable. By hour five my emotional range had narrowed to a single point: *survive this minute.* No future. No past. Just mud and cold and the need to keep shaking because shaking meant my body was still trying.
+Sometime around hour three my thinking started to go sideways. Not panic — something quieter, more insidious. The cold and the dark and the immobility were doing something to my rational brain, loosening its grip. I started believing things I wanted to believe. Mom was fine — she'd locked herself in the supply closet at Johnson Regional, the one she'd pointed out to me once during a tour, the one with the deadbolt. She was in there right now with water and supplies and she was waiting for me. I was going to crawl out of here and walk home and she'd be there. The cavalry was coming. The National Guard was staging outside town, waiting for daylight. By morning there'd be Humvees on Highway 21 and people with bullhorns and someone would wrap me in a blanket. These weren't hopes. They were certainties — my brain manufacturing them with the same conviction it usually reserved for things I'd actually observed. The cold was killing my ability to tell the difference between what I wanted and what was real, and the things I wanted were flooding in through the gap.
+
+I caught myself. Not completely — you can't completely override a brain that's hypothermic and terrified and lying in its own vomit. But I caught enough of it to recognize what was happening: my rationality was failing, and the failure felt like comfort, and the comfort was a trap. The same trap the Turned used — not the grin, not the herding, but the deeper one. The one where your own mind offers you a story that feels better than the truth, and you take it because the truth is mud and cold and eighteen inches of clearance and the sound of something chewing in the dark.
+
+I held onto the data. The notebook entries. The observations. Pembrook's face. Lisa's scream. The mechanism. I held onto them like handholds and I didn't let the comfortable lies wash them away, and it was the hardest thing I'd ever done, harder than the cold, harder than the crawl, because the lies were warm and the truth was freezing.
+
+But the cold did something I didn't expect. It killed the panic. Not immediately — the first hour I was terrified. But as hypothermia crept in, the fear receded. My body redirected every resource to not freezing, and it turns out fear and cold compete for the same energy and cold wins. By hour five my emotional range had narrowed to a single point: *survive this minute.* No future. No past. Just mud and cold and the need to keep shaking because shaking meant my body was still trying.
 
 The Turned drifted away in ones and twos. By 2 AM the gravel was quiet.
 
-I crawled out. My muscles had locked. Every movement was clarifying pain. I walked back to my trailer — not ran, *walked* — through the gap between the dumpster enclosure and the back fence. The gravel crunched and I went slow enough that each step was a single small sound, and no heads turned.
+I crawled out. My muscles had locked. Every movement was clarifying pain. My back burned where the skirting had cut me, and my arms were cross-hatched with scratches from the gravel and the lattice frame, and the vomit had dried in my hair and on my forearms. I walked back to my trailer — not ran, *walked* — through the gap between the dumpster enclosure and the back fence. The gravel crunched and I went slow enough that each step was a single small sound, and no heads turned.
 
-Cold shower in the dark. The mud ran off in grey rivulets. I sat on the shower floor and shook.
+Cold shower in the dark. The mud ran off in grey rivulets. The water over the cut on my back made me hiss through my teeth. Blood and dirt and things I didn't want to identify swirled down the drain. I sat on the shower floor and shook.
 
 After, wrapped in every blanket I owned, sitting on the bathroom floor with *Brunner & Suddarth* open on my knees, I wrote:
 
@@ -152,7 +162,7 @@ I woke on the bathroom floor with a dead arm and a fever. The bite on my hand wa
 
 I was at the kitchen window eating peanut butter from the jar when the back door opened.
 
-No knock. No warning. The handle turned and a girl was standing in the doorway with her hands raised, palms out. She was tall, lean, dark-skinned, hair pulled back in a knot, wearing track pants and an ARLINGTON TIGERS hoodie. Her eyes were wide and her breath was fast but controlled — scared, not panicking.
+No knock. No warning. The handle turned and a girl was standing in the doorway with her hands raised, palms out. She was tall, lean, dark-skinned, hair pulled back in a knot, wearing track pants and a CLARKSVILLE PANTHERS hoodie. Her eyes were wide and her breath was fast but controlled — scared, not panicking.
 
 "Don't scream," she whispered.
 
@@ -176,7 +186,7 @@ She came in and closed the door — quietly, pressing it shut so the latch didn'
 
 ---
 
-Sienna Okafor was seventeen. She ran the 400 and 800 for Arlington High — state finals good, scholarship-talk good. Her parents had driven to Oklahoma City to get her brother Jaylen on Friday night. They hadn't come back.
+Sienna Okafor was seventeen. She ran the 400 and 800 for Clarksville High — state finals good, scholarship-talk good. Her parents had driven to Oklahoma City to get her brother Jaylen on Friday night. They hadn't come back.
 
 She'd done what I'd done: watched. But she'd watched with different eyes. She could read the Turned's gait — which ones had been athletes, which ones were new arrivals based on coordination changes. She saw transitions where I saw positions. We were the same instrument tuned to different frequencies.
 
@@ -300,4 +310,4 @@ She looked at me. The expression was complicated — frustration, respect, the l
 
 Outside, the sun was going down. The Turned shifted their positions in that slow collective turn — tracking the sunset the way sunflowers track the horizon. Lisa Anderson was among them, face smooth and tilted toward the orange light.
 
-Tomorrow we would cross Route 22.
+Tomorrow we would cross Highway 21.

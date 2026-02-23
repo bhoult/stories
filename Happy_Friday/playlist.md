@@ -31,7 +31,7 @@ No entries. I was playing Civ. The world was ending.
 **Pembrook skin:** Dull greenish-grey discoloration. Face and forearms — sun-exposed areas only. Not bruising. Not sunburn.
 - **Conclusion:** Don't know what this means.
 
-**~0800** — Ricky Sims starts truck. All three orient toward sound simultaneously. Heads swivel in unison. Begin walking toward truck ~2 mph. Ricky peels out, makes Route 22. They don't pursue the fast-moving target. Return to positions after ~1 minute.
+**~0800** — Ricky Sims starts truck. All three orient toward sound simultaneously. Heads swivel in unison. Begin walking toward truck ~2 mph. Ricky peels out, makes Highway 21. They don't pursue the fast-moving target. Return to positions after ~1 minute.
 - When engine roared, Pembrook's face changed. A grin — too wide, too many teeth. Lasted ~5 seconds. Faded to blank.
 - ~~**Conclusion:** Sound-attracted, slow-moving. Classic zombie rules — outrun them, barricade, wait for rescue.~~
 
@@ -166,7 +166,7 @@ Last one — a sergeant. Stopped shooting. Stood there. They walked right past h
 
 ## Day 5 (Tuesday)
 
-**~0715** — Crossed Route 22 with Sienna. 200 yards to Jim's church. Six Turned visible.
+**~0715** — Crossed Highway 21 with Sienna. 200 yards to Jim's church. Six Turned visible.
 
 **Pembrook skin:** Discoloration darker than two days ago. Greyish-green spreading down forearms.
 - ~~**Conclusion:** Decomposition? They're breaking down.~~

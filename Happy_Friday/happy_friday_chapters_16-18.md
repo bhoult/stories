@@ -22,7 +22,7 @@ Jim closed his Bible. "I'll go talk to him."
 
 "Jim, there's fifty-one of them around his house. You can't walk through that."
 
-"I can walk through anything." He said it without arrogance. Simple faith, the kind that had carried him across Route 22 every day for three weeks. And he was right — he could. The metoprolol and the belief and the practiced calm made him invisible even in crowds. But walking through fifty-one to deliver a message Craig wouldn't hear was a risk I couldn't let him take.
+"I can walk through anything." He said it without arrogance. Simple faith, the kind that had carried him across Highway 21 every day for three weeks. And he was right — he could. The metoprolol and the belief and the practiced calm made him invisible even in crowds. But walking through fifty-one to deliver a message Craig wouldn't hear was a risk I couldn't let him take.
 
 "What are you going to tell him that you haven't already told him?"
 
@@ -198,7 +198,7 @@ Ruth: "You're saying their death made us less safe."
 
 **Two.** The Turned's behavior was changing.
 
-"They're not just herding anymore. I've been watching the patrol patterns from the steeple and they've shifted. Two weeks ago, the Turned near the church drifted — aimless circuits, no apparent purpose. Now they're checking doors. Systematically. A Turned man I've been tracking — the one in the Carhartt jacket, from across Route 22 — spent thirty minutes yesterday working his way down the block, pushing on every door, testing every window. When he found one unlocked, he went inside. He was inside for about ten minutes. He came out carrying something — I couldn't see what. Food, probably."
+"They're not just herding anymore. I've been watching the patrol patterns from the steeple and they've shifted. Two weeks ago, the Turned near the church drifted — aimless circuits, no apparent purpose. Now they're checking doors. Systematically. A Turned man I've been tracking — the one in the Carhartt jacket, from across Highway 21 — spent thirty minutes yesterday working his way down the block, pushing on every door, testing every window. When he found one unlocked, he went inside. He was inside for about ten minutes. He came out carrying something — I couldn't see what. Food, probably."
 
 I turned a page in the notebook.
 
@@ -431,7 +431,7 @@ Marcus packed the CB radio. He'd been listening every evening, catching fragment
 
 Eighty meters. A circle of safety in a world that had none. It was waiting for us on the other side of the mountains, and all we had to do was walk sixty miles through the most rugged terrain in the state at the pace of a seventy-two-year-old woman without anyone's heart rate crossing a line that none of us could see.
 
-I sat in the steeple one last time. The parking lot, the road, the trailer park across Route 22. My trailer was still there — Lot 7, the one with the dented mailbox and the propane tank I'd knocked with my hip on the night of my first mistake. Somewhere inside it, on a shelf above the washer-dryer, *Brunner & Suddarth's Medical-Surgical Nursing* sat where I'd left it, open to the chapter on the autonomic nervous system, the passage about cognitive dissonance circled in pencil.
+I sat in the steeple one last time. The parking lot, the road, the trailer park across Highway 21. My trailer was still there — Lot 7, the one with the dented mailbox and the propane tank I'd knocked with my hip on the night of my first mistake. Somewhere inside it, on a shelf above the washer-dryer, *Brunner & Suddarth's Medical-Surgical Nursing* sat where I'd left it, open to the chapter on the autonomic nervous system, the passage about cognitive dissonance circled in pencil.
 
 I wouldn't go back for it. The textbook had taught me what it could. Everything after this would be learned on the trail.
 

@@ -2,7 +2,7 @@
 
 We heard the bullhorn on Day 10.
 
-I was in the steeple on morning watch — 6 AM, the early October light catching frost on the parking lot gravel, the Turned in their positions like chess pieces on a board I was learning to read. Sixteen of them now. The newest arrival was a woman in hospital scrubs who'd walked in from the direction of Route 22 sometime in the night. She stood in the lot near the road, swaying faintly, face tilted toward the eastern horizon where the sun hadn't risen yet.
+I was in the steeple on morning watch — 6 AM, the early October light catching frost on the parking lot gravel, the Turned in their positions like chess pieces on a board I was learning to read. Sixteen of them now. The newest arrival was a woman in hospital scrubs who'd walked in from the direction of Highway 21 sometime in the night. She stood in the lot near the road, swaying faintly, face tilted toward the eastern horizon where the sun hadn't risen yet.
 
 Then, from the north — maybe three blocks — a voice, amplified, distorted by distance and cheap electronics:
 
@@ -16,7 +16,7 @@ I went downstairs.
 
 ---
 
-"Craig Lyle," Jim said. He was sitting at the folding table with his coffee, his metoprolol, and his Bible. He didn't look surprised. "Sheriff's deputy. His wife Tammy runs the range on Highway 22. Son Brett, plays linebacker for Arlington."
+"Craig Lyle," Jim said. He was sitting at the folding table with his coffee, his metoprolol, and his Bible. He didn't look surprised. "Sheriff's deputy. His wife Tammy runs the range on Highway 64. Son Brett, plays linebacker for Clarksville."
 
 "He's using a bullhorn," I said.
 
@@ -252,7 +252,7 @@ Dale didn't answer. His knife moved. The wood curled.
 
 ---
 
-I went up to the steeple after the broadcast. I needed to think, and thinking happened better with the binoculars and the long view — the park, the road, the Lyles' compound to the north, the Walmart to the east. The October sun was low, casting long shadows across the parking lot. The Turned stood in their positions, faces angled toward the light.
+I went up to the steeple after the broadcast. I needed to think, and thinking happened better with the binoculars and the long view — the park, the road, the Lyles' compound to the north, the Walmart across the interstate to the south. The October sun was low, casting long shadows across the parking lot. The Turned stood in their positions, faces angled toward the light.
 
 I was revising assumptions. This was the process — the thing *Brunner & Suddarth* didn't teach but that the situation was teaching me, one failure at a time. You observe. You form a model. The model predicts behavior. When the behavior deviates from the prediction, you revise the model. You don't get attached to the model. You don't defend it. You let it be wrong and you build a better one.
 
@@ -342,7 +342,7 @@ At the corner of Cedar, Sienna stopped. "I'll be here. I can see the porch from 
 
 "Okay."
 
-"Nate." She touched my arm. Brief. The second time she'd done this — the first was crossing Route 22, when I was spiraling. Both times the contact broke something loose in my chest and I didn't know what to call it except that it was the opposite of fear. "You're doing the right thing."
+"Nate." She touched my arm. Brief. The second time she'd done this — the first was crossing Highway 21, when I was spiraling. Both times the contact broke something loose in my chest and I didn't know what to call it except that it was the opposite of fear. "You're doing the right thing."
 
 "The right thing would have been doing it three days ago."
 

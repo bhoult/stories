@@ -1,6 +1,10 @@
 # Chapter 7: The Pattern
 
-We crossed Route 22 at 7:15 AM on a Tuesday in October, which is not a sentence I expected to describe as the bravest thing I'd ever done.
+We crossed Highway 21 at 7:15 AM on a Tuesday in October, which is not a sentence I expected to describe as the bravest thing I'd ever done.
+
+Sienna had slept on the couch — or not slept, more accurately. She'd lain on the couch with her shoes on and her eyes open, watching the ceiling, while I took the bathroom floor again because the bathroom was the room I'd claimed as mine through repeated misery and at this point it felt like territory. I'd given her the blanket from my mom's bed. She didn't argue. Athletes know when to conserve.
+
+I was wearing my only clean clothes — a pair of gym shorts and a Clarksville Panthers t-shirt two sizes too small that my mom had bought at a school fundraiser. Everything else I owned was in a garbage bag by the back door: the jeans and hoodie from the night under Henderson's trailer, still stiff with dried mud and vomit and whatever else had soaked into them from the ground. I'd tried to wash them in the sink. The stains faded but didn't leave. The smell faded but didn't leave. I threw them away eventually. Some things don't come clean.
 
 Two hundred yards. My back door to Jim's church. In the old world, four minutes. We stood at the back door and breathed. Sienna counted — four in, hold four, out six — her voice doing more for my heart rate than any technique I'd read about. My hand throbbed in its sock bandage. The fever was low but present, a warmth behind my eyes that made everything slightly unreal.
 
@@ -16,7 +20,7 @@ We moved. Slow. Measured. Sienna moved better than I did — lighter, more coord
 
 A Turned man in a Carhartt jacket took two steps toward us and stopped. Head cocked, like a dog hearing a frequency it can't place. Ten seconds. Then he turned away.
 
-We reached Route 22. Asphalt empty in both directions. Crossed. Past the church parking lot I could see the sign — hand-lettered on cardboard, propped in the side window, angled toward the road. Block letters in black marker:
+We reached Highway 21. Asphalt empty in both directions. Crossed. Past the church parking lot I could see the sign — hand-lettered on cardboard, propped in the side window, angled toward the road. Block letters in black marker:
 
 **KEEP CALM. COME INSIDE. DON'T RUN.**
 
@@ -123,7 +127,7 @@ Maria was reorganizing the food pantry closet. She'd taken everything off the sh
 
 "Alphabetical would be more practical," Ruth said.
 
-"Caloric density per unit of weight," Maria said, without turning around. "The heavy, low-calorie items go in the back. You move them last."
+"Caloric density per unit of weight," Maria said, without turning around. "The heavy, low-calorie items go in the front. You eat those first while you're stationary. The light, high-calorie stuff goes in the back — that's what you grab if you have to move."
 
 "That's not alphabetical."
 
@@ -137,7 +141,7 @@ Maria almost smiled. It was a small, bitter thing — the kind of smile that say
 
 "I'm sure you can, dear." Ruth went back upstairs.
 
-Maria finished the closet. I noticed she'd arranged it so the items they'd reach for most often — the ones they ate daily — were at eye level and within easy reach, and the items they'd need in an emergency — the high-calorie, long-shelf-life things — were on the top shelf, visible but not immediately accessible. It was the organizational equivalent of a fire extinguisher: always visible, not in the way.
+Maria finished the closet. I noticed she'd arranged it so the heavy items — canned vegetables, jars of sauce, the things with the most weight per calorie — were at the front and bottom, easy to reach, meant to be consumed first while we were sheltering in place. The light, calorie-dense items — jerky, nuts, protein bars, dried fruit — were in the back and on the top shelf, packed tight and ready to grab. If we had to leave in a hurry, you'd sweep the top shelf into a bag and go, and what you carried would be light and would keep you alive the longest. It was the organizational logic of someone who had already accepted that staying wasn't permanent.
 
 "How long will this last?" I asked. Meaning the food.
 
@@ -155,7 +159,7 @@ On the second day at the church, she announced she was going to scout the surrou
 
 She came back three hours later.
 
-I was in the steeple — we'd established an observation post, two-hour shifts — and I watched her cross Route 22, moving well. Then I watched her face as she came through the side door, and I knew something was wrong because her expression had the particular flatness of someone who has seen something they can't process and has decided to postpone processing it.
+I was in the steeple — we'd established an observation post, two-hour shifts — and I watched her cross Highway 21, moving well. Then I watched her face as she came through the side door, and I knew something was wrong because her expression had the particular flatness of someone who has seen something they can't process and has decided to postpone processing it.
 
 She climbed to the steeple. We sat on opposite sides of the narrow space, the binoculars between us, the late October sun cutting through the louvers.
 
@@ -211,7 +215,7 @@ She looked at me. The expression was unreadable. Then she said, "You're not bad 
 
 "At being a person. You think you're bad at it. You're not."
 
-I didn't know what to do with that so I looked through the binoculars. The Walmart down Route 22 had a cluster of Turned in its parking lot — twenty, twenty-five, more than I'd seen there before. They were milling in a pattern I didn't recognize, tighter than their usual spacing, and some of them were twitchy — small jerky movements, heads snapping toward nothing, a restlessness that felt different from their normal stillness. Like a voltage building up. Like static before a storm.
+I didn't know what to do with that so I looked through the binoculars. The Walmart across I-40 had a cluster of Turned in its parking lot — twenty, twenty-five, more than I'd seen there before. They were milling in a pattern I didn't recognize, tighter than their usual spacing, and some of them were twitchy — small jerky movements, heads snapping toward nothing, a restlessness that felt different from their normal stillness. Like a voltage building up. Like static before a storm.
 
 I wrote it in the notebook: *Walmart cluster. ~25. Agitated. Something different about the group dynamics at this density. Watch this.*
 
@@ -229,7 +233,7 @@ Later that night, I couldn't sleep. I went to the sanctuary and found Jim sittin
 
 "No."
 
-"It's not believing when things are good. It's not even believing when things are bad. The hardest part is believing when things are *meaningless.* When there's no plan, no purpose, no lesson. When it's just — an organism on a comet and some bad chemistry and none of it was aimed at us."
+"It's not believing when things are good. It's not even believing when things are bad. The hardest part is believing when things are *meaningless.* When there's no plan, no purpose, no lesson. When it's just — some biology gone wrong. Some accident nobody caused and nobody deserved and none of it was aimed at us."
 
 I sat down. One pew back. Giving him the space.
 
@@ -346,9 +350,17 @@ Marcus was quiet for a moment. Then: "How many bodies?"
 
 "Could we drive through it?" I was still thinking like the old world. Roads go places. Cars are faster than walking. Highways are how you get from where you are to where you need to be. It seemed obvious.
 
-"Drive." He said the word like I'd suggested we fly. "Kid, I need you to understand something about vehicles in this situation. A car engine is the loudest thing in a silent world. You fire up a truck and every Turned in a half-mile radius knows where you are. The highways are funnels — they concentrate everything into narrow corridors. Every interchange, every rest stop, every truck stop is a congregation point because those are the places people went when they were trying to get out, and those people are still there, and they're not people anymore." He paused. "I drove for three days before I parked. The last ten miles I was threading between abandoned vehicles and clusters of Turned, and two of those clusters started massing up in a way I did not like. If I'd stalled, or hit something, or blown a tire — I'd be standing in a rest stop parking lot right now with a smooth face."
+"Drive." He said the word like I'd suggested we fly. "Kid, I need you to understand something about vehicles in this situation. A car engine is the loudest thing in a silent world. You fire up a truck and every Turned in a half-mile radius knows where you are. The highways are funnels — they concentrate everything into narrow corridors. Every interchange, every rest stop, every truck stop is a congregation point because those are the places people went when they were trying to get out, and those people are still there, and they're not people anymore."
 
-Roads weren't escape routes. Roads were traps — funnels that concentrated the Turned at every chokepoint. Another assumption from the old world, gone.
+He paused. Took a sip from the flask.
+
+"You need to understand what happened on the highways that first night. Everybody's in their car. Everybody's got the radio on — the emergency broadcasts, the news, the same loop of *shelter in place* and *unexplained behavioral episodes* and nobody saying what's actually happening. People are scared. People who are scared drive fast. They tailgate, they swerve, they run red lights. The radio's telling them the world is ending and they're doing eighty in a sixty trying to get home to their families or get out of the city or just get *somewhere*, and their heart rates are through the roof, and the adrenaline is pumping, and —" He spread his hands. "You see where this goes. They turned at the wheel. Doing seventy, eighty miles an hour. The Turned don't know how to drive. They don't know how to brake. The car keeps going until it hits something — a guardrail, another car, the median. And then the next car hits that one. And the car behind that one. I saw a pileup on I-40 near Ozark that was thirty vehicles deep. Some of them were still running when I drove past, engines idling, wheels against guardrails, the drivers standing in the road with smooth faces."
+
+He shook his head. "The highways didn't just fill up with Turned. They filled up with wrecks. The panic itself made the roads impassable before the Turned ever set foot on the asphalt. Every on-ramp is a bottleneck of crushed metal. Every bridge is a dam of jackknifed semis. You couldn't drive through it if the Turned weren't even there."
+
+He paused again. "I drove for three days before I parked. The last ten miles I was threading between abandoned vehicles and clusters of Turned, and two of those clusters started massing up in a way I did not like. If I'd stalled, or hit something, or blown a tire — I'd be standing in a rest stop parking lot right now with a smooth face."
+
+Roads weren't escape routes. Roads were traps — funnels that concentrated the Turned at every chokepoint, plugged with the wreckage of a million panicked drivers who turned before they reached wherever they were going. Another assumption from the old world, gone.
 
 "So roads are out."
 

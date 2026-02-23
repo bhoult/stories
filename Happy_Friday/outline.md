@@ -6,16 +6,16 @@
 
 ## SERIES CONCEPT
 
-The zombie apocalypse happened. Humanity mostly failed at it — not because people weren't brave or strong or well-armed, but because bravery, strength, and ammunition turned out to be exactly the wrong tools for the job. The people who survived weren't the ones who fought the hardest. They were the ones who paid attention.
+The zombie apocalypse happened. Humanity mostly failed at it — not because people weren't brave or strong or well-armed, but because bravery, strength, and ammunition turned out to be exactly the wrong tools for this kind of crisis. The people who survived weren't the ones who fought the hardest. They were the ones who noticed what everyone else missed.
 
-This series follows **Nate Carver**, who is fifteen years old, approximately forty pounds overweight, and has read more books than he's had conversations. He is not brave. He is not resourceful. He cannot hot-wire a car or field-dress a deer. What he can do is sit still, watch what happens, and not repeat a mistake once he's seen someone else make it. In a crisis that punishes action and rewards observation, this turns out to matter.
+This series follows **Nate Carver**, who is fifteen years old, approximately forty pounds overweight, and has read more books than he's had conversations. He is not athletic. He is not socially adept. He cannot hot-wire a car or field-dress a deer. But he is intelligent, strategically sharp, and unusually good at noticing patterns. He would rather read, play games, and eat than pretend to care about normal teenage life. In a crisis that punishes action and rewards observation, those neglected skills turn out to matter.
 
-The series is structured around a central irony: the traits that made Nate a "loser" in the old world — his passivity, his social isolation, his preference for watching over participating — become survival advantages. But the transformation is not wish fulfillment. Each advantage comes with a cost, and by the end Nate is no longer the person he was, in ways he did not choose and does not entirely like.
+The series is structured around a central irony: the traits that made Nate a "loser" in the old world — his inertia, his social isolation, his preference for watching over participating — become survival advantages. But the transformation is not wish fulfillment. Each advantage comes with a cost, and by the end Nate is no longer the person he was, in ways he did not choose and does not entirely like.
 
 ---
 
 # DIRECTIVES
-- Be cautious with "This is not X, it is Y" phrasing. Dead giveaway for AI-generated text.
+- Be cautious with "This is not X, it is Y" phrasing.
 - The story should be internally consistent. Like in software: past events relate to the current state, future events flow from the current state.
 - Characters' actions do not always need explicit justification through described thoughts. Show reasoning through behavior where possible.
 - Conceptual lessons (cognitive dissonance, neural plasticity, game theory, prisoner's dilemma) should be spread throughout the narrative, arising when Nate naturally notices their application — not front-loaded as textbook reading sessions.
@@ -269,7 +269,7 @@ Additionally, **Nate's journal entries** appear throughout, set apart from the m
 **Setting:** Nate's trailer, the park, a three-block radius including the church
 
 ### Chapter 1: "The Sick Day"
-Nate is home from school, skipping on a faked excuse. It's Friday. His mom left for her night shift at 6 PM with her usual parting line — "Happy Friday, bud" — which is what she says every Friday because she works weekends and Friday night is when her week gets worse. It's now 11 PM and he's deep into a *Civilization VI* marathon. He hears sirens — a lot of sirens — but sirens aren't unusual; they live near Route 22. He keeps playing. His phone buzzes with a news notification: something about a "public health emergency." He checks the internet — it works fine, but the news is all filler and no facts. Reddit is a wall of identical anecdotes. The conspiracy theories are already blooming: bioweapon, foreign attack, government experiment, 5G, Bill Gates, immigrants, God's judgment. People without answers are manufacturing them. He reads for a while, can't find anything concrete, goes back to his game.
+Nate is home from school, skipping on a faked excuse. It's Friday. His mom left for her night shift at 6 PM with her usual parting line — "Happy Friday, bud" — which is what she says every Friday because she works weekends and Friday night is when her week gets worse. It's now 11 PM and he's deep into a *Civilization VI* marathon. He hears sirens — a lot of sirens — but sirens aren't unusual; they live near Highway 21. He keeps playing. His phone buzzes with a news notification: something about a "public health emergency." He checks the internet — it works fine, but the news is all filler and no facts. Reddit is a wall of identical anecdotes. The conspiracy theories are already blooming: bioweapon, foreign attack, government experiment, 5G, Bill Gates, immigrants, God's judgment. People without answers are manufacturing them. He reads for a while, can't find anything concrete, goes back to his game.
 
 At some point he hears gunshots — distant, scattered, the kind you hear in rural Arkansas often enough that it takes a moment to realize the *pattern* is wrong. Not hunting rifles. Handguns. Rapid. Too many, too fast, from too many directions. Then they stop.
 
