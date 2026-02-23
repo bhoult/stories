@@ -90,6 +90,8 @@ I couldn't solve it from the inside. I wrote it in the notebook and put a star n
 
 I watched the park. The Turned had multiplied — eleven now, some familiar, some drifted in from Highway 21. They stood in a pattern that covered the exits: drive, gaps between trailers, the route to the road. A net.
 
+Two of the newer arrivals moved differently from the originals. Pembrook and Lisa stood like statues — patient, still, conserving. These two were restless. They drifted between trailers with their heads moving, scanning, the posture of something searching for something specific. One of them stopped at the dumpster enclosure and pulled the lid up and went through it with a focus that wasn't the idle foraging I'd seen from Pembrook. This was directed. Purpose-driven. The body language of an organism running low on something it needed. I wrote it down and put a question mark next to it: *Different mode? Some of them are hungrier than others, or something else is driving the behavior.*
+
 I started the list. At the top of a new page: **PLAYLIST.** Not because it was a playlist but because naming things makes them manageable.
 
 Column one: name. Column two: what they were doing when they turned. Column three: behavior after.
@@ -264,7 +266,9 @@ This was Sienna's blind spot, and I would see it again: she defaulted to action 
 
 She went quiet. Her jaw tightened. I watched her process this — the runner's frustration at being told not to run — and for a moment I thought she'd leave, just walk out the back door and go to the interchange herself, because that was the kind of person she was, the kind who'd rather be wrong and in motion than right and still.
 
-She didn't leave.
+She didn't leave. Instead she did something I didn't expect: she closed her eyes, breathed, and when she opened them the fury had been replaced by something harder and more deliberate.
+
+"I know what I am," she said quietly. "The gun fires and you go. That's been my whole life — the starter's pistol, the first stride, everything after is just physics. And now the gun fires and going is the thing that kills you, and I have to unlearn fifteen years of training in a week." She looked at her hands. "I'm working on it. But it's like asking a fish not to swim."
 
 "Tell me what you know," she said.
 

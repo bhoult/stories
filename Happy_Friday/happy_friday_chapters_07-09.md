@@ -18,7 +18,7 @@ The park was quiet in the pre-dawn grey. Six Turned visible. Pembrook in his usu
 
 We moved. Slow. Measured. Sienna moved better than I did — lighter, more coordinated, her feet finding the quieter spots between stones. I moved like what I was: a hundred and eighty pounds of anxiety impersonating nonchalance. Each crunch of gravel sent a jolt through me that I had to manually override, and at one point Sienna's hand touched my elbow — a brief pressure — and the spiral broke and I didn't think about the fact that her hand touched my elbow because I was focused on survival and not on the warmth of the contact point, I was *not* thinking about it, I was thinking about gravel.
 
-A Turned man in a Carhartt jacket took two steps toward us and stopped. Head cocked, like a dog hearing a frequency it can't place. Ten seconds. Then he turned away.
+A Turned man in a Carhartt jacket — open, nothing under it, bare chest catching the dawn light — took two steps toward us and stopped. Head cocked, like a dog hearing a frequency it can't place. Ten seconds. Then he turned away.
 
 We reached Highway 21. Asphalt empty in both directions. Crossed. Past the church parking lot I could see the sign — hand-lettered on cardboard, propped in the side window, angled toward the road. Block letters in black marker:
 
@@ -79,7 +79,13 @@ Jim watched me process this. Then he made his decision.
 
 "There are others," he said. "Downstairs."
 
-He'd been waiting. He'd opened his door to us, given us coffee, listened to our story — but he'd kept the others hidden until he was sure. Sure of what? That we weren't going to panic. That we weren't going to bring noise and chaos and adrenaline into the one quiet place he'd built. That our hearts were steady enough to be trusted with the people he'd already gathered.
+He'd been waiting. He'd opened his door to us, given us coffee, listened to our story — but he'd kept the others hidden until he was sure. Sure of what? I understood later what Jim had been doing, because I watched him do it again with Marcus. He had a system. It wasn't written down, but it was there.
+
+First: he'd watched us cross the highway. The Turned hadn't reacted. That was the minimum — proof we were under threshold, still human enough that the organism wasn't interested. But that was necessary, not sufficient. Turned could mimic. The Knock had taught me that.
+
+Second: the coffee. Jim made coffee for everyone who came through his door, and the coffee wasn't hospitality — it was a test. He watched your hands. How you held the mug. How you adjusted your grip when the ceramic was too hot, the tiny unconscious corrections of temperature management that a living brain does without thinking. Turned could mimic speech. They could reproduce voices with disturbing fidelity. But sustained fine motor behavior — the micro-adjustments, the sipping, the way a person sets a mug down and picks it back up and the grip is slightly different each time — that was harder to fake. Jim watched our hands on the mugs the way I watched the Turned through binoculars: looking for the thing that didn't fit.
+
+Third: the conversation. Not the content — the duration. Turned could produce fragments, targeted phrases, the keys-in-locks approach from the Knock. But extended back-and-forth? Sustained dialogue with appropriate responses and emotional modulation and the thousand small adjustments a human makes during a real conversation? Jim talked to us for thirty minutes before showing us the basement. He wasn't being cautious. He was running a diagnostic.
 
 I understood this. I would have done the same thing.
 
@@ -107,7 +113,7 @@ She cleaned the wound with hydrogen peroxide from the church's first aid kit, ap
 
 "I wasn't."
 
-"You were about to be." She taped the gauze with the precision of a woman who had applied approximately ten thousand Band-Aids in her career. "Your mother is Delia Carver. I taught her. Mediocre student, excellent human being. She would be appalled by this bandage."
+"You were about to be." She taped the gauze with the precision of a woman who had applied approximately ten thousand Band-Aids in her career. I noticed — because I notice things, it's what I do instead of being useful — that her hands were not quite steady. The fine tremor was slight, almost invisible, controlled by decades of classroom discipline. But it was there. Ruth Fenn was afraid. And the grammar corrections, the brisk authority, the thirty-nine years of teacher-voice — all of it was armor. She corrected grammar the way Dale carved wood: to keep her hands busy and her brain occupied with something she could control while the world she couldn't control came apart around her. "Your mother is Delia Carver. I taught her. Mediocre student, excellent human being. She would be appalled by this bandage."
 
 "She would."
 
@@ -191,7 +197,11 @@ Her hands were in her lap and they were steady. Her voice was steady. But her ey
 
 "I was wrong," she said. "About going back there. About the supplies. The Turned are congregating around the bodies as a food source. Going there for equipment means going through them while they're feeding. And they're — they noticed me. Not the herding behavior, not the grin. Something different. They looked at me the way —" She stopped. Tried again. "The way a dog looks at you when it's eating and you get too close. Protective. Territorial. I've never seen them do that before."
 
-"That's new," I said. "The herding behavior is about reproduction — about scaring you into turning. What you're describing is about calories. Those are different drives."
+She paused. "And there was a sound. When the one closest to me looked up — it made a sound. Short, sharp, not like the drone. More like a bark. A chirp. And two others, maybe thirty yards away, immediately oriented toward it and started moving in my direction. Not the slow drift. Fast. Purposeful. Like the sound was a signal — *food here, come now.*"
+
+"And the soldiers," she added. "The ones that turned — some of them had taken off their body armor. Kevlar vests, jackets, helmets, stacked in piles next to the vehicles. Not scattered — removed. Deliberately. Like the equipment was uncomfortable, or in the way of something."
+
+"That's new," I said. "All of it. The herding behavior is about reproduction — about scaring you into turning. What you're describing is about calories. Those are different drives. And the sound — that's not the summoning drone. That's something else. Something directed."
 
 "I know what it is, Nate. You don't need to categorize it for me. They were eating people."
 
@@ -230,6 +240,14 @@ I didn't know what to do with that so I looked through the binoculars. The Walma
 I wrote it in the notebook: *Walmart cluster. ~25. Agitated. Something different about the group dynamics at this density. Watch this.*
 
 I underlined "watch this" twice.
+
+Before heading down I tried something. There was a stack of hymnals on the steeple shelf — dusty, dog-eared, left from before. I picked one up and dropped it out the louver opening. It hit the parking lot asphalt below with a flat crack that was startlingly loud in the silence.
+
+The three nearest Turned oriented instantly — heads snapping toward the sound, bodies shifting weight, the beginning of movement. They took two steps toward the noise. Then three. I counted: thirty seconds of sustained attention. Then the interest faded. Their heads drifted back. They resumed their positions, the sound already forgotten.
+
+A single noise was a glance. Brief, distractable. But the Turned at the Lyles' house responded to the continuous bullhorn. A sustained noise was a summons. The difference between a dropped hymnal and a bullhorn was the difference between a glance and a stare, and the stare was what brought them in.
+
+I wrote this down. It seemed like the kind of thing that might matter later.
 
 ---
 
@@ -289,13 +307,21 @@ He sat in the dark pew and I sat behind him and neither of us said anything else
 
 *The Walmart cluster is getting dense. Twenty-five, maybe more. Something in their behavior changes at density — a restlessness, a twitchiness. I need to watch this. I think there's a threshold where the collective coordination breaks down into something worse.*
 
+*Sienna heard a new sound at the interchange — short, sharp, like a call. Two Turned oriented immediately and moved toward it. This isn't the summoning drone. The drone says "something is happening here." This sound says "food here, come now." The herding is about reproduction. The feeding is about calories. And the call Sienna heard is about coordination during feeding. Three different modes. Three different signals. I'm building a taxonomy of something I don't fully understand yet, and the taxonomy is growing faster than my understanding.*
+
+*The soldiers at the interchange had removed their body armor and jackets. Pembrook's bathrobe is open, nothing underneath. The woman from the laundry building took off her shoes and placed them on the curb. The Turned are shedding clothing. I don't know why. The sun-facing and the undressing have to be connected — the exposed skin is always the skin facing the light — but I can't see the mechanism yet.*
+
 *Jim doubts his faith in private and performs it in public and the performance saves lives. I understand the mechanism in private and fail to act in public and the understanding saves nobody. There's a lesson here about the relationship between knowledge and courage and I don't like what it says about me.*
+
+*I felt a small ugly satisfaction when Jim's eyes changed — when I explained the mechanism and he realized I'd figured out something he hadn't. When I identified the metoprolol before he'd connected it. Knowledge as advantage. The fifteen-year-old who knew more than the pastor, the trucker, the teacher, the recovering addict. I liked that feeling. I liked being the smartest person in a room where everyone was older than me, and I liked it in a way that tasted wrong, like sugar on an infection. Being right is not the same as being useful. Knowing is not the same as doing. And the pride I felt in my analysis was the same locked door I'd been standing behind since Lisa Anderson — the one that let me be exactly who I already was: a smart kid who watched and wrote things down while other people walked into the world and tried.*
 -e 
 ---
 
 # Chapter 9: The Asset
 
 On the eighth day, a man walked into the church carrying a CB radio, a case of truck-stop beef jerky, and a flask of bourbon. His name was Marcus Webb. He was forty-two. He was a long-haul driver out of Tulsa who'd been hauling industrial shelving on I-40 when the highways turned into what he described as "a parking lot made of fire."
+
+Jim made coffee. I watched him do it — the same ritual, the same unhurried motions, the same thirty minutes of conversation while Marcus held the mug in both hands and Jim watched the way the hands adjusted to the heat. The same diagnostic. When Marcus set the mug down and picked it back up with a slightly different grip — the unconscious micro-correction that living hands make without thinking — Jim's shoulders relaxed by a fraction that only I noticed because I'd been watching for it. Marcus was human. The coffee had confirmed it.
 
 He sat in the basement on a folding chair too small for him and told us about three days in a truck cab. He said it flatly, without drama, with the cadence of a man who had been alone a long time and had decided to report rather than feel.
 

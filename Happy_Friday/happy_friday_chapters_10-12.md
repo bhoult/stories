@@ -2,7 +2,7 @@
 
 We heard the bullhorn on Day 10.
 
-I was in the steeple on morning watch — 6 AM, the early October light catching frost on the parking lot gravel, the Turned in their positions like chess pieces on a board I was learning to read. Sixteen of them now. The newest arrival was a woman in hospital scrubs who'd walked in from the direction of Highway 21 sometime in the night. She stood in the lot near the road, swaying faintly, face tilted toward the eastern horizon where the sun hadn't risen yet.
+I was in the steeple on morning watch — 6 AM, the early October light catching frost on the parking lot gravel, the Turned in their positions like chess pieces on a board I was learning to read. Sixteen of them now. The newest arrival was a woman in hospital scrubs who'd walked in from the direction of Highway 21 sometime in the night. She stood in the lot near the road, swaying faintly, face tilted toward the eastern horizon where the sun hadn't risen yet. Her scrub top was gone — just the pants and a sports bra, her torso bare to the morning air. The skin across her shoulders had the faint greenish cast I'd been tracking, darker than Pembrook's had been at the same stage. She'd removed the top herself. It was folded on the curb behind her, neat, deliberate, the way you'd fold laundry.
 
 Then, from the north — maybe three blocks — a voice, amplified, distorted by distance and cheap electronics:
 
@@ -142,11 +142,15 @@ She went to bed. I sat at the table and stared at my map and thought about the d
 
 *Day 10. The Lyles are three blocks north. Armed, fortified, broadcasting. Drawing Turned like a magnet. Jim tried to talk to them. Craig listened and didn't hear.*
 
-*I've been wrong about an assumption. I assumed the Turned's behavior was binary: either herding or not. But watching the Walmart cluster and now the Lyles, I think there's a spectrum. Low density: passive positioning, individual foraging. Medium density: coordinated herding, the grin, the voice mimicry. High density: something else. Something I haven't seen yet but can feel building. The twitchiness at the Walmart. The way they move differently when there are enough of them. There's a threshold where the patience breaks and what replaces it is worse.*
+*I've been wrong about an assumption. I assumed the Turned's behavior was binary: either herding or not. But watching the Walmart cluster and now the Lyles, and going back through the interchange report, I think there are at least three modes. The first is herding — patient, strategic, the fear-farming. The second is what Sienna saw at the blockade: a sound, sharp and short, and others orienting to it. Directed. Purposeful. Food-driven. Not herding — something more like hunting, though I'm not ready to call it that yet. The third is what happens when density tips — the swarm, the demolition behavior, the thing Moss described without naming. Herding is coordinated strategy. The food-driven behavior is coordinated predation. The swarm is the coordination collapsing entirely.*
+
+*Three modes. I need a better taxonomy but the pattern is there.*
+
+*The clothing pattern is also there. Scrub woman removed her top. Pembrook's robe has been open since day one. The garden woman lost her shoes first. At the interchange, soldiers had removed body armor and jackets. The oldest Turned are the most exposed. Bare feet first, then shirts. The organism is removing clothing and I don't know why but the sun-facing and the undressing have to be connected. The green skin, the light orientation, and now the systematic removal of anything that covers the skin. I'm circling something I'm not ready to name.*
 
 *I need to watch the Lyles' perimeter. I need to count. I need to know where the number is when it tips.*
 
-*Maria is already planning what to do with their supplies. This is either pragmatism or something darker and I genuinely can't tell which. Dale heard her and his knife stopped moving for about five seconds, which is the longest I've ever seen Dale's hands be still.*
+*Maria is already planning what to do with their supplies. This is either pragmatism or something darker and I genuinely can't tell which. Dale heard her and his knife stopped moving for about five seconds, which is the longest I've ever seen Dale's hands be still. Maria saw it too — her eyes tracked his hands, held there for a beat, then went back to the cans. She didn't soften. But she saw the cost. I think she always sees the cost. I think the cost is what she's calculating when the rest of us think she's just counting cans.*
 
 *I told Craig's situation was cognitive dissonance. I'm starting to think mine is too. I understand the mechanism and I still can't make myself act on it. Knowing the right thing and doing the right thing are separated by a gap I haven't figured out how to cross. The textbook doesn't have a chapter for that.*
 -e 
@@ -266,7 +270,59 @@ It wasn't a scream — it was a name, pulled out of him like something physical.
 
 Marcus said nothing. After a minute his breathing slowed. He lay back down. The dark settled over us again.
 
-In the morning nobody mentioned it. But I wrote it in the notebook: *Marcus dreams about Ava. The phone screen going dark. Three days in the cab with nothing but bourbon and a dead phone and the sound of Turned walking past the windows. He carries the dream the way he carries the phone — something broken he won't put down.*
+In the morning nobody mentioned it. But the silence had a different quality — not the comfortable silence of the evening before but the silence of people who'd all been awake in the dark thinking the same thing and waiting for someone else to say it.
+
+I said it. Over breakfast — the cold oatmeal, Ruth's insistence — I said: "What happens if someone turns from a nightmare?"
+
+The oatmeal got very quiet.
+
+"The mechanism is fear," I said. "Adrenaline, cortisol, sustained sympathetic activation. Nightmares produce all of those. We're sleeping six feet apart in a basement. If someone crosses the threshold in their sleep —"
+
+"They wake up Turned," Dale said. His voice was flat. He wasn't speculating. He was running the scenario the way a man in recovery runs relapse scenarios — not *if* but *when*, not *could it happen* but *what does it look like when it does.*
+
+"Would we know?" Ruth asked. Her hands were steady on her coffee mug but her knuckles were white. "If someone turned in their sleep. Would we know immediately, or would they — would the organism —"
+
+"Mimic," I said. "The organism mimics. That's what herding *is.* It uses the host's voice, the host's face. If someone turned in the dark, alone, among sleepers —" I stopped. The image was there: one of us, lying still, eyes open in the dark, the grin spreading, listening to the others breathe. Using our names. *Hey, you okay?* in a voice you'd been trusting for two weeks. "We might not know until it was too late."
+
+The basement was very still.
+
+Maria spoke first. "We post a watch. One person awake, all night, watching the others sleep."
+
+"Watching for what?" Dale said. "The smile? Heart rate? How do you tell the difference between a nightmare and a conversion when both look like someone thrashing in the dark?"
+
+"Blood pressure cuff," I said. "Mine reads continuously. If someone spikes above threshold —"
+
+"One cuff for seven people. And the person wearing it is the one you're monitoring, not the six you aren't."
+
+Jim had been listening with his hands folded, the posture he used when he was organizing something in his head before releasing it. "We post a watch," he said. "Not to monitor. To *be there.* One person awake, watching the sleepers. Not because we can prevent a turning — we probably can't. But because if it happens, someone is awake to respond. To wake the others. To get people out."
+
+Ruth set her mug down. "You're asking us to watch each other the way we watch *them.*"
+
+"I'm asking us to love each other enough to stay awake."
+
+Dale's knife was moving — fast, sharp strokes. "I'll sleep separated. Upstairs. Away from the group."
+
+"Dale —"
+
+"My withdrawal spikes in the early morning. Three, four AM. That's when my cortisol peaks. If anyone in this room is going to turn from a nightmare, it's me, and I'd rather be upstairs alone than downstairs among people I —" He stopped cutting. "People I don't want to hurt."
+
+"Nobody is sleeping alone," Jim said. "That's not how we do this."
+
+"Then how do we do this?" Marcus asked. He'd been quiet since the nightmare, the name still sitting in the air between us. "Because the kid's right. We're all dreaming bad. We're all spiking. And if someone turns —" He looked at me. "What do we do? Hold them down? Lock them in a room? Kill them?"
+
+Nobody answered. The word *kill* sat on the table like something physical.
+
+"We don't have to solve all of it today," Jim said. "We solve the first part. Watch rotation. Two-hour shifts. One person awake with a flashlight, watching the room. If someone spikes — thrashing, the sounds we know — the watcher wakes me. We assess together."
+
+"And if the assessment is bad?" Maria asked.
+
+"Then we deal with it. Together. In the light."
+
+We set up the rotation that morning. Two-hour shifts, midnight to six. Jim took the first slot. Marcus took second. I took third. Dale insisted on fourth — the pre-dawn hours, his worst window, arguing that if he was going to be awake sweating through cortisol spikes anyway, he might as well be useful.
+
+I wrote it in the notebook: *We are now watching ourselves the way we watch the Turned. The perimeter is inside the room.*
+
+And separately: *Marcus dreams about Ava. The phone screen going dark. Three days in the cab with nothing but bourbon and a dead phone and the sound of Turned walking past the windows. He carries the dream the way he carries the phone — something broken he won't put down.*
 
 ---
 
@@ -318,6 +374,8 @@ Jim had tried and failed. Marcus had tried and failed. They'd tried as adults, w
 
 I had the data. I had the notebook. I had Moss's broadcast transcribed in my handwriting. And I had the specific, granular, observation-by-observation record of every pattern I'd tracked for two weeks — the herding mechanics, the density changes, the behavioral shifts at concentration. I couldn't make Craig *believe.* But I could make it harder for him to dismiss.
 
+There was something else, too. Something I didn't want to examine but I'm writing this journal to be honest, so: I wanted to go because I thought my framework was better. Jim had tried faith. Marcus had tried authority. Neither had worked. And there was a part of me — the part that had spent thirteen years being the smartest kid in the room and the least useful person in it — that thought *data* would work where faith and authority hadn't, because data was *mine*, and mine was better. The ugly word for this is vanity. The comfortable word is confidence. The honest word is somewhere between them and I hadn't found it yet.
+
 "I'm going to the Lyles," I told the group at breakfast. Cold oatmeal, no milk. Ruth had insisted on oatmeal because "it's a proper breakfast" and nobody argued with Ruth about propriety.
 
 Silence.
@@ -358,7 +416,15 @@ I nodded. I didn't tell Jim that I had no idea how to be kind under pressure. Ki
 
 The walk to Cedar Street took twelve minutes. Sienna and I moved together, side by side, through the residential blocks behind the church. The streets were quiet — most of the houses either empty or occupied by Turned who stood in yards and driveways in their positions. We passed a Turned man mowing a lawn with a push mower, back and forth, the blades long since jammed with overgrown grass but his body going through the motion — push, turn, push, turn — the muscle memory of a Saturday routine playing on loop. The mower's wheels squeaked. The sound was small and awful.
 
-At the corner of Cedar, Sienna stopped. "I'll be here. I can see the porch from this distance."
+At the corner of Cedar, Sienna stopped. She had a rock in her hand — a smooth landscaping stone she'd picked up two blocks back. I'd watched her pick it up and hadn't asked. Now she set it on top of the mailbox at the corner, positioning it carefully.
+
+"If they move toward you," she said, "I bang the rock on the mailbox. Hard, continuous. They orient to the noise — thirty seconds, maybe more. Enough time for you to move. I stop, walk back. They lose interest."
+
+The hymnal experiment. She'd been in the steeple when I dropped it. She'd been watching, and she'd built a tactic from what I'd observed, and she'd brought a rock.
+
+"You thought about this."
+
+"One of us has to." She looked at me. "I can see the porch from this distance."
 
 "Okay."
 
@@ -392,6 +458,22 @@ She looked me over. Fifteen, overweight, wearing Vacation Bible School 2019, car
 
 "Craig," she called back into the house. "Kid from the church."
 
+She opened the chain. Before I stepped inside, she looked at me — not my face, but my hands, my clothes, my posture. "Are you armed?"
+
+"No."
+
+"Are you sick? Fever, shakes, anything?"
+
+"No."
+
+"Come in."
+
+Two questions. That was Tammy's protocol — a threat assessment, not a mimicry check. *Are you armed, are you sick.* It was sensible and it was wrong and she didn't know it was wrong because she didn't know what Jim knew about the coffee and the hands and the fine motor degradation. Craig's house was checking for weapons. Jim's church was checking for humanity. The gap between those two approaches was the gap between two survival philosophies, and only one of them accounted for what the organism actually did.
+
+The living room surprised me. Brett was on the couch cleaning a shotgun — I'd expected that. What I hadn't expected were the other people. A couple in their fifties sat at the dining table, the woman holding a mug with both hands, the man staring at the plywood-covered windows with the hollow look of someone who'd been staring at plywood for days. And near the kitchen doorway, a thin man in a trucker cap leaned against the wall with his arms crossed — young, maybe mid-twenties, with road dust on his jeans and a wariness that said he'd walked a long way to get here.
+
+The bullhorn had worked. Not just on the Turned.
+
 ---
 
 Craig Lyle was exactly the man I'd expected from the steeple: big, capable, composed. He wore his sheriff's department jacket like a uniform, which it was — not in the official sense anymore, but in the psychological sense, the sense that said *I am the authority here and the authority knows what to do.* He shook my hand. His grip was firm. He looked me in the eye. He was everything I wasn't: confident, physical, certain.
@@ -410,7 +492,23 @@ I opened the notebook. I showed him the count: the Turned in his perimeter, plot
 
 "There's a threshold. When enough of them gather in a small enough space, the behavior changes. The patient herding breaks down into — the scientist calls it a 'density threshold.' Below it, they're strategic. Above it, they become destructive. Physically destructive. They've been observed tearing through structures — plywood, drywall, framing."
 
-Craig's expression didn't change. He was listening. He was evaluating. Behind him, in the living room, I could see Brett Lyle — seventeen, big, the build of a linebacker — sitting on a couch cleaning a shotgun. He looked up when I mentioned the threshold. He didn't look impressed.
+Craig's expression didn't change. He was listening. He was evaluating. Brett looked up from the shotgun when I mentioned the threshold. He didn't look impressed. The couple at the table were watching me with a different expression — not dismissal but recognition. They'd seen enough to know what I was describing. The trucker had turned his face to the plywood-covered window, arms still crossed.
+
+The man in the trucker cap spoke from the wall. "The interchange," he said. "I came through it. On 40, east of Ozark." He looked at me. "You know about it?"
+
+"My friend was there. She saw it."
+
+"The soldiers were defending it. Full checkpoint — barricades, vehicles, weapons. They held it for maybe four days." He paused. "On the fourth day the Turned came through the barricades like they weren't there. Not walking. Running. Screaming. The soldiers fired and every shot drew more. The noise — the guns, the shouting, the engines — it was like ringing a dinner bell. The soldiers who didn't run got —" He stopped. "The ones who ran survived. The ones who fought didn't."
+
+The couple at the table hadn't moved. The woman's knuckles were white on her mug. She'd heard this before. She was hearing it again and it was not getting easier.
+
+"That's one incident," Craig said from behind me. He'd been listening. "One checkpoint, one bad night. It doesn't mean —"
+
+"It means exactly what the kid is saying," the trucker said. "Defense draws them. Noise feeds them. Every fortress is a countdown." He looked at me again. "Your friend — she said the same thing?"
+
+"Word for word."
+
+Craig's jaw tightened. He turned to me fully.
 
 "Son," Craig said. "I appreciate you walking over here. I appreciate the data. But I've been in law enforcement for twenty years. I've handled armed standoffs, domestic sieges, riot situations. I know how crowds behave. And what you're describing — staying quiet, hiding, hoping they go away — that's not a survival strategy. That's waiting to die."
 
@@ -430,7 +528,7 @@ Craig's expression didn't change. He was listening. He was evaluating. Behind hi
 
 "And if it doesn't drop? If they stay? If more come anyway? Then I've given up my power and my light and my ability to defend my family and I'm sitting in the dark with nothing. Is that what you're recommending?"
 
-Brett spoke from the couch. "This is the kid from the trailer park. The one who plays video games." He said "video games" the way you'd say "finger-painting." "He's here to tell us how to survive? Dad, come on."
+Brett racked the shotgun's slide — not loading it, just cycling the action, the mechanical sound of a statement being made. "This is the kid from the trailer park. The one who plays video games." He said "video games" the way you'd say "finger-painting." "He's here to tell us how to survive? Dad, come on."
 
 I looked at Brett. He was everything the apocalypse was supposed to reward: strong, brave, young, capable. He could run faster than me, fight harder, lift more, endure more. In every survival scenario except this one, Brett Lyle would outlive me by decades. In this one, his strengths were the mechanism of his destruction.
 
@@ -451,6 +549,8 @@ Tammy looked at Craig. Something passed between them — the compressed communic
 "Thank you, Nate," Craig said. The dismissal was polite. Complete. He walked me to the door. He shook my hand again. "Tell Jim I appreciate the concern. We'll be fine."
 
 The door closed.
+
+I stood on the porch next to Tammy's chrysanthemum and felt the specific sting of being dismissed by a man who was wrong, and then — under it, quieter — the recognition that this was exactly how Craig had felt when Jim tried. And how Jim might feel when I explained things to him. The vanity I'd carried here — *my data is better than your faith, my framework is sharper than your training* — had produced exactly the same result as every other approach. Craig's model was intact. Mine had a crack in it. The crack was this: being right and being persuasive had nothing to do with each other, and I'd confused them because confusing them let me feel superior, and feeling superior was the thing I'd been doing instead of being useful for thirteen years.
 
 ---
 
@@ -495,5 +595,9 @@ I opened the notebook.
 *Tammy listened differently than Craig. She asked about numbers. She asked about our count. I think she's running her own calculations and I think her calculations are arriving at the same place mine are. Whether she can make Craig hear what she's hearing — that's their marriage, their dynamic, their version of the prisoner's dilemma. Cooperate or hold the line. I gave them the information. What happens next is outside my control.*
 
 *I keep thinking about what Jim said: "Being right doesn't give you the right to let him die without trying." He was talking to me. He was also talking about himself. He was also talking about God, probably. Jim talks about several things at once and you don't always know until later.*
+
+*The Lyles have attracted other survivors. A couple from the subdivisions, a trucker from the highway. The bullhorn works both ways — it draws Turned and it draws people, and Craig doesn't distinguish between the two functions because both confirm his model. More people = more strength. He's right in every world except this one.*
+
+*The trucker was at the interchange. He confirmed what Sienna described — the checkpoint fell because the defense attracted the attack. The soldiers who fought died. The soldiers who ran survived. He said it to Craig's face and Craig heard it and filed it away the way Craig files everything: "one bad night." The machinery of disbelief is remarkable. You can pile data on it and it doesn't break. It just categorizes.*
 
 *Day 13. Twenty-three Turned around the Lyles. Sixteen around the church. The gap between those numbers is a measurement of the difference between being heard and being loud. I don't know which number will reach threshold first. I'm afraid I do.*

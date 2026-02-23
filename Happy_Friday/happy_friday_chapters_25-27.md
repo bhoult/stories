@@ -32,6 +32,8 @@ Ruth, leaning on her walking stick: "Is there another crossing?"
 
 I looked at the valley again. The binoculars brought the Turned into close focus — faces, bodies, the details. Some were recent — clothing intact, skin undamaged, the look of people who'd been walking for weeks but were otherwise maintained by the organism. Others were older, deteriorating — the ones from the early days, five or six weeks out, their bodies showing the wear that the organism couldn't fully prevent: sunburned skin, untreated injuries, the gauntness of inadequate nutrition. Pembrook's green had been the early sign. Down here, in the full sun of the valley floor, many of them had the same discoloration — faces and forearms tinged with that vegetal shade, the photosynthetic adaptation progressing, the organism slowly converting its hosts into something that fed on light as well as food.
 
+And the clothing. I'd been tracking it since Week One — Pembrook's open robe, the garden woman's discarded shoes, the interchange soldiers stripping body armor — and here, in a herd of hundreds, the pattern was undeniable. A visible timeline of conversion expressed in degrees of undress. The newest Turned were fully clothed, recent enough that the organism hadn't prioritized the removal. Ones from Week Two had lost shoes, jackets, hats — the outer layers gone, folded or piled nearby. The older ones, the Week One conversions, were nearly nude — shirts gone, pants gone, standing in the valley sun in nothing but the greening skin, their bodies turned toward the light like panels on a solar array. The progression was clear: the longer someone had been Turned, the less they wore. And the undressing was deliberate — not decay, not tearing, but removal. Folding. Placement. As if the organism needed the skin exposed and was systematically eliminating anything that blocked whatever the skin was doing.
+
 The swarm threshold. I did the math instantly, and the math made my vision narrow. The threshold was density-dependent, not count-dependent. Thirty in a parking lot had been enough. These were hundreds in an open valley — the density was lower than a parking lot, spread across a mile of floodplain. Were they above threshold? Below? At threshold, the behavior had been frenzy — undirected destruction, the organism's coordination collapsing into violence. But what I was seeing below was not frenzy. It was the opposite. It was a vast, eerie stillness — a coherence that went beyond the smaller groups I'd observed. As if at this scale, the organism achieved something else entirely. Not the chaotic breakdown of the swarm. A superintelligence. A collective mind, aware, patient, watching.
 
 "We walk through," I said.
@@ -273,6 +275,30 @@ The room was quiet.
 Jim, from the back row: "Where?"
 
 "I don't know. I have a hypothesis I'm not willing to broadcast because the hypothesis is speculative and I've watched enough misinformation kill people in the last six weeks to last several lifetimes." She put the marker down. "What I can tell you is this: the organism communicates. The Turned coordinate because the organism synchronizes their behavior through a biochemical signaling network that functions like a distributed nervous system. The frequency —" She gestured upward, toward the emitter on the roof. "— disrupts that synchronization. It's the biological equivalent of jamming a radio signal. I reverse-engineered it from the organism's own communication patterns."
+
+She drew a new diagram — three columns, labeled.
+
+"Behavioral states. You've identified two in your journal: herding and swarming. There's a third." She wrote it: *Hunting.* "Herding is the reproductive strategy — fear-farming, the conversion cycle, patient and coordinated. Swarming is the density-collapse behavior — the threshold event, uncontrolled destruction. Hunting is the caloric strategy — food-driven, directed, problem-solving. Small groups, coordinated by a distinct acoustic signal."
+
+"The bark," I said. "Short, sharp."
+
+She looked at me. "You've observed it."
+
+"At the interchange. And at the church — a Turned killed a cat and made the sound and another Turned a block away oriented immediately."
+
+"That signal is a dedicated hunting call. It activates other Turned within auditory range as hunters — directed, aggressive, food-motivated. Critically —" She underlined something on the board. "— the hunting state is also triggered by attack. If a Turned is struck, threatened, physically engaged, it switches to hunting mode and produces the call. The implications for armed defense are significant. Every shot fired at a Turned potentially activates every Turned within earshot as hunters. The military checkpoints failed in part because the gunfire was triggering mass hunting activation on top of the density-threshold swarm."
+
+She paused.
+
+"Hunting is metabolically driven. As caloric resources deplete — and they are depleting — hunting becomes the dominant behavior. The emitter disrupts herding and swarming coordination effectively. It's less effective against hunting because hunting is metabolically motivated, not communicatively motivated. A hungry Turned at the perimeter is testing the frequency edge not because the collective is directing it but because its individual caloric need is overriding the discomfort."
+
+She drew another diagram — a cross-section of skin.
+
+"The photosynthesis. You noted the green discoloration — the sun-facing behavior, the skin changes. The organism is introducing chlorophyll analogs into the host's dermis. The skin is becoming a solar panel. This supplements caloric intake as conventional food sources deplete." She tapped the board. "The clothing removal you've been tracking — shoes first, then shirts, then everything — is the organism systematically eliminating anything that blocks photon absorption. The host's skin needs maximum sun exposure for the photosynthetic system to function. The removal is deliberate, ordered, and accelerates as caloric need increases."
+
+"The oldest ones in the valley were nearly nude," I said. "The newest were fully clothed."
+
+"Because the older Turned have been photosynthesizing longer and the organism has had time to optimize. Given enough time, every Turned will be fully exposed. The organism doesn't need clothing and the clothing blocks a food source. Pure resource optimization."
 
 "How long will it hold?" Marcus asked.
 

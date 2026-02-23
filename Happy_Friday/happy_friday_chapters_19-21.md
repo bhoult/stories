@@ -236,6 +236,10 @@ Everyone.
 
 "That's four for four. You're all in HALT right now. Every decision you make tonight is compromised. So here's what we do: we don't make decisions tonight. We eat, we sleep, we make decisions tomorrow when at least one of those four is resolved. In recovery we call this 'urge surfing' — you ride the urge without acting on it. The urge passes. It always passes. The bad decision doesn't."
 
+He paused. The fire popped.
+
+"Tired is the most dangerous of the four," he said. "Tired is the one that feeds the others. You can manage hunger, you can manage anger, you can manage loneliness — if you're rested. But tired means sleep, and sleep means your chemistry goes unsupervised. In recovery, we relapse at night. In this —" He gestured at the dark beyond the fire. "In this, tired means the watch rotation matters more than anything. The person who stays awake so the rest of us can sleep is the person who keeps the chemistry supervised. The most important job we have is the one nobody wants — sitting in the dark, watching people breathe, making sure nobody's brain decides to betray them while they're dreaming."
+
 Jim, from his side of the fire: "That sounds like faith."
 
 Dale looked at him. "It sounds like data. The relapse rate for decisions made in HALT states is over seventy percent. That's not faith. That's statistics."

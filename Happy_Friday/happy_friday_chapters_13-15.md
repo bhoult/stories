@@ -20,6 +20,8 @@ They'd been over it. This argument — the mechanism of calm, whether it mattere
 
 The plan was simple because complicated plans produce anxiety. Marcus and Jim would walk eight blocks east on Maple Street to the Ozark Family Pharmacy. Sienna and I would watch from the steeple. Ruth, Dale, and Maria would stay in the basement. If anything went wrong — if Sienna or I saw the walkers in trouble — we would do nothing. That was the plan. Do nothing. Because running to help was the most natural, most human, most lethal response available, and the plan had to account for our instinct to be decent, and the way it accounted for it was by forbidding it.
 
+We did have one contingency. The hand-crank radio from Henderson's house — the one I'd found during scouting — was positioned on the church roof, wedged against the steeple base where it wouldn't blow off. If Jim and Marcus got into trouble, Sienna would climb out through the steeple hatch and crank it. Continuous noise, loud, from an elevated position two blocks away from the pharmacy. The hymnal experiment had shown thirty seconds of attention from a single sound. A sustained broadcast should buy longer — enough for two men to change direction, take a side street, disappear. Distraction as standard operating procedure. It wasn't much. It was what we had.
+
 Maria had argued against the mission entirely. "Jim has forty days of metoprolol. Ruth has twenty-five of atenolol. Dale has —" She'd paused, calibrating whether to say it. "Dale has his situation. We have time. Why risk two people for supplies we don't need this week?"
 
 "Because we need them next month," I said. "And next month the Turned will be more numerous, more coordinated, and more hungry. The pharmacy is eight blocks away now. In three weeks it might be inside the perimeter of a swarm cluster. The window is closing."
@@ -114,17 +116,37 @@ He didn't look up. "I know."
 
 "Fort Smith. I know." His knife moved. The wood curled. "Eighteen days is thirteen now. I've been counting."
 
-"We could try to —"
+I set a book on the table between us — the PDR, the Physician's Desk Reference, brick-thick, that Marcus had grabbed from behind the pharmacist's counter. I'd been through it already, cross-referencing everything we had against everything that could theoretically touch an opioid receptor.
 
-"Nate." He looked up. His eyes were steady. The eyes of a man who had spent six years learning that the thing you depend on always runs out, and who had rebuilt a life around that knowledge, and who was now watching it happen again with the weary recognition of a pattern he couldn't break. "I've been through withdrawal before. Not Suboxone — the real thing. Heroin withdrawal. I know what it does. The shaking, the sweating, the anxiety spike — do you understand what an anxiety spike means in this context?"
+"I looked at alternatives," I said. "Methadone — same problem, clinic-controlled, not stocked at retail pharmacies. Tramadol — we found some. It's a weak opioid agonist. It might take the edge off the worst physical symptoms, but it won't prevent full withdrawal. Think of it as a Band-Aid on a broken leg."
 
-I understood.
+"I've taken tramadol," Dale said. "It's nothing."
 
-"When the Suboxone runs out, my body is going to do the thing that gets people turned. Not because I'm weak. Not because I want to. Because the chemistry of withdrawal is a catecholamine flood — cortisol, norepinephrine, all of it — and the organism doesn't know the difference between withdrawal anxiety and genuine fear. It reads the signal, not the cause."
+"Loperamide. Imodium. High doses act on opioid receptors — they call it the poor man's methadone in some recovery circles. Helps the physical symptoms. Cramps, sweating, the GI cascade. Won't touch the anxiety, which is —"
 
-"We'll manage it. Breathing exercises. The propranolol —"
+"Which is the part that kills me. In this context. Yes."
 
-"Maybe. Maybe that's enough." He looked at the wood in his hands. "Or maybe it isn't, and you'll need to be ready for that. You specifically, Nate. Because you're the one who thinks about contingencies and you're the one who'll know when I'm past the line, and if I cross it, I need you to get the others out of the room before I —"
+"And kratom, theoretically, if we could find a head shop, but the risk of a supply run to —"
+
+"The risk isn't worth the payoff. I know kratom. It's inconsistent, under-dosed, and the withdrawal from kratom itself is its own nightmare." He set the knife down. "You researched all this."
+
+"I research everything. It's the thing I do instead of being useful." The words came out before I could stop them — the self-deprecation, the joke, the deflection Sienna had named two days ago. I heard it and for the first time I heard what she heard: not humility but armor.
+
+Dale looked at me. "The reason Suboxone matters — do you actually understand, pharmacologically?"
+
+"Partial agonist with a ceiling effect. It occupies the opioid receptors enough to prevent withdrawal without producing a high. The ceiling means you can't overdose on it the way you can with full agonists. Nothing at that pharmacy replicates that balance. Everything is either too weak to prevent withdrawal or too strong to be safe without medical supervision."
+
+"So there's no substitute."
+
+"There's no substitute. There's bridging. Propranolol for the heart rate spikes. Clonazepam for acute anxiety — carefully, because benzodiazepines have their own dependency risk. And breathing. Jim's technique."
+
+Dale picked up the knife. He was quiet for a long time. The wood curled.
+
+"In recovery," he said, "they say 'the only way out is through.' I always thought that was cheap wisdom. Something you stitch on a pillow." He turned the carving in his hands. "Turns out it's just accurate. We bridge with what we have. Propranolol, clonazepam, breathing. And when those aren't enough —" He shrugged. "Through."
+
+He was quiet for a while. The knife moved. Then he looked up, and his eyes had changed — not the flat steadiness of acceptance but something rawer. The eyes of a man who had spent six years learning that the thing you depend on always runs out, and who had rebuilt a life around that knowledge, and who was now watching it happen again with the weary recognition of a pattern he couldn't break.
+
+"You need to be ready for what happens if 'through' isn't enough," he said. "You specifically, Nate. Because you're the one who thinks about contingencies and you're the one who'll know when I'm past the line, and if I cross it, I need you to get the others out of the room before I —"
 
 He stopped. The knife was still. Maria, in the pantry closet, had her back to us but her hands had stopped moving.
 
@@ -150,7 +172,9 @@ Two days after the pharmacy run I did the stupidest thing I have ever done, and 
 
 I went scouting. Alone. Without telling anyone.
 
-The reasoning was sound. This is the dangerous thing about bad decisions — they often start with good logic. We needed a map of the surrounding blocks: which houses were occupied by Turned, which were empty, which might have useful supplies. Sienna had been scouting, but Sienna's scouting was instinctive and unstructured — she'd go out, move fast, come back with impressions. I wanted data. Grid squares. Counts. An asset map cross-referenced with the Turned position log I'd been keeping from the steeple. And I wanted to do it myself because I was the one who understood the data, and because — I need to be honest about this — the pharmacy run had made me feel competent. Jim and Marcus had walked eight blocks and back. Sienna went to the military interchange. I was the one who hadn't gone anywhere except the steeple, and the distance between "the person who plans" and "the person who acts" had started to feel like an accusation.
+The reasoning was sound. This is the dangerous thing about bad decisions — they often start with good logic. We needed a map of the surrounding blocks: which houses were occupied by Turned, which were empty, which might have useful supplies. Sienna had been scouting, but Sienna's scouting was instinctive and unstructured — she'd go out, move fast, come back with impressions. I wanted data. Grid squares. Counts. An asset map cross-referenced with the Turned position log I'd been keeping from the steeple. And I wanted to do it myself because I was the one who understood the data, and because — I need to be honest about this — the pharmacy run had made me feel smart. Not competent — *smart.* The PDR research, the medication alternatives, the way I'd walked Dale through the pharmacology while everyone else was celebrating with grape juice. Smart had become a feeling, and the feeling had a trajectory: smart became informed, informed became prepared, prepared became invulnerable. And invulnerable is the most dangerous feeling in the world because it's the one that makes you walk into a house alone at 5:30 AM with a notebook and no exit plan and think *I know what I'm doing.*
+
+Jim and Marcus had walked eight blocks and back. Sienna went to the military interchange. I was the one who hadn't gone anywhere except the steeple, and the distance between "the person who plans" and "the person who acts" had started to feel like an accusation. But that wasn't the real reason. The real reason was vanity — the same vanity that had sent me to the Lyles, the belief that my understanding was superior, dressed up as initiative.
 
 So I went. 5:30 AM, just after dawn. I left a note on the table — "Scouting nearby blocks, back by 8" — which I told myself counted as telling people and which did not count as telling people.
 

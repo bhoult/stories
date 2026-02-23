@@ -2,7 +2,7 @@
 
 I watched them die.
 
-I want to say that first because everything else I write about this night is going to be analysis, and the analysis is the thing I hide behind, and you should know — before I retreat into the numbers and the observations and the strategic vocabulary that keeps me functioning — that what happened to the Lyles was not a data point. It was three people dying while I watched through binoculars from a church steeple and did nothing.
+I want to say that first because everything else I write about this night is going to be analysis, and the analysis is the thing I hide behind, and you should know — before I retreat into the numbers and the observations and the strategic vocabulary that keeps me functioning — that what happened to the Lyles was not a data point. It was people dying while I watched through binoculars from a church steeple and did nothing. Three I'd met — the couple from the subdivisions, the trucker from the highway. Others I hadn't. The bullhorn had kept drawing them in — survivors and Turned alike — and I don't know how many people were inside that house when it came apart. Craig and Tammy and Brett. The couple whose names I never learned. The trucker who'd confirmed the interchange story to Craig's face and been filed under "one bad night." Maybe more. Enough to make what happened next not a family tragedy but something larger and worse.
 
 I am going to describe it in detail because the detail is the thing that earns what comes after. If you're going to understand the decisions I make in the next two weeks — decisions that involve other people's lives, decisions I have no right to make and no ability to avoid — you need to see what I saw. You need to know what the threshold looks like. You need to know that I know.
 
@@ -118,9 +118,9 @@ The Lyles' house was gone. Not damaged — gone. The structure had been reduced 
 
 The Turned had scattered. Post-frenzy dispersal — the same pattern I'd observed after the ranch house incident, but on a larger scale. They milled in the debris, dazed, their coordination dissolved, individuals drifting without purpose. Some of them were damaged — limbs at wrong angles, wounds that didn't bleed, the consequences of throwing human bodies through structural materials without regard for the body. They'd heal. The organism maintained its hosts. But for now they wandered through the rubble of the Lyles' home like sleepwalkers in a junkyard.
 
-I saw three new faces among them. Two I recognized: Craig, still in his sheriff's jacket, standing in his own front yard with blank eyes and a smooth face. Brett, shirtless, blood on his arms that wasn't his, drifting toward the road.
+I saw new faces among them. Craig, still in his sheriff's jacket, standing in his own front yard with blank eyes and a smooth face. Brett, shirtless, blood on his arms that wasn't his, drifting toward the road. The trucker — I recognized the cap — standing motionless near the remains of the porch. Others I couldn't identify at distance.
 
-I didn't see Tammy.
+I didn't see Tammy. I didn't see the couple from the subdivisions.
 
 I looked for her. I scanned the debris, the yard, the street. I looked for her body — dead or turned. I couldn't find her. The house was too thoroughly destroyed, the debris too scattered. She was in there somewhere, or she'd turned and I couldn't identify her at distance, or — the thought I held and turned over and didn't quite let myself believe — she'd gotten out. While Craig and Brett were drawing the swarm's attention at the back door, she'd gone through the front. While the organism was focused on the guns and the shouting, she'd walked away. Slowly. Quietly. The way I'd walked back from Henderson's trailer. The way I walked everywhere now.
 
@@ -132,7 +132,7 @@ Sienna looked at me. I looked at her. I sat down on a folding chair and I put my
 
 When I raised my head, Marcus handed me a cup of water and said "Drink this" in the tone of voice you use with someone in shock. I drank it. It tasted like nothing.
 
-"Craig and Brett turned," I said. "I saw them. I couldn't find Tammy."
+"Craig and Brett turned," I said. "The trucker too. I couldn't find Tammy, or the couple."
 
 "Maybe she got out," Sienna said.
 
@@ -202,23 +202,35 @@ Ruth: "You're saying their death made us less safe."
 
 **Two.** The Turned's behavior was changing.
 
-"They're not just herding anymore. I've been watching the patrol patterns from the steeple and they've shifted. Two weeks ago, the Turned near the church drifted — aimless circuits, no apparent purpose. Now they're checking doors. Systematically. A Turned man I've been tracking — the one in the Carhartt jacket, from across Highway 21 — spent thirty minutes yesterday working his way down the block, pushing on every door, testing every window. When he found one unlocked, he went inside. He was inside for about ten minutes. He came out carrying something — I couldn't see what. Food, probably."
+"They're not just herding anymore. I've been watching the patrol patterns from the steeple and they've shifted. Two weeks ago, the Turned near the church drifted — aimless circuits, no apparent purpose. Now they're checking doors. Systematically. A Turned man I've been tracking — the one in the Carhartt jacket, from across Highway 21 — spent thirty minutes yesterday working his way down the block, pushing on every door, testing every window. He's shed the jacket entirely now — bare from the waist up, the jacket folded on the ground near his usual position. The organism folded it. Whatever is driving them to remove clothing, it's deliberate, not decay."
 
-I turned a page in the notebook.
+I turned a page.
+
+"When he found an unlocked door, he went inside. He was inside for about ten minutes. He came out carrying something — I couldn't see what. Food, probably. And here's the thing that changes the model: when he came out, he made a sound. The same sound Sienna described at the interchange — a short, sharp bark. Two other Turned, a block away, immediately oriented and moved toward the house. They went inside. The three of them foraged together for another twenty minutes."
+
+"That's coordination," Marcus said. "That's not the herd behavior."
+
+"No. It's not. I'm calling it *hunting.*" I said the word and it sat in the room and it was the right word and everyone knew it. "Three modes now. Herding — the fear-farming, the reproduction cycle. Swarming — the density threshold, the demolition behavior. And hunting — food-driven, directed, problem-solving. Small groups, coordinated by that sound. The herding is patient. The swarming is chaos. The hunting is something in between — directed, purposeful, and triggered by caloric need."
+
+I turned another page.
 
 "Yesterday afternoon, I watched a Turned woman kill a cat in the parking lot."
 
 The table was quiet.
 
-"A stray. Tabby. It had been living in the dumpster enclosure. She caught it — she didn't chase it, she cornered it, methodically, between the dumpster and the fence — and she killed it and she ate it. Not frenzied. Not the swarm behavior. Just a single Turned individual solving a caloric problem. Crouched over it in the parking lot for maybe twenty minutes."
+"A stray. Tabby. It had been living in the dumpster enclosure. She cornered it — methodically, between the dumpster and the fence — and she killed it and she ate it. Not frenzied. Not the swarm behavior. Hunting. A single Turned individual solving a caloric problem." I paused. "The cat scratched her. Clawed her arm, deep. And when it scratched her, she made the bark — that same short sharp sound — and the Carhartt man, fifty yards away, turned and started walking toward her. She'd been attacked and the sound came out like a reflex. Like a dinner bell and a distress call at once. He arrived, saw the cat was dead, and went back to his patrol. But the implication —"
+
+"If you fight one of them," Sienna said, "the sound brings more."
+
+"And the ones that come aren't herding. They're hunting. Directed, aggressive, food-motivated. Every act of self-defense against a single Turned potentially activates every Turned within earshot as hunters."
 
 Dale's empty hands were still.
 
-"The Walmart is nearly stripped. The gardens are eaten. The garbage has been picked through. The easy food is running out. When the easy food is gone — and it's going, faster than I expected — the Turned's behavior shifts from passive foraging to active hunting. The herding was about reproduction. The hunting is about calories. And the hunting doesn't require them to scare you. It doesn't require your adrenaline. It just requires them to find you."
+"The Walmart is nearly stripped. The gardens are eaten. The garbage has been picked through. The easy food is running out. When the easy food is gone — and it's going, faster than I expected — hunting becomes the primary behavior. Not herding, not swarming. Hunting. And hunting doesn't require them to scare you. It doesn't require your adrenaline. It just requires them to find you."
 
-Maria, from her chair: "You're saying the medication doesn't protect us from this."
+Maria, from her chair: "You're saying the medication doesn't protect us from this. The beta-blockers keep us below conversion threshold. They don't do a thing against something that wants to *eat* us."
 
-"The medication protects us from conversion. It doesn't protect us from being found and eaten. Those are different threats and we've been treating them as one, and the error is going to cost us if we don't update the model."
+"Exactly. Conversion and predation are different threats and we've been treating them as one, and the error is going to cost us if we don't update the model."
 
 ---
 
@@ -244,7 +256,15 @@ I closed the notebook.
 
 The discussion took three hours.
 
-I'm not going to recount all of it because most of it was the kind of circular argument that happens when frightened people try to reach consensus about a terrifying decision, and the circularity is not a failure of the people but a feature of the fear. Every objection looped back to the same core: *here is safe and out there is not.* And every response looped back to the same counter: *here is safe now and won't be soon.* The loops intersected and diverged and re-intersected and at one point Ruth and Maria had a disagreement about food rationing that was actually a disagreement about whether leaving was an act of courage or an abandonment of everything they'd built, and at another point Dale said "I'll go wherever you need me to go" in a voice that was so flat and so steady that I realized he was already grieving his Suboxone and had made his peace with whatever came after, and that Dale's version of bravery was quieter and harder than any version I'd encountered.
+I'm not going to recount all of it because most of it was the kind of circular argument that happens when frightened people try to reach consensus about a terrifying decision, and the circularity is not a failure of the people but a feature of the fear. Every objection looped back to the same core: *here is safe and out there is not.* And every response looped back to the same counter: *here is safe now and won't be soon.*
+
+Before the leaving debate consumed everything, we formalized three protocols. The first was newcomer verification — if we encountered survivors on the trail. Jim's coffee method, refined: sustained conversation (the Turned couldn't maintain extended back-and-forth), fine motor tasks (sipping from a cup, adjusting grip as the liquid cooled — the micro-corrections degraded in Turned), and a heart rate check with the blood pressure cuff. Three gates. Anyone who cleared all three was probably still a person.
+
+The second was the watch rotation callback. "The watch rotation is the most important job we have," Jim said, "and nobody wants to do it because nobody wants to be the person who has to decide, in the dark, whether the person in the next pew is still a person." On the trail, with no basement and no walls, the watch would be even more critical. We'd sleep in shifts. The watcher would have the cuff and a flashlight and the worst job in the world.
+
+The third was distraction doctrine. I laid out what we knew by type: "Herding Turned respond to sound and light — any stimulus that might mean a panicking human. A continuous noise draws them and holds their attention for thirty seconds to a minute. Hunters are harder — directed, problem-solving, noise works only briefly because they're already locked on a target. And swarmers are beyond distraction. Once the density threshold tips and the frenzy starts, you can bang every pot in a kitchen and they won't hear you over their own destruction." The hand-crank radio would travel with us. Standard procedure for any high-risk movement: position a noise source away from the group's path before proceeding.
+
+The loops intersected and diverged and re-intersected and at one point Ruth and Maria had a disagreement about food rationing that was actually a disagreement about whether leaving was an act of courage or an abandonment of everything they'd built, and at another point Dale said "I'll go wherever you need me to go" in a voice that was so flat and so steady that I realized he was already grieving his Suboxone and had made his peace with whatever came after, and that Dale's version of bravery was quieter and harder than any version I'd encountered.
 
 Jim opposed leaving.
 
@@ -408,6 +428,10 @@ I would carry twenty-five. Maria decided this without consulting me.
 "Then improve your cardio. You have two days." She handed me a backpack — Marcus's canvas military surplus. "Start walking laps around the church yard. Now."
 
 I walked laps. Sienna walked with me. We walked in loops around the church, the gravel crunching under our shoes, the Turned in the parking lot tracking us with their slow head-turns, and we walked and walked and Sienna set the pace and I matched it and my lungs burned and my legs ached and she didn't slow down and I didn't ask her to because asking would have meant admitting I couldn't keep up and admitting I couldn't keep up would have meant — well. I didn't want to admit it. Not to her.
+
+On the sixth lap, the impulse to stop hit me like a wall. Not pain — laziness. The specific, philosophical laziness that says *this is enough, you've proven the point, sit down.* The belief that the world owed me the right to quit when I was tired. I recognized it the way you recognize your own handwriting — familiar, personal, mine. I'd been carrying this particular lie my whole life, the one that said effort had a reasonable limit and I'd reached it and anything beyond was someone else's job. In the old world, that lie had cost me grades and friendships and the respect of people who'd tried to push me. In this world, it would cost me my legs on day three of the trail and everyone else's survival along with them.
+
+I didn't stop. Not because I overcame the laziness — because Sienna was next to me and I was more afraid of her seeing me quit than I was tired. Vanity, again. But vanity in the right direction.
 
 "You're doing fine," she said, on the fourth lap.
 
