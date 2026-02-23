@@ -431,6 +431,28 @@ Marcus packed the CB radio. He'd been listening every evening, catching fragment
 
 Eighty meters. A circle of safety in a world that had none. It was waiting for us on the other side of the mountains, and all we had to do was walk sixty miles through the most rugged terrain in the state at the pace of a seventy-two-year-old woman without anyone's heart rate crossing a line that none of us could see.
 
+The last night at the church, Jim held a service. Not the brief candle-and-psalm services he'd been doing on Wednesdays — a real one. Hymns. A reading from Ecclesiastes. A silence at the end that lasted so long I thought he'd forgotten what came next, and then I realized the silence *was* what came next, and that the silence was the sermon.
+
+Afterward, nobody went to bed. We sat in the basement and talked about things that had nothing to do with tomorrow. Ruth described her first year of teaching — the room she was given, the chalk that was always the wrong color, the principal who called her "dear" until she told him to stop. Marcus talked about Ava's birthday party and the purple frosting and how she'd insisted on a theme of "dogs in space" and he'd built her a cardboard rocket ship with a stuffed beagle inside. Maria said the filing system at the law firm was the only beautiful thing she'd ever created, and the way she said "beautiful" — serious, without irony — made everyone go quiet for a moment because she meant it.
+
+Dale gave Sienna the cardinal he'd carved. She turned it in her hands, feeling the feathers he'd cut into the wood, and said, "My mom has a cardinal that comes to our feeder every morning," and Dale said, "I know. You told me," and I didn't know when she'd told him that, which meant there were conversations happening in this basement that I wasn't part of, which meant the group had grown its own connective tissue without me organizing it, and that was the best thing I'd learned in three weeks.
+
+Sienna and I ended up on the stairs, which was our spot when we needed to talk without an audience. She had her knees pulled up, her chin resting on them. I sat one step below because the stairs were narrow and proximity required negotiation.
+
+"I'm scared," she said. Not a confession. A measurement. The way she'd report a heart rate.
+
+"Me too."
+
+"Good. Honest people live longer." She bumped her knee against my shoulder. "We're going to make it."
+
+"You don't know that."
+
+"No. But I'm saying it anyway. And you're going to remember I said it on day three of the trail when your legs are gone and you want to quit. Deal?"
+
+"Deal."
+
+She went to the basement. I sat on the stairs for a while longer, listening to the sounds of people settling — blankets rustling, whispered goodnights, the small coughs and sighs that mean a room full of humans is transitioning from awake to asleep. These were the sounds of my congregation, and I use that word deliberately because Jim would understand it and because it's the right one.
+
 I sat in the steeple one last time. The parking lot, the road, the trailer park across Highway 21. My trailer was still there — Lot 7, the one with the dented mailbox and the propane tank I'd knocked with my hip on the night of my first mistake. Somewhere inside it, on a shelf above the washer-dryer, *Brunner & Suddarth's Medical-Surgical Nursing* sat where I'd left it, open to the chapter on the autonomic nervous system, the passage about cognitive dissonance circled in pencil.
 
 I wouldn't go back for it. The textbook had taught me what it could. Everything after this would be learned on the trail.

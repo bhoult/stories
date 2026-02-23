@@ -153,6 +153,16 @@ Maria finished the closet. I noticed she'd arranged it so the heavy items — ca
 
 ---
 
+That first evening in the church, with the seven of us gathered in the basement by candlelight because the overhead fluorescents hummed at a frequency Jim worried carried through the walls, something happened that I didn't expect and don't have a clinical term for: we became people to each other.
+
+Not all at once. In pieces. Ruth told a story about a student who'd brought a live frog to class in 1987 and how she'd confiscated it and kept it on her desk for the rest of the year and named it Fitzgerald. Dale showed us the beagle he was carving and said it was for his daughter, who was in Fayetteville, who he hadn't spoken to in two years because of things he'd done when he was using, and who he was going to find. Maria described her filing system at the law firm — eleven attorneys, eleven different ideas about alphabetical order — and it was the closest thing to a joke she'd told since we met her, and Jim laughed, and the sound of Jim laughing in the basement of his church while the world ended outside was so incongruous and so human that I almost cried.
+
+Sienna sat next to me. Not touching. Just near. She'd found a can of peaches in the pantry and was eating them with a plastic fork, and at one point she offered me one and I took it and the peach was sweet and cold and perfect and the conversation had moved on to something else and I ate the peach and didn't say anything and the moment didn't need me to say anything.
+
+I want you to know about these hours because they matter as much as the crises. The surviving isn't just the running and the hiding and the not-panicking. It's also the peaches. It's also the frog named Fitzgerald. It's the accumulation of small ordinary moments that remind you what you're surviving *for*, which is a question that the notebook and the binoculars can't answer.
+
+---
+
 Sienna couldn't sit still.
 
 On the second day at the church, she announced she was going to scout the surrounding blocks. Not asked — announced. I opened my mouth to argue and she said, "I'm not asking," and left through the side door before Jim could finish saying "Be careful."

@@ -122,6 +122,12 @@ I came back slowly. Not from a place — from a state. The state was the one whe
 
 On the morning of Day 38 I woke up and the analytical machinery was back online. Not fully — the crack was still there, and would be, and I could feel it the way you feel a broken bone that's been set but not healed. But the machinery was running. I could think. I could observe. I could plan.
 
+But first there was the morning, and the morning was slow. Ruth made me tea from a packet she'd been hoarding — chamomile, the paper tag still attached, the string hanging over the side of a chipped mug someone had left in the chapel's tiny kitchen. She didn't say anything while she made it. She didn't say anything when she handed it to me. She sat in the pew across from mine and read her romance novel and the only sound was pages turning and the tea cooling and the specific silence of a person who is keeping you company without requiring you to be anything.
+
+Jim came through with Caleb. Caleb climbed onto my pew and leaned against me and showed me a rock he'd found — quartz, milky, with a vein of something glittery running through it. "Marcus says it's worth a million dollars," he said. "He's lying but I'm keeping it." Then he climbed down and went outside to find more rocks, and the whole interaction lasted forty-five seconds and cost nothing and was worth everything.
+
+These are the moments that don't make the journal entries. The tea. The rock. The sound of Ruth turning pages. They happened between the crises the way grass grows between stones — quietly, persistently, without anyone deciding they should. I want you to know about them because the version of this story that only contains the fear and the strategy and the running is not the true version. The true version has chamomile tea in it. The true version has a seven-year-old showing you a rock.
+
 Dale was sitting across from me in the chapel, carving. The fox was finished. He was working on something new — a turtle, the shell emerging from the wood in careful hexagonal plates. His hands were steady.
 
 His hands were steady.

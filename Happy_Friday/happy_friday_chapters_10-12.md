@@ -252,6 +252,14 @@ Dale didn't answer. His knife moved. The wood curled.
 
 ---
 
+That evening nobody wanted to be alone and nobody wanted to talk about what Moss had said, so we didn't. Jim made coffee — the last of the good grounds, not the instant — and didn't apologize for the extravagance, which was itself a kind of statement. Ruth read aloud from her romance novel, not because anyone asked but because the silence needed filling, and she chose to fill it with a scene involving a Scottish duke and an heiress and a misunderstanding about a horse, and it was so absurdly, magnificently irrelevant that we all just listened. Maria corrected a plot point. Dale said the horse breed was wrong. Marcus said he'd driven through Scotland once and the roads were terrible. These observations had nothing to do with anything and that was the entire point.
+
+Sienna was sitting on the floor near the stairs, stretching — a habit from her old life that she maintained the way Dale maintained his carving, as a regulation mechanism, a way of telling her body it still existed for a reason. At one point she caught my eye and made a face — a small, private expression that meant *this is ridiculous and I'm grateful for it* — and I made a face back that meant approximately the same thing, and the exchange lasted half a second and contained more communication than anything I'd written in the notebook all week.
+
+We didn't solve anything that evening. We didn't plan or strategize or calculate. We just occupied the same room and let the room be enough. I am recording this because the journal is supposed to be a survival document, and this was survival — not the dramatic kind, not the running and hiding kind, but the kind where you remind yourself that the people around you are people and not just assets on a board, and that the board is not the point. The board was never the point.
+
+---
+
 I went up to the steeple after the broadcast. I needed to think, and thinking happened better with the binoculars and the long view — the park, the road, the Lyles' compound to the north, the Walmart across the interstate to the south. The October sun was low, casting long shadows across the parking lot. The Turned stood in their positions, faces angled toward the light.
 
 I was revising assumptions. This was the process — the thing *Brunner & Suddarth* didn't teach but that the situation was teaching me, one failure at a time. You observe. You form a model. The model predicts behavior. When the behavior deviates from the prediction, you revise the model. You don't get attached to the model. You don't defend it. You let it be wrong and you build a better one.

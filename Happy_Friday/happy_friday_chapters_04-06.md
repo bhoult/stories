@@ -310,4 +310,16 @@ She looked at me. The expression was complicated — frustration, respect, the l
 
 Outside, the sun was going down. The Turned shifted their positions in that slow collective turn — tracking the sunset the way sunflowers track the horizon. Lisa Anderson was among them, face smooth and tilted toward the orange light.
 
+---
+
+We stayed up long into the night. I'm not going to narrate the whole conversation because some things are worth more as memories than as transcripts, but I want you to know it happened.
+
+I talked about my mom. Not the analytical version — not the ER nurse on night shift during the outbreak, not the probability calculation I'd been running in my head since Saturday morning. The other version. The one where she lines up Saltines next to a Sprite before she leaves. The one where she stumbles over her own last name on a voicemail and I never mention it. I told Sienna about the fears I'd been carrying — that the world was going to stay like this, that the systems weren't coming back, that every strategy I could think of ended in a timeline I couldn't survive alone. I told her this because that is what a strategist does when the map runs out: he names the dark squares so they stop being infinite.
+
+She talked about Jaylen. The dinosaur quizzes. How he'd correct her with this gravity that only seven-year-olds can pull off, like the relative size of a Giganotosaurus was the most important fact in the universe. She talked about her parents and the drive to Oklahoma City and how she'd told her mom to text when they got there and her mom hadn't texted. She talked about running — how the 400-meter was her event because it was the perfect distance, long enough to require strategy but short enough to require fury, and how everything she'd built her life around was now the thing most likely to kill her. She said this without self-pity, the same way she said everything, but her hands were wrapped around her mug and they were tight.
+
+We drank Nesquik mixed with canned evaporated milk, because that was what was left in the cabinet and neither of us wanted water. It was too sweet and slightly gritty and we both drank it slowly, not because it was good but because drinking it slowly meant the conversation lasted longer, and the conversation was the first interruption in the isolation either of us had felt in days, and we were not ready for it to end.
+
+I am not going to tell you what time we finally stopped talking. I am going to tell you that when we did, the trailer was less empty than it had been since Friday, and that is a fact worth recording even if I can't measure it.
+
 Tomorrow we would cross Highway 21.

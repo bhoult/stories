@@ -128,6 +128,14 @@ We climbed. The trail switchbacked up the north bank, back into the trees, back 
 
 That night, on the ridgeline, Marcus pointed at the sky. Orion was up. The Pleiades. Caleb was asleep — finally asleep, after three hours of stillness on Marcus's back that had been its own kind of heroism for a seven-year-old.
 
+Nobody slept for a while. We sat around the fire and we shook — all of us, the collective shaking of eight people whose bodies had held steady for three hours and were now releasing the accumulated charge. It was almost funny, the whole group vibrating like a engine cooling down, and at some point Maria said "We look like a support group for people who've seen a ghost" and Ruth said "We look like a support group for people who've walked through a ghost" and Maria laughed and the laugh was too loud and too long and had tears in it and Ruth put her hand on Maria's shoulder and Maria put her hand on Ruth's hand and neither of them said anything else.
+
+Marcus made coffee. The last of the instant, dissolved in water heated over the fire, served in cups and canteen lids and, for Caleb — who woke up long enough to drink and fall back asleep — in the cap of Marcus's flask, which Marcus washed three times before using and then said, "Don't tell anyone I put coffee in the bourbon flask, it'll ruin my reputation." Dale said, "What reputation?" and Marcus said, "Exactly," and the exchange was nothing and it was the funniest thing any of us had heard in a week.
+
+Sienna sat close to me. Not the shoulder-lean from the first campfire — closer, her side pressed against mine, deliberate. Neither of us spoke about it. We'd walked through a thousand Turned that day and the relationship between the two of us had changed during the walking, not because anything dramatic happened but because you can't match breathing with someone for three hours in a field of stolen faces without something shifting at the foundation level. The shift had no name and didn't need one.
+
+Jim prayed. It was the shortest prayer he'd ever said: "Thank you." Two words. The fire popped. The stars were sharp. The mountain held us like a palm.
+
 I wrote by firelight. The notebook was nearly full. I'd need a new one soon — at the university, maybe. If the university had notebooks. If the university was real. If any of this led anywhere except further into the dark.
 
 **JOURNAL ENTRY #18:**

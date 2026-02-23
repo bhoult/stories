@@ -96,6 +96,10 @@ Ruth, descending the stairs, looked at the bottles. "That," she said, "is a meta
 
 Nobody argued with her.
 
+That night Jim broke out a bottle of grape juice he'd been saving in the sacristy — communion supplies, the good kind, not the Dollar General brand — and poured small cups for everyone, and we toasted nothing and everything, and Maria said "to surviving" and Ruth said "to antibiotics" and Marcus raised his cup and didn't say anything because he was smiling and Marcus smiling was rare enough to count as a toast on its own. Dale carved a small pill bottle out of a chunk of two-by-four and put it on the shelf next to the beagle and the cardinal, and when I asked him why, he said, "Because we did a hard thing and lived, and that should have a shape."
+
+We passed hours like that sometimes — not many, but enough. Enough to remember later. Enough to build the quiet architecture that held us together between the crises. I don't narrate all of them because some things lose their meaning when you try to pin them down with words. But they happened. They happened more often than the fear, if I'm honest. The fear was louder but the ordinary hours were longer, and if you added them up — the cups of grape juice, the chapters of the romance novel, the evenings where the only sound was Dale's knife and the hum of the emitter and someone breathing the particular way you breathe when you're almost asleep but not quite — they would outweigh the crises by a factor of ten. The journal doesn't reflect this because journals are biased toward events, and sitting together in a basement drinking grape juice is not an event. But it should be.
+
 ---
 
 That evening I distributed the medications. Jim's metoprolol was replenished — months of supply. Ruth's atenolol, the same. I set aside propranolol for Sienna — a beta-blocker she could take before high-stress situations, insurance against her baseline running hot. I set aside hydroxyzine — an antihistamine with anxiolytic properties — as a backup for anyone whose stress started climbing.

@@ -75,7 +75,35 @@ This was, in its grim way, hope. Not the kind of hope you put on a poster. The k
 I stood at the perimeter and watched the Turned sway at their line and I thought about time. About the emitter's declining curve and the organism's ascending one and the intersection point where the first would fail and the second would arrive. About the medications that would run out and the knowledge that wouldn't. About the people behind me — on the track, under the hood, in the library, at the whiteboard — who were rebuilding something that didn't have a name yet but was the thing you built when the old world was gone and the new one hadn't started and you were standing in the gap between them with nothing but your skills and your damage and your willingness to keep writing things down.
 
 I went inside to prepare for the broadcast.
--e 
+
+---
+
+Sienna found me in the hallway outside the radio room. I was sitting on the floor with the notebook open, reading my own handwriting, trying to figure out how to say the things I needed to say to people I couldn't see.
+
+She sat down next to me. She'd been running — not the survival kind, the real kind. Moss had cleared a section of the track inside the emitter's perimeter and Sienna had been running it every morning, and the act of running without dying had done something for her that nothing else could. She was breathing hard and her skin was warm and she smelled like sweat and November air and the cheap soap from the university's emergency supplies.
+
+"You ready?" she said.
+
+"No."
+
+"Good. Honest people live longer." Same thing she'd said on the morning we crossed Highway 21. A lifetime ago. Five weeks ago. Both.
+
+She leaned her head against the wall. We sat in the hallway and didn't talk for a while. The hum of the emitter came through the floor. Somewhere downstairs, Caleb was laughing — an actual, genuine child's laugh, the first one I'd heard in weeks, and the sound of it went through me like sunlight through a window.
+
+"Tell them about the Nesquik," she said.
+
+"What?"
+
+"The first night. In your trailer. The Nesquik and the canned milk. Tell them about that."
+
+"Why would I tell them about that?"
+
+"Because the people listening are alone. They've been alone for weeks. They're in their houses and their trailers and their basements and they haven't talked to anyone and they're running out of food and hope and they need to know that it's possible to sit in a kitchen with another person and drink something terrible and talk about your family and have it be — enough. Not a solution. Not a strategy. Just enough."
+
+I looked at her. She looked at me. The hallway was empty and the emitter hummed and downstairs Caleb laughed again and Sienna's eyes were steady and certain and she was right, the way she was always right about the things that mattered, which were never the things I thought mattered.
+
+"Okay," I said. "I'll tell them about the Nesquik."
+
 ---
 
 # Chapter 29: The Broadcast
