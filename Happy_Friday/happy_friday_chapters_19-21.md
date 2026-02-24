@@ -144,117 +144,47 @@ I woke to the sound of wind in the canopy and for three heartbeats I didn't know
 -e 
 ---
 
-# Chapter 20: The Other Group
+# Chapter 20: The Trail
 
-On Day 29, five days into the walk, the trail descended from the Boston Mountains to cross a state highway, and we found the other group.
+The second morning was worse than the first.
 
-We'd been warned — the OHT drops into lowland at road crossings, and road crossings were the danger. Marcus had mapped every crossing on the route, noted which ones had towns, which ones were isolated. This one had a town — a small highway settlement, the kind that exists because two roads intersect and someone built a gas station. Population: maybe eight hundred before. The trail crossed the highway half a mile east of the town center and climbed back into the forest on the far side.
+Not the walking — the getting up. Every muscle had stiffened overnight, the cold ground and the exhaustion conspiring to turn human bodies into something closer to wood. I sat up on the foam pad and my back seized and my legs cramped and my shoulders — bruised from the pack straps — screamed when I tried to push myself upright. Ruth couldn't stand without Jim pulling her up. Dale's hands were shaking hard enough that he couldn't grip the zipper on his sleeping bag. Caleb was the only one who bounced up without complaint, because seven-year-olds are made of rubber and injustice.
 
-We approached the crossing from the ridgeline, standard protocol by now: stop, observe, glass the terrain through binoculars before descending. I set up on a bluff overlook with the notebook and scanned the highway corridor.
-
-The town was occupied. Not by Turned — by survivors.
-
-A Walmart sat on the west end of town, the anchor of a small commercial strip. Vehicles had been arranged in a perimeter around the parking lot — trucks, SUVs, a school bus turned sideways to block the main entrance. Figures moved on the roof. Lights burned in the windows — generator-powered, the same telltale hum I recognized from the Lyles. Someone had strung razor wire along the vehicle perimeter. Someone had spray-painted SURVIVORS INSIDE on the side of the school bus.
-
-I counted Turned: maybe twelve, scattered along the highway, drifting in the standard patrol pattern. Low density. The town's small population meant fewer Turned, and the commercial strip's open parking lots meant the herding behavior was dispersed rather than concentrated. The Walmart group was in a better position than the Lyles had been — more space, fewer Turned, a bigger structure.
-
-But the pattern was there. I could see it the way you see a word you've already read: the perimeter, the noise, the armed patrols on the roof. The count was low now. It would climb. It always climbed.
-
-"We need supplies," Maria said. She'd been counting our food for five days and the count was not good. "We're at seven days of rations. If we trade some medication —"
-
-"We can't trade medication we need."
-
-"We have surplus propranolol. We have hydroxyzine. We have benzodiazepines we're holding in reserve. Those have value to people who don't understand the mechanism yet — they'll trade for the tranquilizers because tranquilizers are what frightened people want." She paused. "I'm not proud of this. But the exchange rate between our surplus anxiolytics and their canned goods is favorable."
-
-I looked at her. Maria had a gift for framing moral compromises as accounting problems, and the framing made them easier to accept and harder to argue with. Trading medications that would help these people survive in exchange for food we needed to survive was not a clean transaction. It was the prisoner's dilemma again: cooperate or exploit. Maria had found a middle path that was both.
+The stiffness faded as we walked. This was the first of many things the trail taught by repetition: the body lies in the morning. It says *you can't do this.* You do it anyway, and within a mile the joints loosen and the muscles warm and the lie becomes yesterday's pain rather than today's impossibility. By the third day I stopped believing the morning. By the fifth I stopped noticing it.
 
 ---
 
-We descended in the afternoon. Dale was bad.
+Days on the trail settled into a rhythm that was neither comfortable nor unbearable — just relentless.
+
+The mornings were the same: stiff, cold, sore. Pack up the tarps and pads, stuff the sleeping bags, eat something — usually a handful of trail mix or a packet of instant oatmeal cooked on the camp stove with creek water. Never enough. The food was never enough. Freeze-dried meals were light and compact and tasted like salted nothing and the portions were designed for recreational hikers who would eat a real dinner afterward, not for people whose dinner was another freeze-dried packet. We ate everything heavy first — the canned goods that had survived the gear purge, the denser bars — to lighten the packs as quickly as possible. By Day 4, the packs were lighter. The hunger was not.
+
+All you think about when you're walking is food. What you ate, what you'll eat, what you wish you were eating. Marcus talked about truck-stop diners — chicken fried steak, mashed potatoes, coffee that was always too hot and never strong enough. Ruth described Gerald's meatloaf in a level of detail that should have been illegal. Caleb requested, repeatedly, "chicken nuggets shaped like dinosaurs." The conversations happened on the downhill, when breathing was easier. On the uphills, nobody spoke. The uphills were for breathing and suffering and the specific mental blankness that comes from putting one foot in front of the other on a forty-degree grade with twenty-five pounds on your back.
+
+The trail was roots and rocks and more roots. The white blazes — aluminum diamonds nailed to trees — marked the path, and Marcus read them instinctively, the way he read road signs. Where the blazes faded or the path split, he stopped and studied the ground — boot prints, worn bark, the subtle compression of soil that said *people walked here* — and chose, and was always right. The trail crossed creeks every few miles, sometimes on stepping stones, sometimes on fallen logs, sometimes through the water itself.
+
+The creek crossings were their own ordeal. The water was cold — November cold, the kind that made your bones ache on contact. The rocks were mossy and slippery and rounded in ways that invited exactly the wrong kind of trust. The protocol was: stop. Remove shoes and socks. Roll up pants or, if the crossing was deep, strip to underwear. Bag your dry clothes. Cross barefoot or in camp sandals, using the hiking poles for balance, helping each other across. Get to the far side, dry your feet, check for cuts, put on dry socks — carefully, no wrinkles, no pebbles, because a wrinkle in a sock becomes a blister in a mile and a blister becomes a limp in a day and a limp becomes the difference between making distance and not.
+
+We became obsessive about socks. Socks were currency. Dry socks were gold. We carried extras in ziplock bags and we changed them at every crossing and we inspected our feet at every stop and the inspection was serious, meticulous, the way Maria was meticulous about everything — because a blister on Ruth's heel or a hot spot on Dale's arch was not a minor inconvenience. It was a pace reduction for the whole group and a medication timeline that tightened with every lost mile.
+
+Sienna did not get blisters. Sienna's feet were the feet of a distance runner — callused, tough, accustomed to punishment. She crossed the creeks with the sure-footed grace of a person whose body and the terrain were on speaking terms. The rest of us negotiated. Sienna walked.
+
+---
+
+Dale was bad by Day 3.
 
 The Suboxone had been gone for two days and the withdrawal was no longer a tremor in the hands. It was a full systemic event — sweating despite the cold, muscles cramping, a nausea that bent him double every thirty minutes. The textbook described opioid withdrawal as "profoundly uncomfortable but rarely life-threatening." The textbook had not considered a context where the symptoms of withdrawal — the anxiety spike, the autonomic activation, the flood of stress hormones — were the exact biochemical signature that could convert you from human to infrastructure.
 
-We'd managed it. Propranolol for the heart rate. Clonazepam for the acute anxiety. Jim's breathing exercises, which Dale performed with the grim determination of a man who had spent twelve years in recovery and was not going to let pharmacology undo it. But the management was imperfect. Dale's resting heart rate was 94 — higher than anyone's in the group, higher than I was comfortable with, dangerously close to the range where the organism might start paying attention.
+We managed it. Propranolol for the heart rate. Clonazepam for the acute anxiety. Jim's breathing exercises, which Dale performed with the grim determination of a man who had spent twelve years in recovery and was not going to let pharmacology undo it. But the management was imperfect. Dale's resting heart rate was 94 — higher than anyone's in the group, dangerously close to the range where the organism might start paying attention.
 
-He walked. He carved. The cedar piece had become a fox — ears back, body low, running. The strokes were rougher than Dale's usual work, but the shape was there. His hands shook and the fox emerged anyway.
+He walked. He carved. The cedar piece had become a fox — ears back, body low, running. The strokes were rougher on the uphills, when the exertion layered on top of the withdrawal and his hands shook worse, but the shape was there. His hands shook and the fox emerged anyway.
 
-"How are you doing?" I asked. Stupid question. I asked it anyway.
+The trail and the withdrawal were the same thing. Both were survived by putting one foot in front of the other. Both punished you for stopping. Both lied to you — told you the pain was permanent, told you the suffering was the destination rather than the road. Dale had been doing this for twelve years. The trail was just a new surface for the same walk.
 
-"I'm doing the hard thing that works," he said. Quoting himself from the overpass argument we hadn't had yet — except he was already living it, had been living it for twelve years, the daily practice of choosing the painful correct thing over the comfortable wrong thing. Recovery had trained him for this. Addiction had given him the vocabulary. And the irony — which he laughed about, bitterly, once, on the third night — was that the worst thing that ever happened to him had become the reason he was still alive.
+"Rock bottom was just training," he said, on the fourth night, sitting by the fire with the fox in his hands. "Turns out every meeting I went to, every check-in, every time I sat with a craving and didn't use — I was practicing for this. The craving is the same thing. The fear, the chemical demand, the body screaming at you to do the thing that will kill you because it feels like relief. Same mechanism. Different substance."
 
-"Rock bottom was just training," he said. "Turns out every meeting I went to, every check-in, every time I sat with a craving and didn't use — I was practicing for this. The craving is the same thing. The fear, the chemical demand, the body screaming at you to do the thing that will kill you because it feels like relief. Same mechanism. Different substance."
+That night he taught us HALT.
 
-He looked at the fox in his hands.
-
-"I'm going to teach you something," he said. "All of you. When we stop tonight. The things I learned in recovery — they're survival skills. Nobody calls them that. But that's what they are."
-
----
-
-We approached the Walmart from the highway, walking slowly, hands visible. A man on the roof — mid-fifties, heavy, wearing a store vest over a hunting jacket — shouted down through a bullhorn.
-
-"Stop there. Identify yourselves."
-
-"Survivors from the river valley," Marcus called back. His voice carried — the truck driver's projection, tuned for loading docks and rest-stop diners. "Eight people, including a child and an elderly woman. We're passing through. Looking to trade."
-
-A conversation on the roof — I could see three figures conferring. Then the man with the bullhorn: "Come to the side entrance. Slowly. No weapons visible."
-
-We went. The side entrance had been reinforced — steel shelving stacked as a secondary barrier behind the glass doors. A man opened them. He was maybe forty-five, balding, wearing a name badge that still said PHIL — STORE MANAGER. He looked at us the way you'd evaluate a delivery: assessing volume, checking for damage.
-
-"How many?"
-
-"Eight. Seven adults, one child."
-
-"Armed?"
-
-"No."
-
-Phil's eyes moved across us. Jim in his flannel, Bible visible in his jacket pocket. Ruth, leaning on a walking stick Dale had carved her on Day 2 of the trail. Dale, sweating, jaw clenched. Maria, standing slightly apart, already scanning the interior with the eye of a woman who was inventorying their inventory. Sienna, coiled. Caleb, holding Dale's hand. Marcus, big and still. Me, fifteen, overweight, carrying binoculars and a spiral notebook.
-
-"You don't look like a threat," Phil said.
-
-"We're not."
-
-"Then what are you?"
-
-"Tired," Jim said. "And willing to trade."
-
----
-
-Phil's operation was impressive in the way the Lyles' had been impressive — competent execution of the wrong strategy. He had forty people inside the Walmart. Work quotas: stocking, cleaning, perimeter watch. Rationed food from the store's own inventory, which was substantial — a Walmart's supply chain holds weeks of food even after panic buying. Armed patrols on the roof, four-hour shifts, shotguns and hunting rifles sourced from the sporting goods section.
-
-He'd built a society in a box store. It had rules, hierarchy, order. The lights worked. The PA system worked. Someone had organized the clothing section into a dormitory, sleeping bags between the racks, a kind of textile refugee camp lit by emergency lights.
-
-It was the Lyles at scale. And it would end the same way.
-
-I tried to tell Phil. Not in the supply aisle — in a side conversation, near the pharmacy section, where I'd gone to check their medication stock. Phil followed me, suspicious, territorial, the way a store manager follows a shoplifter.
-
-"Your perimeter is attracting them," I said. "The generator, the lights, the armed patrols. The Turned are drawn to human activity. The count around your store is twelve now. In two weeks it'll be thirty. In a month —"
-
-"In a month we'll have this place fully fortified. We're building a second perimeter. We have enough ammunition to hold this position for six months."
-
-"The ammunition won't help when the count hits threshold. The fortifications —"
-
-"Son." He said it the way Craig had said it — patient, dismissive, the voice of authority addressing a child who doesn't understand how the world works. "I've managed this store for eleven years. I've handled Black Friday crowds, hurricane evacuations, and a tornado that took the roof off the garden center. I know how to manage a facility under pressure."
-
-"This isn't a facility. This is a target."
-
-Phil smiled. The smile was professional — the customer-facing smile of a man who had spent a decade managing complaints. "I appreciate the concern. Is there something you'd like to trade?"
-
-I traded. Not the argument — the medications. Maria handled the negotiation: six bottles of hydroxyzine and four of lorazepam for three cases of canned goods, a box of energy bars, two sleeping bags, and a pack of children's cold medicine for Caleb, who had developed a cough.
-
-Phil's people took the anxiolytics gratefully. One woman — a pharmacy tech, I think — looked at the hydroxyzine and said "Oh thank God" and the relief in her voice was the relief of a person who had been managing panic with nothing and now had something. The medications would help. They would help for exactly as long as the Turned's count stayed below threshold, and then they would help no more, and Phil's fortress would follow the Lyles into rubble.
-
-I could have pushed harder. I could have stayed. I could have drawn the diagram, shown the notebook, explained the density threshold with the data I'd accumulated over a month.
-
-I didn't. Because Craig hadn't heard it. Because Phil wouldn't hear it. Because the truth about fortification — that it accelerates the thing it's designed to prevent — is a truth that requires you to abandon everything that feels safe, and people don't abandon safety on the word of a fifteen-year-old with a notebook. They abandon it when the walls come down, and by then it's too late, and by then I'm miles away and I can't hear the collapse and I carry the knowledge of it like a stone in my chest.
-
----
-
-We left the Walmart in the late afternoon and climbed back into the forest. The trail ascended quickly — back into the oaks, back onto the ridgeline, back into the empty quiet of the mountains. Below us, the highway town shrank to a cluster of rooftops, the Walmart a grey rectangle with tiny figures on its roof.
-
-That evening, at camp, Dale taught us HALT.
-
-"Hungry, Angry, Lonely, Tired," he said. We were sitting around a small fire on a sandstone shelf, the stars coming out above the canopy gap. Dale's hands were shaking but his voice was steady — the voice he'd used in meetings, in check-ins, in the daily practice of staying alive. "You don't make decisions in those states. Any of those states. Your brain lies to you when you're hungry. It lies differently when you're angry. And when you're tired — when you're exhausted and scared and the whole world is wrong — your brain will tell you the stupidest idea you've ever had is the only option."
+"Hungry, Angry, Lonely, Tired," he said. The fire was small — a depression in sandstone, the smoke threading up into the canopy. Dale's hands were shaking but his voice was steady — the voice he'd used in meetings, in the daily practice of staying alive. "You don't make decisions in those states. Any of those states. Your brain lies to you when you're hungry. It lies differently when you're angry. And when you're tired — when you're exhausted and scared and the whole world is wrong — your brain will tell you the stupidest idea you've ever had is the only option."
 
 He looked around the fire. "How many of you are hungry right now?"
 
@@ -286,21 +216,87 @@ Dale looked at him. "It sounds like data. The relapse rate for decisions made in
 
 "Mutually exclusive," the group said, more or less in unison, and Jim laughed — a real laugh, surprised and warm — and the fire popped and the stars turned and we didn't make any decisions.
 
-Dale was quiet for a while. Then he said, to the fire more than to us: "I dream about using. Every night. Not drugs — the knife." He held up the fox carving, the blade catching firelight. "In the dream, the knife is the wrong shape. The blade curves where it shouldn't. And the wood won't hold a form — I carve and carve and the shavings fall and the shape underneath is always the same shapeless lump. I can't make it into anything." He turned the fox in his hands. "Recovery dreams. You'd think they'd stop after three years. They don't stop. They just change what you're recovering from."
+---
 
-Maria put her hand on his knee. Not a gesture — a placement. Deliberate, firm, the hand of a woman who had spent six years watching this man fight something invisible and had learned that the fight sometimes needed a physical anchor.
+On Day 5, the trail crossed Highway 23. A road crossing — the exposed moments Marcus had warned about. We descended from the ridgeline in the late morning, glassed the highway from the tree line, saw two Turned drifting a quarter mile south, waited until they'd moved further off, then crossed the pavement at a fast walk. Forty seconds of exposure. The asphalt felt alien underfoot after days of packed earth and rock.
 
-"The carving is the opposite of the dream," Dale said. "In the dream, nothing holds its shape. In the morning, the wood is still the fox. The real thing is more durable than the dream. That's the lesson. That's always the lesson. But the dream doesn't know that, so it keeps coming back."
+Then the climb. The trail went straight up — steeper than anything we'd done, a relentless grade that switchbacked through hardwoods and then hit bare rock, hand-over-hand scrambling on sandstone ledges with packs threatening to pull us backward off the mountain. Ruth needed help. Marcus took her pack. Jim took her arm. She climbed with her teeth set and her walking stick jammed into every crevice and the sound of her knees was audible over the wind.
+
+Near the top, the trail leveled and passed through a thicket of cedars, and the Rock House Shelter appeared.
+
+It was built into the bluff — a massive natural rock overhang, thirty feet deep and sixty feet wide, the sandstone ceiling curving overhead like the inside of a wave frozen in stone. In the back, a spring seeped from the rock face, the water trickling down into a shallow basin someone had carved or enlarged generations ago. And across the front of the overhang, stacked stone walls — three walls with three doorways, the stones fitted without mortar, built by loggers in the early 1900s who had worked these mountains with crosscut saws and mule teams and needed somewhere to sleep. Some sections had collapsed — a pile of tumbled stones on the east end, a gap in the west wall where a tree root had pushed through. But the structure was mostly intact. Flat cement floor. A fire pit, blackened with a century of use. The ceiling was smoked dark from a hundred years of campfires.
+
+"Oh," Ruth said. She said it the way you'd say it if you'd been sleeping on cold sandstone for four nights and someone showed you a room with a floor and a roof.
+
+We stayed two nights. Marcus made the call — we were ahead of the medication schedule, barely, and Ruth needed recovery time and Dale needed the spring water and the flat floor and all of us needed the specific mercy of a place that wasn't open to the sky.
+
+The shelter was dry when the rain came. It came on the second afternoon — a cold November storm, the kind the Ozarks produce without warning, the temperature dropping ten degrees in an hour and the rain falling in sheets that turned the trail into a creek. We sat inside the shelter with a fire in the pit and the rain hammering the forest outside and the water running past the doorways in rivulets and we were dry. For the first time in five days, nobody was wet or cold or sleeping on uneven ground.
+
+The loggers had built this a hundred years ago. They'd cut timber, slept here, moved on. The shelter remained. Other people had come — their graffiti was on the walls, dates and initials, the oldest I could find reading 1947. People had been passing through these mountains and leaving temporary marks for a century, and the mountain absorbed them all and the shelter waited for the next ones.
+
+We were the next ones. We wouldn't be the last.
+
+Dale carved by firelight. The fox was finished. He'd started a turtle — the shell emerging in careful hexagonal plates. His hands were steadier. Not still — not yet — but the tremor was fading, the withdrawal's peak passing the way Dale had said it would: not all at once, but in increments, five minutes at a time.
+
+"Recovery dreams," he said, quietly, turning the turtle in the firelight. "I dream about using. Every night. Not drugs — the knife. In the dream, the knife is the wrong shape. The blade curves where it shouldn't. And the wood won't hold a form — I carve and carve and the shavings fall and the shape underneath is always the same shapeless lump." He turned the turtle. The shell was precise. The real thing was more durable than the dream. "They don't stop. They just change what you're recovering from."
+
+Maria put her hand on his knee. Deliberate, firm, the hand of a woman who had spent six years watching this man fight something invisible and had learned that the fight sometimes needed a physical anchor.
+
+---
+
+On Day 7 we encountered our first Turned on the trail.
+
+He was standing in a clearing a hundred yards off the path — a man in hunting camo, a tree stand harness still buckled around his waist, a compound bow at his feet. He'd been a hunter. He'd turned in the woods, probably in the first week, the fear catching up to him alone in a tree stand while the world below went wrong. Now he stood in the clearing with his face to the sun and the harness hanging off him like a forgotten costume and his hands making the slow, repetitive motion of nocking an arrow that wasn't there.
+
+We gave him a wide berth. He tracked us — the head-turn, the smile — but didn't approach. Alone, disconnected from any collective, he was confused rather than coordinated, a solitary node without a network. Unsettling but not dangerous. A reminder that the forest wasn't as empty as it felt.
+
+"He's still hunting," Caleb said, watching the man's hands. "In his head."
+
+"Yeah, buddy," Dale said. "In his head."
+
+They walked on. Dale's hand was on Caleb's shoulder. The man in the clearing nocked his invisible arrow at the sun.
+
+---
+
+Despite everything — the sore muscles, the blisters, the hunger, the Turned hunter in the clearing — the forest was beautiful. I want this on the record because the version of this story that only contains suffering is not the true version.
+
+The oaks were bronze and amber, the last of the fall color hanging on in the sheltered hollows where the frost hadn't reached. The hickories were bare — silver branches against blue sky, the kind of clean, geometric beauty that made you understand why people painted trees. The air was cold and clear and tasted like nothing — no exhaust, no generator fumes, no smoke from burning houses. Just air. The kind of air that had been here before people and would be here after.
+
+On the ridgelines, the views opened up and the world was enormous. Layer after layer of blue ridges extending to the horizon, each one lighter than the last, the farthest ones almost indistinguishable from sky. It looked like a place where nothing bad had ever happened and nothing bad ever would, which was a lie, but it was a beautiful lie, and the beauty was not diminished by its dishonesty.
+
+The cool weather was pleasant when it wasn't raining. On clear days, the walking was almost — I'm going to use the word — enjoyable. The rhythm of it. The breathing. The way the mind went blank on the long stretches, the flat ridgeline sections where the trail was easy and the pack was manageable and you could just walk and think about nothing. The nothing-thinking was a mercy. After weeks of hypervigilance — tracking Turned, monitoring heart rates, calculating thresholds — the absence of threat allowed the brain to idle, and the idling was rest, and the rest was necessary.
+
+Conversations happened on the downhill, when breathing was easier. Marcus told stories about hauling loads through these mountains — the grades that killed transmissions, the ice storms that turned the passes into skating rinks, the time he jackknifed a trailer on a switchback and had to wait six hours for a tow truck that never came. Ruth corrected everyone's grammar. Caleb asked questions about everything — why trees lost their leaves, why the creek water was brown, why rocks had stripes — and Jim answered each one with the patient, slightly inaccurate explanations of a man who cared more about engaging curiosity than being correct.
+
+The pace built. Three miles the first day. Four on the second. By Day 7 we were making five, sometimes six, the bodies adapting the way Marcus had promised, the legs finding their strength, the lungs expanding, the rhythm settling into something sustainable. Even Ruth moved faster — not by much, but measurably, her walking stick planted with more confidence, her steps surer on the rocks.
+
+I lost weight. Not dramatically — maybe five pounds, maybe eight — but enough that my pants were looser and the pack felt lighter and the uphills were incrementally less catastrophic. The chafing faded as the jeans broke in and my thighs toughened. The shoulder bruises hardened into something that hurt less. The body was adapting. The body I'd been apologizing for was doing the thing I needed it to do, and the doing was changing it, and the changing was its own kind of answer to the question Sienna had asked in the church parking lot.
+
+In the mornings, everyone was stiff and sore. This faded within a mile. But on the long stretches, the mind went blank — or thought about food. You zone out. You walk and walk and the trail is the same and the trees are the same and your feet find their own way and you think about dinner, about the freeze-dried packet waiting at the end of the day, about how many bites you'll take and how slowly you'll eat them to make the meal last, and the thinking about food is its own kind of sustenance, a mental rehearsal that your stomach treats as a promissory note.
+
+By Day 8, Dale's hands were steady. Not still — not completely — but the tremor had faded to something you'd only notice if you were looking for it, and I was always looking. The worst had passed. The sweating had stopped. The cramping had eased. His heart rate was down to 82 — still elevated, but manageable, safe. He carved the turtle with clean, controlled strokes, the hexagonal plates of the shell emerging with the precision his hands hadn't been capable of three days earlier.
+
+"How long?" I asked. Meaning: how long have your hands been still.
+
+Dale looked at his hands. Turned them over. Studied them the way you'd study a landscape you'd been traveling through and only now recognized.
+
+"Two days," he said. "Maybe three." He held up the knife. "The trail helped. Keeping the hands busy. Keeping the body moving. It's the same thing my counselor taught me in year one: don't think about the craving. Think about the next five minutes. Do something with your hands. The craving passes. The five minutes become ten. The ten become an hour. The hour becomes a day you didn't use."
 
 In the morning the world was slightly less wrong than it had been the night before.
 
 **JOURNAL ENTRY #14:**
 
-*Phil is going to die the same way the Lyles did and for the same reason and I couldn't talk him out of it either. Same pattern. Same cognitive dissonance. Same unshakeable conviction that the skills that worked before will work now. I've tried three times — Jim, Craig, Phil — and failed three times. Maybe the reason I keep failing isn't that I'm bad at talking. Maybe it's that the truth is something people have to arrive at on their own, and by the time they do, it's usually too late.*
+*Day 32. Eight days on the trail. Fifty-something miles behind us, and I've stopped counting because counting the miles is another version of the laziness — another way to measure how much suffering remains instead of accepting that the suffering is the method and the method is working.*
 
-*Dale is teaching us recovery skills. HALT. Urge surfing. Radical acceptance — the practice of acknowledging reality without trying to change it or deny it. "The situation is what it is," he says. "Your feelings about the situation are not the situation." This is the most useful sentence anyone has said to me in a month and it came from a man in opioid withdrawal who learned it in a folding chair in a church basement five years ago.*
+*Dale's hands are steady. The withdrawal peaked around Day 4 and broke. He taught us HALT. He taught us urge surfing. He told us rock bottom was just training. The worst thing that happened to Dale gave him the exact skills this world requires. Wrong reasons. Right answers. The pattern holds.*
 
-*Rock bottom was just training. The worst thing that happened to Dale gave him the exact skills this world requires. Wrong reasons. Right answers. The pattern holds.*
+*The forest is beautiful. I want that recorded because the journal has been a catalog of horrors and the forest deserves better. The oaks are bronze. The ridgelines are blue. The air tastes like nothing and nothing is the best thing I've tasted in a month.*
+
+*I saw a Turned hunter in the woods. Still nocking an invisible arrow. Still hunting in his head. He was alone and confused and the forest had absorbed him the way it absorbs everything. The mountains don't care what happens on their surface. That's not cruelty. That's patience.*
+
+*I carry my mother in the sealed part of my brain. The envelope is open but I haven't read the contents. Not yet. Not here. The trail is not the place for that. The trail is for walking.*
+
+*We walk.*
 -e 
 ---
 
