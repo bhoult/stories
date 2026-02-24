@@ -471,9 +471,53 @@ Marcus's route was longer — an extra day, maybe two, approaching from the sout
 
 I wrote this in the notebook and underlined it.
 
-**Day two: supplies.** Maria took command.
+**Day two: supplies.** Marcus and I drove to Atwoods.
 
-She had, in twenty-two days, turned the church's pantry from a disorganized food bank closet into a precision logistics operation, and now she applied the same ruthless accounting to the packing list. Calories per person per day: 1,800 minimum, 2,400 for the walking pace we'd need. Weight per person: fifteen pounds maximum for Jim and Ruth, twenty for Marcus and Sienna, ten for Caleb, who would carry nothing because he was seven and would need to be carried himself when the trail got steep.
+The store was on the highway south of town — a farm and ranch supply, the kind of place that sold feed corn and fence posts and hunting rifles and had a camping section in the back that smelled like canvas and rubber. Marcus had been there a hundred times hauling shelving. He knew the layout.
+
+"Walmart's picked clean," he said, pulling the truck out of the church lot. "Two weeks of panic buying and then the Turned moved in. Atwoods is different. People raided the food and the guns. Nobody thought to grab sleeping bags."
+
+He was right. The parking lot had three Turned — two in the garden section entrance, one standing near a stack of bagged mulch — and the front windows were broken but the store was largely intact. The gun cases were empty, glass shattered, every rifle and shotgun gone in the first week. The ammunition shelves were bare. But the camping aisle was almost untouched. In the logic of panic, people had grabbed weapons and food and left behind the things that would actually keep them alive in the woods.
+
+We moved fast. Marcus had a list Maria had written on the back of a church bulletin. Backpacks — real hiking packs with internal frames and hip belts, not the canvas military surplus we'd been planning on. Eight of them, sized as close as we could manage. Sleeping bags rated to twenty degrees. Tarps — lightweight, waterproof, the kind hunters used for ground blinds. Sleeping pads, the thin foam rolls that wouldn't do much but would keep you off the cold ground. A water filter and purification tablets. Two camp stoves and fuel canisters. A cooking pot and a skillet. Headlamps with extra batteries. Fire starters. First aid kits. Paracord. Duct tape.
+
+Marcus lingered in the hunting section. The gun cases were empty but the archery wall still had stock — compound bows too complex for panicked looters to figure out, and three crossbows in their boxes. He took a crossbow, a case of bolts, and a sharpening kit. "Quieter than a gun," he said. "And bolts are reusable." He also grabbed hatchets — small ones, the kind you'd use to split kindling — and a hunting knife for everyone. Eight blades. We weren't going into the mountains unarmed.
+
+In the camping food aisle, we loaded freeze-dried meals. Mountain House, Backpacker's Pantry — the kind of food that weighed nothing and lasted forever and tasted like salted cardboard and would keep you walking. We took everything on the shelf. We also took energy bars, trail mix, instant oatmeal, powdered drink mixes. Calories that were light enough to carry and dense enough to matter.
+
+We were loading the truck when I saw her.
+
+The hospital was six blocks east. I hadn't been thinking about it — hadn't let myself think about it, the way you don't let yourself look at the sun. But Marcus had taken the route past the hospital because it was the shortest way back to the church, and the parking lot was visible from the road, and the cluster of Turned in the lot was visible from the parking lot, and among them — in blue scrubs, in the ponytail she wore for night shifts, standing in the November sun with bare feet and nothing behind her eyes — was my mother.
+
+I stopped breathing.
+
+Marcus saw what I was looking at. He didn't slow down. He didn't speed up. He drove past at the same steady pace and he said, quietly, "I see her."
+
+"That's my mom."
+
+"I know."
+
+The truck kept moving. The hospital parking lot slid past the window. She was standing near the ambulance bay with maybe fifteen other Turned — former staff, still gravitating to the place where they'd worked. Her hands were at her sides. Her face was tilted toward the sun. The smile. The vacant, patient, terrible smile.
+
+I'd known since Day 1. The math was clear — night shift, first night, a hospital filling with panicking patients and panicking staff. The cascade of fear would have been overwhelming. She never had a chance. I'd carried this in the analytical part of my brain, the part that processed data without feeling it. I'd carried it the way you carry a sealed envelope — knowing what's inside, not opening it, because the contents are real whether you read them or not and at least the envelope is containable.
+
+The envelope was open now. The contents were a woman in blue scrubs who had said "Happy Friday, bud" three hundred times and who brought home Whataburger after every shift and who kept two nursing textbooks on a shelf like trophies and who had taught me by accident everything I needed to survive. She was standing in a parking lot with bare feet and the organism had taken everything that made her my mother and replaced it with the smile.
+
+Marcus drove. I looked straight ahead. The hospital disappeared behind us. My hands were on my knees and they were shaking — not the adrenaline shake, not the threshold shake, the grief shake, the one that comes from holding something sealed for twenty-three days and watching it crack open through a truck window at thirty miles an hour.
+
+"You okay?" Marcus said.
+
+"No."
+
+He nodded. He didn't say anything else. He drove us back to the church and I carried the backpacks inside and I didn't tell anyone what I'd seen because saying it would make it real in a way that seeing it hadn't, and I wasn't ready for it to be real, and I wouldn't be ready for a long time, and I carried the backpacks and the sleeping bags and the hatchets and the weight of what I'd seen and the weight of the gear was easier.
+
+---
+
+Maria took command of the packing.
+
+She had, in twenty-two days, turned the church's pantry from a disorganized food bank closet into a precision logistics operation, and now she applied the same ruthless accounting to the Atwoods haul. She laid everything out on the sanctuary floor — eight packs, eight sleeping bags, the tarps, the pads, the stoves, the food, the blades — and she counted and weighed and organized with the focus of a woman solving a logistics problem that had a human cost for every ounce miscalculated.
+
+Calories per person per day: 1,800 minimum, 2,400 for the walking pace we'd need. Weight per person: fifteen pounds maximum for Jim and Ruth, twenty for Marcus and Sienna, ten for Caleb, who would carry nothing because he was seven and would need to be carried himself when the trail got steep.
 
 I would carry twenty-five. Maria decided this without consulting me.
 
@@ -481,7 +525,7 @@ I would carry twenty-five. Maria decided this without consulting me.
 
 "I'm the one with the worst cardio."
 
-"Then improve your cardio. You have two days." She handed me a backpack — Marcus's canvas military surplus. "Start walking laps around the church yard. Now."
+"Then improve your cardio. You have two days." She handed me a pack — one of the Atwoods hiking packs, green, with a frame that dug into my lower back before I'd even loaded it. "Start walking laps around the church yard. Now."
 
 I walked laps. Sienna walked with me. We walked in loops around the church, the gravel crunching under our shoes, the Turned in the parking lot tracking us with their slow head-turns, and we walked and walked and Sienna set the pace and I matched it and my lungs burned and my legs ached and she didn't slow down and I didn't ask her to because asking would have meant admitting I couldn't keep up and admitting I couldn't keep up would have meant — well. I didn't want to admit it. Not to her.
 
@@ -553,9 +597,11 @@ I looked at him. "You've never met Dr. Moss."
 
 He was probably right. The brain does that — takes scattered data and assembles it into narratives during sleep. It didn't mean anything. Except that Jim had described a woman at a desk correcting printouts, and when we reached the university five weeks later, Dr. Moss's desk was covered in exactly the printouts he'd described, and she did have kind eyes, and she did say something about the math being close, and Jim looked at me when she said it and said nothing, and I said nothing, and neither of us needed to.
 
+Marcus and Dale made a second run — the bike shop on Main Street. They came back with eight bicycles, two of them electric with charges that Marcus estimated at fifteen to twenty miles. Ruth and Jim got the e-bikes. The plan was simple: ride twenty miles to the OHT trailhead on Forest Service Road 1003, leave the bikes, start walking. Twenty miles of road we wouldn't have to hike. Twenty miles of pavement before the real suffering began.
+
 Marcus packed the CB radio. He'd been listening every evening, catching fragments of Moss's broadcasts, confirming she was still there, still transmitting, still offering what she had. The last fragment, caught the night before: "— the frequency emitter has a range of approximately eighty meters. Within that radius, the Turned's collective coordination is disrupted. They become individuals again. Disoriented. Passive. The emitter buys time. It is not a solution. But time is what —" Static.
 
-Eighty meters. A circle of safety in a world that had none. It was waiting for us on the other side of the mountains, and all we had to do was walk sixty miles through the most rugged terrain in the state at the pace of a seventy-two-year-old woman without anyone's heart rate crossing a line that none of us could see.
+Eighty meters. A circle of safety in a world that had none. It was waiting for us on the other side of the mountains, and all we had to do was walk sixty miles of trail and another thirty-five of highway through the most rugged terrain in the state at the pace of a seventy-two-year-old woman without anyone's heart rate crossing a line that none of us could see.
 
 The last night at the church, Jim held a service. Not the brief candle-and-psalm services he'd been doing on Wednesdays — a real one. Hymns. A reading from Ecclesiastes. A silence at the end that lasted so long I thought he'd forgotten what came next, and then I realized the silence *was* what came next, and that the silence was the sermon.
 
@@ -587,14 +633,18 @@ Tomorrow we walked.
 
 **JOURNAL ENTRY #12:**
 
-*Day 24. Eight people. Twenty-six Turned outside. Sixty miles ahead.*
+*Day 24. Eight people. Twenty-six Turned outside. Ninety-five miles ahead — sixty of trail, thirty-five of highway.*
 
-*The route follows the Ozark Highlands Trail through the Boston Mountains. Marcus's route, not mine. His is longer and safer and he's right and I'm learning that being right about a map is not the same as being right about a mountain. "A map is a picture of a place. It is not the place." I'm going to tattoo this on my brain.*
+*The route follows the Ozark Highlands Trail through the Boston Mountains to Lake Fort Smith, then Highway 71 north to Fayetteville. Marcus's route, not mine. His is longer and safer and he's right and I'm learning that being right about a map is not the same as being right about a mountain. "A map is a picture of a place. It is not the place." I'm going to tattoo this on my brain.*
 
-*We carry: medications for forty-five days. Food for twelve. Water purification tablets. The CB radio. The blood pressure cuff. The notebook. Eight people's worth of fear and grief and hope and whatever Ruth keeps in the bottom of her purse that she won't let anyone see.*
+*We carry: eight packs from Atwoods loaded to the point of stupidity. Sleeping bags, tarps, pads, camp stoves, freeze-dried food, water filter, medications for forty-five days, the CB radio, the blood pressure cuff, the notebook, Marcus's crossbow, eight hatchets and knives, and whatever Ruth keeps in the bottom of her purse that she won't let anyone see. My pack weighs thirty-two pounds. Maria said twenty-five. The extra seven are food I added because I know what hungry feels like and I'd rather carry it than feel it.*
+
+*Tomorrow we ride bicycles twenty miles to the trailhead. Then we walk.*
 
 *I am fifteen years old. I weigh a hundred and eighty pounds. I get winded on stairs. I have never hiked a trail in my life. I am responsible for seven people's survival because I'm the one who reads the patterns and nobody else wants the job.*
 
-*The Turned are getting hungrier, smarter, and more numerous. The medications are running out. The church is a countdown. Fayetteville is sixty miles of mountain wilderness.*
+*The Turned are getting hungrier, smarter, and more numerous. The medications are running out. The church is a countdown.*
+
+*I saw my mother today. She was standing in the hospital parking lot in her blue scrubs. She was smiling. The organism's smile, not hers. I am not going to write about this yet. I am going to carry it the way I carry everything — in the part of my brain that processes data without feeling it. The data is: she is gone. The feeling is: I can't.*
 
 *I am terrified. My resting heart rate is 68. The gap between those two facts is the only thing keeping me alive.*
