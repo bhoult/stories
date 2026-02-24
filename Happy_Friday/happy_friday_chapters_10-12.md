@@ -458,6 +458,48 @@ Sienna stared at the shoe on the doorstep. "She didn't come inside. She didn't t
 
 We spent the next hour testing proximity. From the steeple we watched Jim's morning walk — his daily circuit of the parking lot, slow, calm, passing within ten feet of three Turned. No reaction. We watched a stray cat cross the lot — the Turned tracked it, the head-turn, but didn't pursue. The cat was too small to be worth the caloric effort, apparently. Or the organism didn't categorize cats as food yet.
 
+"One more test," Sienna said.
+
+Before I could ask what she meant, she was climbing out through the louver opening on the east side — the one where the church roof extended out below the steeple in a flat section over the fellowship hall. I grabbed her arm. She looked at my hand, then at me, and I let go.
+
+"There's one directly below," she said. "Ten feet down, maybe fifteen out. Close enough to talk to."
+
+"Talk to?"
+
+"We tested objects. We tested proximity. We haven't tested conversation." She swung her legs over the sill and lowered herself onto the roof. The shingles were old and gritty and she moved on her stomach, spreading her weight, inching toward the edge on her elbows. I watched from the louver with my heart rate doing exactly what it shouldn't.
+
+The Turned below was a woman in a housecoat — one of the regulars, someone who'd been standing in the church parking lot since before I'd started counting. She faced the morning sun with the standard herding posture: vacant eyes, the faint smile, hands loose at her sides.
+
+Sienna reached the roof edge and looked down. Maybe twelve feet of vertical distance and ten feet of horizontal. Close enough to have a conversation across a fence.
+
+"Hi," Sienna said. Normal volume. Conversational.
+
+The Turned looked up. The head-tilt. The smile brightened — the standard herding response to proximity, the *come closer, be afraid* invitation. But the woman didn't move. Didn't approach the building. Just looked up at Sienna with that patient, empty warmth.
+
+"What's your name?" Sienna said.
+
+"It's a beautiful morning." The woman's voice was clear. Pleasant. The cadence of someone making small talk at a mailbox. But she wasn't answering the question. She was producing a phrase — a social fragment, the kind of thing a person says on autopilot when another person is nearby.
+
+"What's your name?" Sienna repeated.
+
+"The kids are at school." Same pleasant tone. Same mailbox cadence. A different fragment, unconnected to the first, unconnected to the question. The woman's mouth moved the way mouths move when the words are coming from muscle memory rather than thought — the shape of speech without the architecture behind it.
+
+"Where are you from?"
+
+"It's a beautiful morning."
+
+The rotation was already repeating. Sienna tried three more questions — different topics, different tones. She got six responses total, all fragments: *it's a beautiful morning, the kids are at school, have you seen my keys, tell David I'll be late, it's a beautiful morning, the kids are at school.* They cycled. The same phrases in roughly the same order, delivered with the same pleasant inflection, like a greeting card that played six messages when you opened it and then started over.
+
+Sienna crawled back from the edge. She climbed through the louver and sat against the steeple wall and didn't say anything for a minute.
+
+"It's not conversation," she said finally. "It's a recording. The organism kept the phrases but not the person. She's running loops from her old life — things she said so many times they wore grooves. But there's nobody choosing which groove to play. It's just... pattern. Stimulus, response, repeat."
+
+I wrote it down. *Turned produce verbal fragments — social phrases, habitual sentences. No novel responses. No tracking of conversational context. The organism preserved the host's most repeated speech patterns the way it preserved Tom Hadley's conducting hands. Behavior without intent. Sound without meaning.*
+
+"Jim should hear this," I said.
+
+"Jim already knows. He just doesn't want it confirmed."
+
 "Marcus's question," Sienna said. "Has anyone tried killing one."
 
 "Yeah."
