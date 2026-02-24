@@ -1,40 +1,42 @@
 # Chapter 22: Mom
 
-Day 30. It rained.
+Day 39. The highway was flat and empty and there was nothing to think about except the things I'd been refusing to think about for sixteen days.
 
-Not the brief cold storms that had passed through earlier — the kind that come and go in a few hours, that you walk through because walking is warmer than stopping. This was a steady, November rain, the kind that finds every gap in your tarp, every seam in your clothes, every crack in the composure you've been building for five weeks. The temperature dropped ten degrees. The trail turned to mud. Every step was a negotiation with gravity and every negotiation cost energy we didn't have because the freeze-dried packets were running low and breakfast was half a portion and half a portion is not enough when you're carrying twenty-five pounds uphill in the rain.
+The mountains were behind us. The trail was behind us. The overpass was behind us — the rubble and the hand with the wedding ring and the thirty people I'd killed by doing math. The fortified group was behind us — nine people in a gas station who wouldn't leave and who would die the same way the Lyles died and who I couldn't save. All of it was behind us and none of it was behind us because the things you carry don't care about geography.
 
-I was tired. Not the productive tiredness of early trail days — the kind where you collapse at camp and sleep hard and wake stiff but functional. This was the other kind. The cumulative kind. The kind that builds in layers like sediment: six days of insufficient food on top of blisters that had healed and re-opened on top of thighs rubbed raw again because the rain soaked my jeans on top of shoulders that had hardened but still ached on top of a month of sleeping on the ground on top of everything else. Everything else being: a woman in blue scrubs in a hospital parking lot in Clarksville, standing with bare feet and nothing behind her eyes. My mother. The sealed envelope I'd opened that day in the truck with Marcus and had been carrying open ever since, the contents visible, the contents unbearable, the contents following me up every switchback and down every descent like a weight that didn't register on any scale but was heavier than the pack.
+Highway 71 stretched south in a straight line, flat, featureless, the kind of road that gives the mind nothing to hold onto. No switchbacks. No creek crossings. No rocks to navigate or hills to climb. Just asphalt and sky and the rattle of shopping cart wheels and the steady rhythm of walking that required no thought, no calculation, no analytical machinery at all. And when the machinery has nothing to process, it idles. And when it idles, the things it's been holding back seep through.
+
+I was tired. Not the productive tiredness of trail days — the kind where you collapse at camp and sleep hard and wake stiff but functional. This was the other kind. The cumulative kind. The kind that builds in layers like sediment: weeks of insufficient food on top of blisters that had healed and re-opened and healed again on top of a month of sleeping on the ground on top of thirty people buried under rubble on top of everything else. Everything else being: a woman in blue scrubs in a hospital parking lot in Clarksville, standing with bare feet and nothing behind her eyes. My mother. The sealed envelope I'd opened that day in the truck with Marcus and had been carrying open ever since, the contents visible, the contents unbearable, the contents following me through sixty miles of trail and thirty miles of highway like a weight that didn't register on any scale but was heavier than the pack.
 
 The analytical machinery had been carrying it. That's what the machinery does — it takes the unbearable thing and converts it into data, files it, processes it into something manageable. The machinery had been running nonstop since Clarksville. Since the parking lot. Since I saw her face and Marcus kept driving and I said "I see her" and the words were data and the data was containable and the container held.
 
-The container held through the first days on the trail, when the physical suffering was new enough to occupy the machinery's full capacity. Through the creek crossings and the gear discarding and the nightly inventory of blisters and the obsessive management of socks and the slow adaptation of a body that had never been asked to do anything like this. Through Dale's withdrawal peaking and breaking. Through the Rock House Shelter, where we'd slept dry and warm and I'd almost felt something like peace. Through the stray Turned hunter in the woods, nocking his invisible arrow, who reminded me that the organism took everyone — hunters and nurses, fathers and mothers, people who had been people.
+The container held through the first days on the trail, when the physical suffering was new enough to occupy the machinery's full capacity. Through the creek crossings and the gear discarding and the nightly inventory of blisters and the obsessive management of socks and the slow adaptation of a body that had never been asked to do anything like this. Through Dale's withdrawal peaking and breaking. Through the Rock House Shelter, where we'd slept dry and warm and I'd almost felt something like peace. Through the stray Turned hunter in the woods, nocking his invisible arrow, who reminded me that the organism took everyone — hunters and nurses, fathers and mothers, people who had been people. Through the overpass, where I became the kind of person who engineers a mass casualty event and steps over the results. Through the gas station, where I watched myself fail to save people for the third time and understood that the pattern would repeat forever.
 
-The container held because the machinery was running. And on Day 30, in the rain, on an uphill that never seemed to end, the machinery stopped.
+The container held because the machinery was running. And on Day 39, on a flat stretch of highway with nothing to think about, the machinery stopped.
 
-Not dramatically. Not a breakdown — not yet. Just a quiet failure, like a generator running out of fuel. One moment I was walking and processing and carrying the weight in its compartment. The next moment the compartment was open and the weight was everywhere — in my legs, in my lungs, in the rain on my face, in the sound of my own breathing, in the grey nothing-light of a November forest that was beautiful and indifferent and would go on being beautiful and indifferent long after everyone I loved was gone.
+Not dramatically. Not a breakdown — not yet. Just a quiet failure, like a generator running out of fuel. One moment I was walking and processing and carrying the weight in its compartment. The next moment the compartment was open and the weight was everywhere — in my legs, in my lungs, in the flat grey light of a November afternoon, in the sound of my own breathing, in the empty highway that stretched in both directions like a sentence with no end.
 
-I stopped on the trail. The group moved on for a few steps. Sienna noticed first — she always noticed first.
+I stopped on the highway. The group moved on for a few steps. Sienna noticed first — she always noticed first.
 
-I was standing in the rain and I was not moving because there was nowhere to move to. Every direction was away from her. The trail went north to south but the distance that mattered was not geographical — it was temporal, irreversible, the distance between a kitchen where she poured coffee and a parking lot where she stood with bare feet, and no amount of walking would close it.
+I was standing on the asphalt and I was not moving because there was nowhere to move to. Every direction was away from her. The highway went north to south but the distance that mattered was not geographical — it was temporal, irreversible, the distance between a kitchen where she poured coffee and a parking lot where she stood with bare feet, and no amount of walking would close it.
 
 "Nate," Sienna said.
 
-I looked at her. She was soaked — hair plastered flat, clothes dark with rain, her face the particular shade of miserable that November hiking produces. She looked at me and she saw it. She always saw it. The thing behind the machinery, the thing the data was built to hide.
+I looked at her. She was tired — they all were, the highway walking wearing everyone down in a different way than the trail had, the flatness and the monotony and the exposure grinding something that switchbacks and creek crossings at least distracted you from. She looked at me and she saw it. She always saw it. The thing behind the machinery, the thing the data was built to hide.
 
-I didn't say anything. There was nothing to say. The rain said it for me — falling on everything equally, on the trail and the trees and the Turned and the not-Turned, on mothers and sons, on the living and the dead and the in-between, and the falling was indiscriminate and the indiscriminacy was the truest thing about the world.
+I didn't say anything. There was nothing to say. The highway said it for me — stretching in both directions, flat and empty and indifferent, the same in every direction, carrying the same nothing toward the same nowhere, and the emptiness was the truest thing about the world.
 
 Sienna took my hand.
 
 She had never done this before. In five weeks of proximity and argument and the slow accumulation of whatever we were becoming, she had touched my elbow twice and my arm once, each time brief and functional. This was different. Her fingers between my fingers. Her grip firm and warm despite the rain. She was not letting go and she was not saying anything and she was holding me in the world by the specific physical fact of her hand.
 
-We stood there. In the rain. Five minutes or five hours.
+We stood there. On the highway. Five minutes or five hours.
 
 Then we walked on. Because walking was the only verb left.
 
 ---
 
-I didn't write in the journal that night. I sat under the tarp and said nothing and ate nothing and everyone left me alone because they understood. Caleb brought me the wooden beagle and put it in my lap without a word and went back to Marcus's side.
+I didn't write in the journal that night. I sat by the fire at the roadside camp and said nothing and ate nothing and everyone left me alone because they understood. Caleb brought me the wooden beagle and put it in my lap without a word and went back to Marcus's side.
 
 Two days later I opened the notebook.
 
@@ -64,11 +66,11 @@ I put my hand against the glass. I couldn't not. The glass was warm.
 
 I woke walking.
 
-I was ten feet from my sleeping bag, moving past the dying campfire toward the trail, and my heart was at 118 and I didn't know where I was or when I was or whether the glass had been real. My hand was still raised, palm out, reaching for a window that wasn't there.
+I was ten feet from my sleeping bag, moving past the dying campfire toward the highway, and my heart was at 118 and I didn't know where I was or when I was or whether the glass had been real. My hand was still raised, palm out, reaching for a window that wasn't there.
 
 I didn't go back to the sleeping bag. I couldn't. The dream was still in the air — not the nightmare part, the *good* part, the kitchen and the coffee and her voice — and going back to sleep meant either returning to it or losing it and I couldn't survive either one.
 
-I took the binoculars and walked. Back up the trail. Back the way we'd come. Back toward Clarksville.
+I took the binoculars and walked. Back up the highway. Back the way we'd come. Back toward Clarksville.
 
 ---
 
@@ -80,17 +82,17 @@ I took the binoculars and walked. Back up the trail. Back the way we'd come. Bac
 
 Sienna woke at 3 AM and Nate's sleeping bag was empty.
 
-They were camped on a flat section of ridge — tarps strung between oaks, sleeping bags on pads, the fire burned down to coals that pulsed orange when the wind moved through. The group was scattered under the tarps, the shapes of sleeping bodies barely visible in the dark. The forest smelled like wet leaves and woodsmoke and the particular cold of a November night at altitude.
+They were camped in a highway pulloff — a wide gravel shoulder where truckers used to park, the shopping carts pulled to the side, sleeping bags laid out on pads in the shelter of a concrete retaining wall. The fire was built in the gravel and had burned down to coals that pulsed orange when the wind moved through. The group was scattered along the pulloff, the shapes of sleeping bodies barely visible in the dark. The air smelled like asphalt and woodsmoke and the particular cold of a November night on exposed highway.
 
 Nate's sleeping bag was flat. His backpack was where he'd left it. His binoculars were gone.
 
 Sienna didn't wake anyone. She pulled on her shoes, took the blood pressure cuff — habit, the cuff went everywhere now, pink and absurd and essential — and moved past the fire.
 
-The night was cold. November in the Boston Mountains, the air sharp enough to taste, the stars dense above the canopy gap. She listened. Crickets. Wind. The small sounds of a forest at night that she was learning to distinguish from the other sounds — the ones that meant something was wrong.
+The night was cold. November on Highway 71, the air sharp enough to taste, the stars dense above the open road. She listened. Wind. The distant sound of something — an animal, or not — moving in the scrub beyond the shoulder. The sounds of an empty highway that she was learning to distinguish from the other sounds — the ones that meant something was wrong.
 
-She heard footsteps. North. On the trail.
+She heard footsteps. North. On the highway.
 
-She found him a quarter mile from camp, walking. Not the careful, measured walk he'd taught them — the breathing, the slow pace, the conscious suppression of the body's emergency signals. He was just walking. In the dark, without a flashlight, without a plan, back up the trail the way they'd come. Back toward Clarksville. Back toward the hospital parking lot where he'd seen her from the truck, the woman in blue scrubs, the day Marcus kept driving.
+She found him a quarter mile from camp, walking. Not the careful, measured walk he'd taught them — the breathing, the slow pace, the conscious suppression of the body's emergency signals. He was just walking. In the dark, without a flashlight, without a plan, back up the highway the way they'd come. Back toward Clarksville. Back toward the hospital parking lot where he'd seen her from the truck, the woman in blue scrubs, the day Marcus kept driving.
 
 She caught up to him. His face was blank in the starlight — not the analytical blankness he wore like armor, the one that said *I am processing data and not feeling.* This was different. This was empty. The face of a person who had run out of the thing that held them together and was operating on the last fumes of muscle memory.
 
@@ -100,7 +102,7 @@ He didn't stop. Didn't acknowledge her. Kept walking.
 
 She walked alongside him. She didn't touch him, didn't talk, didn't try to block his path. She matched his pace and stayed a foot to his left and let the silence be the thing between them. She'd learned this from watching him — the patient observation, the refusal to intervene until you understood what you were intervening in. He'd taught her more about stillness than he'd ever know.
 
-They walked for five minutes. The trail was dark. The trees were dark. Somewhere to the north, forty miles of trail and twenty miles of road away, was the hospital parking lot and the woman in blue scrubs.
+They walked for five minutes. The highway was dark. The mountains on either side were dark. Somewhere to the north, thirty miles of highway and sixty miles of trail and twenty miles of road away, was the hospital parking lot and the woman in blue scrubs.
 
 "Nate, she's not there."
 
@@ -110,7 +112,7 @@ His voice was flat. Two words, no inflection. The voice of a person who understo
 
 Sienna had watched Nate hold his composure through everything. The knock on the door. The septic tank. The Lyles burning. She had watched him see his mother's face in a parking lot and keep walking. She had watched him absorb horror after horror and convert each one into data, each trauma into a journal entry, each loss into a lesson. She had admired it and been frightened by it in equal measure — the capacity to feel everything and process it into something useful, the cold engine running behind the eyes of a fifteen-year-old who should have been doing homework.
 
-She understood now that the engine had limits. That the processing was not the same as the feeling, and the feelings he hadn't felt were still in there, accumulating, pressing against the walls of the container he'd built for them, and the container had cracked — not from a single blow but from the slow grinding of days, the rain and the hunger and the blisters and the weight of a pack and the weight of everything the pack couldn't carry — and the crack was beyond repair.
+She understood now that the engine had limits. That the processing was not the same as the feeling, and the feelings he hadn't felt were still in there, accumulating, pressing against the walls of the container he'd built for them, and the container had cracked — not from a single blow but from the slow grinding of weeks, the hunger and the blisters and the weight of thirty dead people under an overpass and the weight of everything the notebook couldn't carry — and the crack was beyond repair.
 
 She started talking. Not to convince him — to be present. To fill the dark with something that wasn't silence and wasn't analysis.
 
@@ -122,9 +124,9 @@ Nate's pace slowed. Not much. A fraction.
 
 Nate stopped walking.
 
-Not because she convinced him. Because his legs gave out. He sat down on the trail — just folded, the way a structure folds when the load-bearing element fails — and he was on the dirt in the dark and his hands were over his face and he was crying.
+Not because she convinced him. Because his legs gave out. He sat down on the highway — just folded, the way a structure folds when the load-bearing element fails — and he was on the dirt in the dark and his hands were over his face and he was crying.
 
-Not the controlled, silent crying from the night of the knock. This was ugly and loud and completely uncontrolled — the sound of a fifteen-year-old boy who had held everything together for five weeks through intelligence and discipline and the ruthless conversion of grief into strategy, and who had run out of conversion capacity, and who was now producing the raw sound of loss in the middle of the forest in the dark in a world where raw sound was the thing that killed you.
+Not the controlled, silent crying from the night of the knock. This was ugly and loud and completely uncontrolled — the sound of a fifteen-year-old boy who had held everything together for five weeks through intelligence and discipline and the ruthless conversion of grief into strategy, and who had run out of conversion capacity, and who was now producing the raw sound of loss on an empty highway in the dark in a world where raw sound was the thing that killed you.
 
 Sienna dropped to her knees beside him. She put her hand over his mouth. Not gently — this wasn't tender, this was survival, this was the same instinct that had made Nate bite his own hand on the night of the knock.
 
@@ -134,9 +136,9 @@ He couldn't stop. The sound came through her fingers — muffled, broken, the so
 
 "I know," she whispered. "I know. But quiet. Please. Quiet."
 
-The crying subsided. Not because he was finished — because the body runs out before the grief does, and at some point the physical machinery of crying depletes its resources and the sound stops even though the cause doesn't. He sat on the trail with Sienna's hand over his mouth and Sienna's arm around him and he shook and didn't make a sound and the stars were cold above them and the trail was dark in both directions.
+The crying subsided. Not because he was finished — because the body runs out before the grief does, and at some point the physical machinery of crying depletes its resources and the sound stops even though the cause doesn't. He sat on the asphalt with Sienna's hand over his mouth and Sienna's arm around him and he shook and didn't make a sound and the stars were cold above them and the highway was dark in both directions.
 
-Marcus found them twenty minutes later. He'd woken, noticed the empty sleeping bags, followed the trail. He stood over them for a moment — two kids on the dirt, one holding the other — and he didn't ask what happened.
+Marcus found them twenty minutes later. He'd woken, noticed the empty sleeping bags, followed the highway. He stood over them for a moment — two kids on the asphalt, one holding the other — and he didn't ask what happened.
 
 He picked Nate up. This was not easy — Nate was not small, and Marcus was tired, and the act of lifting a hundred and seventy pounds off the ground required a physical effort that Marcus performed without comment because Marcus understood that some things needed to be done and the doing was more important than the difficulty.
 
@@ -150,7 +152,7 @@ Nobody discussed it in the morning.
 
 I came back slowly. Not from a place — from a state. The state was the one where you stop being the person who processes and become the person who is processed. I'd been there for two days and I don't remember much of it except Sienna's hand and Jim's shoulder and Marcus carrying me and Caleb putting the beagle in my lap and the weight of a small carved dog in my hands being the most real thing in the world.
 
-On the morning of Day 33 I woke up and the analytical machinery was back online. Not fully — the crack was still there, and would be, and I could feel it the way you feel a broken bone that's been set but not healed. But the machinery was running. I could think. I could observe. I could plan.
+On the morning of Day 41 I woke up and the analytical machinery was back online. Not fully — the crack was still there, and would be, and I could feel it the way you feel a broken bone that's been set but not healed. But the machinery was running. I could think. I could observe. I could plan.
 
 But first there was the morning, and the morning was slow. Ruth made me tea from a packet she'd been hoarding — chamomile, the paper tag still attached, the string hanging over the side of a dented camp cup. She didn't say anything while she made it. She didn't say anything when she handed it to me. She sat on a log across from mine and read her romance novel and the only sound was pages turning and the tea cooling and the specific silence of a person who is keeping you company without requiring you to be anything.
 
@@ -228,7 +230,7 @@ Dale looked at Jim. Two men who had spent their lives in folding chairs — one 
 
 ---
 
-We broke camp after the lesson and continued south on the trail. The ridgeline gentled — the climbs less steep, the descents more gradual, the Boston Mountains releasing their grip as we moved toward the lower elevations near Lake Fort Smith. Dale walked near the front now. His pace was steady — the walk of a man who had come through the worst of it and was standing on the other side. Maria walked behind him, and I noticed — the way I notice things, the way I can't not notice things — that she wasn't walking behind him to support him. She was walking behind him because he was setting the pace and she was following it, and the dynamic between them had shifted from "managing the addict" to "walking with the man," and the shift was small and enormous and neither of them acknowledged it.
+We broke camp after the lesson and continued south on the highway. The terrain was opening — the mountains behind us now, the road descending through the last of the switchbacks toward the broad plateau where Fayetteville sat. Dale walked near the front, pushing one of the shopping carts. His pace was steady — the walk of a man who had come through the worst of it and was standing on the other side. Maria walked behind him, and I noticed — the way I notice things, the way I can't not notice things — that she wasn't walking behind him to support him. She was walking behind him because he was setting the pace and she was following it, and the dynamic between them had shifted from "managing the addict" to "walking with the man," and the shift was small and enormous and neither of them acknowledged it.
 
 Marcus, walking beside me, said quietly: "He's tougher than he looks."
 
@@ -240,24 +242,24 @@ Marcus, walking beside me, said quietly: "He's tougher than he looks."
 
 "Don't tell me that either. I have a reputation."
 
-We walked. The trail descended. Through the trees I could see the terrain opening — the forest thinning, the ridgeline dropping, the lake somewhere below us. Two more days and we'd be off the trail. Out of the mountains. Onto the highway and the last stretch to Fayetteville.
+We walked. The highway curved through the last of the hills. Through the trees I could see the terrain flattening ahead — the outskirts of something, the edge of a city, buildings and fields and the built-up sprawl of a college town.
 
-"Lake Fort Smith," Marcus said, reading the map. "Day after tomorrow, maybe."
+"Fayetteville," Marcus said, reading a road sign. "Ten miles."
 
-I nodded. The trail phase was ending. What came after — the highway, the towns, the approach to the city — would be different. More exposed. More Turned. More of the decisions I'd been carrying since the overpass.
+I nodded. Ten miles. The last stretch. But between us and the university — whatever was gathered on the outskirts of a city that had once held eighty thousand people. The Turned would be concentrated there. Drawn to the population center, the infrastructure, the gravitational pull of human settlement.
 
 "Then we'll need everything Dale just taught us."
 
-Marcus nodded. We walked on. The trail dropped toward the lake and the sky widened above us and somewhere ahead, past the highway and the towns and whatever waited on the outskirts of Fayetteville, was the university and Dr. Moss and the sound of a frequency that kept the Turned at bay.
+Marcus nodded. We walked on. The highway dropped toward the city and the sky widened above us and somewhere ahead, past whatever waited on the outskirts of Fayetteville, was the university and Dr. Moss and the sound of a frequency that kept the Turned at bay.
 
 **JOURNAL ENTRY #18:**
 
-*Dale is through the withdrawal. Steady hands. Steady voice. Three weeks past his last Suboxone and he's alive and functioning and the reason he's alive is twelve years of sitting in folding chairs and not doing the thing his brain told him to do.*
+*Dale is through the withdrawal. Steady hands. Steady voice. Four weeks past his last Suboxone and he's alive and functioning and the reason he's alive is twelve years of sitting in folding chairs and not doing the thing his brain told him to do.*
 
 *He taught us radical acceptance. The situation is what it is. Your feelings about the situation are not the situation. This is the most useful sentence I've learned since "the mechanism is adrenaline," and it's more important because it applies to everything — not just the Turned, not just survival, but the grief and the fear and the fact that my mother is standing in a parking lot in Clarksville and I can't save her and the feeling of that is not the thing itself.*
 
-*Lake Fort Smith in two days. Then Highway 71. Then Fayetteville.*
+*Fayetteville. Ten miles. Whatever's gathered on the outskirts of a city that held eighty thousand people.*
 
-*I'm scared. My resting heart rate is 72. The gap is smaller than it used to be. I'm using Dale's techniques — noticing the fear, not fighting it, not riding it, just noticing. The fear is weather. The highway is geography. I navigate the geography.*
+*I'm scared. My resting heart rate is 72. The gap is smaller than it used to be. I'm using Dale's techniques — noticing the fear, not fighting it, not riding it, just noticing. The fear is weather. The city is geography. I navigate the geography.*
 
 *I navigate the geography.*
