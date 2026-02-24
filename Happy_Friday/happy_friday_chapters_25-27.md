@@ -1,22 +1,44 @@
 # Chapter 25: The Herd
 
-From the last rise on Highway 71, where the road crested a hill and the landscape opened into the broad plateau south of Fayetteville, I looked through the binoculars and stopped counting at two hundred.
+From the last rise on Highway 71, where the road crested a hill and the landscape opened into the broad plateau south of Fayetteville, I looked through the binoculars and saw a forest that hadn't existed six weeks ago.
 
 The outskirts of the city spread below us — a mile of open terrain, fields and subdivisions and strip malls and the wide, flat infrastructure of a college town's southern approach. Gas stations. A Dollar General. A church with a full parking lot — the cars still there, the congregation not. And beyond all of it, barely visible through the November haze, the campus. Red brick. Limestone. The glass front of the science building catching the late-afternoon sun.
 
-Between us and the campus: Turned. Hundreds of them. Standing in the fields and parking lots and roads like cattle at a watering hole — swaying faintly, oriented toward nothing and everything, their spacing uniform, their density breathtaking. They filled the approach from the tree line on the west to the first suburban streets on the east. The city drew them the way cities had drawn people for ten thousand years — the infrastructure, the flat ground, the gravitational pull of human settlement that was hardwired into the biology the organism had inherited.
+Between us and the campus: a thousand standing figures. But they were not standing the way the Turned I'd observed before had stood — swaying, drifting, the aimless patrol of the organism's default mode. These were motionless. Utterly, absolutely still. A field of human-shaped trees rooted in the earth of a college town's floodplain.
+
+I adjusted the focus. The binoculars brought them close enough to see the details, and the details were wrong in a way that made the back of my skull go cold.
+
+They were nude. All of them — or nearly all. The greening I'd been tracking since Pembrook had progressed beyond discoloration into something else entirely. Their skin was a dark greyish-green, the color of lichen on wet stone, and they faced the sun with the same uniform orientation — south-southeast, every face angled toward the light like a thousand solar panels on a thousand organic masts. But it was their feet that stopped me. Their feet were not on the ground. They were *in* it. Sunk two or three inches into the soil, the earth dark and disturbed around their ankles where it had been broken and resealed, and from their legs — from the calves, the shins, the place where skin met soil — dark structures grew. Vine-like. Root-like. Ropy tendrils the color of old blood that ran along the surface of the ground, connecting one figure to the next, branching and joining, a visible network that linked body to body across the field in an intricate web. Not individuals. A colony. A root system with human-shaped trunks.
+
+I tracked the roots. They were everywhere — threading through the grass, crossing sidewalks, climbing over curbs. Where soil was exposed, the network was dense, the roots thick and intertwined, the rooted Turned packed close together in clusters of ten, twenty, fifty, their vine connections so interwoven that the ground between them was more root than earth. Where pavement interrupted — roads, parking lots, the Dollar General's asphalt — the roots thinned or stopped, unable to penetrate, and the rooted Turned were absent. The pavement was a barrier. The organism couldn't root through concrete.
 
 I lowered the binoculars. My hands were not shaking. This felt like an achievement that should have been comforting and was not.
 
-"How many?" Sienna asked. She was beside me on the hilltop, the whole group arrayed along the shoulder of the highway, looking down at the approach the way you'd look down at the surface of another planet.
+"What is it?" Sienna asked. She was beside me on the hilltop, the whole group arrayed along the shoulder of the highway, looking down at the approach the way you'd look down at the surface of another planet.
 
-"I stopped counting at two hundred. There are more."
+"They're not moving," I said. "Most of them. They're — rooted. Standing in the soil. Connected to each other by some kind of vine or root structure. Like they've become plants."
 
-"How many more?"
+I handed her the binoculars. She looked for a long time. When she lowered them, her face had the expression of someone who has just been told a new rule of physics.
 
-"I don't know. Five hundred. A thousand. The density isn't uniform — they're thicker near the buildings, thinner in the open fields. But the approach is a mile wide and they're distributed across the whole thing."
+Marcus took the binoculars next. Then Dale. Then Jim. They passed them down the line like communion, each person looking at the valley and seeing the same impossible thing: a landscape full of people who had stopped being people and started being something that didn't have a name yet.
 
-Silence. Below us, the Turned swayed.
+"How many?" Sienna asked.
+
+"A thousand. Maybe more." I took the binoculars back and scanned again, counting categories this time. The analytical machinery, engaged. "But they're not all the same. The rooted ones — the ones in the ground — that's most of them. Maybe ninety percent. They're completely still. They don't react to anything I can see."
+
+I panned. "There are others. Maybe eight percent — they're the ones we've seen before. Drifters. Passive. They move through the rooted like — like attendants. Wandering between them. Same behavior as the Turned on the trail, the aimless patrol."
+
+I panned again and found the third type.
+
+"And there are a few — two percent, maybe less — that move differently. Faster. Directed. They're carrying things."
+
+"Carrying what?" Marcus said.
+
+I watched one through the binoculars. It moved with purpose through the rows of rooted, navigating the root network on the ground with the ease of familiarity. It was carrying something in its arms — a shape I couldn't identify at this distance. Organic. Dark. It walked to a cluster of rooted and set the thing down at their feet, placing it among the roots with a deliberate care that looked almost ceremonial.
+
+"Food," I said. "They're bringing food to the rooted ones. Placing it at their feet. Like — " I searched for the word. "Like an offering."
+
+Silence. Below us, the forest of human trees stood in the sun. The attendants drifted. The hunters carried their offerings.
 
 Marcus said: "The university is down there. Straight through. Maybe two miles."
 
@@ -30,11 +52,23 @@ Ruth, leaning on her walking stick: "Is there another way in?"
 
 "Ruth's atenolol runs out tomorrow," Maria said. No inflection. Just math.
 
-I looked at the valley again. The binoculars brought the Turned into close focus — faces, bodies, the details. Some were recent — clothing intact, skin undamaged, the look of people who'd been walking for weeks but were otherwise maintained by the organism. Others were older, deteriorating — the ones from the early days, five or six weeks out, their bodies showing the wear that the organism couldn't fully prevent: sunburned skin, untreated injuries, the gauntness of inadequate nutrition. Pembrook's green had been the early sign. Down here, in the full sun of the valley floor, many of them had the same discoloration — faces and forearms tinged with that vegetal shade, the photosynthetic adaptation progressing, the organism slowly converting its hosts into something that fed on light as well as food.
+I looked at the valley again. The clothing progression I'd been tracking since Week One — Pembrook's open robe, the garden woman's discarded shoes, the interchange soldiers stripping body armor — terminated here, in this. The undressing hadn't been random. It had been preparation. The organism had been stripping its hosts for weeks, exposing the skin to the sun, driving the photosynthetic adaptation, and all of it had been building toward this: the rooting. The final stage. Mobile host becomes sessile host. Animal becomes plant. The clothing came off because roots don't wear shirts.
 
-And the clothing. I'd been tracking it since Week One — Pembrook's open robe, the garden woman's discarded shoes, the interchange soldiers stripping body armor — and here, in a herd of hundreds, the pattern was undeniable. A visible timeline of conversion expressed in degrees of undress. The newest Turned were fully clothed, recent enough that the organism hadn't prioritized the removal. Ones from Week Two had lost shoes, jackets, hats — the outer layers gone, folded or piled nearby. The older ones, the Week One conversions, were nearly nude — shirts gone, pants gone, standing in the valley sun in nothing but the greening skin, their bodies turned toward the light like panels on a solar array. The progression was clear: the longer someone had been Turned, the less they wore. And the undressing was deliberate — not decay, not tearing, but removal. Folding. Placement. As if the organism needed the skin exposed and was systematically eliminating anything that blocked whatever the skin was doing.
+And the superintelligence I'd sensed in the herd — the vast stillness, the coherence that went beyond anything the smaller groups had shown — now had a physical explanation. The root network. The vine-like structures connecting body to body through the soil. They weren't just standing near each other. They were *wired together.* A distributed nervous system — humans as neurons, roots as dendrites — and the coherence wasn't metaphorical, it was structural. The organism had built itself a brain out of a thousand people and the dirt they stood in.
 
-The swarm threshold. I did the math instantly, and the math made my vision narrow. The threshold was density-dependent, not count-dependent. Thirty in a parking lot had been enough. These were hundreds in an open valley — the density was lower than a parking lot, spread across a mile of floodplain. Were they above threshold? Below? At threshold, the behavior had been frenzy — undirected destruction, the organism's coordination collapsing into violence. But what I was seeing below was not frenzy. It was the opposite. It was a vast, eerie stillness — a coherence that went beyond the smaller groups I'd observed. As if at this scale, the organism achieved something else entirely. Not the chaotic breakdown of the swarm. A superintelligence. A collective mind, aware, patient, watching.
+But.
+
+The rooted couldn't move. Their feet were in the ground. The roots held them. Ninety percent of the Turned in that valley were as fixed as fence posts — facing the sun, connected to their network, utterly immobile. They couldn't chase. They couldn't swarm. They couldn't converge. The density that should have meant certain death was made of things that couldn't move.
+
+Walking through a thousand active Turned would be suicide. Walking through a field of rooted Turned who couldn't lift their feet — with scattered drifters and a handful of hunters — was terrifying. But it was not suicide. Not necessarily.
+
+I raised the binoculars again and studied the terrain. Not the Turned — the ground. The infrastructure. Looking for pavement.
+
+"Dixon Street," Marcus said. He was beside me, squinting at the valley without binoculars, reading the geography the way a trucker reads a map — by landmarks and routes and the logic of roads. "Runs north straight into campus. I used to take it when I had deliveries to the university district. Restaurants, coffee shops, bars, a big bookstore. Commercial strip. Mostly paved."
+
+I found it through the binoculars. A line of asphalt cutting north through the valley, flanked by low commercial buildings — the flat roofs and awnings of a college town's restaurant row. And Marcus was right. The pavement was a corridor. On either side, in the yards and medians and unpaved gaps, the rooted stood in their clusters, the root network dense and dark across the exposed soil. But the street itself — the asphalt, the sidewalks, the concrete of parking lots — was largely clear. A few roots crossed the pavement where cracks or gaps allowed them purchase, dark tendrils stretching across the road like veins on the back of a hand. But the density was nothing compared to the fields. The rooted couldn't push through concrete. The pavement was a river through a forest, and the forest couldn't cross it.
+
+"I can see it," I said. "Dixon Street. The rooted are mostly in the soil on either side. The road itself is passable — some root crossings, but the density is a fraction of the fields. The drifters use the street. Some hunters. But we're talking dozens, not hundreds."
 
 "We walk through," I said.
 
@@ -48,27 +82,29 @@ The order of march was deliberate: Jim first, because Jim was the calmest person
 
 I was last because I was the watcher. Because someone needed to see the whole picture, and seeing the whole picture was my function, and my function required distance.
 
-The hill dropped us off the highway and onto the flat approach. The ground changed — from cracked asphalt to the weedy edges of a subdivision road, past mailboxes and driveways and a school bus stopped permanently at a corner. The campus was two miles ahead, barely visible through the haze of a thousand standing bodies. Between us and the university, the Turned.
+The hill dropped us off the highway and onto the flat approach. We cut west toward Dixon Street, picking our way through a subdivision — past mailboxes and driveways and a school bus stopped permanently at a corner — and onto the commercial strip. The first rooted appeared at the edge of a front yard, thirty feet from the road. A woman. Nude, grey-green, facing the sun. Her feet embedded in the soil of what had been a flower bed. Roots ran from her legs in three directions — two connecting to figures behind her in the yard, one trailing across the grass toward the sidewalk where it stopped at the concrete edge, unable to cross. Her face was slack. Her eyes were open, seeing nothing, or seeing something I couldn't see. She did not react to us.
 
-They noticed us.
+Dixon Street opened ahead — a corridor of asphalt between walls of the rooted. On both sides, in every patch of exposed earth, they stood. The medians. The planting strips between sidewalk and street. The yards behind the shops. Clusters of five, ten, twenty, connected by root networks so dense the ground was more vine than soil. The roots were dark, ropy, the texture of old grapevines but thicker, with a wet sheen that caught the sunlight. Where a root crossed the pavement — threading through a crack in the asphalt, reaching across a gap where a utility cut had been patched — it lay flat and dark against the road surface, a tripwire the color of dried blood.
 
-Not the way the smaller groups noticed — the head-turn, the tracking, the individual evaluation. This was collective. A ripple. A thousand faces turning in unison, slowly, the way sunflowers track the sun, and the sunflower comparison was no longer a metaphor but a description. They turned toward us as a field turns toward light — every face, every body, orienting in a single smooth motion that crossed the valley floor like a wave. The sound of it — a thousand bodies shifting weight on sandy soil — was a low, continuous whisper, like wind through grass except there was no wind.
+We stepped over roots carefully. Jim first, his stride measured, his eyes scanning the pavement. Each root crossing was a decision — step over, step around, never step on. The roots were the network. Disturbing them was disturbing the organism itself.
 
-Jim kept walking. He hummed — the tuneless melody he hummed at the church, the one that had no name and no key and was just the sound Jim made when he was being Jim. The humming was steady, low, anchoring. He walked into the edge of the herd the way you'd walk into water — one step at a time, accepting the depth.
+The rooted did not react to our passage. Not a twitch. Not a head-turn. They stood in the sun, grey-green and motionless, their faces blank, their mouths slightly open. Some had been standing long enough that grass had grown up around their ankles, partially hiding the point where skin met earth. Others were newer — the soil around their feet still freshly broken, the roots thinner, the connection to the network incomplete. All of them faced south-southeast. All of them were silent.
 
-The Turned parted. Not dramatically — not like the Red Sea. They shifted. An inch here, a step there, creating a passage that was less a path than an absence, a gap that moved with Jim, always just wide enough, always closing behind him. The faces tracked him. Blank, smooth, the organism's default expression. Mouths slightly open. Eyes that followed without seeing, or that saw something we couldn't.
-
-We followed. Single file. The spacing was critical — too close and we were a mass, a provocation, a collective signal. Too far and the passage Jim opened would close before the last person passed. Three yards between each person. Measured. Breathing.
-
-The first hundred yards were the worst because the first hundred yards were where the model met reality and the model didn't cover this. I had observed Turned from steeples and treelines. I had walked past small groups. I had hidden from concentrations and collapsed structures onto swarms. But I had never been inside one — surrounded on all sides, the closest Turned less than six feet away, their bodies filling my peripheral vision, their smell everywhere, a collective scent that was not the smell of unwashed bodies but something else, something organic and alien, the smell of the organism itself breathing through a thousand hosts.
-
-Faces passed. Some I almost recognized — not individuals I knew but types, the ghost of a grandmother, the echo of a teacher. This was the uncanny valley made literal: human faces with nothing human behind them, the topology of personality without the content, like masks in a shop window.
-
-Then the voices started.
-
-Not the targeted mimicry — not the precise, weaponized use of a specific person's voice to crack a specific target's composure. This was ambient. Fragments. Half-words and broken syllables drifting through the herd like radio static — a woman's voice saying something that might have been a name, a man's voice with the cadence of a question, a child's voice that was just sound, just the tone and rhythm of a child speaking without any of the words.
+Not all silent. The voices came from them — not the targeted mimicry, not the precise weaponized use of a specific person's voice to crack a specific target's composure. This was ambient. Fragments. Half-words and broken syllables drifting from the rooted like radio static — a woman's voice saying something that might have been a name, a man's voice with the cadence of a question, a child's voice that was just sound, just the tone and rhythm of a child speaking without any of the words. The organism's memory banks, playing on loop. Not mimicry. Not hunting. Just noise — the background hum of a networked consciousness running idle, its human components still producing fragments of the lives they'd contained.
 
 The fragments didn't resolve. They hovered at the edge of meaning — close enough to activate the pattern-recognition circuits, too far to complete. This was worse than the targeted mimicry. The targeted version was a key in a lock — specific, defeatable, because you could identify the wrong detail, the Taco Bell that should have been Whataburger. The ambient version was fog. It was every voice you'd ever known, broken into pieces and reassembled wrong, and your brain kept trying to make them cohere and they kept almost cohering and the effort of processing the almost was its own kind of assault.
+
+The drifters were on the street. The eight percent — the passive Turned, the familiar behavior from the trail. They wandered among the rooted like attendants at a ward, aimless, swaying, navigating the root network on the pavement with an unconscious ease that suggested they knew the layout the way a nurse knows a hospital floor. Jim parted them as he walked — his humming, the tuneless melody that had no name and no key and was just the sound Jim made when he was being Jim, cleared a narrow path. The drifters shifted. An inch here, a step there. Not the Red Sea. Just a small gap that moved with Jim and closed behind him.
+
+The hunters were different.
+
+I saw the first one on a side street — moving with purpose, fast, carrying something in its arms. It crossed Dixon Street forty yards ahead, threading between two parked cars, and disappeared into a yard on the far side where a cluster of rooted stood in a circle. It placed its burden at their feet — dark, shapeless, organic — and then stood there for a moment, motionless, before turning and moving back the way it had come with the same directed stride.
+
+"Freeze," I whispered. The word ran up the line.
+
+We froze. The hunter passed on the cross street without looking at us. Its eyes were different from the drifters' — focused, scanning, the pupils tracking. It was problem-solving. It was working. And the thing it was doing — bringing food, organic matter, whatever it carried, to the rooted — had the quality of ritual. Not random scavenging. Directed service. The two percent that still moved freely, feeding the ninety percent that no longer could.
+
+We walked. The commercial strip of Dixon Street provided landmarks that were grotesque in their ordinariness. A coffee shop with outdoor seating — the wrought-iron tables and chairs still arranged on the sidewalk, and three rooted growing through the patio, their roots threading between the chair legs, one figure's foot embedded in the dirt of a large planter that had held ornamental grass and now held a human trunk. A used bookstore with its windows dark, paperback displays still visible inside, a STAFF PICKS shelf that nobody would ever update. Food trucks in a lot — three of them, their serving windows closed, roots threading up through the wheel wells and along the undercarriages, the organism colonizing the vehicles the way ivy colonizes a wall.
 
 Sienna, ahead of me, faltered. A half-step. A catch in her stride. I saw her shoulders tighten and her head tilt toward a fragment — something that sounded like her father's voice, something that might have been her name — and then she corrected. Breathed. Walked.
 
@@ -76,9 +112,9 @@ My own brain was doing the same thing. Somewhere in the fog of voices I heard �
 
 ---
 
-We reached the center of the herd after ninety minutes. The density was highest here — the Turned packed closer, the gaps narrower, the passage that Jim opened shrinking to shoulders-width. I could have reached out and touched the nearest Turned. I did not reach out. I kept my arms at my sides and my eyes forward and my breathing measured and I walked through the center of a thousand stolen lives and didn't touch any of them.
+The density increased as we neared the campus. More rooted in the medians. More roots crossing the pavement — thicker here, the cracks wider, the asphalt older and more broken. The root network beneath us was becoming harder to avoid. Step over. Step around. Watch your feet.
 
-A cluster of Turned near the center began droning. The summoning call — that low, resonant vibration that preceded the convergence behavior. I felt it in my sternum. More Turned began drifting inward, tightening the density around us. The gap narrowed. The pressure increased. I could feel the threshold approaching — not as data but as a physical sensation, a compression, the air getting heavier, the organism's collective attention focusing on the small anomalies moving through its body.
+A cluster of drifters near the center of the street began droning. The summoning call — that low, resonant vibration that preceded the convergence behavior. I felt it in my sternum. More drifters oriented toward the sound, tightening the density around us. The gap narrowed.
 
 I did the only thing I could think of.
 
@@ -86,15 +122,15 @@ I started talking.
 
 "Okay," I said. Quietly. Conversationally. As if I were sitting in Lot 7 with a controller in my hands and a screen in front of me and a bag of chips on the armrest and the world was still the world. "So the thing about *Civilization VI* is that the AI is broken. It's always been broken. Gilgamesh is the best early-game civ because you get the War-Cart, which is a heavy chariot replacement that gets bonus combat strength against anti-cavalry, and the AI never builds enough anti-cavalry to counter it. You rush four War-Carts by turn thirty and you can take a city-state before the AI has archers on the walls."
 
-The Turned near me tilted their heads. The drilling was the signal of a human voice — not the fear-soaked, adrenaline-laden signal they fed on, but something else. A voice producing words without panic. A voice in the register of normal. Conversational. Boring.
+The drifters near me tilted their heads. A human voice — not the fear-soaked, adrenaline-laden signal they fed on, but something else. A voice producing words without panic. A voice in the register of normal. Conversational. Boring.  A voice like their own.
 
 "The real trick is the Zigzag of Ur. You get it from being suzerain of a city-state, and it gives you plus three science in the ancient era, which doesn't sound like much but in the early game it's the difference between getting Bronze Working on turn fifteen versus turn twenty, and Bronze Working lets you build Spearmen, which are the anti-cavalry unit, which is ironic because you're playing as the civ with the best anti-anti-cavalry unit, so you're building the counter to your own counter, which is —"
 
-I was babbling. I knew I was babbling. The babbling was the point. The sound of a human voice talking about nothing — about video game strategy, about unit counters and tech trees and the optimal build order for a fictional Sumerian civilization — was the most boring, least threatening, most aggressively ordinary sound I could produce. It was the opposite of a scream. It was the opposite of fear. It was a fifteen-year-old boy talking about his favorite game while walking through a thousand aliens wearing human skin, and the absurdity of it was the thing that kept my heart rate at 78 because the part of my brain that produced anxiety and the part that produced embarrassment couldn't operate simultaneously, and the embarrassment of narrating *Civilization VI* strategy to a valley of Turned was winning.
+I was babbling. I knew I was babbling. The babbling was the point. The sound of a human voice talking about nothing — about video game strategy, about unit counters and tech trees and the optimal build order for a fictional Sumerian civilization — was the most boring, least threatening, most aggressively ordinary sound I could produce. It was the opposite of a scream. It was the opposite of fear. It was a fifteen-year-old boy talking about his favorite game while walking through a forest of rooted aliens and past their drifting attendants, and the absurdity of it was the thing that kept my heart rate at 78 because the part of my brain that produced anxiety and the part that produced embarrassment couldn't operate simultaneously, and the embarrassment of narrating *Civilization VI* strategy to a valley of Turned was winning.
 
-Dale, ahead of me, made a sound that might have been a laugh and might have been a sob and was probably both.
+Dale, ahead of me, made a sound that might have been a laugh and might have been a sob.  It was probably both.
 
-The droning subsided. The density around us loosened — fractionally, enough. The Turned's heads tilted at my voice and then tilted away, processing, filing, the collective intelligence deciding that the sound was not a threat signal and redirecting its attention elsewhere.
+The droning subsided. The drifters' heads tilted at my voice and then tilted away, processing, filing, the collective intelligence deciding that the sound was not a threat signal and redirecting its attention elsewhere.
 
 We walked. I talked. I talked about Gilgamesh and about Alexander and about the wonder system and about why the Pyramids were a trap in multiplayer and about how the optimal science victory required you to ignore military entirely until the modern era, which was a strategy that worked in the game and absolutely did not work in real life, as demonstrated by our current situation.
 
@@ -102,37 +138,67 @@ Sienna, ahead of me, glanced back once. Her expression was — I can't describe 
 
 ---
 
-We reached the edge of the frequency zone at the three-hour mark.
+We were two hundred yards from the campus when Maria stepped on a root.  
 
-I felt it before I heard it — a pressure in the sinuses, a tightness behind the eyes, the feeling before a thunderstorm when the air gets heavy and your ears don't quite pop. And the Turned felt it too. Their density thinned here, the spacing widening, the bodies leaning slightly away from whatever was ahead the way you lean away from a sound that hurts. Some swayed erratically. One, standing near a fire hydrant, had his hands at his temples, his face contorted in something that looked like discomfort.
+Maria said "oops... sorry".  Like she had accidentally stepped on someones shoe.
 
-The campus was visible now — a quarter mile ahead, red brick through the haze, the glass front of the science building catching light. On the roof, an array of speakers and antenna components. The source.
+It wasn't dramatic. A misstep — her foot coming down on a dark tendril that crossed the asphalt where a utility cut had left a seam in the pavement. The root was barely visible, the color of the road surface in the low light, and she didn't see it until her weight was on it and the thing compressed beneath her shoe with a faint, wet sound like stepping on a grape.
 
-Ruth couldn't make it. The last hundred yards — the final stretch through the thinning Turned to the edge of the campus — were more than her heart could take. Not panic. Not the threshold. Just a seventy-two-year-old woman who had walked three hours through a nightmare on bad knees with no medication left and whose body was saying *enough.*
+The response was immediate.
 
-She stopped. Her legs buckled. Jim caught her — one arm around her waist, steady, the practiced catch of a man who'd been supporting people his whole life.
+The nearest rooted Turned — a man, ten feet away in a median strip, grey-green and motionless for the three hours we'd been walking — stiffened. His arms, which had hung slack at his sides since we first saw him from the hilltop, reached outward. His fingers splayed. His mouth opened and the sound that came out was not the ambient murmur of the memory banks. It was the hunting call. Sharp. Resonant. The summoning signal that activated every Turned within earshot as a hunter.
 
-"Ruth," he said. "I've got you."
+The signal propagated.
 
-"My knees do not require narration," she said. But her voice was thin and her face was grey and she was leaning on him in a way that was not correcting his grammar.
+Through the roots. I could see it — a ripple running through the network, the dark vines on the ground twitching in sequence like a fuse burning, and as the signal reached each rooted Turned they activated the same way: arms reaching, mouths opening, the hunting call emerging from a dozen throats, then two dozen, then fifty. The sound was cascading outward through the root network in a wave, each node amplifying and retransmitting, the colony's alarm system spreading through its wired connections faster than sound traveled through air.
 
-Jim talked to her. Not about survival. Not about the Turned. About birds. "Did you know the painted bunting is native to Arkansas? Leonard would have known. Leonard knew every bird in the county." He lifted her — not carried, supported — and they walked the last hundred yards together, step by step, Ruth's walking stick finding the sidewalk, her weight against his shoulder.
+The rooted couldn't move. Their feet were in the ground and the roots held them and their legs were fixed. But their arms reached — grasping at nothing, grasping at air, grasping in the direction of the disturbance — and their calls carried. The hunting signal filled Dixon Street, a choir of sharp cries echoing off the storefronts and awnings, and the drifters responded. Every passive Turned on the street oriented toward the sound. Their posture changed — the aimless sway replaced by the directed stance of the hunting mode, heads up, eyes tracking, bodies turning toward us with a coordination that was no longer casual.
 
-"Leonard did know every bird," Ruth said. "He also knew every pipe fitting manufactured after 1974. The man was an encyclopedia of useless information."
+And the hunters. The two percent. The ones that had been carrying food through the side streets, the ones that moved with purpose and problem-solving intelligence. They heard the call and they converged. I saw them coming from the cross streets — one from the east, two from the west, more behind them, moving fast, directed, the colony's mobile immune response summoned to the site of an intrusion.
 
-"Useful information," Jim said. "You fixed the cistern."
+"Run," I said.
 
-"I fixed the cistern with his knowledge and my hands. The collaboration persists."
+The word was unnecessary. Everyone was already running.
 
-They reached the campus perimeter. Marcus was already there, Caleb on his back, the boy's face buried in Marcus's shoulder where it had been for three hours. Dale and Maria. Sienna. Me.
+The campus was visible — a quarter mile ahead, red brick, the glass front of the science building catching light. On the roof, an array of speakers and antenna components. The source. And between us and the campus, I could see where the rooted stopped — a line, visible in the distribution, where the soil was bare and the roots thinned and pulled back, the frequency's edge written in the organism's retreat. The invisible wall. We just had to reach it.
 
-I stepped onto the campus sidewalk and my legs buckled and I went to my knees and I stayed there for a moment with my hands on the concrete and I breathed. Behind me, the herd was a dark ring — a thousand faces still oriented toward us from beyond the frequency's edge, watching, the collective intelligence observing our arrival with the same vast patience with which it had observed our passage.
+Ruth couldn't sprint. Her knees and her heart and seventy-two years of living made sprinting an impossibility, and the hundred-yard dash that the rest of us were running was for her a thing her body simply could not do. Jim didn't hesitate. He got his arm around her waist and he lifted — not carried, not quite, but took enough of her weight that her feet barely touched the ground. She held her walking stick in one hand and his shoulder in the other and they moved together, Jim half-carrying her in a lurching run that was slower than the rest of us but faster than she could have managed alone.
 
-The Turned didn't follow. They stood at the perimeter, swaying, pressing against the invisible wall of sound, unable or unwilling to cross. The frequency hummed in my teeth and my sinuses and the headache was immediate and persistent and it was the most beautiful headache I'd ever had because it meant we were inside and they were outside and the line between held.
+"My knees," Ruth said through clenched teeth, "do not require this indignity."
+
+"Your knees are going to forgive me," Jim said, and ran.
+
+The hunters were closing. I could hear their footfalls behind us — the slap of bare feet on asphalt, fast, purposeful, the sound of the two percent responding to the colony's distress signal. The rooted on either side of Dixon Street were a wall of reaching arms, their grey-green fingers stretching toward us as we passed, their mouths producing the hunting call in an unbroken chorus. They couldn't grab us — we were on the pavement, out of reach — but their calls were drawing every mobile Turned in Fayetteville toward this street.
+
+Fifty yards. The root network on the ground was thinning. The rooted were sparser here — leaning away from the campus, their bodies angled back from the frequency's edge, the organism's hosts repelled by whatever Moss's emitter was broadcasting.
+
+Twenty yards. The rooted stopped entirely. A visible line — on one side, the grey-green figures embedded in their soil, roots running between them. On the other side, bare ground. Empty sidewalk. The frequency's edge, written in absence.
+
+We crashed through the line. Marcus first, Caleb on his back, the boy's face buried in Marcus's shoulder. Dale and Maria. Sienna. Me. Jim and Ruth last — Jim's legs driving, Ruth's feet dragging, the two of them crossing the threshold together in a stumbling lurch that ended with both of them on their knees on the campus sidewalk.
+
+Behind us, the hunters pulled up short. Three of them, bare feet on the pavement, ten yards back, their bodies leaning forward, their eyes tracking us with focused, hungry intelligence. One took a step. Then another. Then it stopped — the frequency hitting it like a headwind, its face contorting, its hands going to its temples. It made the hunting call once more — sharp, frustrated, the sound of a predator at a fence — and then it turned. The others turned with it. They walked back toward Dixon Street, back toward the rooted, back into the colony that had summoned them.
+
+The rooted's calls faded. The wave of activation that had spread through the root network dissipated as the frequency disrupted the coordination — the signal that had cascaded through a thousand connected bodies dampened, dissolved, the colony's alarm system jammed by the same technology that kept the perimeter clear. Within a minute, the rooted were still again. Arms down. Mouths closed. Facing the sun.
+
+The frequency hummed in my teeth and my sinuses and the headache was immediate and persistent and it was the most beautiful headache I'd ever had because it meant we were inside and they were outside and the line between held.
+
+We lay on the sidewalk for a while. Nobody suggested getting up. Ruth was on her back with her eyes closed and her walking stick across her chest like a fallen soldier's rifle. Jim sat beside her, his hand on her shoulder, his lips moving in something that was either prayer or inventory. Marcus had Caleb in his lap — the boy had come off his back at some point during the collapse and was clinging to Marcus's shirt with both fists. The rest of us just breathed. The campus stretched around us — empty, sunlit, the red brick and limestone of university buildings standing in the silence of a place that had been designed for thousands and now held a handful and a headache.
+
+A door opened. A woman in a lab coat stepped out of the life sciences building fifty yards up the walk, shielded her eyes, and looked at us the way you'd look at something you'd been expecting but hadn't quite believed would arrive.
+
+"You're the church group," she called. "From Clarksville."
+
+Nobody had the energy to answer. She walked to us. Helped Ruth up. Led us inside.
 
 That night, in a dormitory common room on campus with the frequency humming in the walls, Marcus pointed at the sky through the window. Orion was up. The Pleiades. Caleb was asleep — finally asleep, after three hours of stillness on Marcus's back that had been its own kind of heroism for a seven-year-old.
 
 Nobody slept for a while. We sat in the common room and we shook — all of us, the collective shaking of eight people whose bodies had held steady for three hours and were now releasing the accumulated charge. It was almost funny, the whole group vibrating like an engine cooling down, and at some point Maria said "We look like a support group for people who've seen a ghost" and Ruth said "We look like a support group for people who've walked through a ghost" and Maria laughed and the laugh was too loud and too long and had tears in it and Ruth put her hand on Maria's shoulder and Maria put her hand on Ruth's hand and neither of them said anything else.
+
+Dale said it first. Quietly, staring at his coffee. "Did you see the roots?"
+
+Nobody answered for a moment. Then Marcus: "They're connected. All of them. Through the ground."
+
+"What are they becoming?" Maria asked. The question hung in the room like the frequency hum — persistent, unanswerable, a vibration that got into the bones.
 
 Marcus made coffee. Found in a kitchenette down the hall — actual coffee, ground, in a can someone had left. Brewed in a pot on the electric burner that still worked because the campus had solar. Served in actual mugs with actual handles. For Caleb — who woke up long enough to drink and fall back asleep — in a mug that said RAZORBACKS and had a cartoon boar on the side. Marcus stared at the coffee maker for a full minute before saying, "I haven't used one of these in six weeks," and Dale said, "Welcome back to civilization," and Marcus said, "Civilization has a headache," meaning the frequency, and the exchange was nothing and it was the funniest thing any of us had heard in a week.
 
@@ -144,17 +210,23 @@ I wrote under the lights — actual electric lights, the first I'd written under
 
 **JOURNAL ENTRY #19:**
 
-*We walked through. A thousand Turned. Three hours. Nobody panicked. Nobody ran. Nobody died.*
+*We walked through. A thousand Turned. Three hours. Nobody panicked. Nobody died.*
 
-*Jim led with a hymn. Marcus carried Caleb and talked about truck stops. Dale walked steady. Maria counted steps. Ruth walked until she couldn't and then Jim carried her and talked about birds. Sienna breathed.*
+*But the Turned aren't what they were. What I saw in the valley is a fourth behavioral state — not herding, not swarming, not hunting. Rooting. The oldest Turned have stopped moving entirely. Their feet are in the ground. Their skin is dark grey-green. They face the sun. And they're connected — vine-like root structures running between them through the soil, linking body to body in a visible network. A colony. Not a crowd, not a herd, not a swarm. A colony, like coral, like fungus, like something that has no good analogy because nothing on Earth does this with human bodies.*
+
+*Ninety percent rooted. Eight percent still drifting — the passive behavior I've been observing since Week One. Two percent hunting — and the hunters bring food to the rooted, placing it at their feet like offerings at an altar. The rooted don't eat it. The roots seem to absorb it. The colony feeds itself through the network.*
+
+*The rooting made the approach possible. A thousand active Turned would have killed us. A thousand rooted Turned who can't lift their feet are a forest, not an army. We walked Dixon Street — paved, mostly clear of roots, the organism can't penetrate asphalt — and the rooted stood on either side like statues and did not react. Until Maria stepped on a root. Then they all reacted. The signal propagated through the network faster than I could track — each rooted Turned activating in sequence, arms reaching, hunting calls cascading outward, summoning every mobile Turned in range. We ran the last hundred yards.*
+
+*Jim led with a hymn. Marcus carried Caleb. Dale walked steady. Maria counted steps. Ruth walked until she couldn't sprint and then Jim carried her across the line. Sienna breathed.*
 
 *I talked about Civilization VI.*
 
-*I talked about a video game while walking through a thousand organisms wearing human faces and the absurdity of it is the thing that saved us because absurdity and terror can't coexist in the same nervous system and my brain chose absurdity and the organism didn't know what to do with a signal that was neither fear nor calm but something else entirely — something so ordinary and so stupid that it didn't fit any of its models.*
+*I talked about a video game while walking through a forest of rooted organisms wearing human faces and the absurdity of it is the thing that saved us because absurdity and terror can't coexist in the same nervous system and my brain chose absurdity and the organism didn't know what to do with a signal that was neither fear nor calm but something else entirely — something so ordinary and so stupid that it didn't fit any of its models.*
 
-*Maybe that's the lesson. Maybe the organism can process our fear and our calm and our courage and our despair. Maybe it can read every signal the human nervous system produces. But maybe it can't read the signal that says "this person is explaining the tech tree for Sumerian civilization in a strategy game while surrounded by a thousand of you and his heart rate is 78 because he's too embarrassed to be afraid." Maybe the thing that saves us is the thing that's uniquely, irreducibly, absurdly human.*
+*The rooting changes everything. The organism isn't just occupying human bodies anymore. It's converting them. Mobile host to sessile host. Animal to plant. The root network is the physical substrate of the collective intelligence I've been sensing — not metaphorical coherence but literal wiring, a nervous system made of human neurons and organic dendrites. The undressing, the greening, the sun-facing — all of it was preparation for this. The organism was building itself a body. A permanent one. Something that roots and grows and connects and doesn't need to move because it's already everywhere.*
 
-*Or maybe I got lucky. The data set is insufficient. I survived and that's the only data point and one data point is not a pattern.*
+*I don't have a framework for what comes next. I write it down because that's what I do.*
 
 *We're on campus. We're inside the frequency. Ruth is getting medication tonight. The math, for once, worked out.*
 
@@ -166,7 +238,7 @@ That night, everyone dreamed.
 
 I know because I woke at 2 AM to a dormitory full of sounds — small sounds, the night-language of eight people whose bodies had held steady for three hours and whose minds, released from the discipline of waking, were processing what the discipline had suppressed. Marcus was muttering — not words, just the cadence of words, the rhythm of a conversation with someone who wasn't there. Sienna's legs were moving under her blanket, running, the stride pattern I knew from watching her on the trail. Ruth made a sound I'd never heard her make — a thin, keening note, barely audible, the sound of a woman who corrected grammar by day and wept for her husband by night. Dale's hands were moving on empty air, carving, the muscle memory so deep it ran in his sleep.
 
-I lay on a dormitory mattress — a real mattress, impossibly soft after weeks of sleeping pads and bare ground — with my hand on my pulse. Seventy-four. Safe. But the dreams had been there, waiting behind my eyelids, and the herd was in every one. A thousand faces turning. The ambient voices. The word *bud* in the fog. In one fragment I'd been walking through them but they were walking too, all of us going the same direction, single file along a street, and I couldn't tell which ones were us and which ones were them and the not-knowing was the worst part.
+I lay on a dormitory mattress — a real mattress, impossibly soft after weeks of sleeping pads and bare ground — with my hand on my pulse. Seventy-four. Safe. But the dreams had been there, waiting behind my eyelids, and the rooted were in every one. A thousand grey-green figures standing in the sun. The roots threading between them like veins. The ambient voices drifting from motionless mouths. The word *bud* in the fog. In one fragment I'd been walking through them on Dixon Street but my feet were slowing, my shoes sinking into the pavement that had become soil, and roots were growing from my ankles, and I was facing the sun, and I couldn't tell if I was walking through them or becoming one of them.
 
 In the morning, nobody talked about it directly. But the signs were there — the heaviness, the slow starts, the way people stared at their coffee like it owed them something. Maria said, "I couldn't get warm all night," and Dale said, "Me neither," and the building had been heated and they weren't talking about cold.
 
@@ -192,15 +264,9 @@ I wrote it down. I underlined it. I wrote no interpretation because I had none.
 
 # Chapter 26: The Frequency
 
-The door of the life sciences building opened before we reached it.
+Dr. Eleanor Moss. Young, maybe thirty, short black hair, glasses, the lab coat over a flannel shirt and jeans. She was thin in the way of someone who'd been too focused to eat properly for weeks. Her eyes were sharp and tired and she had a permanent squint — the squint of a person who had been living inside the frequency for a month and whose face had rearranged itself around the discomfort.
 
-A woman stood in the entrance — young, maybe thirty, short black hair, glasses, wearing a lab coat over a flannel shirt and jeans. She was thin in the way of someone who'd been too focused to eat properly for weeks. Her eyes were sharp and tired and she had a permanent squint — the squint of a person who had been living inside the frequency for a month and whose face had rearranged itself around the discomfort.
-
-"You're the church group," she said. "From Clarksville. I've been listening for you on the CB."
-
-"Dr. Moss?" Jim said.
-
-"Eleanor. Come in. The sound is better inside — the building attenuates it by about thirty percent. It never goes away entirely. You get used to it." She paused. "That's a lie. You don't get used to it. You just stop complaining about it."
+She'd come out to us on the sidewalk, helped Ruth to her feet, and led us inside without ceremony. "The sound is better inside," she'd said. "The building attenuates it by about thirty percent. It never goes away entirely. You get used to it." She paused. "That's a lie. You don't get used to it. You just stop complaining about it."
 
 We went inside.
 
@@ -238,9 +304,9 @@ Jim, from the back row: "Where?"
 
 "I don't know. I have a hypothesis I'm not willing to broadcast because the hypothesis is speculative and I've watched enough misinformation kill people in the last six weeks to last several lifetimes." She put the marker down. "What I can tell you is this: the organism communicates. The Turned coordinate because the organism synchronizes their behavior through a biochemical signaling network that functions like a distributed nervous system. The frequency —" She gestured upward, toward the emitter on the roof. "— disrupts that synchronization. It's the biological equivalent of jamming a radio signal. I reverse-engineered it from the organism's own communication patterns."
 
-She drew a new diagram — three columns, labeled.
+She drew a new diagram — four columns, labeled.
 
-"Behavioral states. You've identified two in your journal: herding and swarming. There's a third." She wrote it: *Hunting.* "Herding is the reproductive strategy — fear-farming, the conversion cycle, patient and coordinated. Swarming is the density-collapse behavior — the threshold event, uncontrolled destruction. Hunting is the caloric strategy — food-driven, directed, problem-solving. Small groups, coordinated by a distinct acoustic signal."
+"Behavioral states. You've identified three in your journal: herding, swarming, and hunting. There's a fourth." She wrote them: *Herding. Swarming. Hunting. Rooting.* "Herding is the reproductive strategy — fear-farming, the conversion cycle, patient and coordinated. Swarming is the density-collapse behavior — the threshold event, uncontrolled destruction. Hunting is the caloric strategy — food-driven, directed, problem-solving. Small groups, coordinated by a distinct acoustic signal."
 
 "The bark," I said. "Short, sharp."
 
@@ -258,9 +324,31 @@ She drew another diagram — a cross-section of skin.
 
 "The photosynthesis. You noted the green discoloration — the sun-facing behavior, the skin changes. The organism is introducing chlorophyll analogs into the host's dermis. The skin is becoming a solar panel. This supplements caloric intake as conventional food sources deplete." She tapped the board. "The clothing removal you've been tracking — shoes first, then shirts, then everything — is the organism systematically eliminating anything that blocks photon absorption. The host's skin needs maximum sun exposure for the photosynthetic system to function. The removal is deliberate, ordered, and accelerates as caloric need increases."
 
-"The oldest ones in the herd were nearly nude," I said. "The newest were fully clothed."
+"The oldest ones were nearly nude," I said. "But they weren't just photosynthesizing. They were rooted. Feet in the ground. Connected by vine-like structures through the soil."
 
-"Because the older Turned have been photosynthesizing longer and the organism has had time to optimize. Given enough time, every Turned will be fully exposed. The organism doesn't need clothing and the clothing blocks a food source. Pure resource optimization."
+Moss looked at me differently then. The squint tightened. "You saw that."
+
+"We walked through it. A thousand of them, most rooted. Connected. A network."
+
+She turned back to the board and tapped the fourth column. "Rooting. The terminal behavioral state — at least, the terminal state we've observed so far. The photosynthetic adaptation is stage one. Stage two is sessile conversion. The organism anchors the host in soil, establishes root-like structures that connect to adjacent hosts, and transitions from mobile to stationary. The host becomes a node in a networked colonial organism." She drew lines between stick figures on the board — connections, a web. "The root structures aren't just anchors. They're dendrites. The human hosts are the neurons — the processing nodes. The roots are the connections between them, carrying signals, propagating patterns. The organism's distributed nervous system, which normally coordinates through airborne biochemical signals, now has a physical substrate. Hardwired connections. Faster. More reliable. The rooted clusters are functionally a single organism with multiple bodies."
+
+"The hunters bring them food," I said. "Like offerings."
+
+"Like a colony of ants feeding the queen. The mobile Turned — the two percent still in hunting mode — are the workers. The rooted are the colony's core. The drifters maintain proximity. It's a division of labor that's emerging spontaneously as the organism matures." She paused. "The rooting is why the emitter's effectiveness is declining. The airborne frequency disrupts the wireless coordination — the biochemical signaling. But the root network is a wired connection. The frequency can't jam a physical cable. As more Turned root and the network grows, the organism's coordination becomes increasingly independent of the signals I'm disrupting."
+
+"You said superintelligence," Sienna said quietly. She was looking at me. "On the hill. You said it looked like a superintelligence."
+
+Moss shook her head. "It looks like intelligence. That's the trap. We see coordination and we infer a mind behind it — a decision-maker, a strategist, something that *wants* things. But what I'm observing is much closer to a termite mound than a brain." She tapped the board. "Termites build structures more complex than anything human engineers could design at that scale. Ventilation systems. Temperature regulation. Fungus farms. No individual termite understands any of it. No committee of termites planned it. The complexity emerges from simple biological rules — if this chemical gradient, then this behavior. If this temperature, then that behavior. Millions of simple rules producing something that looks designed but isn't."
+
+She drew a series of arrows on the board. Simple loops. Input, response, feedback.
+
+"The organism operates the same way. Fear chemical above threshold — convert. Caloric deficit — hunt. Photosynthetic capacity reached — root. Host density sufficient — network. Each behavior is a biological imperative, not a decision. The herding, the swarming, the hunting, the rooting — none of it requires intelligence. It requires *rules.* And the rules are very good, because they've been refined by evolution on at least one other world, probably more. The organism doesn't need to be smart. It just needs to follow its program, and the program is optimized for exactly this — arriving on a new world, co-opting the dominant species, and terraforming the environment for its own biology."
+
+"Terraforming," I said. The word landed in the room like a stone in still water.
+
+"The rooting isn't the end state. It's the beginning of a process. The organism is modifying its environment — converting mobile hosts to sessile ones, building root networks, establishing photosynthetic infrastructure. It's reshaping Earth's ecology to suit itself. Not consciously. Not strategically. The way kudzu reshapes a hillside — one biological imperative at a time, no plan, no intent, just growth following rules." She looked at the window, where the last light of the day was fading. "Where it ultimately leads, I don't know. We're six weeks into a process that may take years or decades to complete. We're watching the first chapter of a very long book, and we don't know the genre."
+
+The room was quiet.
 
 "How long will it hold?" Marcus asked.
 
