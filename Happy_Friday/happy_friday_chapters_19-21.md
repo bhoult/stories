@@ -2,7 +2,13 @@
 
 The Ozark Highlands Trail does not believe in flat.
 
-We reached the trailhead at midday — a gravel parking area off Forest Service Road 1003, accessible by a two-lane blacktop that Marcus had driven a hundred times hauling timber. The parking area was empty. No cars, no Turned. The first good sign in three weeks.
+We rode bicycles to the trailhead. Eight people on eight bikes, pedaling twenty miles of two-lane blacktop through the Ozark foothills, packs strapped to rear racks and handlebars and, in my case, balanced on my lap like a pregnant belly made of nylon and poor decisions. Ruth and Jim had the e-bikes — Ruth because her knees couldn't pedal twenty miles, Jim because he was seventy-three and nobody argued with Ruth about getting one so nobody could argue with Jim either. Caleb rode on Marcus's handlebars, gripping the crossbar with both hands, the wooden beagle in his jacket pocket bumping against the frame.
+
+The road was empty. Three weeks of no traffic and the pavement was already changing — leaves in the gutters, a branch down in the right lane, the first cracks where tree roots were starting to reclaim what asphalt had borrowed. We passed houses. Some had Turned in the yards — the head-turns tracked us as we pedaled past, the smiles following, but bikes were fast enough that none of them transitioned beyond passive interest. We passed Clarksville's city limit sign and the Dollar General and the shuttered Sonic Drive-In and the world we were leaving behind.
+
+We reached the trailhead at midday — a gravel parking area off Forest Service Road 1003. The parking area was empty. No cars, no Turned. The first good sign in three weeks.
+
+We leaned the bikes against a split-rail fence at the edge of the lot. Eight bicycles, two of them still showing a charge on their battery indicators. Machines we'd never use again. Marcus looked at them for a moment — the particular look of a man who'd spent his life around vehicles, who understood the value of anything with wheels — and then turned away. We were leaving the world of wheels. Everything after this was feet.
 
 The trailhead marker was a brown post with a white blaze — an aluminum diamond nailed to the wood, catching the November light. Beyond it, the trail entered the forest like a thread being pulled into fabric: a two-foot-wide path of packed earth and leaf litter, climbing immediately, switchbacking up a hardwood hollow toward a sandstone ridge that was invisible from below.
 
@@ -30,9 +36,11 @@ The order of march: Marcus in front, because he'd crossed these ridgelines by ro
 
 Then me.
 
-I was last because I was slowest. This was not a strategic decision. It was physics. A hundred and eighty pounds going uphill at altitude on legs that had never climbed anything steeper than the stairs to the school library. By the first switchback I was breathing hard. By the second I was sweating through my shirt despite the cold. By the third I was making sounds that were technically breathing but sounded more like a large animal being slowly inflated.
+I was last because I was slowest. This was not a strategic decision. It was physics. A hundred and eighty pounds going uphill on legs that had never climbed anything steeper than the stairs to the school library, with thirty-two pounds of pack shifting on my back like a drunk passenger. The hip belt dug into the tops of my hip bones — a grinding pressure that started as discomfort and became pain within the first half mile. The shoulder straps pulled backward, hauling at my collarbones, making me lean forward on the uphills until my center of gravity was somewhere in front of my knees and every step felt like catching a fall. My back was soaked. The pack trapped heat against my spine and the sweat had nowhere to go and by the second switchback my shirt was plastered to my skin and the shirt was rubbing against the pack frame in a way that would, by nightfall, produce a raw stripe across both shoulder blades that would hurt for five days.
 
-I threw up on the fourth switchback. Just leaned over, hands on knees, and threw up my breakfast — cold oatmeal and the last of the canned peaches — onto the leaves beside the trail. Sienna, who was thirty yards ahead, glanced back. She didn't stop. She didn't comment. She looked, assessed that I wasn't dying, and kept walking.
+By the first switchback I was breathing hard. By the second I was sweating through my shirt despite the cold. By the third I was making sounds that were technically breathing but sounded more like a large animal being slowly inflated. And somewhere around the third switchback my inner thighs began to chafe — the fabric of my jeans, damp with sweat, grinding against skin with every step, a specific humiliation I was not going to mention to anyone, least of all Sienna, who was walking thirty yards ahead with the easy stride of a person whose body was designed for this.
+
+I threw up on the fourth switchback. Just leaned over, hands on knees — the pack nearly tipping me forward onto my face — and threw up my breakfast onto the leaves beside the trail. Sienna glanced back. She didn't stop. She didn't comment. She looked, assessed that I wasn't dying, and kept walking.
 
 This was the nicest thing she'd ever done for me.
 
@@ -43,6 +51,12 @@ Caleb fell twice. The first time he tripped on a root hidden under leaves and we
 Dale's hands were shaking. Not the cold — the Suboxone. He'd taken his last dose that morning. The withdrawal wouldn't hit fully for another twelve to twenty-four hours, but the edge of it was there — a tremor in the fingers, a tightness in the jaw. He carved as he walked, and the carving was a little rougher than usual, the strokes a little less controlled, and I watched him the way I watched everything: from behind, measuring, cataloguing, unable to help.
 
 ---
+
+On the last rock scramble before the ridge, Marcus stopped and cut a length of river cane from a thicket beside the trail — five feet long, thumb-thick, the kind of cane that grew along every creek bottom in the Ozarks. He stripped the leaves and handed it to Ruth.
+
+"Walking stick," he said. "Use it."
+
+Within an hour everyone had one. Marcus cut them from cane and small hardwood saplings, sizing each to the user. The difference was immediate — a third point of contact on the rocky sections, something to brace against on the steep descents, a way to test footing before committing weight. I hadn't known I needed one until I had it. Then I couldn't imagine walking without it.
 
 We made the ridgeline by late afternoon. Seven hours for three miles. In the old world, an hour's walk. In this world, an odyssey.
 
@@ -62,7 +76,23 @@ The population density up here was zero before the outbreak. The terrain — ste
 
 "Camp here," Marcus said. He'd found a bluff overlook — a sandstone shelf jutting out from the ridge, fifteen feet wide, protected on three sides by rock and forest. The view ran east into the valley. The bluff face dropped fifty feet — nothing was climbing up. The trail continued along the ridge behind us, the only approach a narrow path through thick undergrowth.
 
-We made camp. The word "camp" oversells it — we sat on rock and ate cold food from cans and wrapped ourselves in every layer we had. Ruth sat on a folding camp chair Maria had insisted on carrying — three pounds of aluminum that Maria had defended against every objection about weight with the flat declaration "Ruth sits or Ruth doesn't walk tomorrow." Dale carved. The wood he was working was cedar — aromatic, reddish, he'd picked it up at the trailhead — and the smell of cedar shavings mixed with the cold stone and leaf rot of the ridge and made something that smelled like a world that was still possible.
+We made camp. Marcus and Sienna strung tarps between trees at the edge of the bluff — the lightweight ones from Atwoods, rigged with paracord, angled to shed rain and block wind. We rolled out sleeping pads on the rock — thin foam, not much padding, but insulation between body and stone. The pads were narrow. The rock was uneven. Sleeping would be a generous description for whatever happened on those pads tonight, but they were better than bare sandstone, which was like sleeping on a cold shelf in a walk-in cooler.
+
+Ruth sat on the folding camp chair Maria had insisted on carrying — three pounds of aluminum that Maria had defended against every objection about weight with the flat declaration "Ruth sits or Ruth doesn't walk tomorrow." Dale carved. The wood he was working was cedar — aromatic, reddish, he'd picked it up at the trailhead — and the smell of cedar shavings mixed with the cold stone and leaf rot of the ridge and made something that smelled like a world that was still possible.
+
+We ate freeze-dried beef stew reconstituted with creek water heated on the camp stove. The portions were small. The portions were always going to be small. I could have eaten three of them and still wanted more. Everyone ate carefully, slowly, making the meal last, because making it last was the only way to pretend it was enough.
+
+After dinner, the conversation nobody wanted to have: gear.
+
+"We packed too much," Marcus said. He was looking at the pile of equipment we'd hauled up six hundred vertical feet. The extra water containers — unnecessary, since every hollow had a creek. The camp shovel. The hatchet handles that duplicated the ones on our belts. The second cooking pot. The heavy canned goods Maria had added as backup. Dale's second tarp. The extra paracord. "Every ounce we carry tomorrow, we carry up another ridge. And the ridge after that. For sixty miles."
+
+The math was brutal: thirty-two pounds felt manageable in the church parking lot. It was not manageable on a switchback. My shoulders were bruised. My hips were raw. Ruth had barely made three miles, and her pack was the lightest.
+
+We went through everything. The psychology of discarding was harder than the weight itself — everything felt essential until you'd carried it uphill. The shovel felt essential. The extra water felt essential. The big cans of soup that weighed twice what the freeze-dried meals weighed felt essential because they were *food* and food was the thing you thought about constantly and the thought of leaving food behind was physically painful.
+
+We left the shovel. The extra water containers. The second pot. The heavy cans — we ate what we could that night, added them to the stew, forced ourselves full. Two of the three tents went; we'd keep one for Ruth and Caleb and sleep under tarps. The redundant paracord. A bag of tools nobody had used. By the time we were done, the discard pile looked like a yard sale on a sandstone shelf, and the packs were five pounds lighter, and five pounds was the difference between arriving and not.
+
+"All you think about when you're walking is food," Marcus said, watching the pile. "All you think about when you're resting is gear. What you can drop. What you don't need. That's hiking. That's the whole thing."
 
 Jim held a prayer. Short: "Thank you for this day. Thank you for these legs. Particularly Ruth's, which performed heroically."
 
@@ -84,6 +114,12 @@ Sienna leaned against my shoulder at some point and neither of us acknowledged i
 
 I wrote by firelight. The notebook was wrinkled from the septic tank and smelled faintly of things I wouldn't name. The pen was a ballpoint from Ruth's purse. The fire popped and the smoke rose and the stars were out and behind us the trail continued into the dark, climbing the next ridge, and the next, and the next.
 
+I crawled into my sleeping bag on the foam pad and every muscle in my body announced its displeasure. Legs. Back. Shoulders. The specific, grinding ache of muscles that had been used for the first time and were now stiffening in the cold, contracting, turning into concrete. The pad kept me off the rock but didn't do much else — I could feel every contour of the sandstone through the foam, and the bag was warm enough but narrow, and I couldn't find a position where something wasn't pressing against something else.
+
+The forest was not quiet. I'd thought forests were quiet — the peaceful silence of nature, the soothing sounds of the wild. This was a lie invented by people who had never slept in one. Something large crashed through the dead leaves thirty feet from camp — loud, thrashing, the sound of a body moving through undergrowth with no regard for stealth. My heart rate jumped before Marcus said, from his post by the fire, "Possum." A possum. A five-pound marsupial that sounded like a bear stampede when it walked through dry oak leaves. An armadillo followed twenty minutes later — the same thrashing, the same cardiac event, the same eventual identification. Then deer, their hooves cracking sticks in the dark. Then something unidentified that rustled and stopped and rustled and stopped and I never found out what it was and lay in the dark imagining options until my body surrendered to exhaustion and the imagination shut off.
+
+We all smelled like smoke and sweat. The fire provided warmth for whoever was on watch — Marcus took first shift, Jim second — but the smoke got into everything. Hair. Sleeping bags. Clothes. The smell would be our constant companion. I'd stop noticing it by Day 3.
+
 That night I dreamed I was in the trailer. Everything was right — the paneling, the counter, the burn mark. But the trailer was moving. Not on wheels — being dragged, the whole structure shuddering, the floor tilting, and through the kitchen window the trees were not the park's trees but the OHT forest, oaks and hickories scrolling past as the trailer was pulled through terrain it was never built for. I could hear the skirting tearing underneath, the vinyl shredding against rock, and I ran to the back door and opened it and the drop was not the gravel lot but a ravine, a hundred feet of empty air, and the trailer was sliding toward the edge and I couldn't stop it because you can't stop a house.
 
 I woke to the sound of wind in the canopy and for three heartbeats I didn't know which world was real — the forest or the trailer — and my hand found my wrist and counted and the count was high, one-ten, one-oh-six, and I lay still and watched the fire embers and breathed until the numbers came down and the trailer dissolved and I was on a rock in the Boston Mountains and the stars were the only things that hadn't changed.
@@ -94,7 +130,7 @@ I woke to the sound of wind in the canopy and for three heartbeats I didn't know
 
 *I was going to write "Sienna pretended not to notice, which is the nicest thing she's ever done for me." But I caught myself. The joke. The self-deprecating deflection. The bit where I'm the fat kid who can't handle a switchback and isn't it funny. Sienna told me to stop building the case for my own helplessness and I'm still doing it, automatically, the way you bite your nails — not because you decide to but because the hand finds the mouth before the brain intervenes.*
 
-*So here's what actually happened: I threw up on the second switchback and then I kept walking. I kept walking because stopping wasn't an option and because the pack on my back was the heaviest pack in the group and I was carrying it because I could, because my body — the one I've been apologizing for since page one of this notebook — carried twenty-five pounds up a mountain switchback and didn't stop. The throwing up was what happened. The not-stopping was what I did. Those are different things. I'm trying to learn the difference.*
+*So here's what actually happened: I threw up on the fourth switchback and then I kept walking. I kept walking because stopping wasn't an option and because the pack on my back was the heaviest pack in the group — thirty-two pounds that ground my hips raw and bruised my shoulders and turned my inner thighs into a chafing disaster I will never discuss with anyone — and I was carrying it because I could, because my body — the one I've been apologizing for since page one of this notebook — carried thirty-two pounds up a mountain switchback and didn't stop. The throwing up was what happened. The not-stopping was what I did. Those are different things. I'm trying to learn the difference.*
 
 *Nothing tried to kill us today. Nothing used a familiar voice. Nothing stood in a parking lot wearing someone's face. The forest is empty of the thing that's ending the world, and the emptiness is the closest thing to safety we've found.*
 
@@ -102,7 +138,9 @@ I woke to the sound of wind in the canopy and for three heartbeats I didn't know
 
 *From the ridge you can see the valley. Down there, the world is ending. Up here, the oaks are going bronze and the stars are out and it's the most peaceful I've felt in a month. I think this is what normal is going to feel like for a while: exhausting and terrifying and better than the alternative.*
 
-*Fifty-seven miles to go. At today's pace, three miles a day, that's nineteen days. Ruth's medication runs out in eighteen. The math doesn't quite work. The math never quite works. We walk anyway.*
+*We dumped five pounds of gear tonight. The shovel, the extra water, heavy cans, a tent. Everything feels essential until you've carried it up six hundred vertical feet. Then you'd leave your own shoes behind if they weighed an ounce less.*
+
+*Fifty-seven miles of trail to go, then another thirty-five on the highway. At today's pace, three miles a day, the math is catastrophic. Ruth's medication runs out before we get there. But Marcus says the pace builds — that bodies adapt, that the first day is always the worst. The math never quite works. We walk anyway.*
 -e 
 ---
 
