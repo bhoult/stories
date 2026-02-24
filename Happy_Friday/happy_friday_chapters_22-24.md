@@ -28,7 +28,7 @@ I didn't say anything. There was nothing to say. The highway said it for me — 
 
 Sienna took my hand.
 
-She had never done this before. In five weeks of proximity and argument and the slow accumulation of whatever we were becoming, she had touched my elbow twice and my arm once, each time brief and functional. This was different. Her fingers between my fingers. Her grip firm and warm despite the rain. She was not letting go and she was not saying anything and she was holding me in the world by the specific physical fact of her hand.
+She had never done this before. In five weeks of proximity and argument and the slow accumulation of whatever we were becoming, she had touched my elbow twice and my arm once, each time brief and functional. This was different. Her fingers between my fingers. Her grip firm and warm. She was not letting go and she was not saying anything and she was holding me in the world by the specific physical fact of her hand.
 
 We stood there. On the highway. Five minutes or five hours.
 

@@ -170,7 +170,7 @@ I lay on a dormitory mattress — a real mattress, impossibly soft after weeks o
 
 In the morning, nobody talked about it directly. But the signs were there — the heaviness, the slow starts, the way people stared at their coffee like it owed them something. Maria said, "I couldn't get warm all night," and Dale said, "Me neither," and the building had been heated and they weren't talking about cold.
 
-Jim found me while I was refilling the water bottles from the creek. He looked rested — Jim always looked rested, the metoprolol and the faith combining into a composure that seemed to extend into sleep. But his eyes had something in them. Not fatigue. Attention.
+Jim found me while I was refilling the water bottles from a faucet in the lab hallway. He looked rested — Jim always looked rested, the metoprolol and the faith combining into a composure that seemed to extend into sleep. But his eyes had something in them. Not fatigue. Attention.
 
 "I had a dream," he said. Casual. The way he said everything — conversational, unforced, as if the content of the sentence were incidental to the act of saying it.
 

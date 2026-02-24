@@ -44,6 +44,26 @@ I threw up on the fourth switchback. Just leaned over, hands on knees — the pa
 
 This was the nicest thing she'd ever done for me.
 
+I kept walking. Not because I'd overcome the nausea or the pain or the specific grinding misery of the chafing. Because the anger wouldn't let me stop. The anger I'd brought from Clarksville — from the hospital parking lot, from the truck ride back, from the laps around the church — was the only engine I had that didn't require oxygen. My lungs burned. My legs screamed. The anger said: *good. You earned this. You sat at a window while Lisa Anderson was taken. You sat in a basement while your mother stood in a parking lot with bare feet. The pain is what you owe.* And the pain became something I leaned into rather than something I endured, and the leaning-in looked like grit but it wasn't grit, it was punishment, and the punishment kept me moving when grit would have let me sit down.
+
+Somewhere on the fifth switchback, Sienna dropped back. She'd been thirty yards ahead, setting pace, but now she was beside me, matching my labored stride.
+
+"Hey," she said. "You okay?"
+
+"Fine." I was not fine. I was covered in sweat and vomit residue and the inside of my thighs felt like they'd been rubbed with sandpaper and I was furious at everything that existed.
+
+"You've got that look."
+
+"What look."
+
+"The one where you're three zip codes deep in your own head and you forgot to leave a forwarding address." She bumped her shoulder against my arm — a light contact, almost playful. Different from the fierce girl who'd walked laps with me at the church. Softer. "Talk to me."
+
+"Nothing to talk about."
+
+She studied me for a moment — the assessing look, the one I recognized from her reprimand speech, except this time it was gentler, searching rather than challenging. She didn't find what she was looking for.
+
+"Okay," she said. She dropped back to her pace position. The trail went up. I followed.
+
 Ruth was slow. Her knees — she'd mentioned them, dryly, in the way she mentioned all her physical limitations, as facts to be noted and then ignored — ground audibly on the steep sections, a sound like sand in a joint. Jim stayed with her, matching her pace exactly, his hand appearing at her elbow on the switchbacks and disappearing on the straights, the automatic choreography of a man who had spent a career walking beside people who needed him.
 
 Caleb fell twice. The first time he tripped on a root hidden under leaves and went down hard, skinning both palms. He cried — briefly, sharply, the cry of a child who is hurt but not broken — and Dale picked him up and brushed the leaves off and said "What do we do when we fall?" and Caleb, still sniffling, said "Get up" and Dale said "That's right" and they kept walking. The second time was on a rock scramble near the ridgeline where the trail crossed exposed sandstone. Caleb's shoe slipped and he slid three feet before Marcus caught him — one hand, casual, the reflexes of a man who'd been catching things that slid for twenty years.
@@ -110,7 +130,21 @@ We talked for a long time that night. Not about the trail or the plan or the Tur
 
 Jim said, "My wife's name was Eleanor. Not the same Eleanor. She made peach cobbler that could make you believe in God." That was all he said about her. It was enough.
 
-Sienna leaned against my shoulder at some point and neither of us acknowledged it. The fire had burned low and the warmth was on one side and the November cold was on the other and the shoulder contact was a small, specific thing that didn't mean anything except that it meant everything, and I am putting it in the journal because the journal should contain the truth, and the truth is that I was sitting on a rock in the Boston Mountains at eleven o'clock at night with a girl's head on my shoulder and the Milky Way overhead and I was happy. Briefly, unsustainably, illogically happy. It passed. But it happened. And I want that on the record.
+Sienna leaned against my shoulder at some point and neither of us acknowledged it. The fire had burned low and the warmth was on one side and the November cold was on the other and the shoulder contact was a small, specific thing that didn't mean anything except that it meant everything.
+
+"What are you thinking about?" she asked. Quiet. Just for me.
+
+"Nothing."
+
+"You're a bad liar." She said it without the sharpness — without the reprimand voice, the fierce-eyed challenge. She said it like someone who was worried. "You've been somewhere else all day. Even on the switchbacks. Like — you were there, but you weren't."
+
+I almost told her. Almost said: *I'm angry all the time and I don't know what to do with it and the anger is the only reason I made it up the mountain today and that scares me.* But telling her would mean explaining the parking lot and explaining the parking lot would mean saying *my mother* out loud and saying it out loud would make it real and I wasn't ready and the anger said I didn't need to be ready because ready was another word for soft.
+
+"I'm tired," I said. "First day."
+
+She studied me. Then she let it go — not because she believed me, but because she understood that pushing wouldn't work. Not tonight. She settled her head back against my shoulder and stayed.
+
+I am putting this in the journal because the journal should contain the truth, and the truth is that I was sitting on a rock in the Boston Mountains at eleven o'clock at night with a girl's head on my shoulder and the Milky Way overhead and I was happy. Briefly, unsustainably, illogically happy. And underneath the happiness, the anger was still there, patient and dense, waiting for the happiness to pass. It passed. The anger didn't. And I want both of those things on the record.
 
 I wrote by firelight. The notebook was wrinkled from the septic tank and smelled faintly of things I wouldn't name. The pen was a ballpoint from Ruth's purse. The fire popped and the smoke rose and the stars were out and behind us the trail continued into the dark, climbing the next ridge, and the next, and the next.
 
@@ -131,6 +165,8 @@ I woke to the sound of wind in the canopy and for three heartbeats I didn't know
 *I was going to write "Sienna pretended not to notice, which is the nicest thing she's ever done for me." But I caught myself. The joke. The self-deprecating deflection. The bit where I'm the fat kid who can't handle a switchback and isn't it funny. Sienna told me to stop building the case for my own helplessness and I'm still doing it, automatically, the way you bite your nails — not because you decide to but because the hand finds the mouth before the brain intervenes.*
 
 *So here's what actually happened: I threw up on the fourth switchback and then I kept walking. I kept walking because stopping wasn't an option and because the pack on my back was the heaviest pack in the group — thirty-two pounds that ground my hips raw and bruised my shoulders and turned my inner thighs into a chafing disaster I will never discuss with anyone — and I was carrying it because I could, because my body — the one I've been apologizing for since page one of this notebook — carried thirty-two pounds up a mountain switchback and didn't stop. The throwing up was what happened. The not-stopping was what I did. Those are different things. I'm trying to learn the difference.*
+
+*I have identified a motivational resource I did not previously have access to. That's how I'm going to describe it in this journal because describing it accurately would require writing words I'm not ready to see in my own handwriting. The resource makes uphills easier. It makes the pack lighter. It converts physical pain into something I can use rather than something I endure. I don't know if it's sustainable and I don't know if it's healthy and right now I don't care because it kept me on the trail when everything else wanted me to stop.*
 
 *Nothing tried to kill us today. Nothing used a familiar voice. Nothing stood in a parking lot wearing someone's face. The forest is empty of the thing that's ending the world, and the emptiness is the closest thing to safety we've found.*
 
@@ -166,7 +202,23 @@ The creek crossings were their own ordeal. The water was cold — November cold,
 
 We became obsessive about socks. Socks were currency. Dry socks were gold. We carried extras in ziplock bags and we changed them at every crossing and we inspected our feet at every stop and the inspection was serious, meticulous, the way Maria was meticulous about everything — because a blister on Ruth's heel or a hot spot on Dale's arch was not a minor inconvenience. It was a pace reduction for the whole group and a medication timeline that tightened with every lost mile.
 
-Sienna did not get blisters. Sienna's feet were the feet of a distance runner — callused, tough, accustomed to punishment. She crossed the creeks with the sure-footed grace of a person whose body and the terrain were on speaking terms. The rest of us negotiated. Sienna walked.
+Sienna did not get blisters. Sienna's feet were the feet of a distance runner — callused, tough, accustomed to punishment. She crossed the creeks with the sure-footed grace of a person whose body and the terrain were on speaking terms. The rest of us plodded. Sienna sauntered.
+
+At a creek crossing on Day 4, she brought me water. I was sitting on a rock on the far side, drying my feet, the routine sock inspection, and she appeared with her water bottle and held it out without saying anything. I'd drunk all of mine on the last uphill. She'd noticed. I hadn't asked.
+
+"Thanks," I said.
+
+"You push too hard on the uphills," she said. Not a reprimand — an observation. Different voice. "You don't have to punish yourself up every grade. A slower pace covers the same distance."
+
+"I'm not punishing myself."
+
+"You are, though." She sat beside me on the rock, pulling her socks on. Her hands were efficient, practiced — the sock smooth, no wrinkles, the motion automatic. "You walk like you're trying to hurt yourself. Like the pain is the point. It's not the point, Nate. The point is getting there."
+
+I didn't answer because she was right and I didn't want her to be right and the anger said: *the pain IS the point. The pain is what you owe. Getting there is what you owe them.* She waited for an answer that didn't come, then touched my shoulder — briefly, lightly, the way you'd touch someone who might flinch — and went back to her position in the line.
+
+She'd been doing this. Small things. The water. A hand on my arm at a steep descent. Walking beside me on the downhills even when the trail narrowed, talking about nothing — her track coach's obsession with split times, the specific physics of a 400-meter race, how the third turn was where you either committed or died. She was trying to pull me out of wherever I'd gone. She could see I was somewhere she couldn't reach, and her instinct — the same instinct that made her sprint through a herd of Turned to save Caleb — was to close the distance.
+
+I let her talk. I gave her the half-smile she was looking for. The anger stayed where it was.
 
 ---
 
@@ -246,25 +298,113 @@ Maria put her hand on his knee. Deliberate, firm, the hand of a woman who had sp
 
 On Day 7 we encountered our first Turned on the trail.
 
-He was standing in a clearing a hundred yards off the path — a man in hunting camo, a tree stand harness still buckled around his waist, a compound bow at his feet. He'd been a hunter. He'd turned in the woods, probably in the first week, the fear catching up to him alone in a tree stand while the world below went wrong. Now he stood in the clearing with his face to the sun and the harness hanging off him like a forgotten costume and his hands making the slow, repetitive motion of nocking an arrow that wasn't there.
+Marcus spotted him first. A tree stand, twenty feet up in a white oak, fifty yards off the trail. The man was still in it — hunting camo, harness buckled, a compound bow across his lap. He'd been a hunter. He'd turned in the woods, probably in the first week, the fear catching up to him alone in his stand while the world below went wrong. He'd been sitting up there for weeks. The camo was filthy. His boots were still laced.
 
-We gave him a wide berth. He tracked us — the head-turn, the smile — but didn't approach. Alone, disconnected from any collective, he was confused rather than coordinated, a solitary node without a network. Unsettling but not dangerous. A reminder that the forest wasn't as empty as it felt.
+Marcus raised a fist — the stop signal — and we froze. Eight people on a narrow trail, packs on our backs, watching a Turned man in a tree stand watching us.
 
-"He's still hunting," Caleb said, watching the man's hands. "In his head."
+The head-turn was slow. The smile appeared. And then something I hadn't seen before: the hunter moved with purpose. Not the aimless drift, not the gravitational pull. He swung his legs off the platform and climbed down — hand under hand, the harness jerking against the tree as he descended, the compound bow falling from his lap and clattering through branches to the forest floor. His movements were fluid. Practiced. The muscle memory of a man who had climbed in and out of tree stands a thousand times, encoded so deep that even the organism couldn't erase it.
 
-"Yeah, buddy," Dale said. "In his head."
+He hit the ground and stood. The smile was fixed. The head was tilted, tracking us the way it had tracked deer from the stand — that patient, predatory assessment, the hunter's calculation of distance and angle and approach. Then he began to move. Not toward us. Parallel. Through the trees, thirty yards off the trail, matching our pace, his boots silent on the leaf litter in a way that said he'd spent his whole life walking quietly in these woods.
 
-They walked on. Dale's hand was on Caleb's shoulder. The man in the clearing nocked his invisible arrow at the sun.
+"He's stalking us," I said.
+
+Marcus nodded. "Hunting pattern. He's looking for the straggler."
+
+The straggler was me. Or Ruth. Or Caleb. The weakest, the slowest, the one who fell behind. The organism had taken a man who knew how to hunt whitetail in these mountains and repurposed the skill. The patience, the positioning, the instinct for the vulnerable target — the hunter was hunting, and we were the herd.
+
+We kept walking. He kept pace. Through the trees I caught glimpses — camo moving between trunks, the deliberate placement of feet, the tilted head tracking. He wasn't rushing. Hunters don't rush. They wait for the moment the prey separates, the instant the weak one lags, and then they close the distance.
+
+"He's not going to stop," I said.
+
+"No," Marcus said.
+
+"If we keep walking, he follows. If Ruth falls behind, or Caleb — if anyone separates from the group for even a minute —"
+
+"I know."
+
+"We have to kill him."
+
+The sentence came out and I heard it and the sound of it was flat and certain and the anger inside me said *yes.* Not the analytical assessment — the anger. The thing with edges that had been looking for a target since Clarksville. The hunter was a target. The hunter was the organism wearing a man's body and using a man's skills to stalk a seven-year-old boy, and the anger wanted him dead with a clarity that frightened me and also didn't frighten me enough.
+
+Marcus looked at me. Something in my voice — the eagerness, maybe, the way I'd said "have to" when I meant "want to" — registered in his expression. A flicker of something. Not disapproval. Assessment. The look of a man calibrating whether the fifteen-year-old beside him was making a tactical decision or an emotional one.
+
+"He's right," Sienna said, from behind us. Her voice was quiet. "He'll pick someone off. It's what they do when they're alone — they hunt. The collective ones herd. The solitary ones stalk." She'd been watching the Turned longer than anyone except me. She knew the behavioral modes. "If we don't deal with him now, we deal with him tonight. In the dark. When he has every advantage."
+
+Marcus unslung the crossbow. None of us were experienced with it — Marcus had practiced in the church yard, hitting a target at twenty yards maybe six times out of ten, and a target that stood still in good light was not a man in camo moving through hickories at forty yards.
+
+The hunter was circling — tightening the arc, closing toward the rear of the column where Ruth and Jim walked and Caleb rode on Dale's shoulders. Marcus stepped off the trail, found a shooting line between two oaks, raised the crossbow, and fired.
+
+The bolt hit the hunter's shoulder. Not the chest — the shoulder, high, punching through the camo and spinning him sideways. He went down to one knee. And then the sound started.
+
+I'd never heard a solitary Turned vocalize at full volume. In herds, the drone was collective — distributed, ambient, a sound that came from everywhere. This was one throat producing a sound that was not a scream and not a word and not anything a human larynx should have been able to sustain. A call. A signal, broadcasting to any collective within range: *here. Prey. Come.* The forest rang with it — birds erupted from the canopy, a squirrel bolted up the nearest oak, and the sound carried through the hollow like a siren.
+
+"Again," I said. "Now."
+
+Marcus was already reloading — fumbling the bolt into the rail, hands not quite steady, the cocking mechanism stiff. The hunter was back on his feet. The bolt in his shoulder didn't slow him — the Turned didn't process pain the way we did, the organism overriding the body's damage signals. He was moving toward us now. Not stalking. Charging. The patience was gone, replaced by the direct approach of a predator that had been wounded and was closing the distance before it could be wounded again.
+
+Marcus fired. The second bolt hit the hunter's thigh. He stumbled, went down, got back up. The call was still going — that sustained, inhuman broadcast, and I was counting seconds in my head, calculating range, wondering how far the sound carried in these hollows and whether anything was close enough to hear and respond.
+
+"There's nothing within range," Sienna said, reading my face. "We haven't seen Turned in two days. The nearest population center is twenty miles east."
+
+She was probably right. The forest had been empty. But "probably" was not a word that kept people alive.
+
+"Dale, take Caleb to the far side of the group," I said. "Ruth, Jim — stay behind Marcus. Sienna, with me."
+
+I pulled the hatchet from my belt. The Atwoods hatchet — small, meant for splitting kindling, the handle wrapped in rubber grip tape. I'd been carrying it for seven days and hadn't used it for anything except chopping firewood. I walked toward the hunter.
+
+He was on the ground, both bolts in him, dragging himself forward on his hands, the call still pouring from his throat. The camo was dark with blood. The tree stand harness trailed behind him, snagging on roots. His face was tilted up — the smile, always the smile — and his hands were reaching and the reaching was the hunting reflex, the grab, the instinct to close on prey that the organism had preserved and repurposed.
+
+I hit him with the hatchet. Not cleanly — not the way Marcus handled tools, with precision and economy. I hit him in a way that was ugly and desperate and required a second swing and then a third, and the sound of it was the worst sound I had ever made, and his hand grabbed my ankle and the grip was strong — the grip of a man who had hauled deer out of ravines — and I hit him again and the grip released and he was still.
+
+The call stopped. The forest was quiet. A bird — startled from its perch by the noise — returned to a branch overhead and sat there, watching.
+
+I was breathing hard. My hands were shaking — not the grief shake, not the threshold shake. The exertion shake. The hatchet was in my right hand and my right hand was covered in — I'm not going to describe it. The journal should contain the truth but the truth has limits and this is one of them.
+
+Sienna was beside me. She didn't touch me. She stood close enough that I could feel her presence and far enough that the closeness was a choice rather than an imposition, and she waited.
+
+"Don't look," Dale was saying, somewhere behind us, his hand over Caleb's eyes, and Caleb was crying — not the sharp cry of a fall on the trail but the sustained, bewildered cry of a child who had heard sounds that children should not hear.
+
+I looked down at the hunter. The camo. The harness. The compound bow, still lying where it had fallen from the tree stand. A man who had sat in a tree and waited for deer and who had been good at waiting and whose patience had survived the conversion and whose patience had almost been turned on a seven-year-old boy.
+
+The hatchet in my hand. The blood. The body in the leaves. I hated it. The physical reality of killing — the sound, the resistance, the way a human body does not want to stop being a body — was nothing like the clean, analytical calculations I'd been making in the notebook. This was not math. This was meat and bone and the specific horror of doing violence with your hands rather than your mind.
+
+And underneath the horror — the thing I need to record because the journal should contain the truth — satisfaction. Small, cold, precise. The organism had lost one body. One set of hunting skills it couldn't repurpose. One threat that would never circle back to Caleb in the dark. The satisfaction and the horror occupied the same space and neither one displaced the other and I held them both the way you hold two things that don't fit together and can't be put down.
+
+Jim prayed. He knelt in the leaves beside the body and put his hand on the man's shoulder and prayed for a hunter who had died twice — once when the organism took him, once when a fifteen-year-old with a hatchet finished what a crossbow had started — and the prayer was for both deaths, and Jim's face when he stood up was the face of a man who was keeping a tab that was getting longer.
+
+Then we waited.
+
+Nobody said it. Nobody had to. The call had gone out — that sustained, inhuman broadcast — and the call had carried through the hollow for God knows how far, and if anything was in range, anything at all, it would be coming. Marcus held the crossbow loaded, scanning the tree line. Sienna stood at the edge of the trail, listening. I stood with the hatchet still in my hand because I hadn't figured out yet how to put it down.
+
+Five minutes. The forest was quiet. Wind in the canopy. A creek somewhere below us, the sound of water over rock. Nothing else. No drone. No footsteps in the leaves. No head-turns through the trees. Sienna had been right — the nearest population center was twenty miles east, and the trail had been empty for days. The call had gone out and nothing had answered.
+
+"Clear," Marcus said, after ten minutes. He lowered the crossbow. The word was a truck driver's word — the all-clear after checking mirrors, after verifying the lane was open. Professional. Final.
+
+Marcus cleaned the crossbow bolts. He didn't look at me while he did it. Dale held Caleb and murmured the nothing-words that hold children together. Maria checked Ruth's pulse — routine, automatic, the nurse's instinct that kept running even when the world had stopped. I cleaned the hatchet on the leaves and put it back on my belt and my hand didn't want to let go of it and I made it let go.
+
+I picked up the compound bow. It was where it had fallen from the tree stand — scuffed, the cam wheels caked with dirt, the string still taut. The quiver was on the platform above, and I climbed up to get it. Six broadhead arrows. The tree stand smelled like weeks of occupation — the specific, animal smell of a body that had sat in one place through rain and sun and the slow erasure of everything that had made it human. I slung the bow across my pack and clipped the quiver to the frame. Another weapon. Another weight. The pack dug harder into my shoulders and the extra pounds were a different kind of carrying — not gear, not food, not the logistical weight Maria had calculated and distributed. This was the weight of what I'd taken from the body on the ground, and I carried it the way I carried everything now: silently, without asking whether I should.
+
+We walked on. Behind us, the hunter lay in a wash of late-afternoon light — the golden hour, the sun low enough to turn the oak canopy into stained glass, bronze and amber, the light falling in shafts through the thinning leaves and landing on the forest floor in warm pools. A breeze came through the hollow, cool and gentle, carrying the smell of dead leaves and cedar and the faint mineral sweetness of the creek below. A cardinal landed on a branch ten feet from the body. It sang — two notes, a pause, two notes — the territorial call, bright and clean and utterly indifferent. The forest was doing the thing it had always done: being beautiful. The golden light on the hillside. The birdsong. The cool November air that tasted like nothing had ever gone wrong. And on the ground beneath it, in the same light, the body — camo dark and wet, the hatchet marks visible, the tree stand empty above him like a pulpit nobody would use again. The beauty did not pause for what we'd done. The violence did not diminish the beauty. The two things existed in the same frame and the frame held them without comment, the way these mountains had held a century of logging and hunting and living and dying without ever changing their expression. I turned away. The image stayed — the cardinal singing over the body in the golden light, the blood splatterd on the fall leaves... and it would stay for a long time.
+
+I walked and I thought about what I had done with my hands and what I had felt while I did it and I knew — with the clarity that the trail provided on the long, flat ridgeline stretches where the mind had nothing to do but think — that this was not what I wanted to become. The satisfaction was real. The hatred was real. The anger that had fueled me since Clarksville was real and useful and it had kept me on the trail and it had put the hatchet in my hand and it had made the swings possible. But there was a line. Somewhere between the necessity of what we'd done and the satisfaction I'd felt doing it, there was a line, and I needed to find it, because on one side of that line was a person who killed because he had to and on the other side was a person who killed because it felt like the world owed him violence, and those two people were standing very close together and I could not tell which one was holding the hatchet.
+
+The mountains don't care what happens on their surface. That's not cruelty. That's patience. I needed some of that patience for myself.
 
 ---
-
-Despite everything — the sore muscles, the blisters, the hunger, the Turned hunter in the clearing — the forest was beautiful. I want this on the record because the version of this story that only contains suffering is not the true version.
 
 The oaks were bronze and amber, the last of the fall color hanging on in the sheltered hollows where the frost hadn't reached. The hickories were bare — silver branches against blue sky, the kind of clean, geometric beauty that made you understand why people painted trees. The air was cold and clear and tasted like nothing — no exhaust, no generator fumes, no smoke from burning houses. Just air. The kind of air that had been here before people and would be here after.
 
 On the ridgelines, the views opened up and the world was enormous. Layer after layer of blue ridges extending to the horizon, each one lighter than the last, the farthest ones almost indistinguishable from sky. It looked like a place where nothing bad had ever happened and nothing bad ever would, which was a lie, but it was a beautiful lie, and the beauty was not diminished by its dishonesty.
 
 The cool weather was pleasant when it wasn't raining. On clear days, the walking was almost — I'm going to use the word — enjoyable. The rhythm of it. The breathing. The way the mind went blank on the long stretches, the flat ridgeline sections where the trail was easy and the pack was manageable and you could just walk and think about nothing. The nothing-thinking was a mercy. After weeks of hypervigilance — tracking Turned, monitoring heart rates, calculating thresholds — the absence of threat allowed the brain to idle, and the idling was rest, and the rest was necessary.
+
+On the afternoon after the hunter, I caught Sienna looking at me. Not the assessing look — not the one she used when she was calibrating whether to push or to wait. Something else. She was walking ahead, in her usual position behind Marcus, and she glanced back over her shoulder and the expression on her face was one I hadn't seen before. Concern — yes, the same concern she'd been showing since the church, the gentle version, the water-at-the-creek-crossing version. But underneath the concern, or beside it, something that looked like fear. Not fear of the trail or the Turned or the distance ahead. Fear of me.
+
+She'd watched me call for the hunter's death. She'd watched me walk toward him with the hatchet. She'd watched me swing it — not once, not cleanly, but the ugly repeated work of someone who didn't know how to kill efficiently and did it anyway. And she'd watched me afterward — the way I'd stood over the body and hadn't looked away, the way I'd climbed the tree stand and taken his bow, the way I'd cleaned the hatchet and put it back on my belt with hands that were steady when they shouldn't have been.
+
+She was trying to reconcile two people. The boy from the trailer park — the one who sat at a window and wrote in a notebook, the one who got winded on stairs and made self-deprecating jokes, the one who'd laughed in the church yard and matched her pace and let her lean against his shoulder under the stars. And the boy on the trail — the one who'd said "we have to kill him" with an eagerness that didn't belong in a fifteen-year-old's voice, the one who was carrying a dead man's bow on his pack and walking faster because of it.
+
+She turned forward without saying anything. The distance between us on the trail was thirty yards and the distance between us in every other way was something I couldn't measure and didn't know how to close.
 
 Conversations happened on the downhill, when breathing was easier. Marcus told stories about hauling loads through these mountains — the grades that killed transmissions, the ice storms that turned the passes into skating rinks, the time he jackknifed a trailer on a switchback and had to wait six hours for a tow truck that never came. Ruth corrected everyone's grammar. Caleb asked questions about everything — why trees lost their leaves, why the creek water was brown, why rocks had stripes — and Jim answered each one with the patient, slightly inaccurate explanations of a man who cared more about engaging curiosity than being correct.
 
@@ -292,9 +432,19 @@ In the morning the world was slightly less wrong than it had been the night befo
 
 *The forest is beautiful. I want that recorded because the journal has been a catalog of horrors and the forest deserves better. The oaks are bronze. The ridgelines are blue. The air tastes like nothing and nothing is the best thing I've tasted in a month.*
 
-*I saw a Turned hunter in the woods. Still nocking an invisible arrow. Still hunting in his head. He was alone and confused and the forest had absorbed him the way it absorbs everything. The mountains don't care what happens on their surface. That's not cruelty. That's patience.*
+*A Turned hunter stalked us through the forest. Tree stand, camo, compound bow — he'd turned weeks ago and the hunting instincts survived the conversion intact. He was circling toward the rear of the column. Toward Ruth. Toward Caleb. Marcus shot him twice with the crossbow. It wasn't enough. I finished it with the hatchet.*
 
-*I carry my mother in the sealed part of my brain. The envelope is open but I haven't read the contents. Not yet. Not here. The trail is not the place for that. The trail is for walking.*
+*I am not going to describe what that was like. The notebook has been a record of data and observations and the hatchet is not data. The hatchet is the sound and the feel and the way a body resists what you're doing to it and the way you do it anyway.*
+
+*I told Marcus we had to kill him. I was right. The tactical assessment was sound — a solitary stalker, hunting skills intact, targeting our weakest. The group was at risk. The decision was correct. But I wanted it. When I said "we have to kill him," the emphasis in my head was on "kill," not "have to." The anger wanted a target it could reach and the hunter was the first one.*
+
+*I hated it and it felt satisfying and both of those are true at the same time and the both-at-the-same-time is the thing I need to figure out because there is a line. Somewhere between the necessity and the satisfaction there is a line and I am standing on it and I don't know which side I'm facing. On one side: a person who does what has to be done. On the other: a person who wants to do it. I need to find that line. I need to know where it is. Because the person on the wrong side of it is not someone my mother would recognize, and she's already lost enough without losing me too.*
+
+*Jim prayed for him. Jim always prays for them. Jim is the line. Jim is the person who does the necessary thing and carries the cost without letting the cost change what he carries it with. I am not Jim. But I need to learn what Jim knows, or the thing with edges will become the only thing I am.*
+
+*I carry my mother in the sealed part of my brain. The envelope is open but the contents are not what I expected. I expected grief. I got grief and something else — something that paces where the grief sits still. The grief is a woman in blue scrubs. The other thing is what happened to the woman in blue scrubs, and what I want to do about it, and the wanting is not clinical and is not analytical and does not belong in a notebook that has been, until now, a record of data and patterns. The trail is not the place for this. But the trail is where I use it. Every uphill. Every switchback. The thing with edges makes the pack lighter and I am not going to examine that too closely because I need it to work and examination might break it.*
+
+*Sienna knows something is wrong. She brings me water. She walks beside me on the downhills. She touches my arm on the steep sections. She is trying to reach me the way you try to reach someone on the other side of a window and she doesn't know the window is there and I don't know how to tell her.*
 
 *We walk.*
 -e 
@@ -322,11 +472,19 @@ The alternative was backtracking — north a mile, then east on a forest service
 
 I looked at the overpass. I looked at the supports. I looked at the Turned clustered under the span.
 
-The idea arrived the way ideas arrive — complete, unwanted, already too detailed to be unnamed. It was the thought I'd had watching the Lyles' house come apart, the one I'd written in the private journal and hadn't shown anyone. The roof section that took out six of them. The way they didn't dodge. The way the frenzy made them destroy everything in reach including each other. The quarry off Route 7.
+The idea arrived the way ideas arrive — complete, already too detailed to be unnamed. It was the thought I'd had watching the Lyles' house come apart, the one I'd written in the private journal and hadn't shown anyone. The roof section that took out six of them. The way they didn't dodge. The way the frenzy made them destroy everything in reach including each other. The quarry off Route 7.
 
-I didn't want the idea. I want that recorded. I want it known that the thought of using the overpass — of deliberately triggering a swarm and letting the resulting frenzy bring the structure down on top of them — arrived in my mind as something repulsive, something I immediately tried to reject, something that felt like a door I was not supposed to open.
+I should say I didn't want it. That's what the journal should record — the reluctance, the moral weight, the boy who didn't want to become the kind of person who engineers a collapse on top of thirty human beings. And that boy existed. He was in there somewhere, behind the anger, behind the weeks of trail and the parking lot and the smile.
 
-The door opened anyway.
+But the truth is more complicated than the boy.
+
+Part of me had been waiting for this. The anger — the thing with edges that I'd carried since Clarksville, that had fueled every uphill, that had turned physical pain into something I used instead of something I endured — the anger had been looking for a target it could actually reach. Not the organism, which was everywhere and nowhere. Not the Turned in the hospital parking lot, who were beyond punishment. Not myself, whose self-inflicted suffering on the trail was satisfying but ultimately impotent. The anger wanted something it could *do.* An action. A consequence. A way to punish the thing that had taken my mother, even if the punishment landed on the bodies the thing was wearing.
+
+The overpass was the first opportunity I'd had to hurt it.
+
+The analytical brain provided the method — the compromised supports, the loaded deck, the frenzy mechanics. The analysis was sound. The math checked. But the eagerness was new. The eagerness was not the analytical brain. The eagerness was the thing with edges, and the eagerness said: *yes. Finally. Make it hurt.*
+
+I want it recorded that this frightened me. The math and the rage arriving at the same answer and the impossibility of knowing which one I was listening to. The door opened and I didn't know if I was opening it out of necessity or desire, and the not-knowing was the most honest thing I'd felt in weeks.
 
 ---
 
@@ -441,6 +599,10 @@ That night, camped in a pulloff a mile south of the wreckage, I wrote by flashli
 *Here is what I'm afraid of: that I'll get used to it.*
 
 *Here is what I'm more afraid of: that I need to.*
+
+*Here is what I can't write and am writing anyway: part of me wanted it. Not the math — the math is neutral, the math doesn't want. The other thing. The thing with edges that I've been carrying since Clarksville. It wanted the overpass. It wanted the supports to crack and the deck to fall and the organism to feel, for once, what it felt like to be on the receiving end. The math provided the justification. The anger provided the willingness. And I don't know which one made the decision because they arrived at the same answer at the same time and the answer was: do it.*
+
+*I told Jim "they were people" and heard the detachment in my own voice and the detachment was real but it was also a performance — the analytical boy performing analysis while the angry boy watched the columns crack and felt something that was not horror.*
 
 *Dale sat with me for an hour after dinner. He didn't say anything. He carved the fox. His hands were steady — the withdrawal broken days ago on the trail — and the fox was beautiful and I thought about how the damage and the craft come from the same place and you don't get one without the other. Dale's hands had shaken for days and now they didn't and the fox was proof that the other side of suffering is precision.*
 
