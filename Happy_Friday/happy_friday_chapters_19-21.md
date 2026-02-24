@@ -302,17 +302,23 @@ In the morning the world was slightly less wrong than it had been the night befo
 
 # Chapter 21: The Overpass
 
-On Day 33 I killed thirty people and I need to tell you about it in the way it actually happened, which is quietly, from a hillside, by doing math.
+Lake Fort Smith was a man-made lake at the bottom of the mountains — a dam, a spillway, a campground with bathrooms that still smelled like bleach and pine, and a gas station at the highway junction that had been looted for food but not for shopping carts. We took four. The wheels were stiff from sitting in the rain but they rolled, and rolling was the point: sixty miles of trail with packs on our backs had taught us the value of not carrying weight when you didn't have to.
 
-The trail descended from the Boston Mountains to cross State Highway 21 — one of the road crossings Marcus had flagged on the map. These crossings were the exposed moments: leave the forest, cross the lowland, climb back into cover. Most had been uneventful — empty roads, scattered Turned in ones and twos, easily avoided. This one had a problem.
+The transition happened in an afternoon. We walked out of the forest and onto pavement and the difference was immediate — the shock of flat ground after two weeks of roots and rocks, the strange smoothness of asphalt under shoes that had molded to uneven terrain. Highway 71 stretched south toward Fayetteville, the old Pig Trail, two lanes of cracked blacktop winding through the mountains. It had been mostly abandoned since Highway 49 was built — the newer, wider road that bypassed the switchbacks and the small towns and the tourist traps that had once sold Ozark pottery and homemade fudge and wooden signs that said BLESS THIS MESS. The Pig Trail was a relic. Now it was our road.
 
-The highway interchange included an overpass — a concrete span carrying a county road over the state highway. The overpass was old, built in the 1970s, the kind of infrastructure that had been on a deferred maintenance list for twenty years. The concrete was crumbling at the expansion joints. The guardrails were rusted. On the upper deck, two semi-trucks had been abandoned — one a flatbed hauling lumber, the other a fuel tanker, its cylindrical tank catching the late-morning sun.
+Shopping carts on asphalt. The sound was absurd — that rattling, clattering grocery-store sound echoing off the mountain walls, announcing our presence to every Turned within a quarter mile. But the trade-off was worth it: packs in the carts, bodies upright, shoulders and hips finally unburdened after days of grinding. Ruth sat in her cart when her knees gave out, Maria pushing her, the two of them looking like the world's most unlikely grocery run.
+
+The Turned were more numerous here. Closer to population centers, closer to the small towns strung along the highway like beads on a wire. We saw them in gas station parking lots, in the doorways of shuttered restaurants, wandering the center line of the highway in that aimless, gravitational drift. Mostly singles and pairs. We gave them wide berth, pushing the carts onto the shoulder, into the gravel, waiting for them to pass. The highway was exposed — no tree cover, no ridgelines to hide behind — but it was fast. Seven miles the first day. Eight the second. The flat ground and the cart wheels were doing what the trail couldn't.
+
+On Day 37 I killed thirty people and I need to tell you about it in the way it actually happened, which is quietly, from a hillside, by doing math.
+
+Highway 71 wound through a series of cuts and fills where the road had been carved through the ridgelines — blasted rock faces on either side, the old dynamite marks still visible in the limestone. At one of these cuts, a county road crossed over the highway on an overpass — a concrete span built in the 1970s, the kind of infrastructure that had been on a deferred maintenance list for twenty years. The concrete was crumbling at the expansion joints. The guardrails were rusted. On the upper deck, two semi-trucks had been abandoned — one a flatbed hauling lumber, the other a fuel tanker, its cylindrical tank catching the late-morning sun.
 
 Under the overpass, in the shadow of the concrete span, a cluster of Turned had gathered. Twenty-five. Maybe thirty. Standing in the dim space where the highway passed under the bridge, milling in slow circuits, drawn to the infrastructure the way they were drawn to all human-built things — the echoes, the geometry, the residual smell of diesel and asphalt and a thousand cars that had passed through before the world stopped. The terrain funneled them: the highway rose on embankments to meet the overpass, creating a bowl beneath the span where the Turned collected like water in a drain.
 
-I studied it from the treeline for an hour. Through the binoculars I could see the supports — four concrete columns, each maybe three feet in diameter, cracked where the rebar was corroding, where decades of freeze-thaw cycles had worked the concrete apart. The deck above was loaded: the two semis plus the weight of the road surface plus whatever water and debris had accumulated on the asphalt. The supports were holding all of it, barely, the way an old man holds a heavy door — upright, functional, but not by much.
+I studied it from the hillside for an hour. Through the binoculars I could see the supports — four concrete columns, each maybe three feet in diameter, cracked where the rebar was corroding, where decades of freeze-thaw cycles had worked the concrete apart. The deck above was loaded: the two semis plus the weight of the road surface plus whatever water and debris had accumulated on the asphalt. The supports were holding all of it, barely, the way an old man holds a heavy door — upright, functional, but not by much.
 
-The alternative crossing was two miles south — a ford across the highway where the road dropped to grade level. But between here and there, the terrain was open: fields, pasture, a mile of exposure with no tree cover. And the Turned from the overpass cluster would be between us and the ford. Going around added a day — south to the ford, across, then north on exposed lowland to rejoin the trail. A day we didn't have. Ruth's atenolol supply was at five days. Dale's withdrawal was managed but precarious — his resting heart rate still hovered in the low 90s, and a day of exposed walking would push it higher.
+The alternative was backtracking — north a mile, then east on a forest service road to bypass the cut, then south on a parallel road to rejoin the highway below the overpass. But the forest service road was unpaved, rutted, impossible with shopping carts. We'd have to carry the packs again. And the detour added half a day of exposed walking through open terrain where we'd already seen Turned drifting in from the surrounding towns. Ruth's atenolol supply was at three days. Three days of medication between her and a heart rate that would light up the organism like a signal flare.
 
 I looked at the overpass. I looked at the supports. I looked at the Turned clustered under the span.
 
@@ -324,7 +330,7 @@ The door opened anyway.
 
 ---
 
-I proposed it to the group at the treeline. Not dramatically. In the flat, analytical voice that was my default when the thing I was saying was too large for inflection.
+I proposed it to the group at the hillside. Not dramatically. In the flat, analytical voice that was my default when the thing I was saying was too large for inflection.
 
 "We set up a noise source — the hand-crank radio, or just banging on metal — about a hundred yards north of the overpass. It draws them out, concentrates them. When the count is high enough, the density tips them into frenzy. When they frenzy near the supports, they'll attack the structure. The supports are failing already. The load on the deck — the trucks, the tanker — it's too much for compromised columns. The overpass comes down. The trucks come down with it. We wait at distance. When it's over, we walk through."
 
@@ -336,7 +342,7 @@ Jim spoke first. "Those are people, Nate."
 
 "They're still people," Jim said. "Somewhere in there, they're still —"
 
-"Jim, I know. I know they have memories. I know the organism uses those memories. I know that somewhere inside each of them is a person who had a name and a family and a life. I know all of this. And I also know that between us and the trail on the other side of that highway are thirty of them, and Ruth has five days of medication, and Dale's heart rate is at 93, and we don't have a day to go around."
+"Jim, I know. I know they have memories. I know the organism uses those memories. I know that somewhere inside each of them is a person who had a name and a family and a life. I know all of this. And I also know that between us and Fayetteville are thirty of them blocking the highway, and Ruth has three days of atenolol, and we can't carry the packs on an unpaved detour, and we don't have half a day to go around."
 
 "There's always another way."
 
@@ -350,11 +356,11 @@ The argument expanded. Sienna opposed it — not on Jim's grounds, not theology.
 
 "Maybe. But it's also true."
 
-Marcus, from his position at the edge of the group: "The ford crossing adds a day. A day of open exposure. Ruth can't do a day of open walking — not at her pace, not in this terrain. And Dale —" He looked at Dale. Didn't finish the sentence.
+Marcus, from his position at the edge of the group: "The detour adds half a day. Half a day carrying packs on unpaved roads with no cover. Ruth can't do it — not with three days of medication left."
 
-Dale finished it himself. "When I was using," he said, "my counselor told me that recovery means choosing the hard thing that works over the easy thing that feels right. This is the hard thing."
+Dale spoke. He was holding the fox carving — finished now, the detail work clean, the strokes precise with steady hands. "When I was using," he said, "my counselor told me that recovery means choosing the hard thing that works over the easy thing that feels right. This is the hard thing."
 
-The group looked at him. Dale — shaking, sweating, five days into withdrawal, holding the fox carving in one hand and a knife in the other — had reframed the moral question with the vocabulary of a man who'd spent a decade learning to distinguish between what felt right and what was right. In recovery, the thing that feels right is the relapse. The comfortable choice. The one your brain screams for. The hard thing — the meeting, the check-in, the daily grind of choosing not to use — is the thing that works.
+The group looked at him. Dale — weeks past withdrawal, hands steady, standing straighter than he had since Clarksville — had reframed the moral question with the vocabulary of a man who'd spent a decade learning to distinguish between what felt right and what was right. In recovery, the thing that feels right is the relapse. The comfortable choice. The one your brain screams for. The hard thing — the meeting, the check-in, the daily grind of choosing not to use — is the thing that works.
 
 "This is the meeting," Dale said. "This is the part where you sit in the folding chair and you don't want to be there and you do the thing anyway because the alternative is worse."
 
@@ -372,11 +378,11 @@ Marcus and Sienna set up the noise source. The hand-crank radio, tuned to static
 
 The Turned responded. The cluster under the overpass began drifting north — slowly, drawn by the sound, the collective orientation shifting like a compass needle. More came from the east, from the fields beyond the highway. More from a house I hadn't spotted, emerging from a garage in single file. The count climbed: twenty-five, thirty, thirty-five. They converged on the area between the overpass and the noise source, milling, tightening, the density compressing as more arrived.
 
-Marcus and Sienna withdrew — south along the highway shoulder, moving fast but not running, back to the treeline where Jim and Ruth and Maria and Caleb were waiting. I watched them through the binoculars. They were clear. The Turned were focused on the noise, not on the retreating figures.
+Marcus and Sienna withdrew — south along the highway shoulder, moving fast but not running, back to the hillside where Jim and Ruth and Maria and Caleb were waiting. I watched them through the binoculars. They were clear. The Turned were focused on the noise, not on the retreating figures.
 
-I counted. Thirty-five. Forty. The cluster was directly under the overpass now, the density at its highest where the embankments funneled them into the bowl beneath the span. The behavior was changing — the twitchiness I'd first observed at the Walmart, the restless, jerky movements, the heads snapping toward nothing. The droning started. Low, resonant, building.
+I counted. Thirty-five. Forty. The cluster was directly under the overpass now, the density at its highest where the embankments funneled them into the bowl beneath the span. The behavior was changing — the twitchiness I'd first observed at the Lyles', the restless, jerky movements, the heads snapping toward nothing. The droning started. Low, resonant, building.
 
-Dale was beside me. His hands were shaking but his breathing was measured — the recovery breathing, the slow counts he'd been practicing for twelve years. He was watching the Turned below and his face was the face of a man who understood craving in all its forms and was choosing, again, the hard thing.
+Dale was beside me. His hands were steady — had been for days now, the withdrawal broken somewhere on the trail behind us — but his breathing was measured, the recovery breathing, the slow counts he'd been practicing for twelve years. He was watching the Turned below and his face was the face of a man who understood craving in all its forms and was choosing, again, the hard thing.
 
 "It's happening," I said. Meaning the threshold.
 
@@ -396,7 +402,7 @@ Dust. Fire. The sound of structural collapse — a grinding, crumbling, continuo
 
 Some survived. They always did. I could see them at the edges — stumbling out of the dust and debris, broken, confused, the frenzy spent. A man with one arm hanging wrong, wandering into the field. A woman, face bloodied, sitting on the highway shoulder the way you'd sit after a car accident, dazed, absent. They'd disperse. The post-frenzy scatter. In an hour the highway would be empty except for the rubble and the smoke.
 
-Dale's hand was on my shoulder. I hadn't noticed him put it there. His hand was shaking — the withdrawal — but the grip was firm.
+Dale's hand was on my shoulder. I hadn't noticed him put it there. The grip was firm — steady, grounding, the hand of a man who'd already survived his own collapse and was now anchoring someone else through theirs.
 
 "Breathe," he said.
 
@@ -420,7 +426,7 @@ Jim walked last. He walked through the rubble with his head bowed and his lips m
 
 Jim would carry the prayer. I would carry the hand.
 
-That night, camped on the ridgeline above the highway, I wrote by flashlight because the fire we built was too far from where I was sitting and I was sitting apart because I didn't want to be near people and I didn't want to be alone and both of these things were true at the same time.
+That night, camped in a pulloff a mile south of the wreckage, I wrote by flashlight because the fire we built was too far from where I was sitting and I was sitting apart because I didn't want to be near people and I didn't want to be alone and both of these things were true at the same time.
 
 **JOURNAL ENTRY #15:**
 
@@ -436,8 +442,92 @@ That night, camped on the ridgeline above the highway, I wrote by flashlight bec
 
 *Here is what I'm more afraid of: that I need to.*
 
-*Dale sat with me for an hour after dinner. He didn't say anything. He carved the fox. His hands were shaking and the fox was beautiful and the shaking and the beauty existed in the same hands and I think that's the truest thing I've learned about people — that the damage and the craft come from the same place and you don't get one without the other.*
+*Dale sat with me for an hour after dinner. He didn't say anything. He carved the fox. His hands were steady — the withdrawal broken days ago on the trail — and the fox was beautiful and I thought about how the damage and the craft come from the same place and you don't get one without the other. Dale's hands had shaken for days and now they didn't and the fox was proof that the other side of suffering is precision.*
 
-*Tomorrow we walk. The trail climbs back into the mountains. The next road crossing is in four days. I'll have a plan by then. I'll have a plan because that's what I do now. I make plans that involve other people dying so that my people can live, and I write them in a notebook and I execute them from a safe distance and I carry the results in my chest like stones and the stones are getting heavier and I'm fifteen and I don't know how many more I can carry before the weight of them changes me into something I don't recognize.*
+*Tomorrow we walk. The highway stretches south toward Fayetteville — twenty miles, maybe twenty-five. More Turned as we get closer to the city. More decisions. I'll have a plan because that's what I do now. I make plans that involve other people dying so that my people can live, and I write them in a notebook and I execute them from a safe distance and I carry the results in my chest like stones and the stones are getting heavier and I'm fifteen and I don't know how many more I can carry before the weight of them changes me into something I don't recognize.*
 
 *Sienna asked me if I was okay. I said yes. She said "Liar." She was right. She's always right about the things I don't say.*
+
+---
+
+The next day we found the town.
+
+It wasn't much — a bend in the highway where a gas station, a general store, and a barbecue restaurant clustered around an intersection like survivors huddling for warmth. The kind of place that had survived on Pig Trail tourists: bikers on weekend rides, families stopping for pulled pork and sweet tea, college kids from Fayetteville driving up to see the fall leaves. A sign out front of the restaurant said WORLD FAMOUS SMOKED RIBS and the world that had made them famous was gone.
+
+Someone had fortified the gas station. Plywood over the windows, reinforced with sheet metal from the restaurant's roof. A pickup truck parked sideways across the entrance, blocking the lot. Barbed wire — actual barbed wire, probably from a farm supply — strung between the gas pumps. And on the roof, behind a low wall of sandbags, a man with a deer rifle watching us approach.
+
+"That's far enough," he called. We were fifty yards out. The shopping carts rattled to a stop.
+
+Marcus raised both hands. "We're passing through. Heading south."
+
+"Nobody passes through. You go around."
+
+"There's no around. The highway is the road."
+
+A pause. The man on the roof consulted someone below — I could hear voices, muffled, the acoustics of people arguing inside a metal-and-plywood box. Then a woman emerged from behind the truck barricade. Mid-forties, sunburned, a shotgun held at port arms with the casual competence of someone who'd grown up with guns.
+
+"How many?" she asked.
+
+"Eight. One child, one elderly."
+
+She looked at us — really looked, the way you assess livestock or weather. Counting heads, reading posture, calculating threat. Her eyes lingered on Marcus's crossbow, on the hatchets at Dale's and Sienna's hips.
+
+"You're armed."
+
+"Lightly. We're not looking for trouble."
+
+"Nobody's looking for trouble. Trouble shows up anyway." She lowered the shotgun half an inch. "What do you have to trade?"
+
+This was Marcus's territory — the negotiation, the reading of a room. He stepped forward, slow, hands visible. "Medication. Blood pressure meds, antibiotics, anti-inflammatories. Some painkillers — prescription, from a pharmacy."
+
+Interest flickered across her face. Medication was currency now — more valuable than food, more valuable than ammunition, because you couldn't grow it or reload it or find it in the woods. When the pharmacies were empty, the medication was gone.
+
+"What do you want?"
+
+"Food. Canned goods, dried meat, whatever you can spare. We're three days from Fayetteville."
+
+They let us approach. Not inside — we traded through the barricade, items passed over the hood of the pickup truck. Maria handled the inventory, counting pills, portioning carefully, keeping enough of Ruth's atenolol for the remaining days while trading the surplus antibiotics and ibuprofen she'd stockpiled from the church's first-aid supplies. In exchange: twelve cans of beans, a bag of rice, a sleeve of beef jerky, and a gallon jug of water.
+
+There were nine of them inside the gas station. I could see them through the gap in the plywood — faces in the dim interior, watching us the way the Turned watched from a distance, with that guarded, calculating patience. A teenager, roughly my age, stared at me from behind the counter. He had the look — the hollowed-out, too-old look that I recognized because I saw it in every reflective surface. We were the same age and we were both ancient.
+
+I recognized the pattern. The Lyles' house. The fortified position, the barricade, the perimeter defense. The belief that if you built the walls high enough, the world would stay outside.
+
+"How long have you been here?" I asked the woman.
+
+"Since the beginning. Three weeks."
+
+"How many were you when you started?"
+
+She didn't answer, which was its own answer. More than nine. Maybe fifteen, maybe twenty. The attrition of a static position — the Turned pressing in, the supplies dwindling, the perimeter shrinking.
+
+"You should move," I said. The words came out before the social calculus could stop them. "South. Fayetteville. We've heard there's a research group at the university — someone working on the frequency."
+
+"We've heard a lot of things."
+
+"The static defense doesn't hold. I've seen it. The Turned concentrate around fixed positions — the noise, the lights, the human smell. The longer you stay, the more of them gather. The density builds until it tips into frenzy and the frenzy destroys whatever you've built."
+
+The woman looked at me. The way adults look at children who say things children shouldn't know. "How old are you?"
+
+"Fifteen."
+
+"And you're an expert on survival strategy."
+
+"I'm an expert on what I've observed. And I've observed that everyone who fortifies dies. Everyone who moves survives. The math isn't complicated."
+
+She didn't respond. Behind her, through the gap in the plywood, the teenager was still watching me. He'd heard. Whether he believed was a different question.
+
+We left. Shopping carts loaded with the traded food, wheels rattling on the asphalt, the gas station shrinking behind us. Marcus walked beside me.
+
+"You tried," he said.
+
+"They won't move."
+
+"No."
+
+"They'll die there."
+
+"Probably." Marcus adjusted the crossbow on his shoulder. "You can't save people who don't want to be saved. That's not a failure. That's a boundary."
+
+I looked back once. The man on the roof was watching us go. The rifle was still in his hands. The barbed wire glinted in the afternoon sun. Nine people in a gas station, waiting for the world to come to them.
+
+The world would come.
