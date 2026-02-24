@@ -186,7 +186,7 @@ The second I didn't show anyone. It's the thought that arrived while I was watch
 
 *And then I think about Marcus. Marcus approached one with intent and it saw him coming. It shifted — dropped into that hunting crouch, the claws, the bark — before he was close enough to swing. Craig used a bullhorn and brought hundreds of swarmers. The organism responds to threat at every scale. Individual approach triggers hunting. Collective noise triggers swarming. But both responses are predictable. The organism can't NOT respond. It's hardwired.*
 
-*The interchange overpass. Sixty feet above the highway. If you could make them come to a place where coming was falling — where the response they couldn't suppress was the thing that killed them — you wouldn't need a hatchet. You wouldn't need to get within ten feet. You'd just need them to arrive, and arriving would be enough.*
+*The interchange overpass. Sixty feet above the highway. The razor wire around the National Guard checkpoint on Route 7. If you could make them come to a place where coming was the thing that killed them — where the response they couldn't suppress was the weapon — you wouldn't need a hatchet. You wouldn't need to get within ten feet. You'd just need them to arrive, and arriving would be enough.*
 
 *I don't want to be thinking about this. But I am. And I think the reason I'm thinking about it is that nobody else will, because thinking about it requires you to look at forty human beings — people who were people, who had names, who had families — and calculate the mechanics of their destruction. I can do this. I don't know what that says about me. I'm afraid it says the true thing.*
 -e 

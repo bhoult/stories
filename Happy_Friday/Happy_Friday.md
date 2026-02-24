@@ -2976,7 +2976,7 @@ The second I didn't show anyone. It's the thought that arrived while I was watch
 
 *And then I think about Marcus. Marcus approached one with intent and it saw him coming. It shifted — dropped into that hunting crouch, the claws, the bark — before he was close enough to swing. Craig used a bullhorn and brought hundreds of swarmers. The organism responds to threat at every scale. Individual approach triggers hunting. Collective noise triggers swarming. But both responses are predictable. The organism can't NOT respond. It's hardwired.*
 
-*The interchange overpass. Sixty feet above the highway. If you could make them come to a place where coming was falling — where the response they couldn't suppress was the thing that killed them — you wouldn't need a hatchet. You wouldn't need to get within ten feet. You'd just need them to arrive, and arriving would be enough.*
+*The interchange overpass. Sixty feet above the highway. The razor wire around the National Guard checkpoint on Route 7. If you could make them come to a place where coming was the thing that killed them — where the response they couldn't suppress was the weapon — you wouldn't need a hatchet. You wouldn't need to get within ten feet. You'd just need them to arrive, and arriving would be enough.*
 
 *I don't want to be thinking about this. But I am. And I think the reason I'm thinking about it is that nobody else will, because thinking about it requires you to look at forty human beings — people who were people, who had names, who had families — and calculate the mechanics of their destruction. I can do this. I don't know what that says about me. I'm afraid it says the true thing.*
 -e 
@@ -3944,11 +3944,13 @@ In the morning the world was slightly less wrong than it had been the night befo
 
 *Sienna knows something is wrong. She brings me water. She walks beside me on the downhills. She touches my arm on the steep sections. She is trying to reach me the way you try to reach someone on the other side of a window and she doesn't know the window is there and I don't know how to tell her.*
 
+I left what remans of my mother standing in the parking lot.  I don't know what to do about that.
+
 *We walk.*
 -e 
 ---
 
-# Chapter 21: The Overpass
+# Chapter 21: The Wolf Knife
 
 Lake Fort Smith was a man-made lake at the bottom of the mountains — a dam, a spillway, a campground with bathrooms that still smelled like bleach and pine, and a gas station at the highway junction that had been looted for food but not for shopping carts. We took four. The wheels were stiff from sitting in the rain but they rolled, and rolling was the point: sixty miles of trail with packs on our backs had taught us the value of not carrying weight when you didn't have to.
 
@@ -3956,41 +3958,78 @@ The transition happened in an afternoon. We walked out of the forest and onto pa
 
 Shopping carts on asphalt. The sound was absurd — that rattling, clattering grocery-store sound echoing off the mountain walls, announcing our presence to every Turned within a quarter mile. But the trade-off was worth it: packs in the carts, bodies upright, shoulders and hips finally unburdened after days of grinding. Ruth sat in her cart when her knees gave out, Maria pushing her, the two of them looking like the world's most unlikely grocery run.
 
-The Turned were more numerous here. Closer to population centers, closer to the small towns strung along the highway like beads on a wire. We saw them in gas station parking lots, in the doorways of shuttered restaurants, wandering the center line of the highway in that aimless, gravitational drift. Mostly singles and pairs. We gave them wide berth, pushing the carts onto the shoulder, into the gravel, waiting for them to pass. The highway was exposed — no tree cover, no ridgelines to hide behind — but it was fast. Seven miles the first day. Eight the second. The flat ground and the cart wheels were doing what the trail couldn't.
+The highway was a graveyard. Not the metaphorical kind — the literal kind, the kind where cars sit with their doors open and nobody comes back for them. A minivan in the left lane, both sliding doors wide, two car seats in the back, empty. A pickup nose-down in the drainage ditch, the cab half-submerged in standing water that had turned green. A Buick stopped diagonally across both lanes, driver's door open, keys still in the ignition, the battery long dead. The evidence of panic stops — people who pulled over, got out, and never got back in. Every open door was a sentence that ended mid-word.
 
-On Day 37 I killed thirty people and I need to tell you about it in the way it actually happened, which is quietly, from a hillside, by doing math.
+We pushed the carts through the gaps. The wheels rattled over broken glass and around a suitcase that had split open on the shoulder, clothes scattered across the gravel — a woman's blouse, a pair of jeans, a child's sneaker with the laces still tied. A cell phone sat on the guardrail, screen cracked in a spiderweb pattern, placed there carefully by someone who had expected to come back for it. Nobody had come back.
 
-Highway 71 wound through a series of cuts and fills where the road had been carved through the ridgelines — blasted rock faces on either side, the old dynamite marks still visible in the limestone. At one of these cuts, a county road crossed over the highway on an overpass — a concrete span built in the 1970s, the kind of infrastructure that had been on a deferred maintenance list for twenty years. The concrete was crumbling at the expansion joints. The guardrails were rusted. On the upper deck, two semi-trucks had been abandoned — one a flatbed hauling lumber, the other a fuel tanker, its cylindrical tank catching the late-morning sun.
+The Turned were more numerous here. Closer to population centers, closer to the small towns strung along the highway like beads on a wire. We saw them among the cars — singles and pairs drifting through the lanes like shoppers in an abandoned lot. One sat in a driver's seat with both hands on the steering wheel, staring through the windshield, going nowhere. Another stood at a gas pump outside a Shell station, a credit card in her right hand, the ritual of fueling preserved without function. She swiped the card against the dead reader while we passed. Swiped it again. The motion was smooth, practiced, the muscle memory of a thousand fill-ups persisting after everything else had been taken.
 
-Under the overpass, in the shadow of the concrete span, a cluster of Turned had gathered. Twenty-five. Maybe thirty. Standing in the dim space where the highway passed under the bridge, milling in slow circuits, drawn to the infrastructure the way they were drawn to all human-built things — the echoes, the geometry, the residual smell of diesel and asphalt and a thousand cars that had passed through before the world stopped. The terrain funneled them: the highway rose on embankments to meet the overpass, creating a bowl beneath the span where the Turned collected like water in a drain.
+We gave them wide berth, pushing the carts onto the shoulder, into the gravel, waiting for them to pass. The highway was exposed — no tree cover, no ridgelines to hide behind — but it was fast. Seven miles the first day. Eight the second. The flat ground and the cart wheels were doing what the trail couldn't.
 
-I studied it from the hillside for an hour. Through the binoculars I could see the supports — four concrete columns, each maybe three feet in diameter, cracked where the rebar was corroding, where decades of freeze-thaw cycles had worked the concrete apart. The deck above was loaded: the two semis plus the weight of the road surface plus whatever water and debris had accumulated on the asphalt. The supports were holding all of it, barely, the way an old man holds a heavy door — upright, functional, but not by much.
+On the second day we came around a curve and found the food truck.
 
-The alternative was backtracking — north a mile, then east on a forest service road to bypass the cut, then south on a parallel road to rejoin the highway below the overpass. But the forest service road was unpaved, rutted, impossible with shopping carts. We'd have to carry the packs again. And the detour added half a day of exposed walking through open terrain where we'd already seen Turned drifting in from the surrounding towns. Ruth's atenolol supply was at four days. Four days of medication between her and a heart rate that would light up the organism like a signal flare.
+It had jackknifed across both lanes — a converted box truck, faded red, the side panel reading UNCLE DEL'S SMOKEHOUSE in hand-painted letters that were peeling at the edges. The back doors had burst open on impact and the contents had scattered across the highway — paper plates, napkins, plastic forks, an industrial-sized jug of barbecue sauce that had shattered and left a dark stain on the asphalt like old blood. The food was gone. Whatever had been edible — the meat, the bread, the coleslaw in plastic tubs — had been consumed. By Turned, by animals, by time. What remained was packaging and bones.
 
-I looked at the overpass. I looked at the supports. I looked at the Turned clustered under the span.
+The bones were in the ditch. Not scattered — concentrated. A collection point, the way debris collects in an eddy. Skulls and femurs and ribcages, some still connected, most not. Picked clean. The Turned feed — I knew this from observation, from the journal, from the data I'd been collecting since Day One — but knowing it and seeing the evidence were different operations, and the evidence was thorough. The bones were pale in the November light. Some had tooth marks.
 
-The idea arrived the way ideas arrive — complete, already too detailed to be unnamed. It was the thought I'd had watching the Lyles' house come apart, the one I'd written in the private journal and hadn't shown anyone. The roof section that took out six of them. The way they didn't dodge. The way the frenzy made them destroy everything in reach including each other. The quarry off Route 7.
+Caleb asked what they were and Marcus said "deer" without hesitating and the lie was so smooth and so necessary that nobody corrected it.
 
-I should say I didn't want it. That's what the journal should record — the reluctance, the moral weight, the boy who didn't want to become the kind of person who engineers a collapse on top of thirty human beings. And that boy existed. He was in there somewhere, behind the anger, behind the weeks of trail and the parking lot and the smile.
-
-But the truth is more complicated than the boy.
-
-Part of me had been waiting for this. The anger — the thing with edges that I'd carried since Clarksville, that had fueled every uphill, that had turned physical pain into something I used instead of something I endured — the anger had been looking for a target it could actually reach. Not the organism, which was everywhere and nowhere. Not the Turned in the hospital parking lot, who were beyond punishment. Not myself, whose self-inflicted suffering on the trail was satisfying but ultimately impotent. The anger wanted something it could *do.* An action. A consequence. A way to punish the thing that had taken my mother, even if the punishment landed on the bodies the thing was wearing.
-
-The overpass was the first opportunity I'd had to hurt it.
-
-The analytical brain provided the method — the compromised supports, the loaded deck, the frenzy mechanics. The analysis was sound. The math checked. But the eagerness was new. The eagerness was not the analytical brain. The eagerness was the thing with edges, and the eagerness said: *yes. Finally. Make it hurt.*
-
-I want it recorded that this frightened me. The math and the rage arriving at the same answer and the impossibility of knowing which one I was listening to. The door opened and I didn't know if I was opening it out of necessity or desire, and the not-knowing was the most honest thing I'd felt in weeks.
+We passed the food truck by climbing the embankment on the right side, hauling the carts up through the gravel and weeds, and coming back down on the other side. The Turned in the area — four of them, drifting among the wreckage — didn't follow. They stayed near the truck, near the bones, near the residual smell of what had once been food. The organism's caloric drive, operating at the most basic level. Stay near the food source. Wait.
 
 ---
 
-I proposed it to the group at the hillside. Not dramatically. In the flat, analytical voice that was my default when the thing I was saying was too large for inflection.
+On Day 37 A part of me I loved died, it started from a hillside, with a plan I'd borrowed from Eskimo hunters.
 
-"We set up a noise source — the hand-crank radio, or just banging on metal — about a hundred yards north of the overpass. It draws them out, concentrates them. When the count is high enough, the density tips them into frenzy. When they frenzy near the supports, they'll attack the structure. The supports are failing already. The load on the deck — the trucks, the tanker — it's too much for compromised columns. The overpass comes down. The trucks come down with it. We wait at distance. When it's over, we walk through."
+The roadblock appeared on the afternoon of the second day on the highway. We came around a long curve where the road cut through a ridgeline — blasted limestone faces on the right, a steep drop on the left where the mountain fell away — and the highway ahead was blocked.
 
-Silence. The particular silence of people processing something they weren't prepared to hear.
+The National Guard had been here.
+
+I recognized the setup from the kind of reading I used to do — Wikipedia deep dives, military logistics, the organizational patterns of emergency response. Jersey barriers across both lanes, the heavy concrete dividers that separate highway traffic, arranged in a staggered pattern that forced approaching vehicles to slow and weave. Concertina wire spiraling around the perimeter in thick coils, the razor-sharp kind, military grade, designed to entangle and cut. Two Humvees inside the compound — one upright with its doors open, the other on its side, the undercarriage facing the hillside like a dead animal exposing its belly. A command tent, collapsed, the olive-drab canvas pooled on the ground. A generator, silent, fuel cans scattered around it. Sandbag positions at the corners, the bags split and leaking sand that mixed with the gravel.
+
+They'd set up a checkpoint to control refugee flow. The highway was the secondary route between Alma and Fayetteville — not the interstate, not the main evacuation corridor, but the road people would take when the interstate was gridlocked. The Guard had positioned here to screen, direct, manage the flow. Then the flow had overwhelmed them, or the organism had, and the checkpoint had become a monument.
+
+Cars were backed up on both sides. The north approach — our side — had a line of vehicles stretching back maybe a quarter mile, stopped in both lanes, some with doors open, some with the windows smashed. People who had stopped in time. Behind them, the evidence of people who hadn't: a sedan rear-ended into the back of a pickup, the hood crumpled, airbags deployed and hanging like deflated lungs. A semi that had jackknifed trying to stop, its trailer slewed across the shoulder, the cab hanging over the edge of the drop on the left. The guardrail was twisted where the semi had gone partially through it — bent metal, bolts sheared, a fifty-foot drop beyond to the rocks and scrub below. The semi's trailer dangled, half on the road, half over nothing.
+
+The south side was the same. More cars, more doors, more evidence. The roadblock had trapped traffic from both directions, creating a parking lot of abandoned vehicles with a military compound in the center and no way through.
+
+And among the cars, around the compound, on both sides of the roadblock — the Turned.
+
+I counted from the hillside through the binoculars. The north side: approximately fifty, milling among the backed-up cars, drifting between open doors, sitting on hoods, standing at the guardrail looking at nothing. The south side: approximately fifty more, the same aimless drift, the same patient gravitational circling. Inside the compound itself: maybe thirty, wandering among the Humvees and the collapsed tent and the sandbag positions, drawn to the military infrastructure the way they were drawn to all human-built things.
+
+A hundred and thirty. Maybe more. Three groups separated by the jersey barriers and the wire, each below frenzy threshold, each drifting in its own orbit. The terrain funneled them: the steep hillside on the right made climbing impractical, especially with shopping carts. The fifty-foot drop on the left, with the twisted guardrail and the semi wreckage, made that side impassable. The roadblock controlled the only viable passage.
+
+The alternative was backtracking — north two miles, then east on a forest service road to bypass the ridgeline, then south on a county road to rejoin the highway below the roadblock. But the forest service road was unpaved, rutted, impossible with shopping carts. We'd have to carry the packs again. And the detour added half a day of exposed walking through open terrain where we'd already seen Turned drifting in from the surrounding towns. Ruth's atenolol supply was at four days. Four days of medication between her and a heart rate that would light up the organism like a signal flare.
+
+I studied the compound for an hour. I studied the wire. I studied the three groups and their separation and the jersey barriers that kept them apart and the funnel geometry of the terrain and the coils of unused concertina wire stacked behind one of the Humvees — still bundled, never deployed, the military's surplus, left behind when the checkpoint fell.
+
+The idea didn't arrive unwanted this time.
+
+I'd read about it years ago, The Eskimo wolf knife. You take a knife blade, coat it in seal fat, freeze it upright in the snow. A wolf finds it, licks the fat. The blade cuts the wolf's tongue. The wolf tastes its own blood. The blood triggers a feeding response — the wolf can't stop licking. Each lick cuts deeper. The wolf bleeds to death from licking its own blood off the blade that's killing it.
+
+The razor wire was the knife. The frenzy was the wolf.
+
+I should say I didn't want it. That's what the journal should record — the reluctance, the moral weight, the boy who didn't want to become the kind of person who engineers a slaughter. And that boy existed. He was in there somewhere, behind the anger, behind the weeks of trail and the parking lot and the smile.
+
+But the truth is more complicated than the boy.
+
+Part of me had been waiting for this. The anger — the thing with edges that I'd carried since Clarksville, that had fueled every uphill, that had turned physical pain into something I used instead of something I endured — the anger had been looking for a target it could actually reach. Not the organism, which was everywhere and nowhere. Not the Turned in the hospital parking lot, who were beyond punishment. Not myself, whose self-inflicted suffering on the trail was satisfying but ultimately impotent. The anger wanted something it could *do.* An action. A consequence. A way to punish the thing that had taken my mother, even if the punishment landed on the bodies the thing was wearing.  I would not yet know the cost.
+
+The roadblock was the first opportunity I'd had to hurt it.
+
+The analytical brain provided the method — the wire, the density mechanics, the frenzy threshold, the wolf knife principle. The analysis was sound. The math checked. But the eagerness was new. The eagerness was not the analytical brain. The eagerness was the thing with edges, and the eagerness said: *yes. Finally. Make it hurt.*
+
+I want it recorded that this frightened me. The math and the rage arriving at the same answer and the impossibility of knowing which one I was listening to. The door opened and I didn't know if I was opening it out of necessity or desire.
+---
+
+I proposed it to the group on the hillside. Not dramatically. In the flat, analytical voice that was my default when the thing I was saying was too large for inflection.
+
+"There's an Eskimo hunting technique for wolves. You coat a knife in seal fat, freeze it in the snow. The wolf licks the fat, cuts its tongue, tastes blood, can't stop. Bleeds to death licking its own blood off the blade." I let that sit for a moment. "The razor wire is the knife. The frenzy is the wolf."
+
+Silence. Not the silence of comprehension — the silence of people hearing something they wished they hadn't.
+
+"Three of us go in quiet. Me, Marcus, Dale. We unspool the extra wire inside the compound — there are unused coils behind the Humvee. Make the web denser. Then we open both gates — the north and south barriers. Create funnels. Then we find a car with a working battery in the traffic backup, start the stereo, blast music. Maximum draw. All three groups converge on the compound. A hundred and thirty Turned in a web of razor wire. The density hits threshold. They frenzy. The wire does the rest."
+
+More silence. The particular silence of people processing something they weren't prepared to hear from a fifteen-year-old who was explaining an Eskimo hunting technique and applying it to human beings.
 
 Jim spoke first. "Those are people, Nate."
 
@@ -3998,21 +4037,21 @@ Jim spoke first. "Those are people, Nate."
 
 "They're still people," Jim said. "Somewhere in there, they're still —"
 
-"Jim, I know. I know they have memories. I know the organism uses those memories. I know that somewhere inside each of them is a person who had a name and a family and a life. I know all of this. And I also know that between us and Fayetteville are thirty of them blocking the highway, and Ruth has four days of atenolol, and we can't carry the packs on an unpaved detour, and we don't have half a day to go around."
+"Jim, I know. I know they have memories. I know the organism uses those memories. I know that somewhere inside each of them is a person who had a name and a family and a life. I know all of this. And I also know that between us and Fayetteville there are a hundred and thirty of them blocking the highway, and Ruth has four days of atenolol, and we can't carry the packs on an unpaved detour, and we don't have half a day to go around."
 
 "There's always another way."
 
 "There isn't always another way. Sometimes the other way is worse and the only honest thing to do is say so."
 
-The argument expanded. Sienna opposed it — not on Jim's grounds, not theology. Instinct. "It feels wrong. It feels like — Nate, you're talking about engineering a mass casualty event. You're talking about setting a trap."
+The argument expanded. Sienna opposed it — not on Jim's grounds, not theology. Instinct. "It feels wrong. It feels like — Nate, you're talking about setting a trap. You're talking about using their own bodies against them."
 
-"I'm talking about using the frenzy's own destructive behavior against a compromised structure in a controlled context. The frenzy happens without us — it's happened at the Lyles', at the ranch house, at every concentration point I've observed. We're not creating a new threat. We're directing an existing one."
+"I'm talking about using the frenzy's own destructive behavior in a controlled context. The frenzy happens without us — it's happened at the Lyles', at the ranch house, at every concentration point I've observed. We're not creating a new threat. We're directing an existing one."
 
 "That's a rationalization."
 
 "Maybe. But it's also true."
 
-Marcus, from his position at the edge of the group: "The detour adds half a day. Half a day carrying packs on unpaved roads with no cover. Ruth can't do it — not with three days of medication left."
+Marcus, from his position at the edge of the group: "The detour adds half a day. Half a day carrying packs on unpaved roads with no cover. Ruth can't do it — not with four days of medication left."
 
 Dale spoke. He was holding the fox carving — finished now, the detail work clean, the strokes precise with steady hands. "When I was using," he said, "my counselor told me that recovery means choosing the hard thing that works over the easy thing that feels right. This is the hard thing."
 
@@ -4026,69 +4065,161 @@ Jim looked at Dale. Something passed between them — the pastor and the addict,
 
 "For us?" I asked.
 
-"For them." He meant the Turned. He meant the thirty people under the overpass who were about to die because a fifteen-year-old with a notebook had done the math. "You do what you need to do, Nate. I'll do what I need to do. And if we're both right, God can sort out the difference."
+"For them." He meant the Turned. He meant the hundred and thirty people at the roadblock who were about to die because a fifteen-year-old with a notebook had borrowed a wolf-hunting technique. "You do what you need to do, Nate. I'll do what I need to do. And if we're both right, God can sort out the difference."
+
+Sienna would not or could not look at me.
 
 ---
 
-Marcus and Sienna set up the noise source. The hand-crank radio, tuned to static, volume maxed, jammed into the passenger seat of a wrecked car on the highway shoulder a hundred yards north of the overpass. The static carried — that white-noise hiss, audible for a quarter mile in the silence. I could hear it from the hillside where Dale and I were positioned, two hundred yards south, above the interchange, looking down through the binoculars.
+We went in before dawn.
 
-The Turned responded. The cluster under the overpass began drifting north — slowly, drawn by the sound, the collective orientation shifting like a compass needle. More came from the east, from the fields beyond the highway. More from a house I hadn't spotted, emerging from a garage in single file. The count climbed: twenty-five, thirty, thirty-five. They converged on the area between the overpass and the noise source, milling, tightening, the density compressing as more arrived.
+Marcus, Dale, and I slipped down the hillside in the dark, moving slow, breathing slow, threading between the backed-up cars on the north approach. The Turned on our side — fifty of them, scattered among the vehicles — were in drift mode, the aimless, passive circling that passed for rest. We moved through them the way we'd learned on the trail: no sudden movements, no eye contact, pulse steady, the body language of furniture. A Turned man stood three feet from me between a Honda and a Dodge, his head tilted, his eyes tracking nothing. I passed him close enough to smell him — the organism smell, the sweet rot, the biological wrongness — and he didn't register me. I was below his threshold. I was background noise.
 
-Marcus and Sienna withdrew — south along the highway shoulder, moving fast but not running, back to the hillside where Jim and Ruth and Maria and Caleb were waiting. I watched them through the binoculars. They were clear. The Turned were focused on the noise, not on the retreating figures.
+The compound entrance was a gap in the jersey barriers on the north side, narrowed by concertina wire that the Guard had strung across the opening. Marcus held the wire up with a piece of two-by-four scavenged from the roadside while Dale and I crawled under. The razor edges caught my jacket, sliced the fabric, nicked the skin beneath. A thin line of blood on my forearm. The pain was familiar — the earned kind, the kind I'd been seeking since Clarksville. I didn't flinch.
 
-I counted. Thirty-five. Forty. The cluster was directly under the overpass now, the density at its highest where the embankments funneled them into the bowl beneath the span. The behavior was changing — the twitchiness I'd first observed at the Lyles', the restless, jerky movements, the heads snapping toward nothing. The droning started. Low, resonant, building.
+Inside the compound, the thirty resident Turned drifted among the military wreckage. A woman in civilian clothes sitting on a sandbag. A man in National Guard fatigues — ACU pattern, the name tape too dark to read — standing at the generator, his hand on the pull-start, yanking it at intervals. The generator was out of fuel. The motion continued. Yank. Wait. Yank. Wait. The muscle memory of a soldier who had been told to keep the generator running and whose body was still following the last order it received.
 
-Dale was beside me. His hands were steady — had been for days now, the withdrawal broken somewhere on the trail behind us — but his breathing was measured, the recovery breathing, the slow counts he'd been practicing for twelve years. He was watching the Turned below and his face was the face of a man who understood craving in all its forms and was choosing, again, the hard thing.
+We found the spare wire behind the overturned Humvee. Four coils of military concertina — the serious kind, the wire with the razor blades stamped into it at two-inch intervals, designed to entangle and lacerate anything that touched it. Each coil was heavy, sixty pounds of steel, compressed into a cylinder that expanded when you cut the binding straps. We cut the straps on two of them and the wire sprang outward in a controlled chaos of razor edges.
 
-"It's happening," I said. Meaning the threshold.
+Unspooling concertina wire in the dark, quietly, among Turned, is not something I can describe without the word "careful" becoming inadequate. Dale held the expanding coil with leather gloves we'd found in the Humvee — military issue, thick, designed for exactly this work — while Marcus and I stretched the wire across the gaps between the barriers, between the Humvees, across the open ground inside the compound. The wire sang when it moved — a low, metallic hum, the kind of sound that carries. Every time it sang I stopped breathing and watched the nearest Turned for a reaction. No reaction. The sound was below their attention threshold, or close enough to the wind-in-the-wire sounds they'd been hearing for weeks that it didn't register as novel.
 
-"I see it," he said.
+The wire cut us anyway. Through the gloves, through the jacket sleeves, through the careful spacing of hands that knew where the blades were. My palms bled. Dale's forearms bled. Marcus had a gash across the back of his right hand that he wrapped with a strip of his shirt without stopping. The pain was a tax. The blood was the cost of the plan. I noticed — the analytical brain noticed — that my hands were bleeding on the same wire that was about to kill a hundred and thirty people, and the symmetry of that was the kind of thing I would have written in the journal if I'd had the journal with me instead of a coil of razor wire.
 
-The shudder. The phase transition. One moment they were milling, individual, restless. The next they were a single thing — a collective body, convulsing, the coordinated patience of the herd snapping into the undirected violence of the frenzy. The sound changed: not the drone but a roar, multi-throated, the sound of forty human vocal cords producing something that was not a human sound.
+We opened the gates. North side first — pulling the jersey barriers apart just enough to create a funnel, an invitation, a doorway that said *come in.* Then the south side, same thing. Two funnels. Two open mouths. The wolf knife, set in the snow.
 
-They hit the overpass supports. Not because they were aiming — because the supports were what was there. The nearest column took the first impact: bodies, dozens of them, pressing and pushing and tearing with the mechanical fury of the frenzy. Concrete cracked. I could hear it from two hundred yards — a sharp report, like a gunshot, as the rebar inside the column sheared. The column held. Then the second wave hit, and the column didn't hold.
+The car took three tries. The first — a Camry in the backed-up traffic — was dead. The second — a Ford F-150 — was dead. The third — a Chevy Malibu, pushed sideways on the shoulder, the driver's door hanging open — turned over when Marcus hit the key. Not the engine — the engine was dry — but the electronics lit up. The dashboard glowed. The stereo came on.
 
-The deck shifted. Two inches, then six, then a foot — the road surface tilting as the column gave way, the weight of the semis sliding toward the low side. The fuel tanker rolled first — slowly, massively, the cylinder turning on its axis, picking up speed as the deck tilted further. It went over the edge.
+Static. Marcus hit the CD button. A disc was still in the player.
 
-The impact was unlike anything I have a comparison for. Ten thousand gallons of diesel fuel in a steel cylinder falling twenty feet onto concrete and bodies. The tanker ruptured on impact — not an explosion, not at first, just a splitting of steel and a wave of fuel that spread across the highway in a dark sheet. Then the lumber truck followed, sliding off the collapsing deck, the flatbed hitting the road surface and shattering into a spray of pine two-by-fours and steel. Then the deck itself — the concrete span, crumbling at the compromised joints, falling in sections, each section a multi-ton slab of reinforced concrete dropping into the space where the Turned were frenzying.
+Lynyrd Skynyrd. "Free Bird." The opening notes — the quiet ones, the piano and the guitar, the soft part before the song becomes what it becomes — filled the Malibu and spilled out through the open door and echoed off the limestone walls of the highway cut and carried, carried, carried into the November morning like a signal flare made of sound.
 
-The fuel ignited. I don't know what sparked it — friction, electrical, the impact of steel on concrete. The diesel went up in a rolling flame that I felt on my face from two hundred yards, a wave of heat that smelled like every truck stop Marcus had ever hated.
+We ran.
 
-Dust. Fire. The sound of structural collapse — a grinding, crumbling, continuous sound that lasted maybe thirty seconds and then subsided into the crackle of burning diesel and the settling of rubble. The overpass was gone. The highway was buried under a mound of concrete, steel, lumber, and fire. The Turned who had been underneath were — I didn't look through the binoculars. I didn't need to. The physics were clear.
+Back through the wire — faster now, less careful, the razor edges catching and cutting and not mattering because the clock was running. Up the hillside, scrambling through scrub oak and dead leaves, Dale's breathing the recovery count — *in two three four, out two three four* — Marcus behind us with the crossbow up, watching the compound below. We reached the observation point — two hundred yards south, above the roadblock, the same hillside where the group was waiting — and I pulled up the binoculars and watched.
 
-Some survived. They always did. I could see them at the edges — stumbling out of the dust and debris, broken, confused, the frenzy spent. A man with one arm hanging wrong, wandering into the field. A woman, face bloodied, sitting on the highway shoulder the way you'd sit after a car accident, dazed, absent. They'd disperse. The post-frenzy scatter. In an hour the highway would be empty except for the rubble and the smoke.
+The Turned responded. The fifty on the north side oriented first — heads turning, bodies shifting, the collective attention rotating toward the sound like a field of sunflowers tracking the sun. They began to move. Not fast — the aimless drift accelerating into purposeful walking, still individual, still below threshold, but converging. Through the backed-up cars, around the open doors, toward the funnel we'd made in the north barrier. On the south side, the same: fifty more, turning, drifting, drawn by the music that was now loud enough to hear from the hillside — the guitar solo building, the drums coming in, the song becoming the anthem it was written to be, played for an audience of the dead.
 
-Dale's hand was on my shoulder. I hadn't noticed him put it there. The grip was firm — steady, grounding, the hand of a man who'd already survived his own collapse and was now anchoring someone else through theirs.
+The north group reached the funnel first. They filtered through the gap in the barriers — one at a time, then two, then a press of bodies, the funnel doing what funnels do, compressing the flow, accelerating it. Inside the compound, the resident thirty were already agitated — the music was loudest here, bouncing off the jersey barriers and the Humvees, and the incoming bodies were adding density, adding the proximity signals that the organism read as *converge, converge, converge.* The south group hit the south funnel seconds later. More bodies. More density. The compound was filling.
 
-"Breathe," he said.
+I counted. Sixty. Eighty. A hundred. The three groups were becoming one group, and the one group was compressed into a space designed to hold a military checkpoint, not a hundred human bodies, and the wire — our wire, the new web we'd strung in the dark — was everywhere, chest-high, knee-high, strung between the barriers in a geometry of edges.
 
-I breathed. I realized I'd been holding my breath since the deck shifted. How long? A minute? Two?
+The behavior changed. The twitchiness first — the restless, jerky movements I'd catalogued at the Lyles' and at every concentration point since. Heads snapping toward nothing. Hands opening and closing. The droning started. Low, resonant, building — a hundred human vocal cords producing a sound that was not speech and not song and not anything that had a name, a harmonic that built on itself, each voice amplifying the others, the acoustic signature of the threshold approaching.
 
-"It's done," he said.
+"Free Bird" was still playing. The solo — the long, climbing, desperate solo that had filled a thousand arenas and a million car radios — was competing with the drone, and losing.
 
-"It's done."
+"It's happening," I said.
+
+Dale was beside me. His hands were steady. His breathing was the recovery count. He was watching and his face was the face of a man who understood craving in all its forms and was choosing, again, the hard thing.
+
+The shudder. The phase transition. One moment they were milling, individual, restless. The next they were a single thing — a collective body, convulsing, the coordinated patience of the herd snapping into the undirected violence of the frenzy. The sound changed: not the drone but a roar, multi-throated, the sound of a hundred human vocal cords producing something that was not a human sound.  The sound of vocal chords being shredded from pressure and rage.
+
+They hit the wire.
+
+Not because they were aiming — because the wire was what was there. The nearest strand took the first impact: bodies pressing into razor edges, the concertina biting into arms and torsos and faces with the mechanical indifference of engineered steel. The wire held — it was military concertina, designed to stop infantry, designed to entangle and lacerate, and it did both. Every movement drove the blades deeper. Arms tangled in the coils, legs wrapped in the lower strands, bodies pressing forward into the web because the frenzy said *move* and the wire said *stop* and the frenzy was stronger than pain.
+
+The wolf knife.
+
+They cut themselves open on the wire. The blades opened skin and muscle and the blood came — not in drops but in sheets, running down the razor edges, pooling on the asphalt, the smell of it rising in the November air. The blood made the wire slick. The slickness let them push deeper. The deeper they pushed, the more the blades cut, and the cutting produced more blood and the blood produced more frenzy and the frenzy produced more pressure and the pressure drove them harder into the wire. The self-destruction spiral. The soft hands of humans grabbing at cold spirals of razor blades, sliced fingers falling before them, then those same fingerless people were biting those same razors.  The wolf licking the blade. Unable to stop because the thing that was killing it was the thing it craved.
+
+The guardrail went next. The left side of the roadblock — the fifty-foot drop, the twisted metal where the semi had already punched through — was the weakest point. The frenzied mass, a hundred bodies pressing and shoving and tearing with no direction and no purpose, crowded toward the edge. The guardrail, already bent, already sheared at the bolts, held for maybe thirty seconds. Then it folded outward like a gate and the bodies behind it didn't stop — couldn't stop, because the frenzy doesn't understand edges, doesn't understand gravity, doesn't understand that the ground disappears — and they went over. Dozens of them. Pushed by the crush behind them, carried by the momentum of a hundred bodies that had nowhere else to go. The sound of them hitting the rocks fifty feet below was — I heard it like a drum cadence for a song turned obscene. I will not describe it.
+
+The compound was a slaughterhouse. The road surface was covered in blood — not splashes, not splatters, but a continuous layer, inches deep in the low spots where the asphalt dipped, pooling against the jersey barriers, running in dark rivulets into the drainage ditches on either side. Viscera hung from the razor wire — intestines caught on the blades, loops of tissue strung between the coils like grotesque garlands, the things inside people that are supposed to stay inside. The smell reached us on the hillside, two hundred yards away: blood and meat and shit, the smell of a body opened, multiplied by a hundred, compressed into a quarter-mile of highway. Maria turned away. Caleb was already on Marcus's back, face buried.
+
+I watched through the binoculars. The analytical brain was recording. The rage was watching too, and for once, the rage was satisfied, the satisfaction frightened me more than the dying.
+
+Then the others came.
+
+I hadn't counted them because I hadn't seen them. They came from the woods on both sides — from the hillsides, from the hollows, from the county roads and forest service roads and the small towns scattered through the mountains between Alma and Fayetteville. People who had been fleeing on this secondary route when the organism caught them. People who had turned on the highway and wandered into the trees. People who had been drifting for weeks through the Ozark woods, alone or in pairs, drawn by nothing, going nowhere, until the sound of a hundred frenzied voices gave them somewhere to go.
+
+They came in tens, then twenties. Through the tree line on the right. Up the embankment from the drop on the left — climbing, somehow, the ones who could still climb. From the backed-up cars on both approaches, emerging from vehicles I'd counted as empty. The count I'd done from the hillside — a hundred and thirty — had been the visible population. The actual population was the visible plus the invisible, the ones in the woods, the ones in the hollows, the ones I hadn't seen because I hadn't looked hard enough or far enough or with enough respect for the possibility that I was wrong.
+
+The hundred and thirty became two hundred. Then three hundred. The compound couldn't hold them — the frenzy spilled out through the funnels we'd opened, but more kept coming, and the wire was everywhere, and the new arrivals hit the wire and the wire cut them and the blood and the frenzy and the wire did what the wolf knife does. The killing field expanded beyond the compound, into the backed-up cars on both sides, the frenzy radiating outward as the density wave propagated, catching new arrivals in the same self-destruction spiral.
+
+I lowered the binoculars.
+
+I glanced at Sienna.
+
+She was already looking at me. Not the way she'd looked at me on the trail — the sidelong glances, the concern, the trying-to-read-him focus of a girl who cared about someone she couldn't quite reach. This was different. Her eyes were wide and wet and her mouth was open slightly and the expression on her face was one I will carry longer than the woman in the wire or the sound of bodies on rocks or anything else that happened on that hillside.
+
+Horror. And shame. Not her shame — mine. She was looking at me the way you look at something you helped build and then watched become monstrous. She had argued against the plan and lost the argument and stayed and watched because she wouldn't leave and now she was seeing what staying meant and what the plan meant and what I meant, the real me, the one behind the analytical voice and the notebook and the careful math — the fifteen-year-old who had borrowed a wolf-hunting technique and applied it to three hundred human beings and watched it work and felt something that was not horror.
+
+She saw me notice. She turned away. Fast, deliberate, the way you turn from a car accident you've already seen too much of. She wiped her face with the back of her hand — quick, angry, the tears dealt with like an inconvenience — and she did not look at me again.
+
+Something broke.
+
+Not the analytical machinery — that had broken before, on the highway, when the container cracked. This was different. This was the thing underneath the machinery, the thing the machinery was built to protect, the thing that was still, after everything, a fifteen-year-old boy from a trailer park who said "Happy Friday, bud" and meant it. That thing looked at Sienna's face and saw what it had become in her eyes and the seeing was the breaking.
+
+The sound that came out of me was not a word. It was not crying, not at first — it was something lower, something animal, the sound a body makes when the thing holding it together lets go all at once. Then it was crying. Sobbing. The kind that takes your legs because the diaphragm is convulsing too hard to keep the rest of you upright. I went down — not falling, crumbling, the way a building comes apart when the supports give, first to my knees, then forward onto my hands, and I was on the ground on a hillside in Arkansas making sounds like a wounded thing because that's what I was.
+
+Dale reached for me. His hand — steady, always steady now, the hand that had held the wire and carved the fox and gripped my shoulder through every hard thing since Clarksville — reached for my arm.
+
+I flinched away. Hard, involuntary, the recoil of something that couldn't be touched. Not because Dale was wrong but because touch meant comfort and comfort meant I was still human and I didn't know if I was still human and the not-knowing was the thing that was making the sounds come out of me.
+
+I looked at Dale. His face was — I saw it, I recorded it, the machinery records even when the rest of me is broken — his face was the face of a man who recognized what he was seeing because he'd been there, in the basement, on the floor, making the same sounds for different reasons. The recognition was worse than pity. Pity I could have flinched from. Recognition meant he knew.
+
+I ran.
+
+Not the controlled movement we'd practiced, not the measured pace, not the breathing technique. I ran like a child runs — blind, graceless, crashing through the scrub oak and the dead leaves and the November brush on the hillside, away from the compound and the wire and the blood and the sounds and Sienna's face and Dale's hand and everything I had done and everything I had become. I ran into the woods because the woods were the only place that wasn't the roadblock and I needed to not be at the roadblock. The branches caught my face, my arms, the cuts from the wire opening again, and I didn't care. I ran until my legs gave out and then I crawled and when I couldn't crawl I stopped and I was somewhere in the Ozark woods, on the ground, alone, and the sounds were still coming out of me and I couldn't make them stop.
 
 ---
 
-The group walked through at dusk. The fire had burned itself out. The rubble was still warm underfoot — I could feel it through my shoes, the residual heat of diesel and concrete.
+Sienna found me.
+
+I don't know how long it took — minutes, an hour, the time was broken along with everything else. I heard her before I saw her — the careful footsteps, the brush moving, the sound of someone tracking something through woods they didn't know. She was fast. She'd always been fast. The athlete's instinct for pursuit, repurposed.
+
+She didn't say anything. She sat down on the ground next to me — the cold ground, the dead leaves, the November dirt — and she didn't touch me and she didn't speak and she didn't try to fix it. She just sat. The way Dale had sat with me after dinner on other nights. The way you sit with something that is broken and that you can't repair and that you refuse to leave.
+
+I don't know what happened in those hours. I know the sounds stopped eventually. I know the light changed — the afternoon moving toward evening, the shadows lengthening, the temperature dropping. I know she stayed. I know that at some point my breathing slowed and the convulsions stopped and I was just lying on the ground in the woods with my face in the leaves and my hands bleeding and the girl who had looked at me with horror sitting beside me in silence, and the silence was not the silence of judgment. It was the silence of someone who had decided that being there was enough, even if being there meant sitting next to the thing she'd seen on the hillside.
+
+We walked back at dusk. I don't remember the walk. I remember her hand on my elbow — once, brief, guiding me around a root — and I remember the group's faces when we emerged from the tree line. Marcus's face. Dale's face. Jim's face. I did not look at any of them. I could not look at anyone. The machinery was not running. The analytical brain was offline. Whatever remained was something older and simpler — a body that could walk and a pair of eyes that could see and a mouth that would not open.
+
+I did not speak. Not that evening, not that night. They built a fire and I sat apart from it. Someone brought me water and I didn't drink it. Someone brought me food and I didn't eat it. Caleb brought me the wooden beagle and put it in my lap and went back to Marcus without a word and the beagle sat there on my thigh, small and wooden and carved by steady hands, and I did not pick it up and I did not put it down.
+
+They let me be. There was nothing else to do.
+
+---
+
+The next morning I was functional. Not repaired — functional. The machinery had restarted in the night, the way a generator restarts when the fuel line clears. I ate. I drank. I packed. I walked.
+
+Nobody mentioned it. Nobody asked. The silence around what had happened on the hillside was complete and permanent — not the silence of avoidance but the silence of a thing that had been witnessed and that did not need words because the words would have been smaller than the thing. Sienna walked near me but not beside me. She did not bring it up. She would never bring it up. We would never talk about it.
+
+Some things survive by being buried. This was one of them.
+
+The group walked south through a scene from hell.
 
 Nobody spoke.
 
-I stepped over a hand protruding from the rubble. I saw it — the hand, the fingers, the wrist. I did not look at it and I did not look away from it. I looked at it the way I looked at everything: directly, completely, recording. The hand was female. The nails had dirt under them. There was a ring — a gold band, a wedding ring. Someone's wife. Someone's mother. Someone who had been a person before the organism made her part of a collective, and who was now buried under the ruins of an overpass because a fifteen-year-old had done the math and the math had said this was the optimal outcome.
+The road was covered in blood. Not a figure of speech — the asphalt was submerged under a dark, thickening layer that soaked through our shoes in the first step and didn't stop. I felt it — the warmth of it, still warm even now, the temperature of the bodies it had come from — through the soles, through the socks, a wet, heavy warmth that was nothing like water and nothing like mud and nothing like anything except what it was. The shopping cart wheels cut tracks through it, thin lines of exposed asphalt that filled in behind us.
 
-Caleb was on Marcus's back, face buried in Marcus's shoulder. Marcus was talking to him — a low, steady murmur about nothing, about truck stops, about what kind of ice cream was best, keeping the boy's world small and warm while the real world burned and crumbled under their feet.
+Viscera hung from the razor wire at head height. Intestines draped across the concertina coils, loops of tissue caught on the blades, stretched by gravity into shapes that the body was never meant to make outside of it. Strips of skin. Muscle. Things that didn't have names outside a medical textbook and that I was seeing in the open air, in the morning light, strung on military wire like offerings. The smell was the smell of the compound compressed into a space we were now walking through — blood and meat and shit and something else, something biological, the chemical signature of hundreds of bodies opened at once, a smell that coated the inside of the throat and stayed there.
 
-Jim walked last. He walked through the rubble with his head bowed and his lips moving and he was praying — for the dead, for the Turned, for the people who had been people before they were debris. I watched him and I understood that Jim's prayer and my math had arrived at the same event from different directions, and that the event was the same regardless of which road you took to get there, and that the difference between us was not in the outcome but in what we carried afterward.
+Maria vomited into the drainage ditch. Dale's face was white but his hands were steady, and he put one of those steady hands on Maria's back and held her hair and waited.
 
-Jim would carry the prayer. I would carry the hand.
+I saw her near the south funnel. A Turned woman, caught in the wire. Still alive. No longer frenzied — the frenzy had passed, the density had dropped below threshold, the phase transition had reversed. She was just there. Tangled in the concertina at the waist and the arms, the razor blades embedded in her clothes and her skin, dozens of points of entry. She was bleeding — slowly now, the frenzy's violence spent, the cuts seeping instead of flowing. She looked at nothing. The organism was still running behind her eyes but the body it was running was too damaged to move. She breathed. The breathing was the only motion. The wire rose and fell with her chest, the blades shifting in the wounds with each breath, and she didn't react to the cutting because the organism didn't process pain the way a person would.
 
-That night, camped in a pulloff a mile south of the wreckage, I wrote by flashlight because the fire we built was too far from where I was sitting and I was sitting apart because I didn't want to be near people and I didn't want to be alone and both of these things were true at the same time.
+I passed her. I didn't look away. I looked at her the way I looked at everything: directly, completely, recording. Someone's wife. Someone's mother. Someone who had been a person before the organism made her part of a collective, and who was now tangled in razor wire because a fifteen-year-old had borrowed a hunting technique from people who lived in a place where wolves were the problem.
+
+Caleb was on Marcus's back, face buried in Marcus's shoulder. Marcus was talking to him — a low, steady murmur about nothing, about truck stops, about what kind of ice cream was best, keeping the boy's world small and warm while he picked the path through the wire and the blood, keeping Caleb's face turned away from the worst of it, which was all of it.
+
+Jim walked last. He walked through the blood with his head bowed and his lips moving and he was praying — for the dead, for the Turned, for the people who had been people before they were meat on wire. I watched him and I understood that Jim's prayer and my math had arrived at the same event from different directions, and that the event was the same regardless of which road you took to get there, and that the difference between us was not in the outcome but in what we carried afterward.
+
+Jim would carry the prayer. I would carry the woman in the wire.
+
+That night, camped in a pulloff a mile south of the roadblock, I wrote by flashlight. The fire was too far from where I was sitting and I was sitting apart because I didn't want to be near people and I didn't want to be alone and both of these things were true at the same time. I'd washed the blood off my shoes in a creek but the smell was still there — in my clothes, in my hair, in the skin of my hands where the wire had cut me. The cuts on my palms were shallow but they stung and I didn't bandage them because the stinging felt correct.
+
+This was the first thing I'd written since the hillside. The machinery had been offline for most of a day — the breakdown, the woods, the silence, the walk through the blood. Now it was back, and the first thing the machinery did with its restored capacity was try to process what had happened by writing it down, because that's what the machinery does, because I am the machinery and the machinery is me and the writing is the only tool I have that works on the things that break me.
 
 **JOURNAL ENTRY #15:**
 
-*We killed approximately thirty people today. I say "approximately" because I couldn't get an accurate count. I say "people" because I don't know what else to call them. I say "we" because it was my idea.*
+*We killed approximately three hundred people yesterday. I say "approximately" because I lost count when the second wave came out of the woods. I say "people" because I don't know what else to call them. I say "we" because it was my idea.*
 
-*Jim wouldn't look at me during dinner. Sienna looked at me too much. Marcus gave me a cup of water and said "drink this" the way you talk to someone in shock, and I think maybe I am.*
+*I planned for a hundred and thirty. I planned it with math and with a hunting technique I'd read about on Wikipedia at two in the morning three years ago when I should have been sleeping. The Eskimo wolf knife. I taught myself how Eskimo hunters kill wolves and I applied it to human beings and the application worked and then kept working after I wanted it to stop because the math was right about the method and wrong about the numbers and the numbers kept climbing.*
+
+*After the second wave I looked at Sienna and she was looking at me and the thing in her face was — I am not going to write what it was. I know what it was. Writing it would make it permanent and it is already permanent and I don't need the ink.*
+
+*I broke. I should record that. The analytical machinery failed and what came out was not data. I crawled on the ground and I made sounds and I ran into the woods like an animal and Sienna came after me and we sat in the dirt for hours and I don't remember most of it. I am recording the fact of it because the fact is data even if the experience was not.*
+
+*Jim wouldn't look at me during dinner. Marcus gave me a cup of water and said "drink this" the way you talk to someone in shock, and I think maybe I was.*
 
 *Here is what I know: we are all alive, including Caleb, including Ruth, and we are one day closer to the university.*
 
@@ -4098,13 +4229,15 @@ That night, camped in a pulloff a mile south of the wreckage, I wrote by flashli
 
 *Here is what I'm more afraid of: that I need to.*
 
-*Here is what I can't write and am writing anyway: part of me wanted it. Not the math — the math is neutral, the math doesn't want. The other thing. The thing with edges that I've been carrying since Clarksville. It wanted the overpass. It wanted the supports to crack and the deck to fall and the organism to feel, for once, what it felt like to be on the receiving end. The math provided the justification. The anger provided the willingness. And I don't know which one made the decision because they arrived at the same answer at the same time and the answer was: do it.*
+*Here is what I can't write and am writing anyway: part of me wanted it. Not the math — the math is neutral, the math doesn't want. The other thing. The thing with edges that I've been carrying since Clarksville. It wanted the roadblock. It wanted the wire to hold and the frenzy to build and the organism to feel, for once, what it felt like to be on the receiving end. The math provided the justification. The anger provided the willingness. And I don't know which one made the decision because they arrived at the same answer at the same time and the answer was: do it.*
 
-*I told Jim "they were people" and heard the detachment in my own voice and the detachment was real but it was also a performance — the analytical boy performing analysis while the angry boy watched the columns crack and felt something that was not horror.*
+*I told Jim "they were people" and heard the detachment in my own voice and the detachment was real but it was also a performance — the analytical boy performing analysis while the angry boy watched the wire cut and felt something that was not horror. And then the performance collapsed and I was on the ground making sounds that were not analysis and that was the truest thing I've done since this started.*
+
+*The worst part is the scale. I did the math for a hundred and thirty and the world sent three hundred and the wolf knife doesn't have an off switch. I can't hide behind precision when the result was the opposite of precise. I can't say "I calculated the optimal outcome" when the outcome was a quarter-mile of highway covered in blood deep enough to soak through shoes. The math was a frame I built and the world broke the frame and the breaking is the thing I can't reconcile: that my best analysis, my most careful plan, produced something I couldn't control.*
 
 *Dale sat with me for an hour after dinner. He didn't say anything. He carved the fox. His hands were steady — the withdrawal broken days ago on the trail — and the fox was beautiful and I thought about how the damage and the craft come from the same place and you don't get one without the other. Dale's hands had shaken for days and now they didn't and the fox was proof that the other side of suffering is precision.*
 
-*Tomorrow we walk. The highway stretches south toward Fayetteville — twenty miles, maybe twenty-five. More Turned as we get closer to the city. More decisions. I'll have a plan because that's what I do now. I make plans that involve other people dying so that my people can live, and I write them in a notebook and I execute them from a safe distance and I carry the results in my chest like stones and the stones are getting heavier and I'm fifteen and I don't know how many more I can carry before the weight of them changes me into something I don't recognize.*
+*Tomorrow we walk. The highway stretches south toward Fayetteville — twenty miles, maybe twenty-five. More Turned as we get closer to the city. More decisions. I'll have a plan because that's what I do now. I make plans that involve other people dying so that my people can live, and I write them in a notebook and I execute them from hillsides and I carry the results in my chest like stones and the stones are getting heavier and I'm fifteen and I don't know how many more I can carry before the weight of them changes me into something I don't recognize.*
 
 *Sienna asked me if I was okay. I said yes. She said "Liar." She was right. She's always right about the things I don't say.*
 
@@ -4197,15 +4330,15 @@ The world would come.
 
 Day 39. The highway was flat and empty and there was nothing to think about except the things I'd been refusing to think about for sixteen days.
 
-The mountains were behind us. The trail was behind us. The overpass was behind us — the rubble and the hand with the wedding ring and the thirty people I'd killed by doing math. The fortified group was behind us — nine people in a gas station who wouldn't leave and who would die the same way the Lyles died and who I couldn't save. All of it was behind us and none of it was behind us because the things you carry don't care about geography.
+The mountains were behind us. The trail was behind us. The roadblock was behind us — the razor wire and the woman tangled in it and the three hundred people I'd killed by borrowing a wolf-hunting technique. The fortified group was behind us — nine people in a gas station who wouldn't leave and who would die the same way the Lyles died and who I couldn't save. All of it was behind us and none of it was behind us because the things you carry don't care about geography.
 
 Highway 71 stretched south in a straight line, flat, featureless, the kind of road that gives the mind nothing to hold onto. No switchbacks. No creek crossings. No rocks to navigate or hills to climb. Just asphalt and sky and the rattle of shopping cart wheels and the steady rhythm of walking that required no thought, no calculation, no analytical machinery at all. And when the machinery has nothing to process, it idles. And when it idles, the things it's been holding back seep through.
 
-I was tired. Not the productive tiredness of trail days — the kind where you collapse at camp and sleep hard and wake stiff but functional. This was the other kind. The cumulative kind. The kind that builds in layers like sediment: weeks of insufficient food on top of blisters that had healed and re-opened and healed again on top of a month of sleeping on the ground on top of thirty people buried under rubble on top of everything else. Everything else being: a woman in blue scrubs in a hospital parking lot in Clarksville, standing with bare feet and nothing behind her eyes. My mother. The sealed envelope I'd opened that day in the truck with Marcus and had been carrying open ever since, the contents visible, the contents unbearable, the contents following me through sixty miles of trail and thirty miles of highway like a weight that didn't register on any scale but was heavier than the pack.
+I was tired. Not the productive tiredness of trail days — the kind where you collapse at camp and sleep hard and wake stiff but functional. This was the other kind. The cumulative kind. The kind that builds in layers like sediment: weeks of insufficient food on top of blisters that had healed and re-opened and healed again on top of a month of sleeping on the ground on top of three hundred people shredded on razor wire on top of everything else. Everything else being: a woman in blue scrubs in a hospital parking lot in Clarksville, standing with bare feet and nothing behind her eyes. My mother. The sealed envelope I'd opened that day in the truck with Marcus and had been carrying open ever since, the contents visible, the contents unbearable, the contents following me through sixty miles of trail and thirty miles of highway like a weight that didn't register on any scale but was heavier than the pack.
 
 The analytical machinery had been carrying it. That's what the machinery does — it takes the unbearable thing and converts it into data, files it, processes it into something manageable. The machinery had been running nonstop since Clarksville. Since the parking lot. Since I saw her face and Marcus kept driving and I said "I see her" and the words were data and the data was containable and the container held.
 
-The container held through the first days on the trail, when the physical suffering was new enough to occupy the machinery's full capacity. Through the creek crossings and the gear discarding and the nightly inventory of blisters and the obsessive management of socks and the slow adaptation of a body that had never been asked to do anything like this. Through Dale's withdrawal peaking and breaking. Through the Rock House Shelter, where we'd slept dry and warm and I'd almost felt something like peace. Through the stray Turned hunter in the woods, nocking his invisible arrow, who reminded me that the organism took everyone — hunters and nurses, fathers and mothers, people who had been people. Through the overpass, where I became the kind of person who engineers a mass casualty event and steps over the results. Through the gas station, where I watched myself fail to save people for the third time and understood that the pattern would repeat forever.
+The container held through the first days on the trail, when the physical suffering was new enough to occupy the machinery's full capacity. Through the creek crossings and the gear discarding and the nightly inventory of blisters and the obsessive management of socks and the slow adaptation of a body that had never been asked to do anything like this. Through Dale's withdrawal peaking and breaking. Through the Rock House Shelter, where we'd slept dry and warm and I'd almost felt something like peace. Through the stray Turned hunter in the woods, nocking his invisible arrow, who reminded me that the organism took everyone — hunters and nurses, fathers and mothers, people who had been people. Through the roadblock, where I became the kind of person who engineers a wolf knife out of razor wire and walks through the results. Through the gas station, where I watched myself fail to save people for the third time and understood that the pattern would repeat forever.
 
 The container held because the machinery was running. And on Day 39, on a flat stretch of highway with nothing to think about, the machinery stopped.
 
@@ -4307,7 +4440,7 @@ His voice was flat. Two words, no inflection. The voice of a person who understo
 
 Sienna had watched Nate hold his composure through everything. The knock on the door. The septic tank. The Lyles burning. She had watched him see his mother's face in a parking lot and keep walking. She had watched him absorb horror after horror and convert each one into data, each trauma into a journal entry, each loss into a lesson. She had admired it and been frightened by it in equal measure — the capacity to feel everything and process it into something useful, the cold engine running behind the eyes of a fifteen-year-old who should have been doing homework.
 
-She understood now that the engine had limits. That the processing was not the same as the feeling, and the feelings he hadn't felt were still in there, accumulating, pressing against the walls of the container he'd built for them, and the container had cracked — not from a single blow but from the slow grinding of weeks, the hunger and the blisters and the weight of thirty dead people under an overpass and the weight of everything the notebook couldn't carry — and the crack was beyond repair.
+She understood now that the engine had limits. That the processing was not the same as the feeling, and the feelings he hadn't felt were still in there, accumulating, pressing against the walls of the container he'd built for them, and the container had cracked — not from a single blow but from the slow grinding of weeks, the hunger and the blisters and the weight of three hundred dead people in razor wire and the weight of everything the notebook couldn't carry — and the crack was beyond repair.
 
 She started talking. Not to convince him — to be present. To fill the dark with something that wasn't silence and wasn't analysis.
 
@@ -4811,7 +4944,7 @@ She picked up the journal and held it out.
 
 I took the journal back. It felt different in my hands — heavier, or maybe I was lighter. The same pages, the same entries, the same wrinkled, stained record of a month and a half of being wrong and revising and surviving. But the purpose had shifted. It wasn't just mine anymore. It was data. It was a survival guide written by accident by a kid who'd been trying to survive.
 
-"There's a private entry," I said. "One I didn't show anyone. About the overpass. About —" I stopped. "About the thing I'm capable of."
+"There's a private entry," I said. "One I didn't show anyone. About the roadblock. About —" I stopped. "About the thing I'm capable of."
 
 "I know. Marcus mentioned it."
 
@@ -4821,7 +4954,7 @@ She looked at me. The squint — the permanent squint from the frequency — mad
 
 "Do you want me to?"
 
-I hesitated. The private entry was the thing I carried that was different from the other things I carried — not a failure, not a mistake, but a capacity. The capacity to look at human beings and calculate the load-bearing properties of the structure above them. The capacity to be the person who made that plan and executed it and stepped over the hand with the wedding ring and kept walking. The capacity that Jim wouldn't look at and Sienna looked at too much and that I was afraid of because it worked.
+I hesitated. The private entry was the thing I carried that was different from the other things I carried — not a failure, not a mistake, but a capacity. The capacity to look at human beings and engineer a wolf knife out of razor wire and their own frenzy. The capacity to be the person who made that plan and executed it and walked through the blood and past the woman tangled in the wire and kept walking. The capacity that Jim wouldn't look at and Sienna looked at too much and that I was afraid of because it worked.
 
 I handed her the notebook, open to the private entry.
 
@@ -4930,7 +5063,7 @@ This was the thing I hadn't expected. In the trailer, on the trail, in the churc
 
 Behind the emitter, in a real bed with a real mattress and a locked door and the frequency humming in the walls like a mechanical lullaby, my body finally let go. And everything I'd suppressed came flooding in.
 
-The first night at the university, I had the worst nightmare of my life. Not the defining one — that had already broken me on the road — but something worse because it was *comprehensive.* The dreams weren't fragments anymore. They were complete, vivid, architectural. The trailer and the hospital and the overpass and the septic tank and the herd — all of it, stitched together, the emitter's hum woven through every scene like a soundtrack, and in every scene I was too slow, too late, too small, and the people I loved were standing behind glass I couldn't break.
+The first night at the university, I had the worst nightmare of my life. Not the defining one — that had already broken me on the road — but something worse because it was *comprehensive.* The dreams weren't fragments anymore. They were complete, vivid, architectural. The trailer and the hospital and the roadblock and the septic tank and the herd — all of it, stitched together, the emitter's hum woven through every scene like a soundtrack, and in every scene I was too slow, too late, too small, and the people I loved were standing behind glass I couldn't break.
 
 I woke at 3 AM with my heart at 114 and my hand already on my pulse and the counting was automatic now — 114, 108, 104, 98, 92, 86 — the descent taking longer than it used to because the dreams went deeper than the waking fears ever had. On the trail, the nightmares had been compressed, fragmented, starved of oxygen by the same adrenaline that kept me alive. In safety, they had room to breathe. They expanded. They furnished themselves. They took their time.
 

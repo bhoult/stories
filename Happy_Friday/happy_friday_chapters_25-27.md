@@ -349,7 +349,7 @@ She picked up the journal and held it out.
 
 I took the journal back. It felt different in my hands — heavier, or maybe I was lighter. The same pages, the same entries, the same wrinkled, stained record of a month and a half of being wrong and revising and surviving. But the purpose had shifted. It wasn't just mine anymore. It was data. It was a survival guide written by accident by a kid who'd been trying to survive.
 
-"There's a private entry," I said. "One I didn't show anyone. About the overpass. About —" I stopped. "About the thing I'm capable of."
+"There's a private entry," I said. "One I didn't show anyone. About the roadblock. About —" I stopped. "About the thing I'm capable of."
 
 "I know. Marcus mentioned it."
 
@@ -359,7 +359,7 @@ She looked at me. The squint — the permanent squint from the frequency — mad
 
 "Do you want me to?"
 
-I hesitated. The private entry was the thing I carried that was different from the other things I carried — not a failure, not a mistake, but a capacity. The capacity to look at human beings and calculate the load-bearing properties of the structure above them. The capacity to be the person who made that plan and executed it and stepped over the hand with the wedding ring and kept walking. The capacity that Jim wouldn't look at and Sienna looked at too much and that I was afraid of because it worked.
+I hesitated. The private entry was the thing I carried that was different from the other things I carried — not a failure, not a mistake, but a capacity. The capacity to look at human beings and engineer a wolf knife out of razor wire and their own frenzy. The capacity to be the person who made that plan and executed it and walked through the blood and past the woman tangled in the wire and kept walking. The capacity that Jim wouldn't look at and Sienna looked at too much and that I was afraid of because it worked.
 
 I handed her the notebook, open to the private entry.
 
