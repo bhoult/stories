@@ -5171,7 +5171,9 @@ Maria, beside him, was building a supply calendar on a whiteboard she'd requisit
 
 He wasn't drinking. This fact existed in the group's awareness the way Jim's declining health existed — noticed, not discussed. The anxiolytics from the pharmacy had bridged the withdrawal, and the bridge had held, and now Marcus was on the other side and the bottle was gone and in its place was a wrench and a truck and the focused, attentive silence of a man who had replaced one obsession with another and knew it and didn't care because the new obsession had a purpose.
 
-His daughter Ava's birthday photo was still on the dead phone in his pocket. I'd seen him take it out at night, in the dark, holding the blank screen as if the image were still visible. Maybe, to him, it was.
+He'd charged the phone the first night. Plugged it into a wall outlet in the dormitory hallway like it was the most ordinary act in the world, and when the screen lit up he'd stood there looking at it for a long time without saying anything. Ava's birthday photo. Purple frosting on her face, nine years old, laughing at whoever was holding the camera. He'd carried a dead phone for six weeks because putting it down would have meant putting her down, and now the screen was bright and her face was there and he could see her again and he stood in a hallway in Fayetteville, Arkansas, and looked at his daughter and didn't make a sound.
+
+I know this because I walked past and saw him and kept walking. Some moments you don't interrupt. Some moments aren't yours.
 
 **Caleb.** He was, remarkably, okay. Seven years old, orphaned, carried through a thousand Turned on a stranger's back, and he was drawing dinosaurs with crayons he'd found in a first-grade classroom in the education building and he was okay. Not undamaged — not unaffected — but okay in the way that children are okay when the adults around them are steady enough to build a floor. We were his floor. Dale's carvings, Marcus's stories, Jim's breathing lessons, Ruth's grammar corrections, Sienna's warmth, my presence — each of us a plank in the surface that kept Caleb above the water. He didn't know this. He didn't need to. He just needed to draw dinosaurs and hold the wooden beagle and fall asleep in someone's lap, and we provided these things because providing them was the only unambiguous good left in the world.
 
@@ -5229,7 +5231,7 @@ He took a bite of toast. Chewed. Swallowed.
 
 Behind us, at the next table, Marcus went very still. His fork stopped halfway to his mouth. His face didn't change — the same flat, weathered expression he wore for everything — but his body went rigid in the way of a man who has just heard something impossible.
 
-Ava was nine. She lived in Odessa, Texas. The highway Jim described was I-20 — the highway Marcus had driven ten thousand times, the highway that connected his routes to his daughter's birthday parties, the highway his phone had died on. Marcus had told no one about Ava except me, in a whisper, on a night when the dark was thick enough to hold a confession. Jim had never heard the name. Jim had never seen the photo on the dead phone. Jim had no way to know about a little girl in Texas or the highway that led to her.
+Ava was nine. She lived in Odessa, Texas. The highway Jim described was I-20 — the highway Marcus had driven ten thousand times, the highway that connected his routes to his daughter's birthday parties, the highway his phone had died on. Marcus had told no one about Ava except me, in a whisper, on a night when the dark was thick enough to hold a confession. Jim had never heard the name. Jim had never seen the photo on Marcus's phone. Jim had no way to know about a little girl in Texas or the highway that led to her.
 
 Marcus set down his fork. He looked at Jim. Jim looked back. The look between them lasted three seconds and contained something I couldn't interpret and didn't try to.
 
