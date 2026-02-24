@@ -318,7 +318,7 @@ Under the overpass, in the shadow of the concrete span, a cluster of Turned had 
 
 I studied it from the hillside for an hour. Through the binoculars I could see the supports — four concrete columns, each maybe three feet in diameter, cracked where the rebar was corroding, where decades of freeze-thaw cycles had worked the concrete apart. The deck above was loaded: the two semis plus the weight of the road surface plus whatever water and debris had accumulated on the asphalt. The supports were holding all of it, barely, the way an old man holds a heavy door — upright, functional, but not by much.
 
-The alternative was backtracking — north a mile, then east on a forest service road to bypass the cut, then south on a parallel road to rejoin the highway below the overpass. But the forest service road was unpaved, rutted, impossible with shopping carts. We'd have to carry the packs again. And the detour added half a day of exposed walking through open terrain where we'd already seen Turned drifting in from the surrounding towns. Ruth's atenolol supply was at three days. Three days of medication between her and a heart rate that would light up the organism like a signal flare.
+The alternative was backtracking — north a mile, then east on a forest service road to bypass the cut, then south on a parallel road to rejoin the highway below the overpass. But the forest service road was unpaved, rutted, impossible with shopping carts. We'd have to carry the packs again. And the detour added half a day of exposed walking through open terrain where we'd already seen Turned drifting in from the surrounding towns. Ruth's atenolol supply was at four days. Four days of medication between her and a heart rate that would light up the organism like a signal flare.
 
 I looked at the overpass. I looked at the supports. I looked at the Turned clustered under the span.
 
@@ -342,7 +342,7 @@ Jim spoke first. "Those are people, Nate."
 
 "They're still people," Jim said. "Somewhere in there, they're still —"
 
-"Jim, I know. I know they have memories. I know the organism uses those memories. I know that somewhere inside each of them is a person who had a name and a family and a life. I know all of this. And I also know that between us and Fayetteville are thirty of them blocking the highway, and Ruth has three days of atenolol, and we can't carry the packs on an unpaved detour, and we don't have half a day to go around."
+"Jim, I know. I know they have memories. I know the organism uses those memories. I know that somewhere inside each of them is a person who had a name and a family and a life. I know all of this. And I also know that between us and Fayetteville are thirty of them blocking the highway, and Ruth has four days of atenolol, and we can't carry the packs on an unpaved detour, and we don't have half a day to go around."
 
 "There's always another way."
 

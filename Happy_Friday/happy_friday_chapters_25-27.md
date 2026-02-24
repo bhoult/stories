@@ -311,7 +311,7 @@ That night, in a dormitory room on the second floor of the science building with
 
 ---
 
-On Day 42, I gave Dr. Moss my journal.
+On Day 44, I gave Dr. Moss my journal.
 
 I hadn't planned to. The notebook was mine — private, wrinkled, stained with septic residue that no amount of airing could fully remove. It contained my mistakes in chronological order, each entry a monument to something I hadn't understood until it was too late, and the thought of a scientist reading my fifteen-year-old's approximations of biochemistry felt like handing a crayon drawing to a museum curator.
 
