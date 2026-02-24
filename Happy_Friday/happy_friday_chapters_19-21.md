@@ -478,6 +478,40 @@ Caleb asked what they were and Marcus said "deer" without hesitating and the lie
 
 We passed the food truck by climbing the embankment on the right side, hauling the carts up through the gravel and weeds, and coming back down on the other side. The Turned in the area — four of them, drifting among the wreckage — didn't follow. They stayed near the truck, near the bones, near the residual smell of what had once been food. The organism's caloric drive, operating at the most basic level. Stay near the food source. Wait.
 
+That evening, at camp, Marcus got a response on the CB.
+
+He'd been trying every night since the trail — sitting apart from the fire, the handheld CB from the church pressed to his ear, cycling through channels, listening to static. On the trail the mountains had blocked the signal. On the highway the terrain opened up, and seven miles south of Lake Fort Smith, with a clear line of sight down the valley toward Fayetteville, the static broke.
+
+"— repeat, this is University of Arkansas research station, Dr. Moss speaking. If you are receiving this broadcast —"
+
+Marcus keyed the mic. "Dr. Moss. This is Marcus. Group of eight, coming south on 71 from the OHT. Church group out of Clarksville."
+
+The pause was three seconds. It felt longer.
+
+"Clarksville. How far out are you?"
+
+"Two days. Maybe three. We've got an elderly woman and a child. Moving slow."
+
+"Are you armed?"
+
+"Lightly. Crossbow. Hatchets."
+
+Another pause. Then: "We have an emitter running. Eighty-meter radius. When you reach the campus, approach from the north — Razorback Road. The emitter covers the life sciences building and the surrounding quad. Stay calm, keep your heart rates down, and come straight to us. I'll have the door open."
+
+Marcus looked at me across the fire. The CB crackled with static and the faint hum of the frequency — audible even through the tiny speaker, a sound I'd never heard but that Jim had dreamed about on Day 7. A tuning fork pressed against the bones of the earth.
+
+"Copy," Marcus said. "We'll be there."
+
+He told her about the journal. Brief, factual — the way Marcus told everything. A kid had been writing down observations since Day One. Behavioral patterns, conversion mechanics, survival data. Six weeks of primary source material. Moss asked him to repeat that. He did.
+
+"Bring the journal," she said. "Bring everything."
+
+The CB went to static. Marcus clipped it to his belt and came back to the fire and didn't say anything for a while. Then he said, "She sounds tired."
+
+"She's been broadcasting for six weeks," I said.
+
+"Yeah." He poked the fire. "But she's still broadcasting."
+
 ---
 
 On Day 37 A part of me I loved died, it started from a hillside, with a plan I'd borrowed from Eskimo hunters.
@@ -651,11 +685,11 @@ Something broke.
 
 Not the analytical machinery — that had broken before, on the highway, when the container cracked. This was different. This was the thing underneath the machinery, the thing the machinery was built to protect, the thing that was still, after everything, a fifteen-year-old boy from a trailer park who said "Happy Friday, bud" and meant it. That thing looked at Sienna's face and saw what it had become in her eyes and the seeing was the breaking.
 
-The sound that came out of me was not a word. It was not crying, not at first — it was something lower, something animal, the sound a body makes when the thing holding it together lets go all at once. Then it was crying. Sobbing. The kind that takes your legs because the diaphragm is convulsing too hard to keep the rest of you upright. I went down — not falling, crumbling, the way a building comes apart when the supports give, first to my knees, then forward onto my hands, and I was on the ground on a hillside in Arkansas making sounds like a wounded thing because that's what I was.
+The sound that came out of me was not a word. It was not crying, not at first — it was something lower, something animal, the sound a body makes when the thing holding it together lets go all at once. Then it was crying. Sobbing. The kind that takes your legs because the diaphragm is convulsing too hard to keep the rest of you upright. I went down — not falling, crumbling, the way a building comes apart when the supports give, first to my knees, then forward onto my hands, and I was on the ground on a hillside in Arkansas making sounds like a wounded thing a few hundred yards from an enraged beast that continued to thrash itself to death, because that's what I was.
 
 Dale reached for me. His hand — steady, always steady now, the hand that had held the wire and carved the fox and gripped my shoulder through every hard thing since Clarksville — reached for my arm.
 
-I flinched away. Hard, involuntary, the recoil of something that couldn't be touched. Not because Dale was wrong but because touch meant comfort and comfort meant I was still human and I didn't know if I was still human and the not-knowing was the thing that was making the sounds come out of me.
+I flinched away. Hard, involuntary, the recoil of something that couldn't be touched. Not because Dale was wrong but because touch meant comfort and comfort meant I was still human and I didn't know if I was still human and not-knowing was the thing that was making the sounds come out of me.
 
 I looked at Dale. His face was — I saw it, I recorded it, the machinery records even when the rest of me is broken — his face was the face of a man who recognized what he was seeing because he'd been there, in the basement, on the floor, making the same sounds for different reasons. The recognition was worse than pity. Pity I could have flinched from. Recognition meant he knew.
 
@@ -672,6 +706,8 @@ I don't know how long it took — minutes, an hour, the time was broken along wi
 She didn't say anything. She sat down on the ground next to me — the cold ground, the dead leaves, the November dirt — and she didn't touch me and she didn't speak and she didn't try to fix it. She just sat. The way Dale had sat with me after dinner on other nights. The way you sit with something that is broken and that you can't repair and that you refuse to leave.
 
 I don't know what happened in those hours. I know the sounds stopped eventually. I know the light changed — the afternoon moving toward evening, the shadows lengthening, the temperature dropping. I know she stayed. I know that at some point my breathing slowed and the convulsions stopped and I was just lying on the ground in the woods with my face in the leaves and my hands bleeding and the girl who had looked at me with horror sitting beside me in silence, and the silence was not the silence of judgment. It was the silence of someone who had decided that being there was enough, even if being there meant sitting next to the thing she'd seen on the hillside.
+
+That is all I will ever say about this.  What happened is not for a journal or a story to be told, there was no lesson to learn. Those hours belong to nobody, I wish I could forget them myself.
 
 We walked back at dusk. I don't remember the walk. I remember her hand on my elbow — once, brief, guiding me around a root — and I remember the group's faces when we emerged from the tree line. Marcus's face. Dale's face. Jim's face. I did not look at any of them. I could not look at anyone. The machinery was not running. The analytical brain was offline. Whatever remained was something older and simpler — a body that could walk and a pair of eyes that could see and a mouth that would not open.
 
@@ -707,7 +743,7 @@ Jim walked last. He walked through the blood with his head bowed and his lips mo
 
 Jim would carry the prayer. I would carry the woman in the wire.
 
-That night, camped in a pulloff a mile south of the roadblock, I wrote by flashlight. The fire was too far from where I was sitting and I was sitting apart because I didn't want to be near people and I didn't want to be alone and both of these things were true at the same time. I'd washed the blood off my shoes in a creek but the smell was still there — in my clothes, in my hair, in the skin of my hands where the wire had cut me. The cuts on my palms were shallow but they stung and I didn't bandage them because the stinging felt correct.
+That night, camped in a pulloff a mile south of the roadblock, I wrote by flashlight. The fire was too far from where I was sitting and I was sitting apart because I didn't want to be near people and I didn't want to be alone and...damn. I'd washed the blood off my shoes in a creek but the smell was still there — in my clothes, in my hair, in the skin of my hands where the wire had cut me. The cuts on my palms were shallow but they stung and I didn't bandage them because the stinging felt correct.
 
 This was the first thing I'd written since the hillside. The machinery had been offline for most of a day — the breakdown, the woods, the silence, the walk through the blood. Now it was back, and the first thing the machinery did with its restored capacity was try to process what had happened by writing it down, because that's what the machinery does, because I am the machinery and the machinery is me and the writing is the only tool I have that works on the things that break me.
 
@@ -715,13 +751,13 @@ This was the first thing I'd written since the hillside. The machinery had been 
 
 *We killed approximately three hundred people yesterday. I say "approximately" because I lost count when the second wave came out of the woods. I say "people" because I don't know what else to call them. I say "we" because it was my idea.*
 
-*I planned for a hundred and thirty. I planned it with math and with a hunting technique I'd read about on Wikipedia at two in the morning three years ago when I should have been sleeping. The Eskimo wolf knife. I taught myself how Eskimo hunters kill wolves and I applied it to human beings and the application worked and then kept working after I wanted it to stop because the math was right about the method and wrong about the numbers and the numbers kept climbing.*
+*I planned for a hundred and thirty. I planned it with math and with a hunting technique I'd read about on Wikipedia at two in the morning three years ago when I should have been sleeping. The Eskimo wolf knife. I taught myself how Eskimo hunters kill wolves and I applied it to human beings and the application worked and then kept working after I wanted it to stop.
 
-*After the second wave I looked at Sienna and she was looking at me and the thing in her face was — I am not going to write what it was. I know what it was. Writing it would make it permanent and it is already permanent and I don't need the ink.*
+*After the second wave I looked at Sienna and she was looking at me and the thing in her face was — I am not going to write what it was. I know what it was.
 
-*I broke. I should record that. The analytical machinery failed and what came out was not data. I crawled on the ground and I made sounds and I ran into the woods like an animal and Sienna came after me and we sat in the dirt for hours and I don't remember most of it. I am recording the fact of it because the fact is data even if the experience was not.*
+*I broke. I should record that. The analytical machinery failed and what came out was not data. Sienna came after me and we sat in the dirt for hours and that is all you need to know.
 
-*Jim wouldn't look at me during dinner. Marcus gave me a cup of water and said "drink this" the way you talk to someone in shock, and I think maybe I was.*
+*Jim wouldn't look at me during dinner. Marcus gave me a cup of water and said "drink this" the way you talk to someone in shock, because I was.*
 
 *Here is what I know: we are all alive, including Caleb, including Ruth, and we are one day closer to the university.*
 
@@ -729,11 +765,11 @@ This was the first thing I'd written since the hillside. The machinery had been 
 
 *Here is what I'm afraid of: that I'll get used to it.*
 
-*Here is what I'm more afraid of: that I need to.*
+*Here is what I'm more afraid of: that I need to.* because clearly, I can't.
 
 *Here is what I can't write and am writing anyway: part of me wanted it. Not the math — the math is neutral, the math doesn't want. The other thing. The thing with edges that I've been carrying since Clarksville. It wanted the roadblock. It wanted the wire to hold and the frenzy to build and the organism to feel, for once, what it felt like to be on the receiving end. The math provided the justification. The anger provided the willingness. And I don't know which one made the decision because they arrived at the same answer at the same time and the answer was: do it.*
 
-*I told Jim "they were people" and heard the detachment in my own voice and the detachment was real but it was also a performance — the analytical boy performing analysis while the angry boy watched the wire cut and felt something that was not horror. And then the performance collapsed and I was on the ground making sounds that were not analysis and that was the truest thing I've done since this started.*
+*I told Jim "they were people" and heard the detachment in my own voice and the detachment was real but it was also a performance — the analytical boy performing analysis while the angry boy watched the wire cut and felt something that was not horror. And then the performance collapsed and I was on the ground making sounds that were not analysis.
 
 *The worst part is the scale. I did the math for a hundred and thirty and the world sent three hundred and the wolf knife doesn't have an off switch. I can't hide behind precision when the result was the opposite of precise. I can't say "I calculated the optimal outcome" when the outcome was a quarter-mile of highway covered in blood deep enough to soak through shoes. The math was a frame I built and the world broke the frame and the breaking is the thing I can't reconcile: that my best analysis, my most careful plan, produced something I couldn't control.*
 
@@ -747,7 +783,7 @@ This was the first thing I'd written since the hillside. The machinery had been 
 
 The next day we found the town.
 
-It wasn't much — a bend in the highway where a gas station, a general store, and a barbecue restaurant clustered around an intersection like survivors huddling for warmth. The kind of place that had survived on Pig Trail tourists: bikers on weekend rides, families stopping for pulled pork and sweet tea, college kids from Fayetteville driving up to see the fall leaves. A sign out front of the restaurant said WORLD FAMOUS SMOKED RIBS and the world that had made them famous was gone.
+It wasn't much — a bend in the highway where a gas station, a general store, and a barbecue restaurant clustered around an intersection like survivors huddling for warmth. The kind of place that had survived on Pig Trail tourists: bikers on weekend rides, families stopping for pulled pork and sweet tea, college kids from Fayetteville driving up to see the fall leaves. A sign out front of the restaurant said WORLD FAMOUS SMOKED RIBS. The world that had made them famous was gone.
 
 Someone had fortified the gas station. Plywood over the windows, reinforced with sheet metal from the restaurant's roof. A pickup truck parked sideways across the entrance, blocking the lot. Barbed wire — actual barbed wire, probably from a farm supply — strung between the gas pumps. And on the roof, behind a low wall of sandbags, a man with a deer rifle watching us approach.
 

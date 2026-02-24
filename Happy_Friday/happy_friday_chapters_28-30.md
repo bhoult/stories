@@ -170,47 +170,19 @@ I pressed the transmit button.
 
 ---
 
-"This is Nate Carver. I'm fifteen years old. I'm broadcasting from the University of Arkansas in Fayetteville, where Dr. Eleanor Moss has been coordinating survivor research and operating a frequency emitter that keeps the Turned at a distance.
+"This is Nate Carver. I'm fifteen years old. I'm broadcasting from the University of Arkansas in Fayetteville. I don't know what I'm doing. I want to start with that."
 
-"I don't know what I'm doing. I want to start with that because everything I'm about to tell you was learned by accident, by failure, and by watching people die because they didn't have the information I'm going to give you now. I'm not a scientist. I'm not a doctor. I'm not a soldier. I'm a kid who was sitting in a trailer when the world ended and who survived because I paid attention and wrote things down and got lucky in ways I don't deserve.
+I told them. All of it. The rules — the mechanism, the threshold, the beta-blockers, the voices, the density, the frenzy. The things I'd learned by watching people die because they didn't have the information. I told them about fortification and why it kills you. I told them about the Turned getting smarter. I told them that the damage they carried — the addiction, the depression, the grief — was their skillset now, that managing a craving was the same mechanism as managing fear. I told them to write it down.
 
-"Here is what I've learned. I'm going to tell you all of it, including the parts I got wrong, because the wrong parts are how I got to the right parts, and you'll need the process as much as the conclusions.
+I read from the notebook. The entries I'd written in a trailer, in a church, on a trail, in a pulloff on a highway covered in blood. The wrong parts and the right parts and the parts I still didn't know how to classify. The journal was the survival tool. Not because it predicted the future but because it recorded the past, and the past — honestly recorded, including the failures — was the only map any of us had.
 
-"Rule one: the thing that turns people isn't a bite. It isn't a virus. It isn't transmitted by contact. It's fear. The organism — the thing that's doing this — feeds on the human stress response. Specifically, it activates when your adrenaline and cortisol cross a threshold and stay there for roughly two minutes. If you can keep your heart rate below that threshold, the organism can't convert you.
+I told them the hardest thing last.
 
-"I know that sounds useless. I know 'stay calm' is the worst advice anyone can give in a crisis. But it's not advice — it's a mechanism. It's how the thing works. And once you understand how it works, you can work with the mechanism instead of against it.
+"I'm not going to tell you to come to Fayetteville. We have an emitter here that keeps the Turned back, but it won't last. The organism adapts. The range is already shrinking. What we have here isn't a fortress — it's a lab. A place where people are learning. And the learning is the thing that matters, not the walls or the frequency.
 
-"Rule two: beta-blockers save lives. Metoprolol, atenolol, propranolol — the medications that suppress your sympathetic nervous system. They lower your heart rate, they dampen your adrenaline response, and they make it physically harder for the organism to trigger conversion. If you can find a pharmacy, the beta-blockers will still be on the shelves. Nobody looted them because nobody knew.
-
-"The narcotics will be gone. The antibiotics will be gone. The things people grabbed are the things people knew they needed. The things you actually need are dusty and untouched and they have names you can't pronounce. Look for bottles that say 'metoprolol tartrate' or 'atenolol' or 'propranolol hydrochloride.' Take them. They are more important than food.
-
-"Rule three: the Turned are coordinated. They're not mindless — they're networked. The organism connects them into a collective that can herd, surround, and overwhelm. Small groups are patient. They'll wait outside your door and use voices you recognize — people you loved, people you trusted — to try to draw you out. This is the hardest thing to hear and the most important: the voices are real memories, used as weapons. The person you hear is not the person speaking.
-
-"Rule four: fortification kills you. I know this contradicts everything you believe. I know the instinct is to build walls and bar doors and arm yourself and dig in. But every act of fortification generates noise and activity that attracts more Turned. Every Turned that arrives increases the density. When the density crosses a threshold — I don't have a reliable number, it depends on the space — the coordinated behavior collapses into a frenzy that tears through walls. I watched it happen. The people who fortified died because the fortification attracted the thing that killed them.
-
-"Stay small. Stay quiet. Move before the density builds.
-
-"Rule five: the Turned are getting smarter. The organism adapts. Week one, they were clumsy. Week six, they patrol, they forage, they check doors. The coordination tightens. The behaviors become more efficient. Whatever you're doing that works now will work less well next month. You have to adapt faster than the organism does. This is the arms race. This is the thing that will define everything going forward.
-
-"Rule six: your damage is your skillset. The things that went wrong in your life — addiction, depression, anxiety, grief — taught you skills you don't know you have. Managing a craving is the same mechanism as managing fear. Living with depression gives you a chemical baseline that the organism reads as calm. The worst things that happened to you may be the reason you survive. I'm not saying this to comfort you. I'm saying it because I've watched it happen. The people in my group who are best at surviving are the ones who learned to manage their own chemistry before the world required it.
-
-"Rule seven: you will make mistakes. You will make decisions that get people hurt. You will watch people die and not be able to help. You will do the wrong thing, and the wrong thing will teach you the right thing, and the right thing will cost something you can't afford, and you'll pay it because the alternative is not learning, and not learning is how you die.
-
-"Write it down. Whatever you learn, whatever you get wrong, write it down. The journal is the survival tool. Not because it predicts the future but because it records the past, and the past — honestly recorded, including the failures — is the only map we have.
-
-"One more thing. I spent the first four weeks telling myself I was just a kid. Fifteen, overweight, no training, no skills — I had a whole list, and every item on it was accurate, and every item was a reason I couldn't be expected to do anything. It was the most comfortable thought I had. It was also the most dangerous one.
-
-"Because if nothing is your fault — if you're just a fat kid who got unlucky — then you're powerless. You can't fix what isn't yours. You can't improve what you won't own. Someone I trust told me that the best-case scenario is that everything that goes wrong is your responsibility. Not your *fault* — your responsibility. Because responsibility is the same thing as power. It means you can change it.
-
-"I'm slow. That's not a confession — it's a logistics problem, and logistics problems have solutions. I'm scared. That's not a weakness — it's data about a mechanism I now understand better than most people alive. Every true thing about yourself is either a wall you hide behind or a constraint you build a strategy around. The facts don't change. What you do with them is the only thing that ever changes.
-
-"I'm going to keep broadcasting. Dr. Moss has data — scientific data, medication protocols, the frequency specifications for the emitter that keeps the Turned back. She'll share it. I'll share what I have — the human part, the mistakes, the lessons that don't fit in a lab report.
-
-"If you're hearing this, you've survived six weeks. That means you've already done the hardest part. You've already learned more than you know. You've already adapted in ways you haven't recognized yet.
+"So I'm going to keep broadcasting. Dr. Moss has data — medication protocols, frequency specifications, everything she's learned. I have the human part — the mistakes, the lessons that don't fit in a lab report. Between us, we'll give you what we can. What you do with it is yours.
 
 "Stay calm. Stay small. Stay quiet. Write it down.
-
-"And if you can — if you have the resources and the route and the courage — come to Fayetteville. We're building something here. I don't know what to call it yet. It's not a fortress. It's not a government. It's a place where people are learning, together, how to live in a world that changed, and the learning is the thing that matters more than the walls or the weapons or the frequency.
 
 "This is Nate Carver. I'm fifteen. I survived. Not because I was brave. Because I was slow, and scared, and I paid attention.
 

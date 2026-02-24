@@ -361,7 +361,7 @@ She looked at me. The squint — the permanent squint from the frequency — mad
 
 I hesitated. The private entry was the thing I carried that was different from the other things I carried — not a failure, not a mistake, but a capacity. The capacity to look at human beings and engineer a wolf knife out of razor wire and their own frenzy. The capacity to be the person who made that plan and executed it and walked through the blood and past the woman tangled in the wire and kept walking. The capacity that Jim wouldn't look at and Sienna looked at too much and that I was afraid of because it worked.
 
-I handed her the notebook, open to the private entry.
+I handed her the notebook with a slight tremor in my hand, open to the private entry.
 
 She read it. Thirty seconds.
 

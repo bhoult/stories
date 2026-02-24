@@ -2,7 +2,7 @@
 
 Day 39. The highway was flat and empty and there was nothing to think about except the things I'd been refusing to think about for sixteen days.
 
-The mountains were behind us. The trail was behind us. The roadblock was behind us — the razor wire and the woman tangled in it and the three hundred people I'd killed by borrowing a wolf-hunting technique. The fortified group was behind us — nine people in a gas station who wouldn't leave and who would die the same way the Lyles died and who I couldn't save. All of it was behind us and none of it was behind us because the things you carry don't care about geography.
+The mountains were behind us. The trail was behind us. The roadblock was behind us — the razor wire and the woman tangled in it and the three hundred people I'd killed by borrowing a wolf-hunting technique. The fortified group was behind us — nine people in a gas station who wouldn't leave and who would die the same way the Lyles died and who I couldn't save. All of it was behind us and yet somehow we would carry it with us for the rest of our lives.
 
 Highway 71 stretched south in a straight line, flat, featureless, the kind of road that gives the mind nothing to hold onto. No switchbacks. No creek crossings. No rocks to navigate or hills to climb. Just asphalt and sky and the rattle of shopping cart wheels and the steady rhythm of walking that required no thought, no calculation, no analytical machinery at all. And when the machinery has nothing to process, it idles. And when it idles, the things it's been holding back seep through.
 
@@ -80,13 +80,19 @@ I took the binoculars and walked. Back up the highway. Back the way we'd come. B
 
 ---
 
-Sienna woke at 3 AM and Nate's sleeping bag was empty.
+Marcus woke her at 3 AM.
 
-They were camped in a highway pulloff — a wide gravel shoulder where truckers used to park, the shopping carts pulled to the side, sleeping bags laid out on pads in the shelter of a concrete retaining wall. The fire was built in the gravel and had burned down to coals that pulsed orange when the wind moved through. The group was scattered along the pulloff, the shapes of sleeping bodies barely visible in the dark. The air smelled like asphalt and woodsmoke and the particular cold of a November night on exposed highway.
+He was crouched beside her sleeping bag, one hand on her shoulder, the other holding the crossbow loosely at his side. His face was the face he wore when he was worried and didn't want anyone to know — the jaw set, the eyes careful, the expression of a man who had spent thirty years calibrating how much concern to show.
 
-Nate's sleeping bag was flat. His backpack was where he'd left it. His binoculars were gone.
+"Nate's walking," he said. Quiet. Not alarmed — something worse than alarmed. Resigned.
 
-Sienna didn't wake anyone. She pulled on her shoes, took the blood pressure cuff — habit, the cuff went everywhere now, pink and absurd and essential — and moved past the fire.
+Sienna sat up. "Walking where?"
+
+"North. Back up the highway. I watched him go twenty minutes ago." Marcus had been on watch — seated on the retaining wall at the edge of the pulloff, crossbow across his knees, scanning the dark highway in both directions the way he'd done every night since Clarksville. He'd seen Nate rise from the sleeping bag, take the binoculars, and walk past the fire without looking back. "I let him go. He needed — I don't know what he needed. But he's been gone too long and he's heading the wrong direction."
+
+They were camped in a highway pulloff — a wide gravel shoulder where truckers used to park, the shopping carts pulled to the side, sleeping bags laid out on pads in the shelter of a concrete retaining wall. The fire had burned down to coals that pulsed orange when the wind moved through. The group was scattered along the pulloff, the shapes of sleeping bodies barely visible in the dark. The air smelled like asphalt and woodsmoke and the particular cold of a November night on exposed highway.
+
+Sienna pulled on her shoes, took the blood pressure cuff — habit, the cuff went everywhere now, pink and absurd and essential — and moved past the fire. Marcus stayed on watch. That was the arrangement they didn't need to discuss: someone goes after Nate, someone stays with the group. Marcus was the guard. Sienna was the one Nate might actually stop for.
 
 The night was cold. November on Highway 71, the air sharp enough to taste, the stars dense above the open road. She listened. Wind. The distant sound of something — an animal, or not — moving in the scrub beyond the shoulder. The sounds of an empty highway that she was learning to distinguish from the other sounds — the ones that meant something was wrong.
 
