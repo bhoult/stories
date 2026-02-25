@@ -8,7 +8,7 @@ The FEMA site had posted a new advisory at 4 AM. The crawl read: **AFFECTED INDI
 
 *Do not assume they will become incapacitated.* I read that three times. It meant: don't wait for them to fall over. It meant someone at FEMA had realized what I was starting to realize — that these things were eating and drinking and maintaining themselves, and waiting them out was not a plan.
 
-I'd slept in my mom's bed. Her room is at the back of the trailer, away from the drive, with the one window that faces the wooded hillside where nobody goes. I took her pillow because it smelled like her shampoo — the coconut kind from Dollar General — and that was sentimental and I'm not going to apologize for it.
+I'd slept in my mom's bed. Her room is at the back of the trailer, away from the drive, with the one window that faces the wooded hillside where nobody goes, that was tactical. I took her pillow because it smelled like her shampoo — the coconut kind from Dollar General — and that was sentimental and I'm not going to apologize for it.
 
 The trailer was worse in the morning. Not structurally worse — the same thin walls, the same vinyl floor, the same countertop with the burn mark from when I put a hot pan down without a trivet and she didn't yell at me, just looked at the mark and sighed and said, "Well, now it has character." All of that was still there. But the systems that made it a home were unwinding. The coffee maker hadn't run because nobody set it. The bathroom smelled like my soap, not hers. Her reading glasses were on the arm of the chair at the exact angle she'd left them, and they would stay at that angle forever now, or until I moved them, and either option felt like a violation.
 
@@ -76,6 +76,10 @@ He walked back to his lot, that steady two-mile-an-hour pace, and resumed standi
 
 They were on Day Two of existing, and they'd already figured out garbage.
 
+At one point, one of the strangers by the laundry building drifted toward Sienna Okafor's trailer — two lots over from mine, porch light still on, curtains drawn. The Turned walked to the edge of her lot, stopped, and stood there for maybe thirty seconds. Head tilted slightly, the way they tilt when they're processing something. Listening, maybe. Then it turned and drifted back to the laundry building, losing interest, returning to its position as if nothing had registered.
+
+Her curtains didn't move. I didn't know if she was in there. I knew her from school — Sienna Okafor, junior, ran the 400 and 800 for the Panthers, the kind of person who existed in a different atmospheric layer than I did. We'd never spoken. She was fast and visible and I was slow and furniture. Her family's blue Honda was gone and her porch light had been on for two days and I hoped she'd made it out. Out where, I didn't know. There was no "out" anymore. But the alternative was worse, so I hoped it anyway, and I noted the Turned's behavior — approached, assessed, lost interest, returned — and filed it with everything else. Another data point. Another person behind a wall who might or might not still be a person.
+
 At around 10 AM, Lisa Anderson came out of her trailer.
 
 ---
@@ -138,7 +142,7 @@ And then the grin.
 
 It spread across Lisa Anderson's face the same way it had spread across Pembrook's — too wide, too many teeth. It lasted maybe thirty seconds. Her eyes wide and fixed, her mouth stretched into something that looked like ecstasy if you'd never seen ecstasy. Then it faded. The grin receded to a flat line, then past it, to nothing.
 
-Lisa Anderson straightened up. As I watched, her hand drifted to the collar of her pajama top and tugged — a small, absent gesture, the way you'd loosen a tie that was too tight. The top slid off one shoulder. She didn't fix it. She walked — calmly, steadily, barefoot on the gravel — to where the nearest group of Turned was standing. She joined them. They reoriented. They faced the drive. After a minute the others drifted back to their positions, and the park was still again, and Lisa Anderson was standing in a lot in pajama pants and bare feet and the phone she'd dropped was still lying in the gravel by her front door, screen cracked.
+Lisa Anderson straightened up. As I watched, her hand drifted to the collar of her pajama top and tugged — a small, absent gesture, the way you'd loosen a tie that was too tight. The top slid off one shoulder. She didn't fix it. She walked — calmly, steadily, barefoot on the gravel — and left small red prints behind her. Her feet were cut from the running, torn on the rocks and broken glass she'd crossed at full sprint thirty seconds ago. She didn't notice. She didn't limp. The blood was just a fact about the gravel now, and she walked to where the nearest group of Turned was standing. She joined them. They reoriented. They faced the drive. After a minute the others drifted back to their positions, and the park was still again, and Lisa Anderson was standing in a lot in pajama pants and bare feet and the phone she'd dropped was still lying in the gravel by her front door, screen cracked.
 
 It rang.
 
