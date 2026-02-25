@@ -168,7 +168,19 @@ Jim looked up. His eyes were red. "Not today."
 
 I let it go. Jim needed a day. We all needed a day. The Lyles deserved at least that — one day where the people who'd witnessed their death weren't already using it as a variable in a logistics equation.
 
-I went to the steeple and sat in my observation post and opened the notebook and didn't write anything for a long time. Then I wrote two things.
+That evening, Jim found me in the steeple. He climbed the stairs slowly — his knees were bad and the stairs were steep — and stood at the top breathing hard for a few seconds before he spoke.
+
+"We have to leave."
+
+That was all. No qualifications. No "not yet." No garden plots, no bank vaults, no fences. Jim Whittaker, who had put a sign in a window and built a congregation from the wreckage of the world, stood in his steeple and said the four words he'd been refusing to say for three weeks.
+
+I nodded.
+
+He went back downstairs. I heard his footsteps on each step, slow, deliberate, the sound of a man carrying something heavier than his body.
+
+---
+
+The next morning I went to the steeple and sat in my observation post and opened the notebook and didn't write anything for a long time. Then I wrote two things.
 
 The first was the one I'd show people:
 
