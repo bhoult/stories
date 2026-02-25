@@ -28,7 +28,7 @@ Marcus was already packing. Rolling tarps, cinching straps, checking the shoppin
 
 So Dale taught while we walked.
 
-We broke camp and continued south on the highway, the terrain opening as the mountains fell behind us. The first lesson came on the first grade — not steep, but enough that my breathing deepened and I felt the old pattern stirring, the anger looking for something to push against.
+We broke camp and continued north on the highway, the terrain opening as the mountains fell behind us. The first lesson came on the first grade — not steep, but enough that my breathing deepened and I felt the old pattern stirring, the anger looking for something to push against.
 
 "Radical acceptance," Dale said, walking beside me, pushing a shopping cart over cracked asphalt. "The name is terrible. It sounds like a bumper sticker. But it's the most useful thing I ever learned." He was breathing hard — the grade — but his voice was steady. "Here's what it means. The situation is what it is. Your feelings about the situation are not the situation. You can feel like this hill is going to kill you and still be walking up it. The feeling is weather. The hill is geography. You navigate the geography. You endure the weather."
 

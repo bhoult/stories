@@ -2,7 +2,7 @@
 
 Lake Fort Smith was a man-made lake at the bottom of the mountains — a dam, a spillway, a campground with bathrooms that still smelled like bleach and pine, and a gas station at the highway junction that had been looted for food but not for shopping carts. We took four. The wheels were stiff from sitting in the rain but they rolled, and rolling was the point: sixty miles of trail with packs on our backs had taught us the value of not carrying weight when you didn't have to.
 
-The transition happened in an afternoon. We walked out of the forest and onto pavement and the difference was immediate — the shock of flat ground after two weeks of roots and rocks, the strange smoothness of asphalt under shoes that had molded to uneven terrain. Highway 71 stretched south toward Fayetteville, the old Pig Trail, two lanes of cracked blacktop winding through the mountains. It had been mostly abandoned since Highway 49 was built — the newer, wider road that bypassed the switchbacks and the small towns and the tourist traps that had once sold Ozark pottery and homemade fudge and wooden signs that said BLESS THIS MESS. The Pig Trail was a relic. Now it was our road.
+The transition happened in an afternoon. We walked out of the forest and onto pavement and the difference was immediate — the shock of flat ground after two weeks of roots and rocks, the strange smoothness of asphalt under shoes that had molded to uneven terrain. Highway 71 stretched north toward Fayetteville, the old Pig Trail, two lanes of cracked blacktop winding through the mountains. It had been mostly abandoned since Highway 49 was built — the newer, wider road that bypassed the switchbacks and the small towns and the tourist traps that had once sold Ozark pottery and homemade fudge and wooden signs that said BLESS THIS MESS. The Pig Trail was a relic. Now it was our road.
 
 Shopping carts on asphalt. The sound was absurd — that rattling, clattering grocery-store sound echoing off the mountain walls, announcing our presence to every Turned within a quarter mile. But the trade-off was worth it: packs in the carts, bodies upright, shoulders and hips finally unburdened after days of grinding. Ruth sat in her cart when her knees gave out, Maria pushing her, the two of them looking like the world's most unlikely grocery run.
 
@@ -26,11 +26,11 @@ We passed the food truck by climbing the embankment on the right side, hauling t
 
 That evening, at camp, Marcus got a response on the CB.
 
-He'd been trying every night since the trail — sitting apart from the fire, the handheld CB from the church pressed to his ear, cycling through channels, listening to static. On the trail the mountains had blocked the signal. On the highway the terrain opened up, and seven miles south of Lake Fort Smith, with a clear line of sight down the valley toward Fayetteville, the static broke.
+He'd been trying every night since the trail — sitting apart from the fire, the handheld CB from the church pressed to his ear, cycling through channels, listening to static. On the trail the mountains had blocked the signal. On the highway the terrain opened up, and seven miles north of Lake Fort Smith, with a clear line of sight down the valley toward Fayetteville, the static broke.
 
 "— repeat, this is University of Arkansas research station, Dr. Moss speaking. If you are receiving this broadcast —"
 
-Marcus keyed the mic. "Dr. Moss. This is Marcus. Group of eight, coming south on 71 from the OHT. Church group out of Clarksville."
+Marcus keyed the mic. "Dr. Moss. This is Marcus. Group of eight, coming north on 71 from the OHT. Church group out of Clarksville."
 
 The pause was three seconds. It felt longer.
 
@@ -70,17 +70,17 @@ I recognized the setup from the kind of reading I used to do — Wikipedia deep 
 
 They'd set up a checkpoint to control refugee flow. The highway was the secondary route between Alma and Fayetteville — not the interstate, not the main evacuation corridor, but the road people would take when the interstate was gridlocked. The Guard had positioned here to screen, direct, manage the flow. Then the flow had overwhelmed them, or the organism had, and the checkpoint had become a monument.
 
-Cars were backed up on both sides. The north approach — our side — had a line of vehicles stretching back maybe a quarter mile, stopped in both lanes, some with doors open, some with the windows smashed. People who had stopped in time. Behind them, the evidence of people who hadn't: a sedan rear-ended into the back of a pickup, the hood crumpled, airbags deployed and hanging like deflated lungs. A semi that had jackknifed trying to stop, its trailer slewed across the shoulder, the cab hanging over the edge of the drop on the left. The guardrail was twisted where the semi had gone partially through it — bent metal, bolts sheared, a fifty-foot drop beyond to the rocks and scrub below. The semi's trailer dangled, half on the road, half over nothing.
+Cars were backed up on both sides. The south approach — our side — had a line of vehicles stretching back maybe a quarter mile, stopped in both lanes, some with doors open, some with the windows smashed. People who had stopped in time. Behind them, the evidence of people who hadn't: a sedan rear-ended into the back of a pickup, the hood crumpled, airbags deployed and hanging like deflated lungs. A semi that had jackknifed trying to stop, its trailer slewed across the shoulder, the cab hanging over the edge of the drop on the left. The guardrail was twisted where the semi had gone partially through it — bent metal, bolts sheared, a fifty-foot drop beyond to the rocks and scrub below. The semi's trailer dangled, half on the road, half over nothing.
 
-The south side was the same. More cars, more doors, more evidence. The roadblock had trapped traffic from both directions, creating a parking lot of abandoned vehicles with a military compound in the center and no way through.
+The north side was the same. More cars, more doors, more evidence. The roadblock had trapped traffic from both directions, creating a parking lot of abandoned vehicles with a military compound in the center and no way through.
 
 And among the cars, around the compound, on both sides of the roadblock — the Turned.
 
-I counted from the hillside through the binoculars. The north side: approximately fifty, milling among the backed-up cars, drifting between open doors, sitting on hoods, standing at the guardrail looking at nothing. The south side: approximately fifty more, the same aimless drift, the same patient gravitational circling. Inside the compound itself: maybe thirty, wandering among the Humvees and the collapsed tent and the sandbag positions, drawn to the military infrastructure the way they were drawn to all human-built things.
+I counted from the hillside through the binoculars. The south side: approximately fifty, milling among the backed-up cars, drifting between open doors, sitting on hoods, standing at the guardrail looking at nothing. The north side: approximately fifty more, the same aimless drift, the same patient gravitational circling. Inside the compound itself: maybe thirty, wandering among the Humvees and the collapsed tent and the sandbag positions, drawn to the military infrastructure the way they were drawn to all human-built things.
 
 A hundred and thirty. Maybe more. Three groups separated by the jersey barriers and the wire, each below frenzy threshold, each drifting in its own orbit. The terrain funneled them: the steep hillside on the right made climbing impractical, especially with shopping carts. The fifty-foot drop on the left, with the twisted guardrail and the semi wreckage, made that side impassable. The roadblock controlled the only viable passage.
 
-The alternative was backtracking — north two miles, then east on a forest service road to bypass the ridgeline, then south on a county road to rejoin the highway below the roadblock. But the forest service road was unpaved, rutted, impossible with shopping carts. We'd have to carry the packs again. And the detour added half a day of exposed walking through open terrain where we'd already seen Turned drifting in from the surrounding towns. Ruth's atenolol supply was at four days. Four days of medication between her and a heart rate that would light up the organism like a signal flare.
+The alternative was backtracking — south two miles, then east on a forest service road to bypass the ridgeline, then north on a county road to rejoin the highway past the roadblock. But the forest service road was unpaved, rutted, impossible with shopping carts. We'd have to carry the packs again. And the detour added half a day of exposed walking through open terrain where we'd already seen Turned drifting in from the surrounding towns. Ruth's atenolol supply was at four days. Four days of medication between her and a heart rate that would light up the organism like a signal flare.
 
 I studied the compound for an hour. I studied the wire. I studied the three groups and their separation and the jersey barriers that kept them apart and the funnel geometry of the terrain and the coils of unused concertina wire stacked behind one of the Humvees — still bundled, never deployed, the military's surplus, left behind when the checkpoint fell.
 
@@ -155,9 +155,9 @@ Sienna would not or could not look at me.
 
 We went in before dawn.
 
-Marcus, Dale, and I slipped down the hillside in the dark, moving slow, breathing slow, threading between the backed-up cars on the north approach. The Turned on our side — fifty of them, scattered among the vehicles — were in drift mode, the aimless, passive circling that passed for rest. We moved through them the way we'd learned on the trail: no sudden movements, no eye contact, pulse steady, the body language of furniture. A Turned man stood three feet from me between a Honda and a Dodge, his head tilted, his eyes tracking nothing. I passed him close enough to smell him — the organism smell, the sweet rot, the biological wrongness — and he didn't register me. I was below his threshold. I was background noise.
+Marcus, Dale, and I slipped down the hillside in the dark, moving slow, breathing slow, threading between the backed-up cars on the south approach. The Turned on our side — fifty of them, scattered among the vehicles — were in drift mode, the aimless, passive circling that passed for rest. We moved through them the way we'd learned on the trail: no sudden movements, no eye contact, pulse steady, the body language of furniture. A Turned man stood three feet from me between a Honda and a Dodge, his head tilted, his eyes tracking nothing. I passed him close enough to smell him — the organism smell, the sweet rot, the biological wrongness — and he didn't register me. I was below his threshold. I was background noise.
 
-The compound entrance was a gap in the jersey barriers on the north side, narrowed by concertina wire that the Guard had strung across the opening. Marcus held the wire up with a piece of two-by-four scavenged from the roadside while Dale and I crawled under. The razor edges caught my jacket, sliced the fabric, nicked the skin beneath. A thin line of blood on my forearm. The pain was familiar — the earned kind, the kind I'd been seeking since Clarksville. I didn't flinch.
+The compound entrance was a gap in the jersey barriers on the south side, narrowed by concertina wire that the Guard had strung across the opening. Marcus held the wire up with a piece of two-by-four scavenged from the roadside while Dale and I crawled under. The razor edges caught my jacket, sliced the fabric, nicked the skin beneath. A thin line of blood on my forearm. The pain was familiar — the earned kind, the kind I'd been seeking since Clarksville. I didn't flinch.
 
 Inside the compound, the thirty resident Turned drifted among the military wreckage. A woman in civilian clothes sitting on a sandbag. A man in National Guard fatigues — ACU pattern, the name tape too dark to read — standing at the generator, his hand on the pull-start, yanking it at intervals. The generator was out of fuel. The motion continued. Yank. Wait. Yank. Wait. The muscle memory of a soldier who had been told to keep the generator running and whose body was still following the last order it received.
 
@@ -167,7 +167,7 @@ Unspooling concertina wire in the dark, quietly, among Turned, is not something 
 
 The wire cut us anyway. Through the gloves, through the jacket sleeves, through the careful spacing of hands that knew where the blades were. My palms bled. Dale's forearms bled. Marcus had a gash across the back of his right hand that he wrapped with a strip of his shirt without stopping. The pain was a tax. The blood was the cost of the plan. I noticed — the analytical brain noticed — that my hands were bleeding on the same wire that was about to kill a hundred and thirty people, and the symmetry of that was the kind of thing I would have written in the journal if I'd had the journal with me instead of a coil of razor wire.
 
-We opened the gates. North side first — pulling the jersey barriers apart just enough to create a funnel, an invitation, a doorway that said *come in.* Then the south side, same thing. Two funnels. Two open mouths. The wolf knife, set in the snow.
+We opened the gates. South side first — pulling the jersey barriers apart just enough to create a funnel, an invitation, a doorway that said *come in.* Then the north side, same thing. Two funnels. Two open mouths. The wolf knife, set in the snow.
 
 The car took three tries. The first — a Camry in the backed-up traffic — was dead. The second — a Ford F-150 — was dead. The third — a Chevy Malibu, pushed sideways on the shoulder, the driver's door hanging open — turned over when Marcus hit the key. Not the engine — the engine was dry — but the electronics lit up. The dashboard glowed. The stereo came on.
 
@@ -179,9 +179,9 @@ We ran.
 
 Back through the wire — faster now, less careful, the razor edges catching and cutting and not mattering because the clock was running. Up the hillside, scrambling through scrub oak and dead leaves, Dale's breathing the recovery count — *in two three four, out two three four* — Marcus behind us with the crossbow up, watching the compound below. We reached the observation point — two hundred yards south, above the roadblock, the same hillside where the group was waiting — and I pulled up the binoculars and watched.
 
-The Turned responded. The fifty on the north side oriented first — heads turning, bodies shifting, the collective attention rotating toward the sound like a field of sunflowers tracking the sun. They began to move. Not fast — the aimless drift accelerating into purposeful walking, still individual, still below threshold, but converging. Through the backed-up cars, around the open doors, toward the funnel we'd made in the north barrier. On the south side, the same: fifty more, turning, drifting, drawn by the music that was now loud enough to hear from the hillside — the guitar solo building, the drums coming in, the song becoming the anthem it was written to be, played for an audience of the dead.
+The Turned responded. The fifty on the south side oriented first — heads turning, bodies shifting, the collective attention rotating toward the sound like a field of sunflowers tracking the sun. They began to move. Not fast — the aimless drift accelerating into purposeful walking, still individual, still below threshold, but converging. Through the backed-up cars, around the open doors, toward the funnel we'd made in the south barrier. On the north side, the same: fifty more, turning, drifting, drawn by the music that was now loud enough to hear from the hillside — the guitar solo building, the drums coming in, the song becoming the anthem it was written to be, played for an audience of the dead.
 
-The north group reached the funnel first. They filtered through the gap in the barriers — one at a time, then two, then a press of bodies, the funnel doing what funnels do, compressing the flow, accelerating it. Inside the compound, the resident thirty were already agitated — the music was loudest here, bouncing off the jersey barriers and the Humvees, and the incoming bodies were adding density, adding the proximity signals that the organism read as *converge, converge, converge.* The south group hit the south funnel seconds later. More bodies. More density. The compound was filling.
+The south group reached the funnel first. They filtered through the gap in the barriers — one at a time, then two, then a press of bodies, the funnel doing what funnels do, compressing the flow, accelerating it. Inside the compound, the resident thirty were already agitated — the music was loudest here, bouncing off the jersey barriers and the Humvees, and the incoming bodies were adding density, adding the proximity signals that the organism read as *converge, converge, converge.* The north group hit the north funnel seconds later. More bodies. More density. The compound was filling.
 
 I counted. Sixty. Eighty. A hundred. The three groups were becoming one group, and the one group was compressed into a space designed to hold a military checkpoint, not a hundred human bodies, and the wire — our wire, the new web we'd strung in the dark — was everywhere, chest-high, knee-high, strung between the barriers in a geometry of edges.
 
@@ -269,7 +269,7 @@ Nobody mentioned it. Nobody asked. The silence around what had happened on the h
 
 Some things survive by being buried. This was one of them.
 
-The group walked south through a scene from hell.
+The group walked north through a scene from hell.
 
 Nobody spoke.
 
@@ -279,7 +279,7 @@ Viscera hung from the razor wire at head height. Intestines draped across the co
 
 Maria vomited into the drainage ditch. Dale's face was white but his hands were steady, and he put one of those steady hands on Maria's back and held her hair and waited.
 
-I saw her near the south funnel. A Turned woman, caught in the wire. Still alive. No longer frenzied — the frenzy had passed, the density had dropped below threshold, the phase transition had reversed. She was just there. Tangled in the concertina at the waist and the arms, the razor blades embedded in her clothes and her skin, dozens of points of entry. She was bleeding — slowly now, the frenzy's violence spent, the cuts seeping instead of flowing. She looked at nothing. The organism was still running behind her eyes but the body it was running was too damaged to move. She breathed. The breathing was the only motion. The wire rose and fell with her chest, the blades shifting in the wounds with each breath, and she didn't react to the cutting because the organism didn't process pain the way a person would.
+I saw her near the north funnel. A Turned woman, caught in the wire. Still alive. No longer frenzied — the frenzy had passed, the density had dropped below threshold, the phase transition had reversed. She was just there. Tangled in the concertina at the waist and the arms, the razor blades embedded in her clothes and her skin, dozens of points of entry. She was bleeding — slowly now, the frenzy's violence spent, the cuts seeping instead of flowing. She looked at nothing. The organism was still running behind her eyes but the body it was running was too damaged to move. She breathed. The breathing was the only motion. The wire rose and fell with her chest, the blades shifting in the wounds with each breath, and she didn't react to the cutting because the organism didn't process pain the way a person would.
 
 I passed her. I didn't look away. I looked at her the way I looked at everything: directly, completely, recording. Someone's wife. Someone's mother. Someone who had been a person before the organism made her part of a collective, and who was now tangled in razor wire because a fifteen-year-old had borrowed a hunting technique from people who lived in a place where wolves were the problem.
 
@@ -289,7 +289,7 @@ Jim walked last. He walked through the blood with his head bowed and his lips mo
 
 Jim would carry the prayer. I would carry the woman in the wire.
 
-That night, camped in a pulloff a mile south of the roadblock, I wrote by flashlight. The fire was too far from where I was sitting and I was sitting apart because I didn't want to be near people and I didn't want to be alone and...damn. I'd washed the blood off my shoes in a creek but the smell was still there — in my clothes, in my hair, in the skin of my hands where the wire had cut me. The cuts on my palms were shallow but they stung and I didn't bandage them because the stinging felt correct.
+That night, camped in a pulloff a mile north of the roadblock, I wrote by flashlight. The fire was too far from where I was sitting and I was sitting apart because I didn't want to be near people and I didn't want to be alone and...damn. I'd washed the blood off my shoes in a creek but the smell was still there — in my clothes, in my hair, in the skin of my hands where the wire had cut me. The cuts on my palms were shallow but they stung and I didn't bandage them because the stinging felt correct.
 
 This was the first thing I'd written since the hillside. The machinery had been offline for most of a day — the breakdown, the woods, the silence, the walk through the blood. Now it was back, and the first thing the machinery did with its restored capacity was try to process what had happened by writing it down, because that's what the machinery does, because I am the machinery and the machinery is me and the writing is the only tool I have that works on the things that break me.
 
@@ -321,7 +321,7 @@ This was the first thing I'd written since the hillside. The machinery had been 
 
 *Dale sat with me for an hour after dinner. He didn't say anything. He carved the fox. His hands were steady — the withdrawal broken days ago on the trail — and the fox was beautiful and I thought about how the damage and the craft come from the same place and you don't get one without the other. Dale's hands had shaken for days and now they didn't and the fox was proof that the other side of suffering is precision.*
 
-*Tomorrow we walk. The highway stretches south toward Fayetteville — twenty miles, maybe twenty-five. More Turned as we get closer to the city. More decisions. I'll have a plan because that's what I do now. I make plans that involve other people dying so that my people can live, and I write them in a notebook and I execute them from hillsides and I carry the results in my chest like stones and the stones are getting heavier and I'm fifteen and I don't know how many more I can carry before the weight of them changes me into something I don't recognize.*
+*Tomorrow we walk. The highway stretches north toward Fayetteville — twenty miles, maybe twenty-five. More Turned as we get closer to the city. More decisions. I'll have a plan because that's what I do now. I make plans that involve other people dying so that my people can live, and I write them in a notebook and I execute them from hillsides and I carry the results in my chest like stones and the stones are getting heavier and I'm fifteen and I don't know how many more I can carry before the weight of them changes me into something I don't recognize.*
 
 *Sienna asked me if I was okay. I said yes. She said "Liar." She was right. She's always right about the things I don't say.*
 
@@ -335,7 +335,7 @@ Someone had fortified the gas station. Plywood over the windows, reinforced with
 
 "That's far enough," he called. We were fifty yards out. The shopping carts rattled to a stop.
 
-Marcus raised both hands. "We're passing through. Heading south."
+Marcus raised both hands. "We're passing through. Heading north."
 
 "Nobody passes through. You go around."
 
@@ -425,7 +425,25 @@ Maria was already lining a shopping cart with a towel. She looked at Marcus. Mar
 
 Caleb, from the cart, deadly serious: "Her name is Steggy Two."
 
-The chickens squawked at every crack in the asphalt, every pebble, every shift in the cart's trajectory. They squawked at the wind. They squawked at each other. They squawked at the concept of forward motion. We pushed them south toward Fayetteville in a shopping cart, three furious hens and a seven-year-old boy who was already talking to them in the low, earnest voice he used for Dale's wooden animals, and for thirty minutes the apocalypse was a grocery run that had gone sideways, and I almost forgot what the highway behind us looked like.
+The chickens squawked at every crack in the asphalt, every pebble, every shift in the cart's trajectory. They squawked at the wind. They squawked at each other. They squawked at the concept of forward motion.
+
+After ten minutes of this, I started calculating. Sound attenuation over distance — chicken vocalization averages sixty-five decibels at source, which meant roughly forty-five at a hundred yards, which was within the auditory detection range I'd estimated for the Turned's hunting mode. We needed to reduce output. I had Maria's pharmacy inventory memorized; we still had diazepam from the church supply, and if we crushed half a milligram into feed and factored for avian body mass — chickens average six pounds, metabolic rate roughly twice human per kilogram, so the dosing would need to —
+
+"Nate," Ruth said.
+
+"— account for hepatic clearance, which in gallinaceous birds is —"
+
+Ruth took the towel out of the cart — the one Maria had lined it with — and draped it over the hens.
+
+Silence. Immediate, total. The chickens stopped moving, stopped squawking, stopped existing as a tactical problem. Three birds, convinced it was nighttime, tucked their heads and went to sleep in a shopping cart on Highway 71.
+
+"Chickens sleep when it's dark," Ruth said. Not unkindly. The voice of a woman who had grown up in rural Arkansas and had waited precisely long enough for the boy with the notebook to embarrass himself before intervening. "You don't need to sedate them. You need a towel."
+
+Marcus made a sound. It might have been a cough. It was not a cough.
+
+I am going to record, for accuracy, that I knew this. I knew chickens were photosensitive. I had read about circadian rhythms in avian species during a Wikipedia spiral about sleep disorders at 1 AM two years ago. The information was in my brain. It was filed under "ornithology, behavioral" and cross-referenced with "circadian biology, non-mammalian" and at no point during my diazepam dosing calculation did my brain think to check that drawer. The analytical machinery is very good at building complex solutions. It is less good at remembering that simple ones exist.
+
+We pushed them north toward Fayetteville in a shopping cart under a towel, three sleeping hens and a seven-year-old boy who was already talking to them in the low, earnest voice he used for Dale's wooden animals, and for thirty minutes the apocalypse was a grocery run that had gone sideways, and I almost forgot what the highway behind us looked like.
 
 I looked back once. The man on the roof was watching us go. The rifle was still in his hands. The barbed wire glinted in the afternoon sun. Nine people in a gas station, waiting for the world to come to them.
 
