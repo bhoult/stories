@@ -16,6 +16,24 @@ The trail was roots and rocks and more roots. The white blazes — aluminum diam
 
 The creek crossings became ritual. Stop. Remove shoes and socks. Bag your dry clothes. Cross barefoot or in camp sandals, using the hiking poles for balance, helping each other across. Dry your feet, check for cuts, put on dry socks — carefully, no wrinkles, no pebbles, because a wrinkle in a sock becomes a blister in a mile and a blister becomes the difference between making distance and not. We became obsessive about socks. Dry socks were gold. We carried extras in ziplock bags and inspected our feet at every stop with the meticulous seriousness of people on a medication timeline that tightened with every lost mile.
 
+At a crossing on Day 3, Marcus stopped mid-creek. Knee-deep, water moving around him, perfectly still. He was looking at something none of us could see.
+
+Then he moved — fast, one motion, the river cane stabbing down into the water like a spear. The sharpened tip hit rock and skidded and Marcus said a word that Ruth noted for later correction and then he adjusted and stabbed again, and this time the cane came up with a smallmouth bass pinned through the side, maybe ten inches, thrashing against the wood.
+
+He held it up. Water dripping. The fish twisting. Eight people standing in a creek staring at a man holding a piece of river cane with a fish on it like some kind of Ozark Poseidon.
+
+"Saw them in every creek for two days," he said. "Figured eventually I'd get lucky."
+
+Dale cleaned it. His hands were shaking — the withdrawal, Day 3, the worst of it — but he'd cleaned fish before, and the knife moved through the work the way his knife always moved: from memory, the hands knowing what the hands knew regardless of what the rest of him was doing. Ten inches of smallmouth bass, gutted and filleted on a flat rock, yielded two thin strips of pale flesh that looked like absolutely nothing and smelled like everything.
+
+Marcus cooked it on the camp stove in the small pot — no oil, no seasoning, just heat and the fish and the smell of it browning in the cold air. The smell was an act of violence against every empty stomach in the group. Caleb stood three inches from the stove with his eyes closed, breathing in, and Maria had to move him back twice.
+
+Eight people. Two small fillets. Maria divided it — of course Maria divided it, Maria divided everything, the counting was her love language — and each person got a piece the size of two fingers laid side by side. We ate it with the freeze-dried rice from the evening packets — dried caloric material that had never pretended to be food — the fish on top, and the difference between that rice and the same rice with a thumbnail of fresh bass was the difference between eating and *eating.* The protein was real. The flavor was real. For thirty seconds, the food was not a caloric transaction but an actual meal, and the group was quiet in the specific silence of people experiencing something they'd forgotten was possible.
+
+"That's the best thing I've ever eaten," Caleb said, and he was not wrong.
+
+Marcus didn't spear another fish. He tried — every creek crossing for the next three days, the cane stabbing down, the water churning — but the first one had been luck and Marcus knew it and the fish knew it and the creeks kept their protein after that. But the memory of the bass carried. It became the story we told when the freeze-dried packets tasted like nothing, which was always: *remember the fish?*
+
 Sienna did not get blisters. She crossed the creeks with the sure-footed grace of a person whose body and the terrain were on speaking terms. The rest of us plodded. Sienna sauntered.
 
 At a creek crossing on Day 4, she brought me water. I was sitting on a rock on the far side, drying my feet, the routine sock inspection, and she appeared with her water bottle and held it out without saying anything. I'd drunk all of mine on the last uphill. She'd noticed. I hadn't asked.
