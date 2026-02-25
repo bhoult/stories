@@ -592,7 +592,7 @@ After, wrapped in every blanket I owned, sitting on the bathroom floor with *Bru
 *Brunner & Suddarth chapter 6: "The stress response is mediated by the hypothalamic-pituitary-adrenal axis." The HPA axis. Three organs that decide whether you live or die based on chemical signals you can't consciously control. I am fifteen years old and I am alive because hypothermia accidentally suppressed my HPA axis. The textbook calls this "cold-induced sympatholytic effect." I call it the worst night of my life, and I learned more from it than from everything else combined.*
 
 *My hand is bad. I need antibiotics. I need someone who knows what they're doing. I need Mom.*
--e 
+
 ---
 
 
@@ -808,7 +808,7 @@ The side door opened before we reached it. Jim Whittaker — big man gone thin, 
 "Delia's boy," he said. "And the Okafor girl. Took you long enough."
 
 The bolt clicked home. The sound of a lock engaging had never meant more.
--e 
+
 ---
 
 
@@ -1102,7 +1102,7 @@ He sat in the dark pew and I sat behind him and neither of us said anything else
 *Jim doubts his faith in private and performs it in public and the performance saves lives. I understand the mechanism in private and fail to act in public and the understanding saves nobody. There's a lesson here about the relationship between knowledge and courage and I don't like what it says about me.*
 
 *I felt a small ugly satisfaction when Jim's eyes changed — when I explained the mechanism and he realized I'd figured out something he hadn't. When I identified the metoprolol before he'd connected it. Knowledge as advantage. The fifteen-year-old who knew more than the pastor, the trucker, the teacher, the recovering addict. I liked that feeling. I liked being the smartest person in a room where everyone was older than me, and I liked it in a way that tasted wrong, like sugar on an infection. Being right is not the same as being useful. Knowing is not the same as doing. And the pride I felt in my analysis was the same locked door I'd been standing behind since Lisa Anderson — the one that let me be exactly who I already was: a smart kid who watched and wrote things down while other people walked into the world and tried.*
--e 
+
 ---
 
 
@@ -1447,7 +1447,7 @@ She went to bed. I sat at the table and stared at my map and thought about wheth
 *Maria is already planning what to do with their supplies. This is either pragmatism or something darker and I genuinely can't tell which. Dale heard her and his knife stopped moving for about five seconds, which is the longest I've ever seen Dale's hands be still. Maria saw it too — her eyes tracked his hands, held there for a beat, then went back to the cans. She didn't soften. But she saw the cost. I think she always sees the cost. I think the cost is what she's calculating when the rest of us think she's just counting cans.*
 
 *I called Craig's situation cognitive dissonance. Mine might be too. I understand the mechanism and still can't act on it. Knowing and doing are separated by a gap I haven't figured out how to cross. The textbook doesn't have a chapter for that.*
--e 
+
 ---
 
 
@@ -1718,7 +1718,7 @@ The sun went down. The Turned shifted. Sixteen faces turned toward the last of t
 *I'm starting to think the whole concept of "rules for survival" is a comfort blanket. The rules keep changing. The organism keeps learning. The only real rule is: pay attention. Revise. Don't get attached to being right.*
 
 *Moss said "every fortress is a countdown." She's right. But what she didn't say is that every model is a countdown too.*
--e 
+
 ---
 
 
@@ -2338,7 +2338,7 @@ In the steeple that evening, I wrote in the notebook:
 *And afterward, the organism eats its dead. Three Turned knelt beside the body and consumed it over three hours. Methodical. Efficient. What's left is bones. The organism wastes nothing. The dead become calories for the living. The system is closed — self-sustaining, self-fueling, and designed from the ground up to turn every loss into a gain.*
 
 *The organism has thought about this longer than we have.*
--e
+
 ---
 
 
@@ -2983,7 +2983,7 @@ The second I didn't show anyone. It arrived while I was watching the roof come d
 *The interchange overpass. Sixty feet above the highway. The razor wire around the National Guard checkpoint on Route 7. If you could make them come to a place where coming was the thing that killed them — where the response they couldn't suppress was the weapon — you wouldn't need a hatchet. You wouldn't need to get within ten feet. You'd just need them to arrive, and arriving would be enough.*
 
 *I don't want to be thinking about this. But I am. Nobody else will, because it requires you to look at forty human beings — people with names, with families — and calculate the mechanics of their destruction. I can do this. I don't know what that says about me. I'm afraid it says the true thing.*
--e 
+
 ---
 
 
@@ -3180,7 +3180,7 @@ The cold settled over me. Below, the Turned shifted in the parking lot, restless
 In three days we'd leave this church and walk sixty miles through the worst terrain in the state: a seventy-two-year-old woman, a seven-year-old boy, a man in withdrawal, a pastor whose faith was cracking, a truck driver who missed his daughter, a girl who ran toward crying children, and me — a hundred and eighty pounds, winded on stairs, capable of looking at a house full of dead people and calculating the load-bearing capacity of a gravel cliff.
 
 This was the team. God help us.
--e 
+
 ---
 
 
@@ -3681,7 +3681,7 @@ I woke to the sound of wind in the canopy and for three heartbeats I didn't know
 *We dumped five pounds of gear tonight. The shovel, the extra water, heavy cans, a tent. Everything feels essential until you've carried it up six hundred vertical feet. Then you'd leave your own shoes behind if they weighed an ounce less.*
 
 *Fifty-seven miles of trail to go, then another thirty-five on the highway. At today's pace, three miles a day, the math is catastrophic. Ruth's medication runs out before we get there. But Marcus says the pace builds — that bodies adapt, that the first day is always the worst. The math never quite works. We walk anyway.*
--e 
+
 ---
 
 
@@ -3954,7 +3954,7 @@ In the morning the world was slightly less wrong than it had been the night befo
 I left what remans of my mother standing in the parking lot.  I don't know what to do about that.
 
 *We walk.*
--e 
+
 ---
 
 
@@ -4020,7 +4020,7 @@ The CB went to static. Marcus clipped it to his belt and came back to the fire a
 
 ---
 
-On Day 37 A part of me I loved died, it started from a hillside, with a plan I'd borrowed from Eskimo hunters.
+On Day 37, a part of me I loved died. It started from a hillside, with a plan I'd borrowed from Eskimo hunters.
 
 The roadblock appeared on the afternoon of the second day on the highway. We came around a long curve where the road cut through a ridgeline — blasted limestone faces on the right, a steep drop on the left where the mountain fell away — and the highway ahead was blocked.
 
@@ -4449,8 +4449,6 @@ I took the binoculars and walked. Back up the highway. Back the way we'd come. B
 
 # Chapter 23: Nate Walks
 
-*Third-person interstitial.*
-
 ---
 
 Marcus woke her at 3 AM.
@@ -4524,7 +4522,7 @@ He picked Nate up. Nate was not small, and Marcus was tired. He performed the ef
 He carried Nate back to camp. Sienna walked beside them, her hand on Nate's arm, maintaining contact. Jim was awake by the fire, feeding it back to life. He said nothing. He put a blanket around Nate's shoulders and guided him onto his sleeping pad and Nate lay down and closed his eyes and Jim sat beside him for the rest of the night, one hand on his shoulder, not praying — or maybe praying, the line between presence and prayer being, as Jim would say, nonexistent.
 
 Nobody discussed it in the morning.
--e 
+
 ---
 
 
@@ -4787,7 +4785,7 @@ Sienna, ahead of me, glanced back once. Her expression contained horror and love
 
 We were two hundred yards from the campus when Maria stepped on a root.  
 
-Maria said "oops... sorry".  Like she had accidentally stepped on someones shoe.
+Maria said, "Oops... sorry." Like she had accidentally stepped on someone's shoe.
 
 It wasn't dramatic. A misstep — her foot coming down on a dark tendril that crossed the asphalt where a utility cut had left a seam in the pavement. The root was barely visible, the color of the road surface in the low light, and she didn't see it until her weight was on it and the thing compressed beneath her shoe with a faint, wet sound like stepping on a grape.
 
@@ -4825,7 +4823,7 @@ We crashed through the line. Marcus first, Caleb on his back, the boy's face bur
 
 Behind us, the hunters pulled up short. Three of them, bare feet on the pavement, ten yards back, their bodies leaning forward, their eyes tracking us with focused, hungry intelligence. One took a step. Then another. Then it stopped — the frequency hitting it like a headwind, its face contorting, its hands going to its temples. It made the hunting call once more — sharp, frustrated, the sound of a predator at a fence — and then it turned. The others turned with it. They walked back toward Dixon Street, back toward the rooted, back into the colony that had summoned them.
 
-The rooted's calls faded. The wave of activation that had spread through the root network dissipated as the frequency disrupted the coordination — the signal that had cascaded through a thousand connected bodies dampened, dissolved, the colony's alarm system jammed by the same technology that kept the perimeter clear. Within a minute, the rooted were still again. Arms down. Mouths closed. Facing the sun.
+The calls of the rooted faded. The wave of activation that had spread through the root network dissipated as the frequency disrupted the coordination — the signal that had cascaded through a thousand connected bodies dampened, dissolved, the colony's alarm system jammed by the same technology that kept the perimeter clear. Within a minute, the rooted were still again. Arms down. Mouths closed. Facing the sun.
 
 The frequency hummed in my teeth and my sinuses and the headache was immediate and persistent and it was the most beautiful headache I'd ever had because it meant we were inside and they were outside and the line between held.
 
@@ -5037,7 +5035,7 @@ That night, in a dormitory room on the second floor with the frequency humming i
 *Ruth's atenolol is resupplied — Moss has cases of it, stored in a pharmacy basement on campus. Jim's metoprolol, same. Dale doesn't need Suboxone anymore. Marcus hasn't had a drink in three weeks. Caleb is drawing dinosaurs with crayons he found in a classroom. Sienna is looking at the campus track through the window and her feet are moving.*
 
 *We're safe. For now. That's all anyone ever has. We just know it.*
--e 
+
 ---
 
 
@@ -5345,7 +5343,7 @@ Static swallowed the rest. But the voice had been there. Someone had heard.
 I picked up the microphone.
 
 "This is Nate Carver. I hear you. Tell me your location. Tell me what you need. I'm listening."
--e 
+
 ---
 
 
