@@ -192,15 +192,9 @@ I didn't write this last thought in the journal. Some observations are too ugly 
 
 **JOURNAL ENTRY #10:**
 
-*Sienna almost turned today saving a kid. She did the right thing and it almost killed her — not killed her, worse than killed her. Killed is an ending. Turning is a continuation in a form that uses your face and your voice and your memories to hunt the people you loved.*
-
-*I guided her from the steeple. Called the Turned positions, warned her when the three oriented, got Jim to the door. It wasn't nothing. I keep telling myself it wasn't nothing because "nothing" is the word that fits what it felt like. The safe thing. The smart thing. Sienna says I kept her below the line by staying put. I believe her. It was also the cowardly thing and I don't know if those are different things anymore.*
-
 *The Turned don't punish bad people. They punish brave ones. They punish the ones who run toward the crying. They punish the instinct that makes humans human — the impulse to help, to connect, to risk yourself for someone else. The organism has designed a world where kindness is a death sentence and selfishness is a survival strategy. I don't know what kind of world that is. I don't know what kind of person survives it. I'm afraid the answer is: my kind. The kind who guides from a distance. The kind who calculates. The kind who stays in the steeple with a radio and calls it "enough."*
 
-*Caleb is seven. He's asleep in Maria's lap. Jim is in a pew with a wet cloth around his hand because he punched an eighteen-year-old girl in the face to keep her from turning, and the punch worked and the cloth is for the shaking, not the knuckles. Dale is carving Caleb a dinosaur because Sienna asked him to and Dale would carve anything Sienna asked him to because everyone would do anything Sienna asked them to because she is the person who ran toward the crying while the rest of us watched from windows.*
-
-*Eight people now. Fifteen days of food at current rationing. The cost of doing the right thing is 1.3 days. Maria was right about the arithmetic. She's always right about the arithmetic. The arithmetic is not the point.*
+*Eight people now. The cost of doing the right thing is 1.3 days of food. Maria was right about the arithmetic. She's always right about the arithmetic. The arithmetic is not the point.*
 
 That evening I found Jim on the church steps. He was sitting on the concrete with his wrapped hand in his lap, looking at the parking lot where the Turned stood in their positions. The bruise on Sienna's jaw was upstairs. The hatchet blood was in the boiling pot. The two events — the punch and the kill — were sitting in Jim's body like stones, and I could see them in the slope of his shoulders.
 

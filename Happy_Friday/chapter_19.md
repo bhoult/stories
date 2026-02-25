@@ -160,22 +160,10 @@ I woke to the sound of wind in the canopy and for three heartbeats I didn't know
 
 **JOURNAL ENTRY #13:**
 
-*The trail is hard. Ruth is struggling. Caleb fell twice. I threw up on the second switchback and —*
+*I started to write this entry as a joke about throwing up on the switchback. Caught myself. The self-deprecating deflection — Sienna called it building the case for my own helplessness and she was right. I'm still doing it automatically, the way you bite your nails. So: I threw up and then I kept walking. The throwing up was what happened. The not-stopping was what I did. Those are different things. I'm trying to learn the difference.*
 
-*I was going to write "Sienna pretended not to notice, which is the nicest thing she's ever done for me." But I caught myself. The joke. The self-deprecating deflection. The bit where I'm the fat kid who can't handle a switchback and isn't it funny. Sienna told me to stop building the case for my own helplessness and I'm still doing it, automatically, the way you bite your nails — not because you decide to but because the hand finds the mouth before the brain intervenes.*
+*I have identified a motivational resource I did not previously have access to. That's how I'm going to describe it because describing it accurately would require writing words I'm not ready to see in my own handwriting. It converts physical pain into something I can use rather than something I endure. I don't know if it's sustainable and I don't know if it's healthy and right now I don't care because it kept me on the trail.*
 
-*So here's what actually happened: I threw up on the fourth switchback and then I kept walking. I kept walking because stopping wasn't an option and because the pack on my back was the heaviest pack in the group — thirty-two pounds that ground my hips raw and bruised my shoulders and turned my inner thighs into a chafing disaster I will never discuss with anyone — and I was carrying it because I could, because my body — the one I've been apologizing for since page one of this notebook — carried thirty-two pounds up a mountain switchback and didn't stop. The throwing up was what happened. The not-stopping was what I did. Those are different things. I'm trying to learn the difference.*
+*Fifty-seven miles to go, then thirty-five on the highway. At three miles a day, Ruth's medication runs out before we get there. The math never quite works. We walk anyway.*
 
-*I have identified a motivational resource I did not previously have access to. That's how I'm going to describe it in this journal because describing it accurately would require writing words I'm not ready to see in my own handwriting. The resource makes uphills easier. It makes the pack lighter. It converts physical pain into something I can use rather than something I endure. I don't know if it's sustainable and I don't know if it's healthy and right now I don't care because it kept me on the trail when everything else wanted me to stop.*
-
-*Nothing tried to kill us today. Nothing used a familiar voice. Nothing stood in a parking lot wearing someone's face. The forest is empty of the thing that's ending the world, and the emptiness is the closest thing to safety we've found.*
-
-*Dale is starting withdrawal. I can see it in his hands. He held Caleb through it and the boy didn't feel the shaking and I don't know how Dale did that but it's the bravest thing I've seen anyone do and I've seen Sienna sprint through a herd of Turned carrying a seven-year-old.*
-
-*From the ridge you can see the valley. Down there, the world is ending. Up here, the oaks are going bronze and the stars are out and it's the most peaceful I've felt in a month. I think this is what normal is going to feel like for a while: exhausting and terrifying and better than the alternative.*
-
-*We dumped five pounds of gear tonight. The shovel, the extra water, heavy cans, a tent. Everything feels essential until you've carried it up six hundred vertical feet. Then you'd leave your own shoes behind if they weighed an ounce less.*
-
-*Fifty-seven miles of trail to go, then another thirty-five on the highway. At today's pace, three miles a day, the math is catastrophic. Ruth's medication runs out before we get there. But Marcus says the pace builds — that bodies adapt, that the first day is always the worst. The math never quite works. We walk anyway.*
--e 
 ---

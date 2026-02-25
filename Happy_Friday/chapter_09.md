@@ -171,13 +171,9 @@ The number was growing. The clocks were running. And somewhere on the other side
 
 *Day 8. Seven people. Fifteen Turned. Counting up.*
 
-*Dr. Moss is at the University of Arkansas in Fayetteville. Sixty miles through the worst terrain in the state. She has data, medication, a frequency that disrupts the Turned's coordination. She has answers. We have canned corn and a countdown.*
+*Sixty miles through the worst terrain in the state. Moss has answers. We have canned corn and a countdown.*
 
-*Marcus says roads are death funnels. Cars are noise machines. The OHT runs through wilderness with no population. It's insane. It's the best option.*
-
-*The Turned at the interchange are eating human remains. The Walmart food is running out. These facts exist on a timeline that converges on us. When the easy food is gone, the Turned won't starve politely. They'll expand their search radius. They'll come to the church. And when enough of them gather here, the thing that happens at density — the thing I've been watching build at the Walmart cluster — will happen in our parking lot. And these cinder-block walls will not save us.*
-
-*I am fifteen years old and I am calculating the logistics of a sixty-mile walk through a mountain wilderness with a seventy-two-year-old woman and a man whose depression is his survival advantage and a pastor whose faith is running out and a couple held together by a medication with a shelf life and a girl who can't sit still and me. Me, who weighs a hundred and eighty pounds and gets winded on stairs.*
+*Every timeline converges on us. The food runs out. The Turned expand their search radius. The density builds. These cinder-block walls will not save us.*
 
 *This is the team. This is the plan. This is what we have.*
 

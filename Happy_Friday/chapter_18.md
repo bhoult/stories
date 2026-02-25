@@ -297,17 +297,9 @@ Tomorrow we walked.
 
 **JOURNAL ENTRY #12:**
 
-*Day 24. Eight people. Twenty-six Turned outside. Ninety-five miles ahead — sixty of trail, thirty-five of highway.*
+*Day 24. Marcus's route, not mine. His is longer and safer and he's right. "A map is a picture of a place. It is not the place." I'm going to tattoo this on my brain.*
 
-*The route follows the Ozark Highlands Trail through the Boston Mountains to Lake Fort Smith, then Highway 71 north to Fayetteville. Marcus's route, not mine. His is longer and safer and he's right and I'm learning that being right about a map is not the same as being right about a mountain. "A map is a picture of a place. It is not the place." I'm going to tattoo this on my brain.*
-
-*We carry: eight packs from Atwoods loaded to the point of stupidity. Sleeping bags, tarps, pads, camp stoves, freeze-dried food, water filter, medications for forty-five days, the CB radio, the blood pressure cuff, the notebook, Marcus's crossbow, eight hatchets and knives, and whatever Ruth keeps in the bottom of her purse that she won't let anyone see. My pack weighs thirty-two pounds. Maria said twenty-five. The extra seven are food I added because I know what hungry feels like and I'd rather carry it than feel it.*
-
-*Tomorrow we ride bicycles twenty miles to the trailhead. Then we walk.*
-
-*I am fifteen years old. I weigh a hundred and eighty pounds. I get winded on stairs. I have never hiked a trail in my life. I am responsible for seven people's survival because I'm the one who reads the patterns and nobody else wants the job.*
-
-*The Turned are getting hungrier, smarter, and more numerous. The medications are running out. The church is a countdown.*
+*My pack weighs thirty-two pounds. Maria said twenty-five. The extra seven are food I added because I know what hungry feels like and I'd rather carry it than feel it.*
 
 *I saw my mother today. She was standing in the hospital parking lot in her blue scrubs. She was smiling. The organism's smile, not hers. I am not going to write about this yet. I am going to carry it the way I carry everything — in the part of my brain that processes data without feeling it. The data is: she is gone. The feeling is: I can't.*
 

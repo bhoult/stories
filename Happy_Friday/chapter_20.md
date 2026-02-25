@@ -244,25 +244,19 @@ In the morning the world was slightly less wrong than it had been the night befo
 
 **JOURNAL ENTRY #14:**
 
-*Day 32. Eight days on the trail. Fifty-something miles behind us, and I've stopped counting because counting the miles is another version of the laziness — another way to measure how much suffering remains instead of accepting that the suffering is the method and the method is working.*
+*I've stopped counting miles. Counting is another version of the laziness — measuring how much suffering remains instead of accepting that the suffering is the method and the method is working.*
 
-*Dale's hands are steady. The withdrawal peaked around Day 4 and broke. He taught us HALT. He taught us urge surfing. He told us rock bottom was just training. The worst thing that happened to Dale gave him the exact skills this world requires. Wrong reasons. Right answers. The pattern holds.*
+*The worst thing that happened to Dale gave him the exact skills this world requires. Wrong reasons. Right answers. The pattern holds.*
 
 *The forest is beautiful. I want that recorded because the journal has been a catalog of horrors and the forest deserves better. The oaks are bronze. The ridgelines are blue. The air tastes like nothing and nothing is the best thing I've tasted in a month.*
 
-*A Turned hunter stalked us through the forest. Tree stand, camo, compound bow — he'd turned weeks ago and the hunting instincts survived the conversion intact. He was circling toward the rear of the column. Toward Ruth. Toward Caleb. Marcus shot him twice with the crossbow. It wasn't enough. I finished it with the hatchet.*
+*I told Marcus we had to kill the hunter. The decision was correct. But I wanted it. When I said "we have to kill him," the emphasis in my head was on "kill," not "have to." I hated it and it felt satisfying and both of those are true at the same time. Somewhere between the necessity and the satisfaction there is a line and I don't know which side I'm facing. The person on the wrong side of it is not someone my mother would recognize.*
 
-*I am not going to describe what that was like. The notebook has been a record of data and observations and the hatchet is not data. The hatchet is the sound and the feel and the way a body resists what you're doing to it and the way you do it anyway.*
+*Jim prayed for him. Jim always prays for them. Jim is the line — the person who does the necessary thing and carries the cost without letting the cost change what he carries it with. I am not Jim. But I need to learn what Jim knows, or the thing with edges will become the only thing I am.*
 
-*I told Marcus we had to kill him. I was right. The tactical assessment was sound — a solitary stalker, hunting skills intact, targeting our weakest. The group was at risk. The decision was correct. But I wanted it. When I said "we have to kill him," the emphasis in my head was on "kill," not "have to." The anger wanted a target it could reach and the hunter was the first one.*
+*The envelope is open. I expected grief. I got grief and something else — something that paces where the grief sits still. The trail is where I use it. Every uphill. Every switchback. The thing with edges makes the pack lighter and I am not going to examine that too closely because I need it to work.*
 
-*I hated it and it felt satisfying and both of those are true at the same time and the both-at-the-same-time is the thing I need to figure out because there is a line. Somewhere between the necessity and the satisfaction there is a line and I am standing on it and I don't know which side I'm facing. On one side: a person who does what has to be done. On the other: a person who wants to do it. I need to find that line. I need to know where it is. Because the person on the wrong side of it is not someone my mother would recognize, and she's already lost enough without losing me too.*
-
-*Jim prayed for him. Jim always prays for them. Jim is the line. Jim is the person who does the necessary thing and carries the cost without letting the cost change what he carries it with. I am not Jim. But I need to learn what Jim knows, or the thing with edges will become the only thing I am.*
-
-*I carry my mother in the sealed part of my brain. The envelope is open but the contents are not what I expected. I expected grief. I got grief and something else — something that paces where the grief sits still. The grief is a woman in blue scrubs. The other thing is what happened to the woman in blue scrubs, and what I want to do about it, and the wanting is not clinical and is not analytical and does not belong in a notebook that has been, until now, a record of data and patterns. The trail is not the place for this. But the trail is where I use it. Every uphill. Every switchback. The thing with edges makes the pack lighter and I am not going to examine that too closely because I need it to work and examination might break it.*
-
-*Sienna knows something is wrong. She brings me water. She walks beside me on the downhills. She touches my arm on the steep sections. She is trying to reach me the way you try to reach someone on the other side of a window and she doesn't know the window is there and I don't know how to tell her.*
+*Sienna is trying to reach me the way you try to reach someone on the other side of a window. She doesn't know the window is there.*
 
 I left what remans of my mother standing in the parking lot.  I don't know what to do about that.
 

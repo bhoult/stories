@@ -592,7 +592,7 @@ After, wrapped in every blanket I owned, sitting on the bathroom floor with *Bru
 *Brunner & Suddarth chapter 6: "The stress response is mediated by the hypothalamic-pituitary-adrenal axis." The HPA axis. Three organs that decide whether you live or die based on chemical signals you can't consciously control. I am fifteen years old and I am alive because hypothermia accidentally suppressed my HPA axis. The textbook calls this "cold-induced sympatholytic effect." I call it the worst night of my life, and I learned more from it than from everything else combined.*
 
 *My hand is bad. I need antibiotics. I need someone who knows what they're doing. I need Mom.*
-
+-e 
 ---
 
 
@@ -808,7 +808,7 @@ The side door opened before we reached it. Jim Whittaker — big man gone thin, 
 "Delia's boy," he said. "And the Okafor girl. Took you long enough."
 
 The bolt clicked home. The sound of a lock engaging had never meant more.
-
+-e 
 ---
 
 
@@ -1091,18 +1091,12 @@ He sat in the dark pew and I sat behind him and neither of us said anything else
 
 *Day 7. Seven people. Fourteen Turned outside. The number's growing.*
 
-*Sienna found the military blockade. The Turned are eating the dead. Not frenzied — methodical. Rationing the bodies. This is what happens when the packaged food runs out. The organism needs its hosts fed, and when the easy calories are gone, the calculus changes. We are not dealing with something that will starve. We are dealing with something that will find new food.*
+*Three behavioral modes. Three different signals. The drone says "something is happening here" — herding, reproduction, fear-farming. The short sharp call says "food here, come now" — coordinated feeding. And something changes at density — the Walmart cluster is at twenty-five and the behavior is twitchy, restless, something building. I'm building a taxonomy that's growing faster than my understanding.*
 
-*The Walmart cluster is getting dense. Twenty-five, maybe more. Something in their behavior changes at density — a restlessness, a twitchiness. I need to watch this. I think there's a threshold where the collective coordination breaks down into something worse.*
+*The Turned are shedding clothing. Pembrook's robe. The soldiers' body armor. The scrub woman's top. The oldest Turned are the most exposed. The sun-facing and the undressing have to be connected — the exposed skin is always the skin facing the light — but I can't see the mechanism yet.*
 
-*Sienna heard a new sound at the interchange — short, sharp, like a call. Two Turned oriented immediately and moved toward it. This isn't the summoning drone. The drone says "something is happening here." This sound says "food here, come now." The herding is about reproduction. The feeding is about calories. And the call Sienna heard is about coordination during feeding. Three different modes. Three different signals. I'm building a taxonomy of something I don't fully understand yet, and the taxonomy is growing faster than my understanding.*
-
-*The soldiers at the interchange had removed their body armor and jackets. Pembrook's bathrobe is open, nothing underneath. The woman from the laundry building took off her shoes and placed them on the curb. The Turned are shedding clothing. I don't know why. The sun-facing and the undressing have to be connected — the exposed skin is always the skin facing the light — but I can't see the mechanism yet.*
-
-*Jim doubts his faith in private and performs it in public and the performance saves lives. I understand the mechanism in private and fail to act in public and the understanding saves nobody. There's a lesson here about the relationship between knowledge and courage and I don't like what it says about me.*
-
-*I felt a small ugly satisfaction when Jim's eyes changed — when I explained the mechanism and he realized I'd figured out something he hadn't. When I identified the metoprolol before he'd connected it. Knowledge as advantage. The fifteen-year-old who knew more than the pastor, the trucker, the teacher, the recovering addict. I liked that feeling. I liked being the smartest person in a room where everyone was older than me, and I liked it in a way that tasted wrong, like sugar on an infection. Being right is not the same as being useful. Knowing is not the same as doing. And the pride I felt in my analysis was the same locked door I'd been standing behind since Lisa Anderson — the one that let me be exactly who I already was: a smart kid who watched and wrote things down while other people walked into the world and tried.*
-
+*Jim doubts his faith in private and performs it in public and the performance saves lives. I understand the mechanism in private and fail to act in public and the understanding saves nobody. Being right is not the same as being useful. Knowing is not the same as doing.*
+-e 
 ---
 
 
@@ -1279,13 +1273,9 @@ The number was growing. The clocks were running. And somewhere on the other side
 
 *Day 8. Seven people. Fifteen Turned. Counting up.*
 
-*Dr. Moss is at the University of Arkansas in Fayetteville. Sixty miles through the worst terrain in the state. She has data, medication, a frequency that disrupts the Turned's coordination. She has answers. We have canned corn and a countdown.*
+*Sixty miles through the worst terrain in the state. Moss has answers. We have canned corn and a countdown.*
 
-*Marcus says roads are death funnels. Cars are noise machines. The OHT runs through wilderness with no population. It's insane. It's the best option.*
-
-*The Turned at the interchange are eating human remains. The Walmart food is running out. These facts exist on a timeline that converges on us. When the easy food is gone, the Turned won't starve politely. They'll expand their search radius. They'll come to the church. And when enough of them gather here, the thing that happens at density — the thing I've been watching build at the Walmart cluster — will happen in our parking lot. And these cinder-block walls will not save us.*
-
-*I am fifteen years old and I am calculating the logistics of a sixty-mile walk through a mountain wilderness with a seventy-two-year-old woman and a man whose depression is his survival advantage and a pastor whose faith is running out and a couple held together by a medication with a shelf life and a girl who can't sit still and me. Me, who weighs a hundred and eighty pounds and gets winded on stairs.*
+*Every timeline converges on us. The food runs out. The Turned expand their search radius. The density builds. These cinder-block walls will not save us.*
 
 *This is the team. This is the plan. This is what we have.*
 
@@ -1434,20 +1424,14 @@ She went to bed. I sat at the table and stared at my map and thought about wheth
 
 **JOURNAL ENTRY #5:**
 
-*Day 10. The Lyles are three blocks north. Armed, fortified, broadcasting. Drawing Turned like a magnet. Jim tried to talk to them. Craig listened and didn't hear.*
+*Day 10. Three modes confirmed. Herding is coordinated strategy. The food-driven behavior is coordinated predation. The swarm is the coordination collapsing entirely. I need a better taxonomy but the pattern is there.*
 
-*I've been wrong about an assumption. I assumed the Turned's behavior was binary: either herding or not. But watching the Walmart cluster and now the Lyles, and going back through the interchange report, I think there are at least three modes. The first is herding — patient, strategic, the fear-farming. The second is what Sienna saw at the blockade: a sound, sharp and short, and others orienting to it. Directed. Purposeful. Food-driven. Not herding — something more like hunting, though I'm not ready to call it that yet. The third is what happens when density tips — the swarm, the demolition behavior, the thing Moss described without naming. Herding is coordinated strategy. The food-driven behavior is coordinated predation. The swarm is the coordination collapsing entirely.*
+*The clothing pattern connects to the green skin and the light orientation. Bare feet first, then shirts. The oldest Turned are the most exposed. The organism is systematically removing anything that covers the skin. I'm circling something I'm not ready to name.*
 
-*Three modes. I need a better taxonomy but the pattern is there.*
-
-*The clothing pattern is also there. Scrub woman removed her top. Pembrook's robe has been open since day one. The garden woman lost her shoes first. At the interchange, soldiers had removed body armor and jackets. The oldest Turned are the most exposed. Bare feet first, then shirts. The organism is removing clothing and I don't know why but the sun-facing and the undressing have to be connected. The green skin, the light orientation, and now the systematic removal of anything that covers the skin. I'm circling something I'm not ready to name.*
-
-*I need to watch the Lyles' perimeter. I need to count. I need to know where the number is when it tips.*
-
-*Maria is already planning what to do with their supplies. This is either pragmatism or something darker and I genuinely can't tell which. Dale heard her and his knife stopped moving for about five seconds, which is the longest I've ever seen Dale's hands be still. Maria saw it too — her eyes tracked his hands, held there for a beat, then went back to the cans. She didn't soften. But she saw the cost. I think she always sees the cost. I think the cost is what she's calculating when the rest of us think she's just counting cans.*
+*Maria is already planning what to do with the Lyles' supplies when they fall. I think she always sees the cost. I think the cost is what she's calculating when the rest of us think she's just counting cans.*
 
 *I called Craig's situation cognitive dissonance. Mine might be too. I understand the mechanism and still can't act on it. Knowing and doing are separated by a gap I haven't figured out how to cross. The textbook doesn't have a chapter for that.*
-
+-e 
 ---
 
 
@@ -1709,16 +1693,12 @@ The sun went down. The Turned shifted. Sixteen faces turned toward the last of t
 
 **JOURNAL ENTRY #6:**
 
-*Day 12. Moss confirmed the density threshold. Confirmed adaptation. She has more data but can't transmit it. She's sixty miles away and she's the only person I know of who's studying this systematically.*
-
-*Dale has eighteen days of Suboxone. Jim has maybe forty days of metoprolol at current dose. Ruth has twenty-five days of atenolol. The pharmacy run bought time, not a solution. When the medications run out, the people who are alive because of chemistry will have to survive on willpower. And willpower doesn't come in milligrams.*
-
 *The old model said: stay calm and you're safe. The new model says: stay calm, stay below the density threshold, stay fed, stay medicated, and outrun an organism that's adapting faster than you are. "Safe" was always temporary.*
 
 *I'm starting to think the whole concept of "rules for survival" is a comfort blanket. The rules keep changing. The organism keeps learning. The only real rule is: pay attention. Revise. Don't get attached to being right.*
 
 *Moss said "every fortress is a countdown." She's right. But what she didn't say is that every model is a countdown too.*
-
+-e 
 ---
 
 
@@ -2036,21 +2016,15 @@ I opened the notebook.
 
 **JOURNAL ENTRY #7:**
 
-*I told them the truth and they didn't believe me. Not because it's not true but because it's a truth that requires you to do the opposite of what feels right. Every instinct says fortify, arm, defend. Every instinct is wrong. And telling someone their instincts are wrong is the same as telling them they're wrong, and people don't hear that. They can't. The brain protects itself from information that threatens its model the way the immune system protects itself from infection — automatically, aggressively, without conscious input.*
+*Cognitive dissonance isn't a flaw. It's a feature. The brain evolved to maintain coherent models because coherent models are faster than accurate ones. A caveman who reacts instantly to a wrong model survives more often than one who pauses to revise. The problem is that we're in a novel environment where the wrong model kills you, and the brain is still optimizing for speed.*
 
-*Cognitive dissonance isn't a flaw. It's a feature. The brain evolved to maintain coherent models because coherent models are faster than accurate ones, and in the ancestral environment, speed mattered more than accuracy. A caveman who reacts instantly to a wrong model survives more often than one who pauses to revise. The problem is that we're not in the ancestral environment anymore. We're in a novel environment where the wrong model kills you, and the brain is still optimizing for speed.*
+*I don't know how to make people revise their models. Jim can't do it with faith. I can't do it with data. Maybe the only thing that revises a model is the model failing — and by then it's too late.*
 
-*I don't know how to make people revise their models. Jim can't do it with faith. I can't do it with data. Maybe nobody can do it with words. Maybe the only thing that revises a model is the model failing — and by then it's too late.*
+*Tammy listened differently. She asked about numbers. She's running her own calculations. Whether she can make Craig hear what she's hearing — that's their marriage, their version of the prisoner's dilemma.*
 
-*Tammy listened differently than Craig. She asked about numbers. She asked about our count. I think she's running her own calculations and I think her calculations are arriving at the same place mine are. Whether she can make Craig hear what she's hearing — that's their marriage, their dynamic, their version of the prisoner's dilemma. Cooperate or hold the line. I gave them the information. What happens next is outside my control.*
+*Jim said: "Being right doesn't give you the right to let him die without trying." He was talking to me. He was also talking about himself. He was also talking about God, probably. Jim talks about several things at once and you don't always know until later.*
 
-*I keep thinking about what Jim said: "Being right doesn't give you the right to let him die without trying." He was talking to me. He was also talking about himself. He was also talking about God, probably. Jim talks about several things at once and you don't always know until later.*
-
-*The Lyles have attracted other survivors. A couple from the subdivisions, a trucker from the highway. The bullhorn works both ways — it draws Turned and it draws people, and Craig doesn't distinguish between the two functions because both confirm his model. More people = more strength. He's right in every world except this one.*
-
-*The trucker was at the interchange. He confirmed what Sienna described — the checkpoint fell because the defense attracted the attack. The soldiers who fought died. The soldiers who ran survived. He said it to Craig's face and Craig heard it and filed it away the way Craig files everything: "one bad night." The machinery of disbelief is remarkable. You can pile data on it and it doesn't break. It just categorizes.*
-
-*Day 13. Twenty-three Turned around the Lyles. Sixteen around the church. The gap between those numbers is a measurement of the difference between being heard and being loud. I don't know which number will reach threshold first. I'm afraid I do.*
+*Day 13. Twenty-three Turned around the Lyles. Sixteen around the church. The gap between those numbers is a measurement of the difference between being heard and being loud.*
 
 
 # Chapter 13: The Pharmacy Run
@@ -2243,13 +2217,11 @@ He stopped. The knife was still. Maria, in the pantry closet, had her back to us
 
 **JOURNAL ENTRY #8:**
 
-*The pharmacy run worked. Medications secured. The right supplies were on the shelves because nobody understood what they needed. The opioids were gone. The beta-blockers were untouched. If you want a one-sentence summary of why the world ended, it's that: people grabbed what felt urgent and left what was actually important because the important thing looked boring and had a name they couldn't pronounce.*
+*If you want a one-sentence summary of why the world ended: people grabbed what felt urgent and left what was actually important because the important thing looked boring and had a name they couldn't pronounce.*
 
-*Marcus nearly broke on block four. Alcohol rebound. His hands shaking in the street with two Turned watching. I radioed Jim — told him the Turned were watching but not moving, that he had time. Jim pulled him through — literally, physically, one hand on his shoulder. I guided them around the cluster on block two, warned them when the route was clear. From the steeple I could see everything and affect some of it and I'm starting to understand that this is my role: the eyes. The person who sees the pattern and calls it down to the people in the middle of it. It's not nothing. But it's not enough. It's never going to feel like enough.*
+*I'm starting to understand my role: the eyes. The person who sees the pattern and calls it down to the people in the middle of it. It's not nothing. But it's not enough. It's never going to feel like enough.*
 
-*Dale has thirteen days. I don't have a solution. The propranolol might bridge the withdrawal but "might" isn't a word I'm comfortable with when the failure mode is losing a person. Dale knows this better than I do. He's lived through withdrawal before. He knows exactly what it feels like when your chemistry betrays you, and he's asking me to be ready for the version of that where betrayal is permanent.*
-
-*I need to be ready. I don't know what "ready" looks like. I don't think anyone does.*
+*Dale has thirteen days. "Might" isn't a word I'm comfortable with when the failure mode is losing a person. He's asking me to be ready for the version where his chemistry betrays him permanently. I need to be ready. I don't know what "ready" looks like.*
 
 ---
 
@@ -2338,7 +2310,7 @@ In the steeple that evening, I wrote in the notebook:
 *And afterward, the organism eats its dead. Three Turned knelt beside the body and consumed it over three hours. Methodical. Efficient. What's left is bones. The organism wastes nothing. The dead become calories for the living. The system is closed — self-sustaining, self-fueling, and designed from the ground up to turn every loss into a gain.*
 
 *The organism has thought about this longer than we have.*
-
+-e
 ---
 
 
@@ -2733,15 +2705,9 @@ I didn't write this last thought in the journal. Some observations are too ugly 
 
 **JOURNAL ENTRY #10:**
 
-*Sienna almost turned today saving a kid. She did the right thing and it almost killed her — not killed her, worse than killed her. Killed is an ending. Turning is a continuation in a form that uses your face and your voice and your memories to hunt the people you loved.*
-
-*I guided her from the steeple. Called the Turned positions, warned her when the three oriented, got Jim to the door. It wasn't nothing. I keep telling myself it wasn't nothing because "nothing" is the word that fits what it felt like. The safe thing. The smart thing. Sienna says I kept her below the line by staying put. I believe her. It was also the cowardly thing and I don't know if those are different things anymore.*
-
 *The Turned don't punish bad people. They punish brave ones. They punish the ones who run toward the crying. They punish the instinct that makes humans human — the impulse to help, to connect, to risk yourself for someone else. The organism has designed a world where kindness is a death sentence and selfishness is a survival strategy. I don't know what kind of world that is. I don't know what kind of person survives it. I'm afraid the answer is: my kind. The kind who guides from a distance. The kind who calculates. The kind who stays in the steeple with a radio and calls it "enough."*
 
-*Caleb is seven. He's asleep in Maria's lap. Jim is in a pew with a wet cloth around his hand because he punched an eighteen-year-old girl in the face to keep her from turning, and the punch worked and the cloth is for the shaking, not the knuckles. Dale is carving Caleb a dinosaur because Sienna asked him to and Dale would carve anything Sienna asked him to because everyone would do anything Sienna asked them to because she is the person who ran toward the crying while the rest of us watched from windows.*
-
-*Eight people now. Fifteen days of food at current rationing. The cost of doing the right thing is 1.3 days. Maria was right about the arithmetic. She's always right about the arithmetic. The arithmetic is not the point.*
+*Eight people now. The cost of doing the right thing is 1.3 days of food. Maria was right about the arithmetic. She's always right about the arithmetic. The arithmetic is not the point.*
 
 That evening I found Jim on the church steps. He was sitting on the concrete with his wrapped hand in his lap, looking at the parking lot where the Turned stood in their positions. The bruise on Sienna's jaw was upstairs. The hatchet blood was in the boiling pot. The two events — the punch and the kill — were sitting in Jim's body like stones, and I could see them in the slope of his shoulders.
 
@@ -2983,7 +2949,7 @@ The second I didn't show anyone. It arrived while I was watching the roof come d
 *The interchange overpass. Sixty feet above the highway. The razor wire around the National Guard checkpoint on Route 7. If you could make them come to a place where coming was the thing that killed them — where the response they couldn't suppress was the weapon — you wouldn't need a hatchet. You wouldn't need to get within ten feet. You'd just need them to arrive, and arriving would be enough.*
 
 *I don't want to be thinking about this. But I am. Nobody else will, because it requires you to look at forty human beings — people with names, with families — and calculate the mechanics of their destruction. I can do this. I don't know what that says about me. I'm afraid it says the true thing.*
-
+-e 
 ---
 
 
@@ -3180,7 +3146,7 @@ The cold settled over me. Below, the Turned shifted in the parking lot, restless
 In three days we'd leave this church and walk sixty miles through the worst terrain in the state: a seventy-two-year-old woman, a seven-year-old boy, a man in withdrawal, a pastor whose faith was cracking, a truck driver who missed his daughter, a girl who ran toward crying children, and me — a hundred and eighty pounds, winded on stairs, capable of looking at a house full of dead people and calculating the load-bearing capacity of a gravel cliff.
 
 This was the team. God help us.
-
+-e 
 ---
 
 
@@ -3483,17 +3449,9 @@ Tomorrow we walked.
 
 **JOURNAL ENTRY #12:**
 
-*Day 24. Eight people. Twenty-six Turned outside. Ninety-five miles ahead — sixty of trail, thirty-five of highway.*
+*Day 24. Marcus's route, not mine. His is longer and safer and he's right. "A map is a picture of a place. It is not the place." I'm going to tattoo this on my brain.*
 
-*The route follows the Ozark Highlands Trail through the Boston Mountains to Lake Fort Smith, then Highway 71 north to Fayetteville. Marcus's route, not mine. His is longer and safer and he's right and I'm learning that being right about a map is not the same as being right about a mountain. "A map is a picture of a place. It is not the place." I'm going to tattoo this on my brain.*
-
-*We carry: eight packs from Atwoods loaded to the point of stupidity. Sleeping bags, tarps, pads, camp stoves, freeze-dried food, water filter, medications for forty-five days, the CB radio, the blood pressure cuff, the notebook, Marcus's crossbow, eight hatchets and knives, and whatever Ruth keeps in the bottom of her purse that she won't let anyone see. My pack weighs thirty-two pounds. Maria said twenty-five. The extra seven are food I added because I know what hungry feels like and I'd rather carry it than feel it.*
-
-*Tomorrow we ride bicycles twenty miles to the trailhead. Then we walk.*
-
-*I am fifteen years old. I weigh a hundred and eighty pounds. I get winded on stairs. I have never hiked a trail in my life. I am responsible for seven people's survival because I'm the one who reads the patterns and nobody else wants the job.*
-
-*The Turned are getting hungrier, smarter, and more numerous. The medications are running out. The church is a countdown.*
+*My pack weighs thirty-two pounds. Maria said twenty-five. The extra seven are food I added because I know what hungry feels like and I'd rather carry it than feel it.*
 
 *I saw my mother today. She was standing in the hospital parking lot in her blue scrubs. She was smiling. The organism's smile, not hers. I am not going to write about this yet. I am going to carry it the way I carry everything — in the part of my brain that processes data without feeling it. The data is: she is gone. The feeling is: I can't.*
 
@@ -3664,23 +3622,11 @@ I woke to the sound of wind in the canopy and for three heartbeats I didn't know
 
 **JOURNAL ENTRY #13:**
 
-*The trail is hard. Ruth is struggling. Caleb fell twice. I threw up on the second switchback and —*
+*I started to write this entry as a joke about throwing up on the switchback. Caught myself. The self-deprecating deflection — Sienna called it building the case for my own helplessness and she was right. I'm still doing it automatically, the way you bite your nails. So: I threw up and then I kept walking. The throwing up was what happened. The not-stopping was what I did. Those are different things. I'm trying to learn the difference.*
 
-*I was going to write "Sienna pretended not to notice, which is the nicest thing she's ever done for me." But I caught myself. The joke. The self-deprecating deflection. The bit where I'm the fat kid who can't handle a switchback and isn't it funny. Sienna told me to stop building the case for my own helplessness and I'm still doing it, automatically, the way you bite your nails — not because you decide to but because the hand finds the mouth before the brain intervenes.*
+*I have identified a motivational resource I did not previously have access to. That's how I'm going to describe it because describing it accurately would require writing words I'm not ready to see in my own handwriting. It converts physical pain into something I can use rather than something I endure. I don't know if it's sustainable and I don't know if it's healthy and right now I don't care because it kept me on the trail.*
 
-*So here's what actually happened: I threw up on the fourth switchback and then I kept walking. I kept walking because stopping wasn't an option and because the pack on my back was the heaviest pack in the group — thirty-two pounds that ground my hips raw and bruised my shoulders and turned my inner thighs into a chafing disaster I will never discuss with anyone — and I was carrying it because I could, because my body — the one I've been apologizing for since page one of this notebook — carried thirty-two pounds up a mountain switchback and didn't stop. The throwing up was what happened. The not-stopping was what I did. Those are different things. I'm trying to learn the difference.*
-
-*I have identified a motivational resource I did not previously have access to. That's how I'm going to describe it in this journal because describing it accurately would require writing words I'm not ready to see in my own handwriting. The resource makes uphills easier. It makes the pack lighter. It converts physical pain into something I can use rather than something I endure. I don't know if it's sustainable and I don't know if it's healthy and right now I don't care because it kept me on the trail when everything else wanted me to stop.*
-
-*Nothing tried to kill us today. Nothing used a familiar voice. Nothing stood in a parking lot wearing someone's face. The forest is empty of the thing that's ending the world, and the emptiness is the closest thing to safety we've found.*
-
-*Dale is starting withdrawal. I can see it in his hands. He held Caleb through it and the boy didn't feel the shaking and I don't know how Dale did that but it's the bravest thing I've seen anyone do and I've seen Sienna sprint through a herd of Turned carrying a seven-year-old.*
-
-*From the ridge you can see the valley. Down there, the world is ending. Up here, the oaks are going bronze and the stars are out and it's the most peaceful I've felt in a month. I think this is what normal is going to feel like for a while: exhausting and terrifying and better than the alternative.*
-
-*We dumped five pounds of gear tonight. The shovel, the extra water, heavy cans, a tent. Everything feels essential until you've carried it up six hundred vertical feet. Then you'd leave your own shoes behind if they weighed an ounce less.*
-
-*Fifty-seven miles of trail to go, then another thirty-five on the highway. At today's pace, three miles a day, the math is catastrophic. Ruth's medication runs out before we get there. But Marcus says the pace builds — that bodies adapt, that the first day is always the worst. The math never quite works. We walk anyway.*
+*Fifty-seven miles to go, then thirty-five on the highway. At three miles a day, Ruth's medication runs out before we get there. The math never quite works. We walk anyway.*
 
 ---
 
@@ -3931,30 +3877,24 @@ In the morning the world was slightly less wrong than it had been the night befo
 
 **JOURNAL ENTRY #14:**
 
-*Day 32. Eight days on the trail. Fifty-something miles behind us, and I've stopped counting because counting the miles is another version of the laziness — another way to measure how much suffering remains instead of accepting that the suffering is the method and the method is working.*
+*I've stopped counting miles. Counting is another version of the laziness — measuring how much suffering remains instead of accepting that the suffering is the method and the method is working.*
 
-*Dale's hands are steady. The withdrawal peaked around Day 4 and broke. He taught us HALT. He taught us urge surfing. He told us rock bottom was just training. The worst thing that happened to Dale gave him the exact skills this world requires. Wrong reasons. Right answers. The pattern holds.*
+*The worst thing that happened to Dale gave him the exact skills this world requires. Wrong reasons. Right answers. The pattern holds.*
 
 *The forest is beautiful. I want that recorded because the journal has been a catalog of horrors and the forest deserves better. The oaks are bronze. The ridgelines are blue. The air tastes like nothing and nothing is the best thing I've tasted in a month.*
 
-*A Turned hunter stalked us through the forest. Tree stand, camo, compound bow — he'd turned weeks ago and the hunting instincts survived the conversion intact. He was circling toward the rear of the column. Toward Ruth. Toward Caleb. Marcus shot him twice with the crossbow. It wasn't enough. I finished it with the hatchet.*
+*I told Marcus we had to kill the hunter. The decision was correct. But I wanted it. When I said "we have to kill him," the emphasis in my head was on "kill," not "have to." I hated it and it felt satisfying and both of those are true at the same time. Somewhere between the necessity and the satisfaction there is a line and I don't know which side I'm facing. The person on the wrong side of it is not someone my mother would recognize.*
 
-*I am not going to describe what that was like. The notebook has been a record of data and observations and the hatchet is not data. The hatchet is the sound and the feel and the way a body resists what you're doing to it and the way you do it anyway.*
+*Jim prayed for him. Jim always prays for them. Jim is the line — the person who does the necessary thing and carries the cost without letting the cost change what he carries it with. I am not Jim. But I need to learn what Jim knows, or the thing with edges will become the only thing I am.*
 
-*I told Marcus we had to kill him. I was right. The tactical assessment was sound — a solitary stalker, hunting skills intact, targeting our weakest. The group was at risk. The decision was correct. But I wanted it. When I said "we have to kill him," the emphasis in my head was on "kill," not "have to." The anger wanted a target it could reach and the hunter was the first one.*
+*The envelope is open. I expected grief. I got grief and something else — something that paces where the grief sits still. The trail is where I use it. Every uphill. Every switchback. The thing with edges makes the pack lighter and I am not going to examine that too closely because I need it to work.*
 
-*I hated it and it felt satisfying and both of those are true at the same time and the both-at-the-same-time is the thing I need to figure out because there is a line. Somewhere between the necessity and the satisfaction there is a line and I am standing on it and I don't know which side I'm facing. On one side: a person who does what has to be done. On the other: a person who wants to do it. I need to find that line. I need to know where it is. Because the person on the wrong side of it is not someone my mother would recognize, and she's already lost enough without losing me too.*
-
-*Jim prayed for him. Jim always prays for them. Jim is the line. Jim is the person who does the necessary thing and carries the cost without letting the cost change what he carries it with. I am not Jim. But I need to learn what Jim knows, or the thing with edges will become the only thing I am.*
-
-*I carry my mother in the sealed part of my brain. The envelope is open but the contents are not what I expected. I expected grief. I got grief and something else — something that paces where the grief sits still. The grief is a woman in blue scrubs. The other thing is what happened to the woman in blue scrubs, and what I want to do about it, and the wanting is not clinical and is not analytical and does not belong in a notebook that has been, until now, a record of data and patterns. The trail is not the place for this. But the trail is where I use it. Every uphill. Every switchback. The thing with edges makes the pack lighter and I am not going to examine that too closely because I need it to work and examination might break it.*
-
-*Sienna knows something is wrong. She brings me water. She walks beside me on the downhills. She touches my arm on the steep sections. She is trying to reach me the way you try to reach someone on the other side of a window and she doesn't know the window is there and I don't know how to tell her.*
+*Sienna is trying to reach me the way you try to reach someone on the other side of a window. She doesn't know the window is there.*
 
 I left what remans of my mother standing in the parking lot.  I don't know what to do about that.
 
 *We walk.*
-
+-e 
 ---
 
 
@@ -4020,7 +3960,7 @@ The CB went to static. Marcus clipped it to his belt and came back to the fire a
 
 ---
 
-On Day 37, a part of me I loved died. It started from a hillside, with a plan I'd borrowed from Eskimo hunters.
+On Day 37 A part of me I loved died, it started from a hillside, with a plan I'd borrowed from Eskimo hunters.
 
 The roadblock appeared on the afternoon of the second day on the highway. We came around a long curve where the road cut through a ridgeline — blasted limestone faces on the right, a steep drop on the left where the mountain fell away — and the highway ahead was blocked.
 
@@ -4449,6 +4389,8 @@ I took the binoculars and walked. Back up the highway. Back the way we'd come. B
 
 # Chapter 23: Nate Walks
 
+*Third-person interstitial.*
+
 ---
 
 Marcus woke her at 3 AM.
@@ -4522,7 +4464,7 @@ He picked Nate up. Nate was not small, and Marcus was tired. He performed the ef
 He carried Nate back to camp. Sienna walked beside them, her hand on Nate's arm, maintaining contact. Jim was awake by the fire, feeding it back to life. He said nothing. He put a blanket around Nate's shoulders and guided him onto his sleeping pad and Nate lay down and closed his eyes and Jim sat beside him for the rest of the night, one hand on his shoulder, not praying — or maybe praying, the line between presence and prayer being, as Jim would say, nonexistent.
 
 Nobody discussed it in the morning.
-
+-e 
 ---
 
 
@@ -4785,7 +4727,7 @@ Sienna, ahead of me, glanced back once. Her expression contained horror and love
 
 We were two hundred yards from the campus when Maria stepped on a root.  
 
-Maria said, "Oops... sorry." Like she had accidentally stepped on someone's shoe.
+Maria said "oops... sorry".  Like she had accidentally stepped on someones shoe.
 
 It wasn't dramatic. A misstep — her foot coming down on a dark tendril that crossed the asphalt where a utility cut had left a seam in the pavement. The root was barely visible, the color of the road surface in the low light, and she didn't see it until her weight was on it and the thing compressed beneath her shoe with a faint, wet sound like stepping on a grape.
 
@@ -4823,7 +4765,7 @@ We crashed through the line. Marcus first, Caleb on his back, the boy's face bur
 
 Behind us, the hunters pulled up short. Three of them, bare feet on the pavement, ten yards back, their bodies leaning forward, their eyes tracking us with focused, hungry intelligence. One took a step. Then another. Then it stopped — the frequency hitting it like a headwind, its face contorting, its hands going to its temples. It made the hunting call once more — sharp, frustrated, the sound of a predator at a fence — and then it turned. The others turned with it. They walked back toward Dixon Street, back toward the rooted, back into the colony that had summoned them.
 
-The calls of the rooted faded. The wave of activation that had spread through the root network dissipated as the frequency disrupted the coordination — the signal that had cascaded through a thousand connected bodies dampened, dissolved, the colony's alarm system jammed by the same technology that kept the perimeter clear. Within a minute, the rooted were still again. Arms down. Mouths closed. Facing the sun.
+The rooted's calls faded. The wave of activation that had spread through the root network dissipated as the frequency disrupted the coordination — the signal that had cascaded through a thousand connected bodies dampened, dissolved, the colony's alarm system jammed by the same technology that kept the perimeter clear. Within a minute, the rooted were still again. Arms down. Mouths closed. Facing the sun.
 
 The frequency hummed in my teeth and my sinuses and the headache was immediate and persistent and it was the most beautiful headache I'd ever had because it meant we were inside and they were outside and the line between held.
 
@@ -4855,25 +4797,17 @@ I wrote under the lights — actual electric lights, the first I'd written under
 
 **JOURNAL ENTRY #19:**
 
-*We walked through. A thousand Turned. Three hours. Nobody panicked. Nobody died.*
+*A fourth behavioral state — not herding, not swarming, not hunting. Rooting. The oldest Turned have stopped moving entirely. Their feet are in the ground. Their skin is dark grey-green. They face the sun. And they're connected — vine-like root structures running between them through the soil, linking body to body in a visible network. A colony, like coral, like fungus, like something that has no good analogy because nothing on Earth does this with human bodies.*
 
-*But the Turned aren't what they were. What I saw in the valley is a fourth behavioral state — not herding, not swarming, not hunting. Rooting. The oldest Turned have stopped moving entirely. Their feet are in the ground. Their skin is dark grey-green. They face the sun. And they're connected — vine-like root structures running between them through the soil, linking body to body in a visible network. A colony, like coral, like fungus, like something that has no good analogy because nothing on Earth does this with human bodies.*
+*Ninety percent rooted. Eight percent still drifting. Two percent hunting — and the hunters bring food to the rooted, placing it at their feet like offerings at an altar. The roots absorb it. The colony feeds itself through the network.*
 
-*Ninety percent rooted. Eight percent still drifting — the passive behavior I've been observing since Week One. Two percent hunting — and the hunters bring food to the rooted, placing it at their feet like offerings at an altar. The rooted don't eat it. The roots seem to absorb it. The colony feeds itself through the network.*
+*Key finding: the organism can't penetrate asphalt. Dixon Street was mostly clear of roots. The rooted stood on either side like statues and did not react — until Maria stepped on a root. Then the signal propagated through the network faster than I could track. Every mobile Turned in range summoned.*
 
-*The rooting made the approach possible. A thousand active Turned would have killed us. A thousand rooted Turned who can't lift their feet are a forest, not an army. We walked Dixon Street — paved, mostly clear of roots, the organism can't penetrate asphalt — and the rooted stood on either side like statues and did not react. Until Maria stepped on a root. Then they all reacted. The signal propagated through the network faster than I could track — each rooted Turned activating in sequence, arms reaching, hunting calls cascading outward, summoning every mobile Turned in range. We ran the last hundred yards.*
+*I talked about Civilization VI. Absurdity and terror can't coexist in the same nervous system. The organism didn't know what to do with a signal that was neither fear nor calm but something so ordinary and so stupid it didn't fit any of its models.*
 
-*Jim led with a hymn. Marcus carried Caleb. Dale walked steady. Maria counted steps. Ruth walked until she couldn't sprint and then Jim carried her across the line. Sienna breathed.*
-
-*I talked about Civilization VI.*
-
-*I talked about a video game while walking through a forest of rooted organisms wearing human faces and the absurdity of it is the thing that saved us because absurdity and terror can't coexist in the same nervous system and my brain chose absurdity and the organism didn't know what to do with a signal that was neither fear nor calm but something else entirely — something so ordinary and so stupid that it didn't fit any of its models.*
-
-*The rooting changes everything. The organism isn't just occupying human bodies anymore. It's converting them. Mobile host to sessile host. Animal to plant. The root network is the physical substrate of the collective intelligence I've been sensing — not metaphorical coherence but literal wiring, a nervous system made of human neurons and organic dendrites. The undressing, the greening, the sun-facing — all of it was preparation for this. The organism was building itself a body. A permanent one. Something that roots and grows and connects and doesn't need to move because it's already everywhere.*
+*The rooting changes everything. Mobile host to sessile host. Animal to plant. The root network is the physical substrate of the collective intelligence — not metaphorical coherence but literal wiring. The undressing, the greening, the sun-facing — all of it was preparation for this. The organism was building itself a body. A permanent one. Something that roots and grows and connects and doesn't need to move because it's already everywhere.*
 
 *I don't have a framework for what comes next. I write it down because that's what I do.*
-
-*We're on campus. We're inside the frequency. Ruth is getting medication tonight. The math, for once, worked out.*
 
 *We made it.*
 
@@ -5026,16 +4960,14 @@ That night, in a dormitory room on the second floor with the frequency humming i
 
 *We made it.*
 
-*Dr. Eleanor Moss. The University of Arkansas. A laboratory that's still running. A frequency that keeps the Turned at bay — for now. For weeks. Maybe months. A window that shrinks as the organism adapts.*
+*Not from here. Not engineered. Evolved — but not on this planet. Moss has data she won't speculate about publicly. I saw a printout about a comet on her wall. She saw me see it. She didn't say anything.*
 
-*She says it's not from here. Not engineered. Evolved — but not on this planet. She has data she won't speculate about publicly. I saw a printout about a comet on her wall. She saw me see it. She didn't say anything.*
+*Everything works for a while. The organism learns. The question is whether we can learn faster.*
 
-*The emitter works. The medications work. Everything works for a while. The organism learns. The question is whether we can learn faster.*
-
-*Ruth's atenolol is resupplied — Moss has cases of it, stored in a pharmacy basement on campus. Jim's metoprolol, same. Dale doesn't need Suboxone anymore. Marcus hasn't had a drink in three weeks. Caleb is drawing dinosaurs with crayons he found in a classroom. Sienna is looking at the campus track through the window and her feet are moving.*
+*Dale doesn't need Suboxone anymore. Marcus hasn't had a drink in three weeks. Caleb is drawing dinosaurs with crayons he found in a classroom. Sienna is looking at the campus track through the window and her feet are moving.*
 
 *We're safe. For now. That's all anyone ever has. We just know it.*
-
+-e 
 ---
 
 
@@ -5343,7 +5275,7 @@ Static swallowed the rest. But the voice had been there. Someone had heard.
 I picked up the microphone.
 
 "This is Nate Carver. I hear you. Tell me your location. Tell me what you need. I'm listening."
-
+-e 
 ---
 
 

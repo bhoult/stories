@@ -256,10 +256,6 @@ The sun went down. The Turned shifted. Sixteen faces turned toward the last of t
 
 **JOURNAL ENTRY #6:**
 
-*Day 12. Moss confirmed the density threshold. Confirmed adaptation. She has more data but can't transmit it. She's sixty miles away and she's the only person I know of who's studying this systematically.*
-
-*Dale has eighteen days of Suboxone. Jim has maybe forty days of metoprolol at current dose. Ruth has twenty-five days of atenolol. The pharmacy run bought time, not a solution. When the medications run out, the people who are alive because of chemistry will have to survive on willpower. And willpower doesn't come in milligrams.*
-
 *The old model said: stay calm and you're safe. The new model says: stay calm, stay below the density threshold, stay fed, stay medicated, and outrun an organism that's adapting faster than you are. "Safe" was always temporary.*
 
 *I'm starting to think the whole concept of "rules for survival" is a comfort blanket. The rules keep changing. The organism keeps learning. The only real rule is: pay attention. Revise. Don't get attached to being right.*

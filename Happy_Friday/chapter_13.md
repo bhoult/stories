@@ -188,13 +188,11 @@ He stopped. The knife was still. Maria, in the pantry closet, had her back to us
 
 **JOURNAL ENTRY #8:**
 
-*The pharmacy run worked. Medications secured. The right supplies were on the shelves because nobody understood what they needed. The opioids were gone. The beta-blockers were untouched. If you want a one-sentence summary of why the world ended, it's that: people grabbed what felt urgent and left what was actually important because the important thing looked boring and had a name they couldn't pronounce.*
+*If you want a one-sentence summary of why the world ended: people grabbed what felt urgent and left what was actually important because the important thing looked boring and had a name they couldn't pronounce.*
 
-*Marcus nearly broke on block four. Alcohol rebound. His hands shaking in the street with two Turned watching. I radioed Jim — told him the Turned were watching but not moving, that he had time. Jim pulled him through — literally, physically, one hand on his shoulder. I guided them around the cluster on block two, warned them when the route was clear. From the steeple I could see everything and affect some of it and I'm starting to understand that this is my role: the eyes. The person who sees the pattern and calls it down to the people in the middle of it. It's not nothing. But it's not enough. It's never going to feel like enough.*
+*I'm starting to understand my role: the eyes. The person who sees the pattern and calls it down to the people in the middle of it. It's not nothing. But it's not enough. It's never going to feel like enough.*
 
-*Dale has thirteen days. I don't have a solution. The propranolol might bridge the withdrawal but "might" isn't a word I'm comfortable with when the failure mode is losing a person. Dale knows this better than I do. He's lived through withdrawal before. He knows exactly what it feels like when your chemistry betrays you, and he's asking me to be ready for the version of that where betrayal is permanent.*
-
-*I need to be ready. I don't know what "ready" looks like. I don't think anyone does.*
+*Dale has thirteen days. "Might" isn't a word I'm comfortable with when the failure mode is losing a person. He's asking me to be ready for the version where his chemistry betrays him permanently. I need to be ready. I don't know what "ready" looks like.*
 
 ---
 

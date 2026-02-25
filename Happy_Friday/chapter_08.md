@@ -277,16 +277,10 @@ He sat in the dark pew and I sat behind him and neither of us said anything else
 
 *Day 7. Seven people. Fourteen Turned outside. The number's growing.*
 
-*Sienna found the military blockade. The Turned are eating the dead. Not frenzied — methodical. Rationing the bodies. This is what happens when the packaged food runs out. The organism needs its hosts fed, and when the easy calories are gone, the calculus changes. We are not dealing with something that will starve. We are dealing with something that will find new food.*
+*Three behavioral modes. Three different signals. The drone says "something is happening here" — herding, reproduction, fear-farming. The short sharp call says "food here, come now" — coordinated feeding. And something changes at density — the Walmart cluster is at twenty-five and the behavior is twitchy, restless, something building. I'm building a taxonomy that's growing faster than my understanding.*
 
-*The Walmart cluster is getting dense. Twenty-five, maybe more. Something in their behavior changes at density — a restlessness, a twitchiness. I need to watch this. I think there's a threshold where the collective coordination breaks down into something worse.*
+*The Turned are shedding clothing. Pembrook's robe. The soldiers' body armor. The scrub woman's top. The oldest Turned are the most exposed. The sun-facing and the undressing have to be connected — the exposed skin is always the skin facing the light — but I can't see the mechanism yet.*
 
-*Sienna heard a new sound at the interchange — short, sharp, like a call. Two Turned oriented immediately and moved toward it. This isn't the summoning drone. The drone says "something is happening here." This sound says "food here, come now." The herding is about reproduction. The feeding is about calories. And the call Sienna heard is about coordination during feeding. Three different modes. Three different signals. I'm building a taxonomy of something I don't fully understand yet, and the taxonomy is growing faster than my understanding.*
-
-*The soldiers at the interchange had removed their body armor and jackets. Pembrook's bathrobe is open, nothing underneath. The woman from the laundry building took off her shoes and placed them on the curb. The Turned are shedding clothing. I don't know why. The sun-facing and the undressing have to be connected — the exposed skin is always the skin facing the light — but I can't see the mechanism yet.*
-
-*Jim doubts his faith in private and performs it in public and the performance saves lives. I understand the mechanism in private and fail to act in public and the understanding saves nobody. There's a lesson here about the relationship between knowledge and courage and I don't like what it says about me.*
-
-*I felt a small ugly satisfaction when Jim's eyes changed — when I explained the mechanism and he realized I'd figured out something he hadn't. When I identified the metoprolol before he'd connected it. Knowledge as advantage. The fifteen-year-old who knew more than the pastor, the trucker, the teacher, the recovering addict. I liked that feeling. I liked being the smartest person in a room where everyone was older than me, and I liked it in a way that tasted wrong, like sugar on an infection. Being right is not the same as being useful. Knowing is not the same as doing. And the pride I felt in my analysis was the same locked door I'd been standing behind since Lisa Anderson — the one that let me be exactly who I already was: a smart kid who watched and wrote things down while other people walked into the world and tried.*
+*Jim doubts his faith in private and performs it in public and the performance saves lives. I understand the mechanism in private and fail to act in public and the understanding saves nobody. Being right is not the same as being useful. Knowing is not the same as doing.*
 -e 
 ---

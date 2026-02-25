@@ -116,13 +116,11 @@ That night, in a dormitory room on the second floor with the frequency humming i
 
 *We made it.*
 
-*Dr. Eleanor Moss. The University of Arkansas. A laboratory that's still running. A frequency that keeps the Turned at bay — for now. For weeks. Maybe months. A window that shrinks as the organism adapts.*
+*Not from here. Not engineered. Evolved — but not on this planet. Moss has data she won't speculate about publicly. I saw a printout about a comet on her wall. She saw me see it. She didn't say anything.*
 
-*She says it's not from here. Not engineered. Evolved — but not on this planet. She has data she won't speculate about publicly. I saw a printout about a comet on her wall. She saw me see it. She didn't say anything.*
+*Everything works for a while. The organism learns. The question is whether we can learn faster.*
 
-*The emitter works. The medications work. Everything works for a while. The organism learns. The question is whether we can learn faster.*
-
-*Ruth's atenolol is resupplied — Moss has cases of it, stored in a pharmacy basement on campus. Jim's metoprolol, same. Dale doesn't need Suboxone anymore. Marcus hasn't had a drink in three weeks. Caleb is drawing dinosaurs with crayons he found in a classroom. Sienna is looking at the campus track through the window and her feet are moving.*
+*Dale doesn't need Suboxone anymore. Marcus hasn't had a drink in three weeks. Caleb is drawing dinosaurs with crayons he found in a classroom. Sienna is looking at the campus track through the window and her feet are moving.*
 
 *We're safe. For now. That's all anyone ever has. We just know it.*
 -e 

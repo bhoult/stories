@@ -312,18 +312,12 @@ I opened the notebook.
 
 **JOURNAL ENTRY #7:**
 
-*I told them the truth and they didn't believe me. Not because it's not true but because it's a truth that requires you to do the opposite of what feels right. Every instinct says fortify, arm, defend. Every instinct is wrong. And telling someone their instincts are wrong is the same as telling them they're wrong, and people don't hear that. They can't. The brain protects itself from information that threatens its model the way the immune system protects itself from infection — automatically, aggressively, without conscious input.*
+*Cognitive dissonance isn't a flaw. It's a feature. The brain evolved to maintain coherent models because coherent models are faster than accurate ones. A caveman who reacts instantly to a wrong model survives more often than one who pauses to revise. The problem is that we're in a novel environment where the wrong model kills you, and the brain is still optimizing for speed.*
 
-*Cognitive dissonance isn't a flaw. It's a feature. The brain evolved to maintain coherent models because coherent models are faster than accurate ones, and in the ancestral environment, speed mattered more than accuracy. A caveman who reacts instantly to a wrong model survives more often than one who pauses to revise. The problem is that we're not in the ancestral environment anymore. We're in a novel environment where the wrong model kills you, and the brain is still optimizing for speed.*
+*I don't know how to make people revise their models. Jim can't do it with faith. I can't do it with data. Maybe the only thing that revises a model is the model failing — and by then it's too late.*
 
-*I don't know how to make people revise their models. Jim can't do it with faith. I can't do it with data. Maybe nobody can do it with words. Maybe the only thing that revises a model is the model failing — and by then it's too late.*
+*Tammy listened differently. She asked about numbers. She's running her own calculations. Whether she can make Craig hear what she's hearing — that's their marriage, their version of the prisoner's dilemma.*
 
-*Tammy listened differently than Craig. She asked about numbers. She asked about our count. I think she's running her own calculations and I think her calculations are arriving at the same place mine are. Whether she can make Craig hear what she's hearing — that's their marriage, their dynamic, their version of the prisoner's dilemma. Cooperate or hold the line. I gave them the information. What happens next is outside my control.*
+*Jim said: "Being right doesn't give you the right to let him die without trying." He was talking to me. He was also talking about himself. He was also talking about God, probably. Jim talks about several things at once and you don't always know until later.*
 
-*I keep thinking about what Jim said: "Being right doesn't give you the right to let him die without trying." He was talking to me. He was also talking about himself. He was also talking about God, probably. Jim talks about several things at once and you don't always know until later.*
-
-*The Lyles have attracted other survivors. A couple from the subdivisions, a trucker from the highway. The bullhorn works both ways — it draws Turned and it draws people, and Craig doesn't distinguish between the two functions because both confirm his model. More people = more strength. He's right in every world except this one.*
-
-*The trucker was at the interchange. He confirmed what Sienna described — the checkpoint fell because the defense attracted the attack. The soldiers who fought died. The soldiers who ran survived. He said it to Craig's face and Craig heard it and filed it away the way Craig files everything: "one bad night." The machinery of disbelief is remarkable. You can pile data on it and it doesn't break. It just categorizes.*
-
-*Day 13. Twenty-three Turned around the Lyles. Sixteen around the church. The gap between those numbers is a measurement of the difference between being heard and being loud. I don't know which number will reach threshold first. I'm afraid I do.*
+*Day 13. Twenty-three Turned around the Lyles. Sixteen around the church. The gap between those numbers is a measurement of the difference between being heard and being loud.*

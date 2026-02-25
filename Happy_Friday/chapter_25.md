@@ -210,25 +210,17 @@ I wrote under the lights — actual electric lights, the first I'd written under
 
 **JOURNAL ENTRY #19:**
 
-*We walked through. A thousand Turned. Three hours. Nobody panicked. Nobody died.*
+*A fourth behavioral state — not herding, not swarming, not hunting. Rooting. The oldest Turned have stopped moving entirely. Their feet are in the ground. Their skin is dark grey-green. They face the sun. And they're connected — vine-like root structures running between them through the soil, linking body to body in a visible network. A colony, like coral, like fungus, like something that has no good analogy because nothing on Earth does this with human bodies.*
 
-*But the Turned aren't what they were. What I saw in the valley is a fourth behavioral state — not herding, not swarming, not hunting. Rooting. The oldest Turned have stopped moving entirely. Their feet are in the ground. Their skin is dark grey-green. They face the sun. And they're connected — vine-like root structures running between them through the soil, linking body to body in a visible network. A colony, like coral, like fungus, like something that has no good analogy because nothing on Earth does this with human bodies.*
+*Ninety percent rooted. Eight percent still drifting. Two percent hunting — and the hunters bring food to the rooted, placing it at their feet like offerings at an altar. The roots absorb it. The colony feeds itself through the network.*
 
-*Ninety percent rooted. Eight percent still drifting — the passive behavior I've been observing since Week One. Two percent hunting — and the hunters bring food to the rooted, placing it at their feet like offerings at an altar. The rooted don't eat it. The roots seem to absorb it. The colony feeds itself through the network.*
+*Key finding: the organism can't penetrate asphalt. Dixon Street was mostly clear of roots. The rooted stood on either side like statues and did not react — until Maria stepped on a root. Then the signal propagated through the network faster than I could track. Every mobile Turned in range summoned.*
 
-*The rooting made the approach possible. A thousand active Turned would have killed us. A thousand rooted Turned who can't lift their feet are a forest, not an army. We walked Dixon Street — paved, mostly clear of roots, the organism can't penetrate asphalt — and the rooted stood on either side like statues and did not react. Until Maria stepped on a root. Then they all reacted. The signal propagated through the network faster than I could track — each rooted Turned activating in sequence, arms reaching, hunting calls cascading outward, summoning every mobile Turned in range. We ran the last hundred yards.*
+*I talked about Civilization VI. Absurdity and terror can't coexist in the same nervous system. The organism didn't know what to do with a signal that was neither fear nor calm but something so ordinary and so stupid it didn't fit any of its models.*
 
-*Jim led with a hymn. Marcus carried Caleb. Dale walked steady. Maria counted steps. Ruth walked until she couldn't sprint and then Jim carried her across the line. Sienna breathed.*
-
-*I talked about Civilization VI.*
-
-*I talked about a video game while walking through a forest of rooted organisms wearing human faces and the absurdity of it is the thing that saved us because absurdity and terror can't coexist in the same nervous system and my brain chose absurdity and the organism didn't know what to do with a signal that was neither fear nor calm but something else entirely — something so ordinary and so stupid that it didn't fit any of its models.*
-
-*The rooting changes everything. The organism isn't just occupying human bodies anymore. It's converting them. Mobile host to sessile host. Animal to plant. The root network is the physical substrate of the collective intelligence I've been sensing — not metaphorical coherence but literal wiring, a nervous system made of human neurons and organic dendrites. The undressing, the greening, the sun-facing — all of it was preparation for this. The organism was building itself a body. A permanent one. Something that roots and grows and connects and doesn't need to move because it's already everywhere.*
+*The rooting changes everything. Mobile host to sessile host. Animal to plant. The root network is the physical substrate of the collective intelligence — not metaphorical coherence but literal wiring. The undressing, the greening, the sun-facing — all of it was preparation for this. The organism was building itself a body. A permanent one. Something that roots and grows and connects and doesn't need to move because it's already everywhere.*
 
 *I don't have a framework for what comes next. I write it down because that's what I do.*
-
-*We're on campus. We're inside the frequency. Ruth is getting medication tonight. The math, for once, worked out.*
 
 *We made it.*
 

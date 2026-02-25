@@ -140,17 +140,11 @@ She went to bed. I sat at the table and stared at my map and thought about wheth
 
 **JOURNAL ENTRY #5:**
 
-*Day 10. The Lyles are three blocks north. Armed, fortified, broadcasting. Drawing Turned like a magnet. Jim tried to talk to them. Craig listened and didn't hear.*
+*Day 10. Three modes confirmed. Herding is coordinated strategy. The food-driven behavior is coordinated predation. The swarm is the coordination collapsing entirely. I need a better taxonomy but the pattern is there.*
 
-*I've been wrong about an assumption. I assumed the Turned's behavior was binary: either herding or not. But watching the Walmart cluster and now the Lyles, and going back through the interchange report, I think there are at least three modes. The first is herding — patient, strategic, the fear-farming. The second is what Sienna saw at the blockade: a sound, sharp and short, and others orienting to it. Directed. Purposeful. Food-driven. Not herding — something more like hunting, though I'm not ready to call it that yet. The third is what happens when density tips — the swarm, the demolition behavior, the thing Moss described without naming. Herding is coordinated strategy. The food-driven behavior is coordinated predation. The swarm is the coordination collapsing entirely.*
+*The clothing pattern connects to the green skin and the light orientation. Bare feet first, then shirts. The oldest Turned are the most exposed. The organism is systematically removing anything that covers the skin. I'm circling something I'm not ready to name.*
 
-*Three modes. I need a better taxonomy but the pattern is there.*
-
-*The clothing pattern is also there. Scrub woman removed her top. Pembrook's robe has been open since day one. The garden woman lost her shoes first. At the interchange, soldiers had removed body armor and jackets. The oldest Turned are the most exposed. Bare feet first, then shirts. The organism is removing clothing and I don't know why but the sun-facing and the undressing have to be connected. The green skin, the light orientation, and now the systematic removal of anything that covers the skin. I'm circling something I'm not ready to name.*
-
-*I need to watch the Lyles' perimeter. I need to count. I need to know where the number is when it tips.*
-
-*Maria is already planning what to do with their supplies. This is either pragmatism or something darker and I genuinely can't tell which. Dale heard her and his knife stopped moving for about five seconds, which is the longest I've ever seen Dale's hands be still. Maria saw it too — her eyes tracked his hands, held there for a beat, then went back to the cans. She didn't soften. But she saw the cost. I think she always sees the cost. I think the cost is what she's calculating when the rest of us think she's just counting cans.*
+*Maria is already planning what to do with the Lyles' supplies when they fall. I think she always sees the cost. I think the cost is what she's calculating when the rest of us think she's just counting cans.*
 
 *I called Craig's situation cognitive dissonance. Mine might be too. I understand the mechanism and still can't act on it. Knowing and doing are separated by a gap I haven't figured out how to cross. The textbook doesn't have a chapter for that.*
 -e 
