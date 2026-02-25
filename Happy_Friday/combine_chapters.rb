@@ -5,7 +5,7 @@
 dir = File.dirname(__FILE__)
 output_path = File.join(dir, "Happy_Friday.md")
 
-chapter_files = Dir.glob(File.join(dir, "happy_friday_chapters_*.md")).sort
+chapter_files = Dir.glob(File.join(dir, "chapter_*.md")).sort
 
 File.open(output_path, "w") do |out|
   chapter_files.each_with_index do |file, i|
