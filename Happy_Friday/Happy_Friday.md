@@ -3397,6 +3397,10 @@ Caleb was quiet. Not the loud, protesting quiet of a child who might argue — t
 
 He went to the coop that evening and sat with them for an hour. I don't know what he said to them. I didn't ask.
 
+The next morning, before we left, Dale put three small shapes in Caleb's hand. Wooden chickens — carved overnight, the knife marks still fresh, each one different. One fat, one tall, one with its head cocked sideways. Triceratops, Steggy, Rex. Dale had been watching Caleb with those birds for a week, and his hands had memorized what his hands always memorized: the thing that mattered to someone who couldn't keep it.
+
+Caleb held them for a long time. Then he put them in the wooden zoo, next to the beagle and the cardinal and the fox, and he didn't say anything, and Dale didn't say anything, and the chickens in the yard clucked at nothing and the wooden chickens in the zoo were the versions that could come with us.
+
 During the planning days Jim mentioned a dream. Casual, over coffee, the way he mentioned everything — as if the thing he was saying was less important than the act of saying it and the act of saying it was less important than the coffee.
 
 "I dreamed about a woman in a lab coat," he said. "She was standing at a desk covered in papers — printouts, graphs, numbers I couldn't read. She showed me one of the printouts and said, 'The numbers are wrong but the math is close.' Then she took the printout back and corrected something and showed it to me again and said, 'Closer.'" He sipped his coffee. "She had kind eyes. Tired. The eyes of someone who's been working too long on something that matters too much."
@@ -3527,6 +3531,18 @@ She studied me for a moment — the assessing look, the one I recognized from he
 Ruth was slow. Her knees ground audibly on the steep sections, a sound like sand in a joint. Jim stayed with her, matching her pace exactly, his hand appearing at her elbow on the switchbacks and disappearing on the straights, the automatic choreography of a man who had spent a career walking beside people who needed him.
 
 Caleb fell twice. The first time he tripped on a root hidden under leaves and went down hard, skinning both palms. He cried — briefly, sharply, the cry of a child who is hurt but not broken — and Dale picked him up and brushed the leaves off and said "What do we do when we fall?" and Caleb, still sniffling, said "Get up" and Dale said "That's right" and they kept walking. The second time was on a rock scramble near the ridgeline where the trail crossed exposed sandstone. Caleb's shoe slipped and he slid three feet before Marcus caught him — one hand, casual, the reflexes of a man who'd been catching things that slid for twenty years.
+
+Between falls, Caleb walked. He had the wooden zoo in his jacket pockets — the beagle, the cardinal, the fox — and in his right hand, held carefully, the three wooden chickens Dale had carved the night before. He talked to them. Not loudly, not performing — the quiet, serious monologue of a child explaining the world to something that needed explaining to.
+
+"This part is up," he told them. "But then it goes down. You have to hold on."
+
+A switchback later: "Steggy doesn't like rocks. Rex is okay with rocks. Triceratops doesn't care."
+
+He assigned them personalities. Steggy was scared of heights. Rex was brave but got tired. Triceratops was the leader because she was the fattest and fat meant wise, according to a logic system I couldn't penetrate but respected entirely. When the trail leveled out and Caleb could walk without watching his feet, he lined them up on his palm and had them discuss the view.
+
+"It's very big," Triceratops said, in Caleb's voice. "We should eat something."
+
+Dale, walking beside him, shaking, withdrawing, carving a fox from cedar with hands that wouldn't stay still — Dale listened to every word and didn't say anything because he understood that the boy was doing the same thing he was doing with the knife. Holding something. Making it matter. Keeping his hands busy so the rest of him could survive the walk.
 
 Dale's hands were shaking. Not the cold — the Suboxone. He'd taken his last dose that morning. The withdrawal wouldn't hit fully for another twelve to twenty-four hours, but the edge of it was there — a tremor in the fingers, a tightness in the jaw. He carved as he walked, and the carving was a little rougher than usual, the strokes a little less controlled, and I watched him the way I watched everything: from behind, measuring, cataloguing, unable to help.
 

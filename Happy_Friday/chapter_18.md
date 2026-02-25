@@ -273,6 +273,10 @@ Caleb was quiet. Not the loud, protesting quiet of a child who might argue — t
 
 He went to the coop that evening and sat with them for an hour. I don't know what he said to them. I didn't ask.
 
+The next morning, before we left, Dale put three small shapes in Caleb's hand. Wooden chickens — carved overnight, the knife marks still fresh, each one different. One fat, one tall, one with its head cocked sideways. Triceratops, Steggy, Rex. Dale had been watching Caleb with those birds for a week, and his hands had memorized what his hands always memorized: the thing that mattered to someone who couldn't keep it.
+
+Caleb held them for a long time. Then he put them in the wooden zoo, next to the beagle and the cardinal and the fox, and he didn't say anything, and Dale didn't say anything, and the chickens in the yard clucked at nothing and the wooden chickens in the zoo were the versions that could come with us.
+
 During the planning days Jim mentioned a dream. Casual, over coffee, the way he mentioned everything — as if the thing he was saying was less important than the act of saying it and the act of saying it was less important than the coffee.
 
 "I dreamed about a woman in a lab coat," he said. "She was standing at a desk covered in papers — printouts, graphs, numbers I couldn't read. She showed me one of the printouts and said, 'The numbers are wrong but the math is close.' Then she took the printout back and corrected something and showed it to me again and said, 'Closer.'" He sipped his coffee. "She had kind eyes. Tired. The eyes of someone who's been working too long on something that matters too much."
