@@ -100,7 +100,13 @@ I stood at the perimeter and watched the Turned sway at their line and I thought
 
 I went inside to prepare for the broadcast.
 
-Over breakfast that morning — real eggs, from chickens the botany grad student kept behind the greenhouse, the first real eggs in six weeks — Jim told me something. Casual. Smiling. The way Jim told everything, as if the telling were a gift he was handing you and the content were incidental to the giving.
+Over breakfast that morning — real eggs, scrambled, from the flock behind the greenhouse — Jim told me something.
+
+The eggs deserve a sentence. The first real eggs in six weeks. Priya had been collecting them since before we arrived, but the combined flock — her seven hens plus our three highway refugees — was now producing enough for the whole group. Caleb collected them every morning. He carried them in a bowl lined with a dish towel, walking with the exaggerated care of a person transporting nitroglycerin, and presented them to Priya in the greenhouse kitchen with a formality that suggested he believed egg delivery was a military rank.
+
+The rooster was the problem. It crowed at dawn — at the same dawn the Turned faced, the same sun they photosynthesized toward — with a volume I estimated at seventy decibels. Seventy decibels at the coop, roughly fifty at the perimeter, which was audible, which was a problem, because the rooted didn't care but the hunters did. Marcus had built a soundproofed coop from dorm mattress foam and plywood, and the rooster crowed inside it every morning in muffled outrage, and every morning Caleb went out to feed the flock and the rooster followed him around the greenhouse yard like an angry, feathered bodyguard, and the tactical implications of keeping a noisy animal inside a frequency perimeter were in constant tension with the fact that a seven-year-old boy had named the rooster Giganotosaurus and would not discuss alternatives.
+
+Jim told me something. Casual. Smiling. The way Jim told everything, as if the telling were a gift he was handing you and the content were incidental to the giving.
 
 "I had a dream last night," he said. Buttering toast. Not looking up. "A highway. Long, flat, one of those Texas ones that goes forever. A truck — a big rig, eighteen-wheeler — parked on the shoulder. And a little girl running toward it. Running fast, the way kids run when they see someone they love."
 

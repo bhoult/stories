@@ -2921,7 +2921,7 @@ The second I didn't show anyone. It arrived while I was watching the roof come d
 
 Two days after the Lyles, we held a meeting that lasted four hours and resolved almost nothing, because the apocalypse has not simplified human social dynamics even slightly.
 
-The meeting was in the basement. Eight people around a folding table: Jim at the head because he was the pastor and it was his church and some structures persist even when the world they were built for doesn't. Ruth to his right, Bible on the table in front of her like a gavel. Marcus to his left, flask in his jacket but not out — he hadn't drunk in two days, the pharmacy's anxiolytics replacing the bourbon in a transition Maria had orchestrated whether Marcus wanted her to or not. Dale and Maria together, Dale's hands empty because he'd left the carving in the sanctuary with Caleb, who was building a small zoo of wooden animals on a pew. Sienna across from me, her chair pushed back slightly, one foot on the floor, the posture of someone who might need to stand up quickly.
+The meeting was in the basement. Eight people around a folding table: Jim at the head because he was the pastor and it was his church and some structures persist even when the world they were built for doesn't. Ruth to his right, Bible on the table in front of her like a gavel. Marcus to his left, flask in his jacket but not out — he hadn't drunk in two days, the pharmacy's anxiolytics replacing the bourbon in a transition Maria had orchestrated whether Marcus wanted her to or not. Dale and Maria together, Dale's hands empty because he'd left the carving in the sanctuary with Caleb, who was building a small zoo of wooden animals on a pew. Caleb had two jobs now — the zoo and the chickens. We'd found them three days after Sienna brought him in: three hens in a backyard coop two houses down on Birch, alive and indignant, surviving on weeds and beetles and the grit of animals too stupid to know the world had ended. Caleb fed them every morning — scraps from the pantry, water from the rain barrel — with the solemn focus of a surgeon. He'd named them Triceratops, Steggy, and Rex. The names were non-negotiable. The chickens did not care what they were called. They cared about the scraps. Caleb cared about being needed by something that wasn't afraid of him, and the chickens provided this because chickens are afraid of everything except the person holding food. Sienna across from me, her chair pushed back slightly, one foot on the floor, the posture of someone who might need to stand up quickly.
 
 And me. At the end of the table with the notebook and a pen and the binoculars hanging from my neck because they lived there now.
 
@@ -3368,6 +3368,16 @@ Jim prayed. The prayer was short: "Lord, we're leaving tomorrow. We don't know i
 Ruth said, "The trail doesn't need flattening. I need better knees."
 
 Jim said, "I'll pray for those too."
+
+During the packing, Caleb tugged on Marcus's sleeve. "What about Triceratops and Steggy and Rex?"
+
+Marcus looked at me. I looked at the floor. The chickens couldn't come — we were biking to the trailhead, then hiking sixty miles of mountain trail with packs that already weighed more than Caleb did. There was no version of the plan that included three hens.
+
+"They'll be okay here," Marcus said. "Plenty of bugs in that yard. They got along fine before us."
+
+Caleb was quiet. Not the loud, protesting quiet of a child who might argue — the still quiet of a child who had learned in the past two weeks that "we can't" was the answer to most questions now, and that the things you loved were the things you left behind, and that arguing didn't change this.
+
+He went to the coop that evening and sat with them for an hour. I don't know what he said to them. I didn't ask.
 
 During the planning days Jim mentioned a dream. Casual, over coffee, the way he mentioned everything — as if the thing he was saying was less important than the act of saying it and the act of saying it was less important than the coffee.
 
@@ -4269,6 +4279,28 @@ We left. Shopping carts loaded with the traded food, wheels rattling on the asph
 
 "Probably." Marcus adjusted the crossbow on his shoulder. "You can't save people who don't want to be saved. That's not a failure. That's a boundary."
 
+A quarter mile past the gas station, a farmhouse sat back from the highway behind a collapsing fence. The house was empty — door open, curtains moving in the wind. But behind it, in a tilted coop with chicken wire peeling off the frame, something was alive and making sounds about it.
+
+Three hens. Brown, fat, furious. Surviving on gravel and weeds and whatever insects had the misfortune of crossing their path. They'd outlasted the apocalypse through the only strategy chickens know: being too dumb and too angry to die.
+
+Caleb heard them before anyone else. His head came up from Marcus's shoulder — he'd been riding in the cart, legs dangling — and his face did something I hadn't seen since before the roadblock. Hope. The specific, dangerous hope of a seven-year-old who has lost something and is seeing it returned in a different shape.
+
+"Can we —"
+
+"No," Marcus said.
+
+"They'll die here."
+
+"They've been alive for six weeks without us."
+
+Maria was already lining a shopping cart with a towel. She looked at Marcus. Marcus looked at the sky. The hens went into the cart. They did not go quietly. They went with the concentrated outrage of animals being handled by strangers, flapping and squawking and producing a volume of sound wildly disproportionate to their size.
+
+"If that bird makes one sound past dark," Marcus said, "it's nuggets."
+
+Caleb, from the cart, deadly serious: "Her name is Steggy Two."
+
+The chickens squawked at every crack in the asphalt, every pebble, every shift in the cart's trajectory. They squawked at the wind. They squawked at each other. They squawked at the concept of forward motion. We pushed them south toward Fayetteville in a shopping cart, three furious hens and a seven-year-old boy who was already talking to them in the low, earnest voice he used for Dale's wooden animals, and for thirty minutes the apocalypse was a grocery run that had gone sideways, and I almost forgot what the highway behind us looked like.
+
 I looked back once. The man on the roof was watching us go. The rifle was still in his hands. The barbed wire glinted in the afternoon sun. Nine people in a gas station, waiting for the world to come to them.
 
 The world would come.
@@ -4820,6 +4852,10 @@ The life sciences building was a functioning laboratory in a failing world. Emer
 
 "Someone's got to keep the lights on," Howard said, not looking up from his mopping.
 
+The woman labeling slides was Priya — the botany grad student who'd been maintaining the campus greenhouse and, behind it, a small flock of chickens she'd rescued from a farm supply store on College Avenue in the first week. When Caleb heard the clucking from behind the building, he was out the door before anyone could stop him. He came back twenty minutes later with a report: seven hens, one rooster, a coop built from lab pallets and chicken wire. He'd already introduced our three highway hens. He'd already assigned names. He'd already informed Priya that he was in charge now.
+
+Priya looked at Moss. Moss looked at Howard. Howard said, "Great. More chickens. Just what we needed," and went back to mopping.
+
 ---
 
 Moss gave us the science that night.
@@ -5131,7 +5167,13 @@ I stood at the perimeter and watched the Turned sway at their line and I thought
 
 I went inside to prepare for the broadcast.
 
-Over breakfast that morning — real eggs, from chickens the botany grad student kept behind the greenhouse, the first real eggs in six weeks — Jim told me something. Casual. Smiling. The way Jim told everything, as if the telling were a gift he was handing you and the content were incidental to the giving.
+Over breakfast that morning — real eggs, scrambled, from the flock behind the greenhouse — Jim told me something.
+
+The eggs deserve a sentence. The first real eggs in six weeks. Priya had been collecting them since before we arrived, but the combined flock — her seven hens plus our three highway refugees — was now producing enough for the whole group. Caleb collected them every morning. He carried them in a bowl lined with a dish towel, walking with the exaggerated care of a person transporting nitroglycerin, and presented them to Priya in the greenhouse kitchen with a formality that suggested he believed egg delivery was a military rank.
+
+The rooster was the problem. It crowed at dawn — at the same dawn the Turned faced, the same sun they photosynthesized toward — with a volume I estimated at seventy decibels. Seventy decibels at the coop, roughly fifty at the perimeter, which was audible, which was a problem, because the rooted didn't care but the hunters did. Marcus had built a soundproofed coop from dorm mattress foam and plywood, and the rooster crowed inside it every morning in muffled outrage, and every morning Caleb went out to feed the flock and the rooster followed him around the greenhouse yard like an angry, feathered bodyguard, and the tactical implications of keeping a noisy animal inside a frequency perimeter were in constant tension with the fact that a seven-year-old boy had named the rooster Giganotosaurus and would not discuss alternatives.
+
+Jim told me something. Casual. Smiling. The way Jim told everything, as if the telling were a gift he was handing you and the content were incidental to the giving.
 
 "I had a dream last night," he said. Buttering toast. Not looking up. "A highway. Long, flat, one of those Texas ones that goes forever. A truck — a big rig, eighteen-wheeler — parked on the shoulder. And a little girl running toward it. Running fast, the way kids run when they see someone they love."
 

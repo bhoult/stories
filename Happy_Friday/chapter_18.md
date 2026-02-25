@@ -253,6 +253,16 @@ Ruth said, "The trail doesn't need flattening. I need better knees."
 
 Jim said, "I'll pray for those too."
 
+During the packing, Caleb tugged on Marcus's sleeve. "What about Triceratops and Steggy and Rex?"
+
+Marcus looked at me. I looked at the floor. The chickens couldn't come — we were biking to the trailhead, then hiking sixty miles of mountain trail with packs that already weighed more than Caleb did. There was no version of the plan that included three hens.
+
+"They'll be okay here," Marcus said. "Plenty of bugs in that yard. They got along fine before us."
+
+Caleb was quiet. Not the loud, protesting quiet of a child who might argue — the still quiet of a child who had learned in the past two weeks that "we can't" was the answer to most questions now, and that the things you loved were the things you left behind, and that arguing didn't change this.
+
+He went to the coop that evening and sat with them for an hour. I don't know what he said to them. I didn't ask.
+
 During the planning days Jim mentioned a dream. Casual, over coffee, the way he mentioned everything — as if the thing he was saying was less important than the act of saying it and the act of saying it was less important than the coffee.
 
 "I dreamed about a woman in a lab coat," he said. "She was standing at a desk covered in papers — printouts, graphs, numbers I couldn't read. She showed me one of the printouts and said, 'The numbers are wrong but the math is close.' Then she took the printout back and corrected something and showed it to me again and said, 'Closer.'" He sipped his coffee. "She had kind eyes. Tired. The eyes of someone who's been working too long on something that matters too much."

@@ -405,6 +405,28 @@ We left. Shopping carts loaded with the traded food, wheels rattling on the asph
 
 "Probably." Marcus adjusted the crossbow on his shoulder. "You can't save people who don't want to be saved. That's not a failure. That's a boundary."
 
+A quarter mile past the gas station, a farmhouse sat back from the highway behind a collapsing fence. The house was empty — door open, curtains moving in the wind. But behind it, in a tilted coop with chicken wire peeling off the frame, something was alive and making sounds about it.
+
+Three hens. Brown, fat, furious. Surviving on gravel and weeds and whatever insects had the misfortune of crossing their path. They'd outlasted the apocalypse through the only strategy chickens know: being too dumb and too angry to die.
+
+Caleb heard them before anyone else. His head came up from Marcus's shoulder — he'd been riding in the cart, legs dangling — and his face did something I hadn't seen since before the roadblock. Hope. The specific, dangerous hope of a seven-year-old who has lost something and is seeing it returned in a different shape.
+
+"Can we —"
+
+"No," Marcus said.
+
+"They'll die here."
+
+"They've been alive for six weeks without us."
+
+Maria was already lining a shopping cart with a towel. She looked at Marcus. Marcus looked at the sky. The hens went into the cart. They did not go quietly. They went with the concentrated outrage of animals being handled by strangers, flapping and squawking and producing a volume of sound wildly disproportionate to their size.
+
+"If that bird makes one sound past dark," Marcus said, "it's nuggets."
+
+Caleb, from the cart, deadly serious: "Her name is Steggy Two."
+
+The chickens squawked at every crack in the asphalt, every pebble, every shift in the cart's trajectory. They squawked at the wind. They squawked at each other. They squawked at the concept of forward motion. We pushed them south toward Fayetteville in a shopping cart, three furious hens and a seven-year-old boy who was already talking to them in the low, earnest voice he used for Dale's wooden animals, and for thirty minutes the apocalypse was a grocery run that had gone sideways, and I almost forgot what the highway behind us looked like.
+
 I looked back once. The man on the roof was watching us go. The rifle was still in his hands. The barbed wire glinted in the afternoon sun. Nine people in a gas station, waiting for the world to come to them.
 
 The world would come.

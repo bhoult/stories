@@ -12,6 +12,10 @@ The life sciences building was a functioning laboratory in a failing world. Emer
 
 "Someone's got to keep the lights on," Howard said, not looking up from his mopping.
 
+The woman labeling slides was Priya — the botany grad student who'd been maintaining the campus greenhouse and, behind it, a small flock of chickens she'd rescued from a farm supply store on College Avenue in the first week. When Caleb heard the clucking from behind the building, he was out the door before anyone could stop him. He came back twenty minutes later with a report: seven hens, one rooster, a coop built from lab pallets and chicken wire. He'd already introduced our three highway hens. He'd already assigned names. He'd already informed Priya that he was in charge now.
+
+Priya looked at Moss. Moss looked at Howard. Howard said, "Great. More chickens. Just what we needed," and went back to mopping.
+
 ---
 
 Moss gave us the science that night.
