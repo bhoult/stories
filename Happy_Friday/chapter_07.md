@@ -2,7 +2,7 @@
 
 We crossed Highway 21 at 7:15 AM on a Tuesday in October, which is not a sentence I expected to describe as the bravest thing I'd ever done.
 
-Sienna had lain on the couch with her shoes on and her eyes open, watching the ceiling, while I took the bathroom floor again because the bathroom was the room I'd claimed through repeated misery and at this point it felt like territory. I'd given her the blanket from my mom's bed. She didn't argue. Athletes know when to conserve.
+Sienna had lain on the couch with her shoes on and her eyes open, watching the ceiling, while I took the hallway floor again because the hallway was the spot I'd claimed through repeated misery and at this point it felt like territory. I'd given her the blanket from my mom's bed. She didn't argue. Athletes know when to conserve.
 
 I was wearing my only clean clothes — a pair of gym shorts and a Clarksville Panthers t-shirt two sizes too small that my mom had bought at a school fundraiser. Everything else I owned was in a garbage bag by the back door: the jeans and hoodie from the night under Henderson's trailer, still stiff with dried mud and vomit and whatever else had soaked into them from the ground. I'd tried to wash them in the sink. The stains faded but didn't leave. The smell faded but didn't leave. I threw them away eventually. Some things don't come clean.
 
@@ -31,5 +31,4 @@ The side door opened before we reached it. Jim Whittaker — big man gone thin, 
 "Delia's boy," he said. "And the Okafor girl. Took you long enough."
 
 The bolt clicked home. The sound of a lock engaging had never meant more.
--e 
 ---

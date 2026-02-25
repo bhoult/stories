@@ -5,7 +5,7 @@
 
 ---
 
-Jim made coffee. The power was still on — barely — and he made it on the kitchen's electric burner and poured three cups and the smell of it was so ordinary that my knees went soft. Sienna took hers black. I took mine with enough sugar to qualify as dessert because I was fifteen and had the palate of a fifteen-year-old and I did not care that Sienna watched me dump three packets of sugar in and raised one eyebrow.
+Jim made coffee. The power had been out for days — same grid as the trailer park — but the church kitchen had a two-burner Coleman propane stove that someone had donated for fish fries. He lit it with a match and boiled water and poured three cups and the smell of it was so ordinary that my knees went soft. Sienna took hers black. I took mine with enough sugar to qualify as dessert because I was fifteen and had the palate of a fifteen-year-old and I did not care that Sienna watched me dump three packets of sugar in and raised one eyebrow.
 
 Jim sat across from us and studied our faces. He took his time. He was deciding how much to tell us.
 

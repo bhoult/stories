@@ -22,7 +22,7 @@ Lisa Anderson's exact voice — the nasal quality, the stretched vowel in "mama.
 
 "Nate, are you in there? I brought you some dinner."
 
-Two lucky guesses. Lisa knew my mom worked at the hospital. Lisa had actually brought us food before. The organism had access to her memories and was rummaging through them like a drawer full of keys, trying each one, not understanding which lock it was standing in front of. It happened to pull two that fit — checking on the neighbor's kid, bringing food. Familiar voices activate the brain's reward pathways before the cortex can evaluate them. It wasn't trying to fool my thinking brain. It was reaching for the layer underneath.
+Lisa knew my mom worked at the hospital. Lisa had actually brought us food before. The organism had access to her memories and was rummaging through them like a drawer full of keys, trying each one, not understanding which lock it was standing in front of. It happened to pull two that fit — checking on the neighbor's kid, bringing food. Familiar voices activate the brain's reward pathways before the cortex can evaluate them. It wasn't trying to fool my thinking brain. It was reaching for the layer underneath.
 
 Knowing this did not help.
 
@@ -58,7 +58,7 @@ It said it exactly the way you'd say it standing in a kitchen doorway, car keys 
 
 "The co-pay's going to be ridiculous if he's out of network."
 
-I almost laughed. The worst night of my life, a dead woman's voice on my porch, and the organism was worried about insurance co-pays. It kept going — same tone, same warmth, each sentence a perfect little fossil of a life that didn't exist anymore, delivered to a door that had nothing to do with any of it.
+I almost laughed. The worst night of my life (so far), a dead woman's voice on my porch, and the organism was worried about insurance co-pays. It kept going — same tone, same warmth, each sentence a perfect little fossil of a life that didn't exist anymore, delivered to a door that had nothing to do with any of it.
 
 Forty-five minutes. 10:47 to 11:32.
 

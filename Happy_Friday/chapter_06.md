@@ -1,6 +1,6 @@
 # Chapter 6: Day Four, or How I Met Sienna
 
-I woke on the bathroom floor with a dead arm and a fever. The bite on my hand was swollen, red-streaked, hot. Cellulitis — the textbook was right about the timeline. I cleaned it with dish soap and wrapped it in a fresh sock and thought about the word *sepsis* and decided not to think about the word *sepsis*.
+I woke on the hallway floor with a dead arm and a fever. The bite on my hand was swollen, red-streaked, hot. Cellulitis — the textbook was right about the timeline. I cleaned it with dish soap and wrapped it in a fresh sock and thought about the word *sepsis* and decided not to think about the word *sepsis*.
 
 I was at the kitchen window eating peanut butter from the jar when the back door opened.
 
@@ -168,10 +168,10 @@ We drank Nesquik mixed with canned evaporated milk, because that was what was le
 
 I'm not going to tell you what time we finally stopped talking. When we did, the trailer was less empty than it had been since Friday, and that's worth recording even if I can't measure it.
 
-She took the couch. I took the bathroom floor — my spot now, the place where the walls were closest and the dark felt managed. I lay there listening to the trailer settle and to the new sound layered over it: another person breathing.
+She took the couch. I took the hallway floor — my spot now, no windows, the narrowest part of the trailer where the walls were close enough to touch both sides. I lay there listening to the trailer settle and to the new sound layered over it: another person breathing.
 
 Sometime after midnight I heard her twitch. A catch in her breath, then a sharp exhale, then the rustle of her shifting position. Then again, a few minutes later. A murmur that might have been "Jay" — the first syllable of a name she'd said seventeen times that evening. Her legs moved against the cushions, the runner's body running somewhere in the dark behind her eyes.
 
-I lay on the bathroom floor and listened and didn't go to her and didn't call out. In the morning she said nothing about it. I didn't ask. We were both carrying things that came out only when consciousness stepped aside, and the unspoken agreement — already, on the first night — was that we would not name each other's ghosts.
+I lay on the hallway floor and listened and didn't go to her and didn't call out. In the morning she said nothing about it. I didn't ask. We were both carrying things that came out only when consciousness stepped aside, and the unspoken agreement — already, on the first night — was that we would not name each other's ghosts.
 
 Tomorrow we would cross Highway 21.

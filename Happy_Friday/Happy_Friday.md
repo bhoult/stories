@@ -472,7 +472,7 @@ Lisa Anderson's exact voice — the nasal quality, the stretched vowel in "mama.
 
 "Nate, are you in there? I brought you some dinner."
 
-Two lucky guesses. Lisa knew my mom worked at the hospital. Lisa had actually brought us food before. The organism had access to her memories and was rummaging through them like a drawer full of keys, trying each one, not understanding which lock it was standing in front of. It happened to pull two that fit — checking on the neighbor's kid, bringing food. Familiar voices activate the brain's reward pathways before the cortex can evaluate them. It wasn't trying to fool my thinking brain. It was reaching for the layer underneath.
+Lisa knew my mom worked at the hospital. Lisa had actually brought us food before. The organism had access to her memories and was rummaging through them like a drawer full of keys, trying each one, not understanding which lock it was standing in front of. It happened to pull two that fit — checking on the neighbor's kid, bringing food. Familiar voices activate the brain's reward pathways before the cortex can evaluate them. It wasn't trying to fool my thinking brain. It was reaching for the layer underneath.
 
 Knowing this did not help.
 
@@ -508,7 +508,7 @@ It said it exactly the way you'd say it standing in a kitchen doorway, car keys 
 
 "The co-pay's going to be ridiculous if he's out of network."
 
-I almost laughed. The worst night of my life, a dead woman's voice on my porch, and the organism was worried about insurance co-pays. It kept going — same tone, same warmth, each sentence a perfect little fossil of a life that didn't exist anymore, delivered to a door that had nothing to do with any of it.
+I almost laughed. The worst night of my life (so far), a dead woman's voice on my porch, and the organism was worried about insurance co-pays. It kept going — same tone, same warmth, each sentence a perfect little fossil of a life that didn't exist anymore, delivered to a door that had nothing to do with any of it.
 
 Forty-five minutes. 10:47 to 11:32.
 
@@ -563,7 +563,7 @@ The textbook had given me the vocabulary. The observations had given me the patt
 
 ---
 
-Part of me was still waiting. I knew the bite theory was wrong. I knew they ate and maintained and weren't going to collapse. I knew the fear mechanism was the key. But underneath all of that there was still a fifteen-year-old kid who believed the adults were going to fix this. Somewhere out there, people with authority and resources were working the problem, and all I had to do was stay alive long enough. That was still the story. It was the last comfortable one I had.
+Part of me was still waiting. I knew the bite theory was wrong. I knew they ate and maintained and weren't going to collapse. I thought the fear mechanism was the key. But underneath all of that there was still a fifteen-year-old kid who believed the adults were going to fix this. Somewhere out there, people with authority and resources were working the problem, and all I had to do was stay alive long enough. That was still the story. It was the last comfortable one I had.
 
 I made my first mistake at 3:15 PM.
 
@@ -611,7 +611,7 @@ I crawled out. My muscles had locked. Every movement was clarifying pain. My bac
 
 Cold shower in the dark. The mud ran off in grey rivulets. The water over the cut on my back made me hiss through my teeth. Blood and dirt and things I didn't want to identify swirled down the drain. I sat on the shower floor and shook.
 
-After, wrapped in every blanket I owned, sitting on the bathroom floor with *Brunner & Suddarth* open on my knees, I wrote:
+After, wrapped in every blanket I owned, sitting in the hallway with *Brunner & Suddarth* open on my knees, I wrote:
 
 **JOURNAL ENTRY #1:**
 
@@ -622,13 +622,12 @@ After, wrapped in every blanket I owned, sitting on the bathroom floor with *Bru
 *Brunner & Suddarth chapter 6: "The stress response is mediated by the hypothalamic-pituitary-adrenal axis." The HPA axis. Three organs that decide whether you live or die based on chemical signals you can't consciously control. I am fifteen years old and I am alive because hypothermia accidentally suppressed my HPA axis. The textbook calls this "cold-induced sympatholytic effect." I call it the worst night of my life, and I learned more from it than from everything else combined.*
 
 *My hand is bad. I need antibiotics. I need someone who knows what they're doing. I need Mom.*
--e 
 ---
 
 
 # Chapter 6: Day Four, or How I Met Sienna
 
-I woke on the bathroom floor with a dead arm and a fever. The bite on my hand was swollen, red-streaked, hot. Cellulitis — the textbook was right about the timeline. I cleaned it with dish soap and wrapped it in a fresh sock and thought about the word *sepsis* and decided not to think about the word *sepsis*.
+I woke on the hallway floor with a dead arm and a fever. The bite on my hand was swollen, red-streaked, hot. Cellulitis — the textbook was right about the timeline. I cleaned it with dish soap and wrapped it in a fresh sock and thought about the word *sepsis* and decided not to think about the word *sepsis*.
 
 I was at the kitchen window eating peanut butter from the jar when the back door opened.
 
@@ -796,11 +795,11 @@ We drank Nesquik mixed with canned evaporated milk, because that was what was le
 
 I'm not going to tell you what time we finally stopped talking. When we did, the trailer was less empty than it had been since Friday, and that's worth recording even if I can't measure it.
 
-She took the couch. I took the bathroom floor — my spot now, the place where the walls were closest and the dark felt managed. I lay there listening to the trailer settle and to the new sound layered over it: another person breathing.
+She took the couch. I took the hallway floor — my spot now, no windows, the narrowest part of the trailer where the walls were close enough to touch both sides. I lay there listening to the trailer settle and to the new sound layered over it: another person breathing.
 
 Sometime after midnight I heard her twitch. A catch in her breath, then a sharp exhale, then the rustle of her shifting position. Then again, a few minutes later. A murmur that might have been "Jay" — the first syllable of a name she'd said seventeen times that evening. Her legs moved against the cushions, the runner's body running somewhere in the dark behind her eyes.
 
-I lay on the bathroom floor and listened and didn't go to her and didn't call out. In the morning she said nothing about it. I didn't ask. We were both carrying things that came out only when consciousness stepped aside, and the unspoken agreement — already, on the first night — was that we would not name each other's ghosts.
+I lay on the hallway floor and listened and didn't go to her and didn't call out. In the morning she said nothing about it. I didn't ask. We were both carrying things that came out only when consciousness stepped aside, and the unspoken agreement — already, on the first night — was that we would not name each other's ghosts.
 
 Tomorrow we would cross Highway 21.
 
@@ -809,7 +808,7 @@ Tomorrow we would cross Highway 21.
 
 We crossed Highway 21 at 7:15 AM on a Tuesday in October, which is not a sentence I expected to describe as the bravest thing I'd ever done.
 
-Sienna had lain on the couch with her shoes on and her eyes open, watching the ceiling, while I took the bathroom floor again because the bathroom was the room I'd claimed through repeated misery and at this point it felt like territory. I'd given her the blanket from my mom's bed. She didn't argue. Athletes know when to conserve.
+Sienna had lain on the couch with her shoes on and her eyes open, watching the ceiling, while I took the hallway floor again because the hallway was the spot I'd claimed through repeated misery and at this point it felt like territory. I'd given her the blanket from my mom's bed. She didn't argue. Athletes know when to conserve.
 
 I was wearing my only clean clothes — a pair of gym shorts and a Clarksville Panthers t-shirt two sizes too small that my mom had bought at a school fundraiser. Everything else I owned was in a garbage bag by the back door: the jeans and hoodie from the night under Henderson's trailer, still stiff with dried mud and vomit and whatever else had soaked into them from the ground. I'd tried to wash them in the sink. The stains faded but didn't leave. The smell faded but didn't leave. I threw them away eventually. Some things don't come clean.
 
@@ -838,7 +837,6 @@ The side door opened before we reached it. Jim Whittaker — big man gone thin, 
 "Delia's boy," he said. "And the Okafor girl. Took you long enough."
 
 The bolt clicked home. The sound of a lock engaging had never meant more.
--e 
 ---
 
 
@@ -849,7 +847,7 @@ The bolt clicked home. The sound of a lock engaging had never meant more.
 
 ---
 
-Jim made coffee. The power was still on — barely — and he made it on the kitchen's electric burner and poured three cups and the smell of it was so ordinary that my knees went soft. Sienna took hers black. I took mine with enough sugar to qualify as dessert because I was fifteen and had the palate of a fifteen-year-old and I did not care that Sienna watched me dump three packets of sugar in and raised one eyebrow.
+Jim made coffee. The power had been out for days — same grid as the trailer park — but the church kitchen had a two-burner Coleman propane stove that someone had donated for fish fries. He lit it with a match and boiled water and poured three cups and the smell of it was so ordinary that my knees went soft. Sienna took hers black. I took mine with enough sugar to qualify as dessert because I was fifteen and had the palate of a fifteen-year-old and I did not care that Sienna watched me dump three packets of sugar in and raised one eyebrow.
 
 Jim sat across from us and studied our faces. He took his time. He was deciding how much to tell us.
 

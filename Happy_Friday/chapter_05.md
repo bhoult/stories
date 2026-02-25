@@ -32,7 +32,7 @@ The textbook had given me the vocabulary. The observations had given me the patt
 
 ---
 
-Part of me was still waiting. I knew the bite theory was wrong. I knew they ate and maintained and weren't going to collapse. I knew the fear mechanism was the key. But underneath all of that there was still a fifteen-year-old kid who believed the adults were going to fix this. Somewhere out there, people with authority and resources were working the problem, and all I had to do was stay alive long enough. That was still the story. It was the last comfortable one I had.
+Part of me was still waiting. I knew the bite theory was wrong. I knew they ate and maintained and weren't going to collapse. I thought the fear mechanism was the key. But underneath all of that there was still a fifteen-year-old kid who believed the adults were going to fix this. Somewhere out there, people with authority and resources were working the problem, and all I had to do was stay alive long enough. That was still the story. It was the last comfortable one I had.
 
 I made my first mistake at 3:15 PM.
 
@@ -80,7 +80,7 @@ I crawled out. My muscles had locked. Every movement was clarifying pain. My bac
 
 Cold shower in the dark. The mud ran off in grey rivulets. The water over the cut on my back made me hiss through my teeth. Blood and dirt and things I didn't want to identify swirled down the drain. I sat on the shower floor and shook.
 
-After, wrapped in every blanket I owned, sitting on the bathroom floor with *Brunner & Suddarth* open on my knees, I wrote:
+After, wrapped in every blanket I owned, sitting in the hallway with *Brunner & Suddarth* open on my knees, I wrote:
 
 **JOURNAL ENTRY #1:**
 
@@ -91,5 +91,4 @@ After, wrapped in every blanket I owned, sitting on the bathroom floor with *Bru
 *Brunner & Suddarth chapter 6: "The stress response is mediated by the hypothalamic-pituitary-adrenal axis." The HPA axis. Three organs that decide whether you live or die based on chemical signals you can't consciously control. I am fifteen years old and I am alive because hypothermia accidentally suppressed my HPA axis. The textbook calls this "cold-induced sympatholytic effect." I call it the worst night of my life, and I learned more from it than from everything else combined.*
 
 *My hand is bad. I need antibiotics. I need someone who knows what they're doing. I need Mom.*
--e 
 ---
