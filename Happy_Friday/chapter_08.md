@@ -5,7 +5,7 @@
 
 ---
 
-Jim made coffee. The power had been out for days — same grid as the trailer park — but the church kitchen had a two-burner Coleman propane stove that someone had donated for fish fries. He lit it with a match and boiled water and poured three cups and the smell of it was so ordinary that my knees went soft. Sienna took hers black. I took mine with enough sugar to qualify as dessert because I was fifteen and had the palate of a fifteen-year-old and I did not care that Sienna watched me dump three packets of sugar in and raised one eyebrow.
+Jim made coffee. The church kitchen had a two-burner Coleman propane stove that someone had donated for fish fries. He lit it with a match and boiled water and poured three cups and the smell of it was so ordinary that my knees went soft. Sienna took hers black. I took mine with enough sugar to qualify as dessert because I was fifteen and had the palate of a fifteen-year-old and I did not care that Sienna watched me dump three packets of sugar in and raised one eyebrow.
 
 Jim sat across from us and studied our faces. He took his time. He was deciding how much to tell us.
 
@@ -82,6 +82,12 @@ She cleaned the wound with hydrogen peroxide from the church's first aid kit, ap
 "She would."
 
 "She'd also be proud of you. Don't let that go to your head." She patted the bandage once — firm, not gentle — and returned upstairs to the sanctuary where she was, Jim said, reading a romance novel and had been for two days.
+
+She came back ten minutes later with two capsules in her palm. Amoxicillin — from the church's emergency supply, the kind churches keep for mission trips. Expired, she said, by fourteen months. "Expired antibiotics lose potency but they don't become poison. Take one now, one tomorrow. It might slow the infection. It won't stop it. You need a real course from a real pharmacy."
+
+I took them. The expired amoxicillin did what expired amoxicillin does — not enough. The fever broke on the second night but the red streaks held. Ruth changed the bandage every morning, inspected it, said "hm" in a tone that conveyed either satisfaction or disappointment and I could never tell which. The cellulitis didn't spread but it didn't retreat either — it sat there, hot and stubborn, a low-grade infection my immune system was fighting to a draw. It became one more item on the list of things we needed from the pharmacy.
+
+After the pharmacy run — amoxicillin, real amoxicillin, a full ten-day course — the infection surrendered in three days. By then I'd been carrying it for two weeks and had mostly stopped noticing it, the way you stop noticing anything that hurts consistently enough. It scarred — a crescent of tooth marks on the meat of my palm that whitened as it healed. I still have it. I'm looking at it right now.
 
 ---
 

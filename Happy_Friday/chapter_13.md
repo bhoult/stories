@@ -136,7 +136,19 @@ We passed hours like that sometimes — not many, but enough. Enough to remember
 
 ---
 
-That evening I distributed the medications. Jim's metoprolol was replenished — months of supply. Ruth's atenolol, the same. I set aside propranolol for Sienna — a beta-blocker she could take before high-stress situations, insurance against her baseline running hot. I set aside hydroxyzine — an antihistamine with anxiolytic properties — as a backup for anyone whose stress started climbing.
+That evening I distributed the medications. Jim's metoprolol was replenished — months of supply. Ruth's atenolol, the same. Marcus got propranolol — as-needed, for when his flat affect wasn't enough and the grief underneath started pushing through. I set aside hydroxyzine — an antihistamine with anxiolytic properties — as a general backup for anyone whose stress started climbing. Everyone got a small emergency supply: two propranolol tablets each, sealed in sandwich bags, carried at all times. The apocalypse equivalent of a fire extinguisher — break glass in case of catecholamine spike.
+
+Sienna looked at her two pills like I'd handed her a dead insect.
+
+"I don't need them."
+
+"Your resting heart rate runs twenty beats above Jim's. Your baseline is —"
+
+"My baseline is managed. I run. I breathe. I do the box breathing you taught me. It works."
+
+"It works until it doesn't. These are for when it doesn't."
+
+She put them in her pocket with the air of someone humoring a child, and I knew she'd carry them and I knew she'd never take them unless the alternative was turning. Sienna trusted her body the way Jim trusted his God — completely, specifically, as a matter of identity. The propranolol wasn't medicine to her. It was an admission that the thing she'd built — the discipline, the breathing, the athlete's control over her own physiology — might not be enough. She wasn't wrong to resist that. She also wasn't wrong to carry them.
 
 Dale was sitting in his chair, carving. The beagle was finished. The bird was finished — it was a cardinal, I realized, the details emerging from the wood with the specificity of a man who noticed things and expressed them through his hands instead of his mouth. He was starting on something new. A turtle, I thought. Something with a shell.
 

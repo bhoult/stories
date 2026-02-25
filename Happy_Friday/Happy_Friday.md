@@ -847,7 +847,7 @@ The bolt clicked home. The sound of a lock engaging had never meant more.
 
 ---
 
-Jim made coffee. The power had been out for days — same grid as the trailer park — but the church kitchen had a two-burner Coleman propane stove that someone had donated for fish fries. He lit it with a match and boiled water and poured three cups and the smell of it was so ordinary that my knees went soft. Sienna took hers black. I took mine with enough sugar to qualify as dessert because I was fifteen and had the palate of a fifteen-year-old and I did not care that Sienna watched me dump three packets of sugar in and raised one eyebrow.
+Jim made coffee. The church kitchen had a two-burner Coleman propane stove that someone had donated for fish fries. He lit it with a match and boiled water and poured three cups and the smell of it was so ordinary that my knees went soft. Sienna took hers black. I took mine with enough sugar to qualify as dessert because I was fifteen and had the palate of a fifteen-year-old and I did not care that Sienna watched me dump three packets of sugar in and raised one eyebrow.
 
 Jim sat across from us and studied our faces. He took his time. He was deciding how much to tell us.
 
@@ -924,6 +924,12 @@ She cleaned the wound with hydrogen peroxide from the church's first aid kit, ap
 "She would."
 
 "She'd also be proud of you. Don't let that go to your head." She patted the bandage once — firm, not gentle — and returned upstairs to the sanctuary where she was, Jim said, reading a romance novel and had been for two days.
+
+She came back ten minutes later with two capsules in her palm. Amoxicillin — from the church's emergency supply, the kind churches keep for mission trips. Expired, she said, by fourteen months. "Expired antibiotics lose potency but they don't become poison. Take one now, one tomorrow. It might slow the infection. It won't stop it. You need a real course from a real pharmacy."
+
+I took them. The expired amoxicillin did what expired amoxicillin does — not enough. The fever broke on the second night but the red streaks held. Ruth changed the bandage every morning, inspected it, said "hm" in a tone that conveyed either satisfaction or disappointment and I could never tell which. The cellulitis didn't spread but it didn't retreat either — it sat there, hot and stubborn, a low-grade infection my immune system was fighting to a draw. It became one more item on the list of things we needed from the pharmacy.
+
+After the pharmacy run — amoxicillin, real amoxicillin, a full ten-day course — the infection surrendered in three days. By then I'd been carrying it for two weeks and had mostly stopped noticing it, the way you stop noticing anything that hurts consistently enough. It scarred — a crescent of tooth marks on the meat of my palm that whitened as it healed. I still have it. I'm looking at it right now.
 
 ---
 
@@ -2157,7 +2163,19 @@ We passed hours like that sometimes — not many, but enough. Enough to remember
 
 ---
 
-That evening I distributed the medications. Jim's metoprolol was replenished — months of supply. Ruth's atenolol, the same. I set aside propranolol for Sienna — a beta-blocker she could take before high-stress situations, insurance against her baseline running hot. I set aside hydroxyzine — an antihistamine with anxiolytic properties — as a backup for anyone whose stress started climbing.
+That evening I distributed the medications. Jim's metoprolol was replenished — months of supply. Ruth's atenolol, the same. Marcus got propranolol — as-needed, for when his flat affect wasn't enough and the grief underneath started pushing through. I set aside hydroxyzine — an antihistamine with anxiolytic properties — as a general backup for anyone whose stress started climbing. Everyone got a small emergency supply: two propranolol tablets each, sealed in sandwich bags, carried at all times. The apocalypse equivalent of a fire extinguisher — break glass in case of catecholamine spike.
+
+Sienna looked at her two pills like I'd handed her a dead insect.
+
+"I don't need them."
+
+"Your resting heart rate runs twenty beats above Jim's. Your baseline is —"
+
+"My baseline is managed. I run. I breathe. I do the box breathing you taught me. It works."
+
+"It works until it doesn't. These are for when it doesn't."
+
+She put them in her pocket with the air of someone humoring a child, and I knew she'd carry them and I knew she'd never take them unless the alternative was turning. Sienna trusted her body the way Jim trusted his God — completely, specifically, as a matter of identity. The propranolol wasn't medicine to her. It was an admission that the thing she'd built — the discipline, the breathing, the athlete's control over her own physiology — might not be enough. She wasn't wrong to resist that. She also wasn't wrong to carry them.
 
 Dale was sitting in his chair, carving. The beagle was finished. The bird was finished — it was a cardinal, I realized, the details emerging from the wood with the specificity of a man who noticed things and expressed them through his hands instead of his mouth. He was starting on something new. A turtle, I thought. Something with a shell.
 
@@ -3660,7 +3678,7 @@ We all smelled like smoke and sweat. The fire provided warmth for whoever was on
 
 That night I dreamed I was in the trailer. Everything was right — the paneling, the counter, the burn mark. But the trailer was moving. Not on wheels — being dragged, the whole structure shuddering, the floor tilting, and through the kitchen window the trees were not the park's trees but the OHT forest, oaks and hickories scrolling past as the trailer was pulled through terrain it was never built for. I could hear the skirting tearing underneath, the vinyl shredding against rock, and I ran to the back door and opened it and the drop was not the gravel lot but a ravine, a hundred feet of empty air, and the trailer was sliding toward the edge and I couldn't stop it because you can't stop a house.
 
-I woke to the sound of wind in the canopy and for three heartbeats I didn't know which world was real — the forest or the trailer — and my hand found my wrist and counted and the count was high, one-ten, one-oh-six, and I lay still and watched the fire embers and breathed until the numbers came down and the trailer dissolved and I was on a rock in the Boston Mountains and the stars were the only things that hadn't changed.
+I woke to the sound of wind in the canopy and for three heartbeats I didn't know which world was real — the forest or the trailer — and my hand found my wrist and counted and the count was high, one-ten, one-oh-six, and I lay still and watched the fire embers and breathed until the numbers came down and the trailer dissolved and I was on a rock in the Boston Mountains and the stars were the only things that hadn't changed. The bite scar on my palm pressed against my wrist as I counted — the crescent of tooth marks, white now, a souvenir from the night I learned to be quiet.
 
 **JOURNAL ENTRY #13:**
 
