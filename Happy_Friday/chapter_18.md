@@ -253,7 +253,17 @@ Ruth said, "The trail doesn't need flattening. I need better knees."
 
 Jim said, "I'll pray for those too."
 
-During the packing, Caleb tugged on Marcus's sleeve. "What about Triceratops and Steggy and Rex?"
+During the packing, Marcus brought up the chickens. Not the leaving-them-behind part. The other part.
+
+"Three hens," he said, not looking at anyone in particular. "Protein. We're hiking sixty miles on freeze-dried nothing. Three birds is three meals. Real meals."
+
+Nobody said anything. The silence had a specific shape — the shape of eight people not looking at the corner of the sanctuary where Caleb was feeding scraps to Triceratops through the slats of a cardboard box he'd converted into a travel crate. Marcus followed the silence to its source. He looked at Caleb. He looked at the chicken. He looked back at the group.
+
+"Never mind," he said.
+
+Nobody mentioned it again.
+
+Later, Caleb tugged on Marcus's sleeve. "What about Triceratops and Steggy and Rex?"
 
 Marcus looked at me. I looked at the floor. The chickens couldn't come — we were biking to the trailhead, then hiking sixty miles of mountain trail with packs that already weighed more than Caleb did. There was no version of the plan that included three hens.
 
