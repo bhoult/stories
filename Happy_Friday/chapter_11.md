@@ -48,15 +48,7 @@ Jim broke it. "She didn't mention God."
 
 Marcus capped his flask. "The density threshold. She said it varies. She doesn't have numbers."
 
-"I've been counting," I said. "The Walmart cluster hit twenty-five and I saw behavioral changes — twitchiness, agitation. The Lyles have maybe twenty in their perimeter and they're stable so far, but the count is growing. If it's about spatial density, not raw numbers..."
-
-"Then the Lyles' property — what, quarter acre? — is a tighter space than the Walmart parking lot. The threshold would be lower."
-
-"Yes."
-
-"How much lower?"
-
-"I don't know. She doesn't know. That's the problem — the most important number is the one nobody can give us, and if we guess wrong, the Lyles' house comes apart."
+"I've been counting," I said. "The Walmart cluster hit twenty-five and I saw behavioral changes — twitchiness, agitation. The Lyles have maybe twenty in their perimeter and the count is growing." I wrote the number in the notebook and circled it. The most important number was the one nobody could give us.
 
 ---
 
@@ -84,17 +76,7 @@ Dale picked up the knife. Started carving again. The strokes were tighter, faste
 
 Maria, from the pantry closet, said: "How much Suboxone do we have?"
 
-"Eighteen days," Dale said. Without looking up. He'd been counting. Of course he'd been counting.
-
-"The pharmacy run got beta-blockers for Jim and Ruth. Did it get Suboxone?"
-
-"Suboxone isn't behind the counter at a small-town pharmacy," Dale said. "It's prescribed through clinics. Controlled distribution. The nearest clinic was in Fort Smith and Fort Smith is —" He didn't finish. Fort Smith was forty miles west on I-40, through exactly the kind of urban corridor that Moss had just told us to avoid.
-
-"Eighteen days," Maria said. She was doing math. I could see her doing it — resources in, resources out, time to zero. "And then what?"
-
-Dale didn't answer. His knife moved. The wood curled.
-
-"And then I find out whether twelve years of sobriety and six months of yoga are enough to keep my nervous system below whatever the line is." He looked up. His eyes were flat. "I'll let you know."
+"Eighteen days," Dale said. Without looking up. He'd been counting. Of course he'd been counting. "And then I find out whether twelve years of sobriety and six months of yoga are enough to keep my nervous system below whatever the line is." He looked up. His eyes were flat. "I'll let you know."
 
 ---
 
@@ -114,29 +96,11 @@ Jim looked up from his Bible.
 
 The room changed. Ruth's novel lowered an inch. Dale's knife paused mid-stroke. Maria's head turned from the pantry like a radar dish acquiring a target.
 
-"Killing," Jim said. The word sat in his mouth like a stone.
+"They're people, Marcus," Jim said.
 
-"They stand in the parking lot. They don't move. They don't dodge. Somebody walks up with a hatchet, hits one in the head — what happens? Does it die?"
+"They're standing in a parking lot in the rain using dead people's voices to scare other people into joining them. That's not people behavior, Jim."
 
-"They're people, Marcus."
-
-"They're standing in a parking lot in the rain using dead people's voices to scare other people into joining them. That's not people behavior, Jim. That's predator behavior wearing a people costume."
-
-Dale's knife moved again — one slow stroke. "What if they feel it?"
-
-Marcus looked at him. "What if they do? Isn't that worse? Being trapped inside something that uses your body to hurt people you love — isn't that the thing that's worse than dying?"
-
-Nobody had an answer for that. Jim's mouth opened and closed. Ruth's novel went back up, but her eyes weren't tracking the page.
-
-"We don't know enough," I said. "We don't know if they can be killed — Moss said they're physically resilient, the organism maintains the host. We don't know if killing one triggers a response from the others. Ignorance should stop us before morality does."
-
-"Morality's the thing that should stop us first," Jim said. Quiet. Certain.
-
-"Then morality and ignorance are on the same side for once," I said. "We don't kill what we don't understand."
-
-Marcus capped his flask. "I'm not saying we should. I'm asking if anyone's tried." He looked around the room. "Because if nobody's tried, then nobody knows. And 'nobody knows' is a hell of a thing to bet your life on."
-
-The question hung in the basement like smoke. Nobody answered it. Nobody put it away, either.
+Nobody had an answer. The question hung in the basement like smoke. Nobody answered it. Nobody put it away, either.
 
 That night Marcus woke the basement.
 
@@ -248,7 +212,7 @@ And underneath all three layers was the thing Moss had described without dwellin
 
 Every model I built had a shelf life. Every answer was temporary. The organism was iterating faster than my understanding.
 
-I thought about something I'd read in a Wikipedia article about evolution — not in the textbook, just one of those 2 AM deep dives where you start with "how fast do bacteria evolve" and end up reading about the Red Queen hypothesis. The idea is simple: in an evolutionary arms race, you have to keep running just to stay in the same place. The organism adapts, so you adapt, so it adapts again, and the race never ends. Lewis Carroll's Red Queen, telling Alice: "It takes all the running you can do, to keep in the same place."
+Ruth would have called it the Red Queen hypothesis — she had a Lewis Carroll reference for everything, thirty-nine years of teaching lodged in her brain like sediment. "It takes all the running you can do, to keep in the same place." In evolutionary biology, the idea is simple: in an arms race, you have to keep adapting just to maintain your position. The organism adapts, so you adapt, so it adapts again, and the race never ends.
 
 We were in a Red Queen race and we were losing. Not because we weren't adapting — we were. But our adaptation was cognitive, social, slow. The organism's adaptation was biological, collective, fast. We were playing chess against something that was rewriting the rules between moves.
 

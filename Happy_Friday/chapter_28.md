@@ -52,6 +52,10 @@ I know this because I walked past and saw him and kept walking. Some moments you
 
 **Caleb.** He was, remarkably, okay. Seven years old, orphaned, carried through a thousand Turned on a stranger's back, and he was drawing dinosaurs with crayons he'd found in a first-grade classroom in the education building and he was okay. Not undamaged — but okay the way children are okay when the adults around them are steady enough to build a floor. We were his floor. Dale's carvings, Marcus's stories, Jim's breathing lessons, Ruth's grammar corrections, Sienna's warmth, my presence — each of us a plank keeping Caleb above the water. He didn't know this. He didn't need to. He just needed to draw dinosaurs and hold the wooden beagle and fall asleep in someone's lap, and we provided these things because providing them was the only unambiguous good left in the world.
 
+At dinner, Caleb asked if there was a playground on campus. "With swings," he specified. "And a slide. And can we play tag when we go outside?"
+
+Sienna and I looked at each other. Not sadness — something closer to jealousy. His biggest problem was finding a place to play tag. Ours was calculating whether the emitter's range would hold through December. He was seven and his parents were gone and he still thought the future contained swings, and we were fifteen and seventeen and we'd stopped thinking the future contained anything at all, and of the two worldviews his was the one I wanted back.
+
 **Sienna.** She was running.
 
 Running laps around the campus track — the university's outdoor oval, four hundred meters, visible from the science building's second floor. I watched her from the window. She ran in the mornings, alone, controlled, her breathing measured. She ran the way she'd trained before — stride long, arms pumping, the biomechanics of a state-qualifier in the 400-meter. But different. Slower. More deliberate. She was testing her limits, finding the line between exertion and activation, reclaiming the thing the organism had tried to take from her.
@@ -126,11 +130,25 @@ Sienna found me in the hallway outside the radio room. I was sitting on the floo
 
 She sat down next to me. She'd been running — not the survival kind, the real kind. Moss had cleared a section of the track inside the emitter's perimeter and Sienna had been running it every morning, and the act of running without dying had done something for her that nothing else could. She was breathing hard and her skin was warm and she smelled like sweat and November air and the cheap soap from the university's emergency supplies.
 
-"You ready?" she said.
+She dropped two things in my lap. Vending machine candy bars — the fun-size kind, from a machine in the dormitory lobby that Marcus had pried open with a flathead screwdriver two days ago. The chocolate was grey with age. We did not care. They were candy bars. We'd eaten freeze-dried beef stew for six weeks and these were *candy bars.*
+
+"I'm not sharing mine," she said. "You get your own."
+
+"You literally just put it in my lap."
+
+"That's your share. Don't look at mine." She was already unwrapping hers, breaking off a piece with the focused attention of a person performing surgery. We sat in the hallway eating bad chocolate and for thirty seconds the world was just two kids splitting a vending machine score and the apocalypse was someone else's problem.
+
+"You ready?" she said, when the chocolate was gone.
 
 "No."
 
 "Good. Honest people live longer." Same thing she'd said on the morning we crossed Highway 21. A lifetime ago. Five weeks ago. Both.
+
+"And don't use your customer service voice."
+
+"I don't have a customer service voice."
+
+"You do. It's the one where you sound like a Wikipedia article somebody read into a microphone. Use the other one. The one that sounds like a person."
 
 She leaned her head against the wall. We sat in the hallway and didn't talk for a while. The hum of the emitter came through the floor. Somewhere downstairs, Caleb was laughing — an actual, genuine child's laugh, the first one I'd heard in weeks, and the sound of it went through me like sunlight through a window.
 

@@ -73,7 +73,13 @@ Marcus looked at my route and said: "That section drops into Hurricane Creek val
 
 "I know what panicked people do when they're running out of highway. I've been watching them do it for fifteen years. They take the exit. They follow the road to where it ends. They park and they wait. And now they're Turned and they're standing in a trailhead parking lot and your 'shortest path' walks right through them."
 
-We argued. I argued with data. Marcus argued with experience. The argument was the first real authority clash in the group — the kid with the map versus the man who'd driven the roads — and it ended the way it had to end: I conceded. Not because Marcus pulled rank. Because he was right, and being right was more important than being in charge.
+We argued. I argued with data — "the map contours suggest the drainage is seasonal, Marcus, the elevation profile clearly shows —" and Marcus argued with experience. He waited until I'd finished mapping a creek bed I'd never seen, then said, "Have you ever been to a creek?"
+
+"I've seen maps of creeks."
+
+He stared at me. The stare lasted long enough that I heard how that sounded.
+
+The argument was the first real authority clash in the group — the kid with the map versus the man who'd driven the roads — and it ended the way it had to end: I conceded. Not because Marcus pulled rank. Because he was right, and being right was more important than being in charge. Though I want the record to show that the elevation profile *did* clearly show what I said it showed. The elevation profile just turned out to be irrelevant. This is a distinction I cared about at the time and that nobody else cared about at all.
 
 Marcus's route was longer — an extra day, maybe two, approaching from the south on higher ground, avoiding the creek bottoms, staying on ridgelines with sightlines. Less efficient. More survivable.
 

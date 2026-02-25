@@ -24,33 +24,33 @@ He set down the knife. "Good. Because I want to teach you something. All of you.
 
 ---
 
-He taught us that morning, sitting around the campfire, the November light coming through the canopy in broken columns. Ruth was there, walking stick across her lap. Marcus leaning against a tree, listening with the attention of a man who had spent three weeks self-medicating with bourbon and recognized the vocabulary. Maria beside Dale, her shoulder against his, the point of contact that was their marriage's remaining architecture. Sienna next to me. Jim across the fire. Caleb on the ground with the zoo.
+Marcus was already packing. Rolling tarps, cinching straps, checking the shopping cart wheels. "Teach while we walk," he said. "Daylight's burning."
 
-"Radical acceptance," Dale said. "The name is terrible. It sounds like a bumper sticker. But it's the most useful thing I ever learned and it applies to exactly where we are."
+So Dale taught while we walked.
 
-He stood up. He paced — three steps forward, three back, the habit of a man who'd spent years in small rooms talking about hard things.
+We broke camp and continued south on the highway, the terrain opening as the mountains fell behind us. The first lesson came on the first grade — not steep, but enough that my breathing deepened and I felt the old pattern stirring, the anger looking for something to push against.
 
-"Here's what it means. The situation is what it is. Your feelings about the situation are not the situation. You can feel terrified and still be safe. You can feel hopeless and still have options. You can feel like the world is ending —" A glance around the group. "— and the world is ending, and the feeling is still not the thing itself. The feeling is weather. The situation is geography. You navigate the geography. You endure the weather."
+"Radical acceptance," Dale said, walking beside me, pushing a shopping cart over cracked asphalt. "The name is terrible. It sounds like a bumper sticker. But it's the most useful thing I ever learned." He was breathing hard — the grade — but his voice was steady. "Here's what it means. The situation is what it is. Your feelings about the situation are not the situation. You can feel like this hill is going to kill you and still be walking up it. The feeling is weather. The hill is geography. You navigate the geography. You endure the weather."
 
-Ruth: "That's remarkably coherent for someone who learned it in a rehabilitation clinic."
+Ruth, from behind us: "That's remarkably coherent for someone who learned it in a rehabilitation clinic."
 
 "Rehab was the most educational experience of my life. More than high school. More than the army. Six years of active addiction was its own education, but the curriculum was pain and the degree was worthless." He almost smiled. "In rehab I learned that the brain lies. Not maliciously — the brain lies the way a GPS lies when the map is outdated. It gives you directions based on old data. 'Turn left to feel better.' 'Use this substance to stop the pain.' 'Run from the thing that scares you.' The directions were correct in the old world. In this world, the directions will kill you."
 
-He stopped pacing. Faced us.
+He went quiet on the steeper pitch — nobody talks on the steep parts — and picked it up on the next flat stretch.
 
-"Urge surfing. You know this one from HALT, but I want to go deeper. When the urge comes — the craving, the fear, the panic — you don't fight it. You ride it. You notice it: 'My heart rate is up. My hands are sweating. My brain is telling me to run.' Like a wave in the ocean. The wave is real. The wave has power. And the wave passes. Every wave passes. You just have to not drown, and not drowning is mostly about not panicking."
+"Urge surfing. When the urge comes — the craving, the fear, the panic — you don't fight it. You ride it. You notice it: 'My heart rate is up. My hands are sweating. My brain is telling me to run.' Like a wave. The wave is real. The wave has power. And the wave passes. Every wave passes. You just have to not drown, and not drowning is mostly about not panicking."
 
-Marcus, from the back: "That sounds like something I should have heard twenty years ago."
+Marcus, pushing his cart over a pothole: "That sounds like something I should have heard twenty years ago."
 
-"It sounds like something everyone should hear. The recovery community figured out the mechanics of emotional regulation before the neuroscientists did. We had to — our lives depended on it. And now everyone's life depends on it and the irony is —" He looked at his hands again. Steady. "The irony is that the thing that destroyed me is the thing that trained me. Six years of addiction gave me the problem. Twelve years of recovery gave me the skills. And the skills are the exact skills you need to survive a pathogen that feeds on fear."
+"It sounds like something everyone should hear. The recovery community figured out the mechanics of emotional regulation before the neuroscientists did. We had to — our lives depended on it. And now everyone's life depends on it and the irony is —" He glanced at his hands on the cart handle. Steady. "The irony is that the thing that destroyed me is the thing that trained me. Six years of addiction gave me the problem. Twelve years of recovery gave me the skills. And the skills are the exact skills you need to survive a pathogen that feeds on fear."
 
-He sat down.
+We stopped for water at a pull-off where the highway widened. Caleb sat on the guardrail, arranging his wooden animals in a line — beagle, cardinal, fox, turtle — and the line looked like a parade going somewhere hopeful.
 
-"Rock bottom was just training," he said. "And every one of you — every person sitting at this fire who has ever been afraid, or addicted, or depressed, or anxious, or broken in whatever way your particular brain decided to break — has training you don't know you have. Your damage is your skillset. The thing that went wrong is the thing that prepared you. I know that sounds like a motivational poster. I know that. But I'm three weeks past my last dose of Suboxone and my hands are steady and I'm alive and the reason I'm alive is that my brain broke in exactly the right way at exactly the right time and I spent twelve years learning to manage the break."
+Dale sat on the edge of a shopping cart and looked at us.
 
-The camp was quiet. The light came through the canopy and made patches on the ground and Caleb was arranging his animals in a line — beagle, cardinal, fox, turtle — and the line looked like a parade going somewhere hopeful.
+"Rock bottom was just training," he said. "And every one of you — every person here who has ever been afraid, or addicted, or depressed, or anxious, or broken in whatever way your particular brain decided to break — has training you don't know you have. Your damage is your skillset. The thing that went wrong is the thing that prepared you. I know that sounds like a motivational poster. I know that. But I'm three weeks past my last dose of Suboxone and my hands are steady and I'm alive and the reason I'm alive is that my brain broke in exactly the right way at exactly the right time and I spent twelve years learning to manage the break."
 
-Jim, from across the fire: "Dale, that's the best sermon I've ever heard."
+Jim, sitting with Caleb on the guardrail: "Dale, that's the best sermon I've ever heard."
 
 "It's not a sermon. Sermons have endings. This is a practice. You do it every day. Every five minutes, if you have to."
 
@@ -64,7 +64,7 @@ Dale looked at Jim. Two men who had spent their lives in folding chairs — one 
 
 **JOURNAL ENTRY #17:**
 
-*Dale's damage was his skillset. His words, not mine. But I've been sitting with them since the lesson, turning them over the way he turns wood in his hands, and I think the principle extends further than he meant it.*
+*Dale's damage was his skillset. His words, not mine. But I've been turning them over the way he turns wood in his hands, and I think the principle extends further than he meant it.*
 
 *My damage is my skillset too. But not the way I've been telling it.*
 
@@ -80,7 +80,7 @@ Dale looked at Jim. Two men who had spent their lives in folding chairs — one 
 
 ---
 
-We broke camp after the lesson and continued south on the highway. The terrain was opening — the mountains behind us now, the road descending through the last of the switchbacks toward the broad plateau where Fayetteville sat. Dale walked near the front, pushing one of the shopping carts. His pace was steady — the walk of a man who had come through the worst of it and was standing on the other side. Maria walked behind him, and I noticed that she wasn't walking behind him to support him. He was setting the pace and she was following it. The dynamic between them had shifted from "managing the addict" to "walking with the man," and neither of them acknowledged it.
+After the stop, Dale walked near the front, pushing one of the shopping carts. His pace was steady — the walk of a man who had come through the worst of it and was standing on the other side. The road descended through the last of the switchbacks toward the broad plateau where Fayetteville sat. Maria walked behind him, and I noticed that she wasn't walking behind him to support him. He was setting the pace and she was following it. The dynamic between them had shifted from "managing the addict" to "walking with the man," and neither of them acknowledged it.
 
 Marcus, walking beside me, said quietly: "He's tougher than he looks."
 

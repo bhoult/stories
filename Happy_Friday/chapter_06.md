@@ -62,7 +62,7 @@ She wasn't wrong about this either and I hated it.
 
 ---
 
-We argued. About everything. She wanted to leave — find help, the National Guard, anyone with a plan. I wanted to stay and understand.
+We argued. About everything. She paced while we argued — three steps to the counter, three steps back, her hands adjusting things that didn't need adjusting, unable to have a disagreement while stationary. She wanted to leave — find help, the National Guard, anyone with a plan. I wanted to stay and understand.
 
 "We can't just sit here," she said. "The food runs out, the power's failing, and there's eleven of them out there and the number is going up."
 

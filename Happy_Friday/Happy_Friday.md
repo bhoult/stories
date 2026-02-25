@@ -660,7 +660,7 @@ She wasn't wrong about this either and I hated it.
 
 ---
 
-We argued. About everything. She wanted to leave — find help, the National Guard, anyone with a plan. I wanted to stay and understand.
+We argued. About everything. She paced while we argued — three steps to the counter, three steps back, her hands adjusting things that didn't need adjusting, unable to have a disagreement while stationary. She wanted to leave — find help, the National Guard, anyone with a plan. I wanted to stay and understand.
 
 "We can't just sit here," she said. "The food runs out, the power's failing, and there's eleven of them out there and the number is going up."
 
@@ -1485,15 +1485,7 @@ Jim broke it. "She didn't mention God."
 
 Marcus capped his flask. "The density threshold. She said it varies. She doesn't have numbers."
 
-"I've been counting," I said. "The Walmart cluster hit twenty-five and I saw behavioral changes — twitchiness, agitation. The Lyles have maybe twenty in their perimeter and they're stable so far, but the count is growing. If it's about spatial density, not raw numbers..."
-
-"Then the Lyles' property — what, quarter acre? — is a tighter space than the Walmart parking lot. The threshold would be lower."
-
-"Yes."
-
-"How much lower?"
-
-"I don't know. She doesn't know. That's the problem — the most important number is the one nobody can give us, and if we guess wrong, the Lyles' house comes apart."
+"I've been counting," I said. "The Walmart cluster hit twenty-five and I saw behavioral changes — twitchiness, agitation. The Lyles have maybe twenty in their perimeter and the count is growing." I wrote the number in the notebook and circled it. The most important number was the one nobody could give us.
 
 ---
 
@@ -1521,17 +1513,7 @@ Dale picked up the knife. Started carving again. The strokes were tighter, faste
 
 Maria, from the pantry closet, said: "How much Suboxone do we have?"
 
-"Eighteen days," Dale said. Without looking up. He'd been counting. Of course he'd been counting.
-
-"The pharmacy run got beta-blockers for Jim and Ruth. Did it get Suboxone?"
-
-"Suboxone isn't behind the counter at a small-town pharmacy," Dale said. "It's prescribed through clinics. Controlled distribution. The nearest clinic was in Fort Smith and Fort Smith is —" He didn't finish. Fort Smith was forty miles west on I-40, through exactly the kind of urban corridor that Moss had just told us to avoid.
-
-"Eighteen days," Maria said. She was doing math. I could see her doing it — resources in, resources out, time to zero. "And then what?"
-
-Dale didn't answer. His knife moved. The wood curled.
-
-"And then I find out whether twelve years of sobriety and six months of yoga are enough to keep my nervous system below whatever the line is." He looked up. His eyes were flat. "I'll let you know."
+"Eighteen days," Dale said. Without looking up. He'd been counting. Of course he'd been counting. "And then I find out whether twelve years of sobriety and six months of yoga are enough to keep my nervous system below whatever the line is." He looked up. His eyes were flat. "I'll let you know."
 
 ---
 
@@ -1551,29 +1533,11 @@ Jim looked up from his Bible.
 
 The room changed. Ruth's novel lowered an inch. Dale's knife paused mid-stroke. Maria's head turned from the pantry like a radar dish acquiring a target.
 
-"Killing," Jim said. The word sat in his mouth like a stone.
+"They're people, Marcus," Jim said.
 
-"They stand in the parking lot. They don't move. They don't dodge. Somebody walks up with a hatchet, hits one in the head — what happens? Does it die?"
+"They're standing in a parking lot in the rain using dead people's voices to scare other people into joining them. That's not people behavior, Jim."
 
-"They're people, Marcus."
-
-"They're standing in a parking lot in the rain using dead people's voices to scare other people into joining them. That's not people behavior, Jim. That's predator behavior wearing a people costume."
-
-Dale's knife moved again — one slow stroke. "What if they feel it?"
-
-Marcus looked at him. "What if they do? Isn't that worse? Being trapped inside something that uses your body to hurt people you love — isn't that the thing that's worse than dying?"
-
-Nobody had an answer for that. Jim's mouth opened and closed. Ruth's novel went back up, but her eyes weren't tracking the page.
-
-"We don't know enough," I said. "We don't know if they can be killed — Moss said they're physically resilient, the organism maintains the host. We don't know if killing one triggers a response from the others. Ignorance should stop us before morality does."
-
-"Morality's the thing that should stop us first," Jim said. Quiet. Certain.
-
-"Then morality and ignorance are on the same side for once," I said. "We don't kill what we don't understand."
-
-Marcus capped his flask. "I'm not saying we should. I'm asking if anyone's tried." He looked around the room. "Because if nobody's tried, then nobody knows. And 'nobody knows' is a hell of a thing to bet your life on."
-
-The question hung in the basement like smoke. Nobody answered it. Nobody put it away, either.
+Nobody had an answer. The question hung in the basement like smoke. Nobody answered it. Nobody put it away, either.
 
 That night Marcus woke the basement.
 
@@ -1685,7 +1649,7 @@ And underneath all three layers was the thing Moss had described without dwellin
 
 Every model I built had a shelf life. Every answer was temporary. The organism was iterating faster than my understanding.
 
-I thought about something I'd read in a Wikipedia article about evolution — not in the textbook, just one of those 2 AM deep dives where you start with "how fast do bacteria evolve" and end up reading about the Red Queen hypothesis. The idea is simple: in an evolutionary arms race, you have to keep running just to stay in the same place. The organism adapts, so you adapt, so it adapts again, and the race never ends. Lewis Carroll's Red Queen, telling Alice: "It takes all the running you can do, to keep in the same place."
+Ruth would have called it the Red Queen hypothesis — she had a Lewis Carroll reference for everything, thirty-nine years of teaching lodged in her brain like sediment. "It takes all the running you can do, to keep in the same place." In evolutionary biology, the idea is simple: in an arms race, you have to keep adapting just to maintain your position. The organism adapts, so you adapt, so it adapts again, and the race never ends.
 
 We were in a Red Queen race and we were losing. Not because we weren't adapting — we were. But our adaptation was cognitive, social, slow. The organism's adaptation was biological, collective, fast. We were playing chess against something that was rewriting the rules between moves.
 
@@ -3225,7 +3189,13 @@ Marcus looked at my route and said: "That section drops into Hurricane Creek val
 
 "I know what panicked people do when they're running out of highway. I've been watching them do it for fifteen years. They take the exit. They follow the road to where it ends. They park and they wait. And now they're Turned and they're standing in a trailhead parking lot and your 'shortest path' walks right through them."
 
-We argued. I argued with data. Marcus argued with experience. The argument was the first real authority clash in the group — the kid with the map versus the man who'd driven the roads — and it ended the way it had to end: I conceded. Not because Marcus pulled rank. Because he was right, and being right was more important than being in charge.
+We argued. I argued with data — "the map contours suggest the drainage is seasonal, Marcus, the elevation profile clearly shows —" and Marcus argued with experience. He waited until I'd finished mapping a creek bed I'd never seen, then said, "Have you ever been to a creek?"
+
+"I've seen maps of creeks."
+
+He stared at me. The stare lasted long enough that I heard how that sounded.
+
+The argument was the first real authority clash in the group — the kid with the map versus the man who'd driven the roads — and it ended the way it had to end: I conceded. Not because Marcus pulled rank. Because he was right, and being right was more important than being in charge. Though I want the record to show that the elevation profile *did* clearly show what I said it showed. The elevation profile just turned out to be irrelevant. This is a distinction I cared about at the time and that nobody else cared about at all.
 
 Marcus's route was longer — an extra day, maybe two, approaching from the south on higher ground, avoiding the creek bottoms, staying on ridgelines with sightlines. Less efficient. More survivable.
 
@@ -3494,7 +3464,7 @@ The first mile climbed six hundred feet. I know this because I asked Marcus. I'm
 
 Oak leaves covered the trail — ankle-deep, dry, hiding every root and rock beneath them. The path switchbacked up the hollow in tight turns, gaining elevation through a forest of white oaks and hickories that were shedding their canopy in sheets of bronze and amber. The leaves crunched under eight pairs of feet. Below us, through the thinning trees, the lowland we'd left fell away into haze.
 
-The order of march: Marcus in front, because he'd crossed these ridgelines by road and had the best instinct for terrain. Then Sienna, setting pace, her stride shortened to match Ruth's but still fluid, still the athlete's economy. Then Jim and Ruth, side by side, Jim's hand occasionally steadying Ruth's elbow on the steeper grades. Then Dale and Caleb, Dale's knife out and a piece of wood in his other hand, carving as he walked, the shavings falling behind him like breadcrumbs. Then Maria, who walked with the precise, metronomic pace of a woman who had decided that sixty miles was a logistical problem and was solving it one step at a time.
+The order of march: Marcus in front, because he'd crossed these ridgelines by road and had the best instinct for terrain. Then Sienna, setting pace, her stride shortened to match Ruth's but still fluid, still the athlete's economy — and she kept bouncing on her toes when the group stopped, stretching her calves against rocks, the runner's body idling at a speed it found insulting. Then Jim and Ruth, side by side, Jim's hand occasionally steadying Ruth's elbow on the steeper grades. Then Dale and Caleb, Dale's knife out and a piece of wood in his other hand, carving as he walked, the shavings falling behind him like breadcrumbs. Then Maria, who walked with the precise, metronomic pace of a woman who had decided that sixty miles was a logistical problem and was solving it one step at a time.
 
 Then me.
 
@@ -4488,33 +4458,33 @@ He set down the knife. "Good. Because I want to teach you something. All of you.
 
 ---
 
-He taught us that morning, sitting around the campfire, the November light coming through the canopy in broken columns. Ruth was there, walking stick across her lap. Marcus leaning against a tree, listening with the attention of a man who had spent three weeks self-medicating with bourbon and recognized the vocabulary. Maria beside Dale, her shoulder against his, the point of contact that was their marriage's remaining architecture. Sienna next to me. Jim across the fire. Caleb on the ground with the zoo.
+Marcus was already packing. Rolling tarps, cinching straps, checking the shopping cart wheels. "Teach while we walk," he said. "Daylight's burning."
 
-"Radical acceptance," Dale said. "The name is terrible. It sounds like a bumper sticker. But it's the most useful thing I ever learned and it applies to exactly where we are."
+So Dale taught while we walked.
 
-He stood up. He paced — three steps forward, three back, the habit of a man who'd spent years in small rooms talking about hard things.
+We broke camp and continued south on the highway, the terrain opening as the mountains fell behind us. The first lesson came on the first grade — not steep, but enough that my breathing deepened and I felt the old pattern stirring, the anger looking for something to push against.
 
-"Here's what it means. The situation is what it is. Your feelings about the situation are not the situation. You can feel terrified and still be safe. You can feel hopeless and still have options. You can feel like the world is ending —" A glance around the group. "— and the world is ending, and the feeling is still not the thing itself. The feeling is weather. The situation is geography. You navigate the geography. You endure the weather."
+"Radical acceptance," Dale said, walking beside me, pushing a shopping cart over cracked asphalt. "The name is terrible. It sounds like a bumper sticker. But it's the most useful thing I ever learned." He was breathing hard — the grade — but his voice was steady. "Here's what it means. The situation is what it is. Your feelings about the situation are not the situation. You can feel like this hill is going to kill you and still be walking up it. The feeling is weather. The hill is geography. You navigate the geography. You endure the weather."
 
-Ruth: "That's remarkably coherent for someone who learned it in a rehabilitation clinic."
+Ruth, from behind us: "That's remarkably coherent for someone who learned it in a rehabilitation clinic."
 
 "Rehab was the most educational experience of my life. More than high school. More than the army. Six years of active addiction was its own education, but the curriculum was pain and the degree was worthless." He almost smiled. "In rehab I learned that the brain lies. Not maliciously — the brain lies the way a GPS lies when the map is outdated. It gives you directions based on old data. 'Turn left to feel better.' 'Use this substance to stop the pain.' 'Run from the thing that scares you.' The directions were correct in the old world. In this world, the directions will kill you."
 
-He stopped pacing. Faced us.
+He went quiet on the steeper pitch — nobody talks on the steep parts — and picked it up on the next flat stretch.
 
-"Urge surfing. You know this one from HALT, but I want to go deeper. When the urge comes — the craving, the fear, the panic — you don't fight it. You ride it. You notice it: 'My heart rate is up. My hands are sweating. My brain is telling me to run.' Like a wave in the ocean. The wave is real. The wave has power. And the wave passes. Every wave passes. You just have to not drown, and not drowning is mostly about not panicking."
+"Urge surfing. When the urge comes — the craving, the fear, the panic — you don't fight it. You ride it. You notice it: 'My heart rate is up. My hands are sweating. My brain is telling me to run.' Like a wave. The wave is real. The wave has power. And the wave passes. Every wave passes. You just have to not drown, and not drowning is mostly about not panicking."
 
-Marcus, from the back: "That sounds like something I should have heard twenty years ago."
+Marcus, pushing his cart over a pothole: "That sounds like something I should have heard twenty years ago."
 
-"It sounds like something everyone should hear. The recovery community figured out the mechanics of emotional regulation before the neuroscientists did. We had to — our lives depended on it. And now everyone's life depends on it and the irony is —" He looked at his hands again. Steady. "The irony is that the thing that destroyed me is the thing that trained me. Six years of addiction gave me the problem. Twelve years of recovery gave me the skills. And the skills are the exact skills you need to survive a pathogen that feeds on fear."
+"It sounds like something everyone should hear. The recovery community figured out the mechanics of emotional regulation before the neuroscientists did. We had to — our lives depended on it. And now everyone's life depends on it and the irony is —" He glanced at his hands on the cart handle. Steady. "The irony is that the thing that destroyed me is the thing that trained me. Six years of addiction gave me the problem. Twelve years of recovery gave me the skills. And the skills are the exact skills you need to survive a pathogen that feeds on fear."
 
-He sat down.
+We stopped for water at a pull-off where the highway widened. Caleb sat on the guardrail, arranging his wooden animals in a line — beagle, cardinal, fox, turtle — and the line looked like a parade going somewhere hopeful.
 
-"Rock bottom was just training," he said. "And every one of you — every person sitting at this fire who has ever been afraid, or addicted, or depressed, or anxious, or broken in whatever way your particular brain decided to break — has training you don't know you have. Your damage is your skillset. The thing that went wrong is the thing that prepared you. I know that sounds like a motivational poster. I know that. But I'm three weeks past my last dose of Suboxone and my hands are steady and I'm alive and the reason I'm alive is that my brain broke in exactly the right way at exactly the right time and I spent twelve years learning to manage the break."
+Dale sat on the edge of a shopping cart and looked at us.
 
-The camp was quiet. The light came through the canopy and made patches on the ground and Caleb was arranging his animals in a line — beagle, cardinal, fox, turtle — and the line looked like a parade going somewhere hopeful.
+"Rock bottom was just training," he said. "And every one of you — every person here who has ever been afraid, or addicted, or depressed, or anxious, or broken in whatever way your particular brain decided to break — has training you don't know you have. Your damage is your skillset. The thing that went wrong is the thing that prepared you. I know that sounds like a motivational poster. I know that. But I'm three weeks past my last dose of Suboxone and my hands are steady and I'm alive and the reason I'm alive is that my brain broke in exactly the right way at exactly the right time and I spent twelve years learning to manage the break."
 
-Jim, from across the fire: "Dale, that's the best sermon I've ever heard."
+Jim, sitting with Caleb on the guardrail: "Dale, that's the best sermon I've ever heard."
 
 "It's not a sermon. Sermons have endings. This is a practice. You do it every day. Every five minutes, if you have to."
 
@@ -4528,7 +4498,7 @@ Dale looked at Jim. Two men who had spent their lives in folding chairs — one 
 
 **JOURNAL ENTRY #17:**
 
-*Dale's damage was his skillset. His words, not mine. But I've been sitting with them since the lesson, turning them over the way he turns wood in his hands, and I think the principle extends further than he meant it.*
+*Dale's damage was his skillset. His words, not mine. But I've been turning them over the way he turns wood in his hands, and I think the principle extends further than he meant it.*
 
 *My damage is my skillset too. But not the way I've been telling it.*
 
@@ -4544,7 +4514,7 @@ Dale looked at Jim. Two men who had spent their lives in folding chairs — one 
 
 ---
 
-We broke camp after the lesson and continued south on the highway. The terrain was opening — the mountains behind us now, the road descending through the last of the switchbacks toward the broad plateau where Fayetteville sat. Dale walked near the front, pushing one of the shopping carts. His pace was steady — the walk of a man who had come through the worst of it and was standing on the other side. Maria walked behind him, and I noticed that she wasn't walking behind him to support him. He was setting the pace and she was following it. The dynamic between them had shifted from "managing the addict" to "walking with the man," and neither of them acknowledged it.
+After the stop, Dale walked near the front, pushing one of the shopping carts. His pace was steady — the walk of a man who had come through the worst of it and was standing on the other side. The road descended through the last of the switchbacks toward the broad plateau where Fayetteville sat. Maria walked behind him, and I noticed that she wasn't walking behind him to support him. He was setting the pace and she was following it. The dynamic between them had shifted from "managing the addict" to "walking with the man," and neither of them acknowledged it.
 
 Marcus, walking beside me, said quietly: "He's tougher than he looks."
 
@@ -4705,7 +4675,7 @@ I started talking.
 
 The drifters near me tilted their heads. A human voice producing words without panic. Conversational. Boring. A voice like their own.
 
-"The real trick is the Zigzag of Ur. You get it from being suzerain of a city-state, and it gives you plus three science in the ancient era, which doesn't sound like much but in the early game it's the difference between getting Bronze Working on turn fifteen versus turn twenty, and Bronze Working lets you build Spearmen, which are the anti-cavalry unit, which is ironic because you're playing as the civ with the best anti-anti-cavalry unit, so you're building the counter to your own counter, which is —"
+"The real trick is the Zigzag of Ur — wait, no, the *Ziggurat* of Ur. The Zigzag isn't even —" I was annoyed at myself for getting this wrong, which was insane, because I was walking through a field of rooted aliens and the thing that bothered me was an incorrect proper noun from a video game. "Anyway. You get it from being suzerain of a city-state, and it gives you plus three science in the ancient era, which doesn't sound like much but in the early game it's the difference between getting Bronze Working on turn fifteen versus turn twenty, and Bronze Working lets you build Spearmen, which are the anti-cavalry unit, which is ironic because you're playing as the civ with the best anti-anti-cavalry unit, so you're building the counter to your own counter, which is —"
 
 I was babbling. I knew I was babbling. The babbling was the point. The sound of a human voice talking about nothing — about video game strategy, about unit counters and tech trees and the optimal build order for a fictional Sumerian civilization — was the most boring, least threatening, most aggressively ordinary sound I could produce. It was the opposite of a scream. It was the opposite of fear. It was a fifteen-year-old boy talking about his favorite game while walking through a forest of rooted aliens and past their drifting attendants, and the absurdity of it was the thing that kept my heart rate at 78 because the part of my brain that produced anxiety and the part that produced embarrassment couldn't operate simultaneously, and the embarrassment of narrating *Civilization VI* strategy to a valley of Turned was winning.
 
@@ -5113,6 +5083,10 @@ I know this because I walked past and saw him and kept walking. Some moments you
 
 **Caleb.** He was, remarkably, okay. Seven years old, orphaned, carried through a thousand Turned on a stranger's back, and he was drawing dinosaurs with crayons he'd found in a first-grade classroom in the education building and he was okay. Not undamaged — but okay the way children are okay when the adults around them are steady enough to build a floor. We were his floor. Dale's carvings, Marcus's stories, Jim's breathing lessons, Ruth's grammar corrections, Sienna's warmth, my presence — each of us a plank keeping Caleb above the water. He didn't know this. He didn't need to. He just needed to draw dinosaurs and hold the wooden beagle and fall asleep in someone's lap, and we provided these things because providing them was the only unambiguous good left in the world.
 
+At dinner, Caleb asked if there was a playground on campus. "With swings," he specified. "And a slide. And can we play tag when we go outside?"
+
+Sienna and I looked at each other. Not sadness — something closer to jealousy. His biggest problem was finding a place to play tag. Ours was calculating whether the emitter's range would hold through December. He was seven and his parents were gone and he still thought the future contained swings, and we were fifteen and seventeen and we'd stopped thinking the future contained anything at all, and of the two worldviews his was the one I wanted back.
+
 **Sienna.** She was running.
 
 Running laps around the campus track — the university's outdoor oval, four hundred meters, visible from the science building's second floor. I watched her from the window. She ran in the mornings, alone, controlled, her breathing measured. She ran the way she'd trained before — stride long, arms pumping, the biomechanics of a state-qualifier in the 400-meter. But different. Slower. More deliberate. She was testing her limits, finding the line between exertion and activation, reclaiming the thing the organism had tried to take from her.
@@ -5187,11 +5161,25 @@ Sienna found me in the hallway outside the radio room. I was sitting on the floo
 
 She sat down next to me. She'd been running — not the survival kind, the real kind. Moss had cleared a section of the track inside the emitter's perimeter and Sienna had been running it every morning, and the act of running without dying had done something for her that nothing else could. She was breathing hard and her skin was warm and she smelled like sweat and November air and the cheap soap from the university's emergency supplies.
 
-"You ready?" she said.
+She dropped two things in my lap. Vending machine candy bars — the fun-size kind, from a machine in the dormitory lobby that Marcus had pried open with a flathead screwdriver two days ago. The chocolate was grey with age. We did not care. They were candy bars. We'd eaten freeze-dried beef stew for six weeks and these were *candy bars.*
+
+"I'm not sharing mine," she said. "You get your own."
+
+"You literally just put it in my lap."
+
+"That's your share. Don't look at mine." She was already unwrapping hers, breaking off a piece with the focused attention of a person performing surgery. We sat in the hallway eating bad chocolate and for thirty seconds the world was just two kids splitting a vending machine score and the apocalypse was someone else's problem.
+
+"You ready?" she said, when the chocolate was gone.
 
 "No."
 
 "Good. Honest people live longer." Same thing she'd said on the morning we crossed Highway 21. A lifetime ago. Five weeks ago. Both.
+
+"And don't use your customer service voice."
+
+"I don't have a customer service voice."
+
+"You do. It's the one where you sound like a Wikipedia article somebody read into a microphone. Use the other one. The one that sounds like a person."
 
 She leaned her head against the wall. We sat in the hallway and didn't talk for a while. The hum of the emitter came through the floor. Somewhere downstairs, Caleb was laughing — an actual, genuine child's laugh, the first one I'd heard in weeks, and the sound of it went through me like sunlight through a window.
 
