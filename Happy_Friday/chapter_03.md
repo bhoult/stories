@@ -186,6 +186,14 @@ At one point the footsteps paused near my unit, and I heard a different sound �
 
 Somewhere past Highway 21, in the direction of the subdivisions down toward town, a single rifle shot. Then nothing.
 
+The power went out at — I don't know. Late. The streetlight at the park entrance had been on all day, the one constant, the orange cone on the asphalt that meant the grid was still there, that somewhere a power plant was still running with people still at the controls. Then it flickered. Twice. And went dark.
+
+The trailer died around me. The furnace fan spun down. The refrigerator compressor shuddered and stopped — I hadn't realized it was still humming until it wasn't. The microwave clock went blank. The little green light on the smoke detector stayed on for a few seconds, running on its battery, and then it was just me and the dark and the silence that comes when the last machine stops pretending things are normal.
+
+I checked my phone. Fourteen percent. No charger would work now. The cell signal was still there — one bar, flickering — but the battery was a countdown I couldn't stop. I turned the screen off and held the phone in my hand and felt it cooling and thought: *this is the last connection. When this dies, there's no more news, no more updates, no more voicemail from a number that won't answer. Just the window and the notebook and whatever I can figure out by watching.*
+
+I used the last of the battery to try Mom one more time. Voicemail. I didn't leave a message. I turned the phone off to save what was left, knowing I was saving it for nothing, knowing the call I was saving it for was never going to come.
+
 At some point — I don't know when, the dark doesn't have hours — I must have slipped under, because I was in the hospital. Not visiting. Working. I was wearing my mom's scrubs and they fit, which was wrong, and I was walking the hallway toward the ER and the fluorescents were buzzing the way fluorescents do and everything was fine. Mom was at the nurses' station. She looked up and said "Happy Friday, bud" and I said "It's Sunday" and she said "No, honey, it's always Friday now" and smiled, and the smile was too wide, and I was awake.
 
 My heart was slamming. I could feel it in my throat, in my wrists, behind my eyes. I pressed my hand flat against my chest and counted — not breaths, heartbeats. One hundred and twelve, one hundred and eight, one hundred and four. I counted them down the way you'd count down a launch sequence, because somewhere in the part of my brain that was still working I understood that my heart rate was the thing that could kill me now, that the fear wasn't just fear anymore, it was a mechanism, and the mechanism was running, and I had to shut it down manually because the automatic systems had stopped being trustworthy.
