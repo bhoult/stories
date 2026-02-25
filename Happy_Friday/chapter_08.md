@@ -93,6 +93,8 @@ After the pharmacy run — amoxicillin, real amoxicillin, a full ten-day course 
 
 The Sotos were in the basement.
 
+The basement was a fellowship hall — linoleum floor, metal folding chairs stacked against one wall, a small kitchen with a two-burner stove and a commercial coffee maker that would never percolate again. Along the top of the walls, at ground level outside, a row of narrow windows let in enough daylight to read by if you sat near them. At night we used candles — tea lights from the sacristy supply closet, dozens of them, the kind churches buy in bulk for Christmas Eve services. Jim had taped blackout fabric over the windows after dark so the glow wouldn't show. The result was a room that shifted between two versions of itself: daytime grey and still, nighttime warm and flickering, both versions felt like hiding.
+
 I learned about Dale and Maria Soto in fragments, sideways, through the small behaviors that replace conversation when the context for normal conversation no longer exists.
 
 Dale carved. He sat in a metal folding chair with a chunk of two-by-four and a folding knife and he carved constantly — small, precise strokes, wood shavings collecting at his feet like a second skin. I watched him for ten minutes before I realized he was making something specific: a beagle, ears down, in the posture of a dog waiting.
@@ -225,7 +227,7 @@ Before heading down I tried something. There was a stack of hymnals on the steep
 
 The three nearest Turned oriented instantly — heads snapping toward the sound, bodies shifting weight, the beginning of movement. They took two steps toward the noise. Then three. I counted: thirty seconds of sustained attention. Then the interest faded. Their heads drifted back. They resumed their positions, the sound already forgotten.
 
-A single noise was a glance — brief, distractable. But the Turned at the Lyles' house responded to the continuous bullhorn. A sustained noise was a summons. The stare, not the glance, was what brought them in.
+A single noise was a glance — brief, distractable. But a sustained noise, I suspected, would be different. A sustained noise would be a summons. The stare, not the glance.
 
 I wrote this down. It seemed like the kind of thing that might matter later.
 
@@ -245,11 +247,11 @@ I went to the sanctuary and found Jim sitting in a pew in the dark, hands folded
 
 "No."
 
-"It's not believing when things are good. It's not even believing when things are bad. The hardest part is believing when things are *meaningless.* When there's no plan, no purpose, no lesson. When it's just — some biology gone wrong. Some accident nobody caused and nobody deserved and none of it was aimed at us."
+"It's not believing when things are good. It's not even believing when things are bad. The hardest part is believing when He doesn't intervene. When He could, and doesn't."
 
 I sat down. One pew back. Giving him the space.
 
-"I've been a pastor for thirty years and a soldier before that. I've buried children. I've held dying men. And in all of it I found meaning because I believed God was in it somewhere, working through the suffering toward something I couldn't see. But this." He gestured at the walls, the darkness, the world outside. "This isn't suffering toward something. This is just — biology. Indifferent biology. And I keep waiting for God to show me the meaning and He keeps not showing me and I keep having faith anyway and I don't know if that makes me faithful or just stubborn."
+"I've been a pastor for thirty years and a soldier before that. I've buried children. I've held dying men. And in all of it I found meaning because I believed God was in it somewhere, working through the suffering toward something I couldn't see. But this." He gestured at the walls, the darkness, the world outside. "Somebody made this. A weapon, a lab, somebody's carelessness or somebody's cruelty — I don't know which and it doesn't matter. What matters is that God could stop it. He made the biology. He has dominion over every cell and every chemical in every body out there. And He's choosing not to. And I keep having faith anyway and I don't know if that makes me faithful or just stubborn."
 
 "Does it matter?"
 
@@ -263,19 +265,19 @@ He looked at me. "It matters to me."
 
 He almost smiled. Then the almost-smile faded and he was just a tired old man in a dark church. "I told Ruth the Lord protects the peaceful. And I believe that. But I also know it's the metoprolol, and I know it's the beta-blockade, and I know that if the medication runs out I'll have to find out whether my faith is strong enough to keep my heart rate below whatever the number is. And I don't know if it is."
 
-He said this to me and not to any of the adults because I was the one who'd named the mechanism, and naming it had made me the person he could be honest with, and I didn't want that responsibility and I had it anyway.
+He said this to me and not to any of the adults because I was the one who'd named the mechanism, and naming it had made me the person he could be honest with, and I didn't want that responsibility. I had it anyway.
 
 "Your faith got us here," I said. "That's data."
 
 "Data." He said the word like it was a foreign food he was willing to try. "I suppose it is."
 
-He was quiet for a while. Then he said, almost to himself: "I had a dream last night. Water rising in a valley. People walking single file along a ridge — our people, I think, though I couldn't see faces. And a sound. Not music. A frequency. Like a tuning fork pressed against the bones of the earth."
+He was quiet for a while. Then he said, almost to himself: "I had a dream last night. A forest of bodies. And we were walking through it. And a sound. Not music. A frequency. Like a tuning fork pressed against the bones of the earth."
 
 He shook his head. "Probably the tinnitus. Vietnam gave me a lifetime supply."
 
 I didn't say anything. It was a dream. People dream about water and walking and strange sounds. It didn't mean anything.
 
-But I wrote it in the notebook later, because I write everything in the notebook, and months afterward I would read that entry and the hair on my arms would stand up, because Jim had described — exactly, precisely, in details he had no way of knowing — the herd crossing in the river valley and the frequency emitter at the university. He'd dreamed it on Day 7. We wouldn't live it until Day 40.
+But I wrote it in the notebook later, because I write everything in the notebook, and weeks afterward I would read that entry and the hair on my arms would stand up, because Jim had described — not exactly, but close enough to matter — the walk through the valley of rooted Turned and the frequency emitter at the university. He'd dreamed it on Day 7. We wouldn't live it until Day 40.
 
 He sat in the dark pew and I sat behind him and neither of us said anything else and after a while I went back to the basement and lay on a pew and looked at the ceiling and thought about faith and pharmacology and the place where they overlapped, and I didn't sleep but I was closer to sleeping than I'd been in a week.
 
@@ -285,8 +287,7 @@ He sat in the dark pew and I sat behind him and neither of us said anything else
 
 *Three behavioral modes. Three different signals. The drone says "something is happening here" — herding, reproduction, fear-farming. The short sharp call says "food here, come now" — coordinated feeding. And something changes at density — the Walmart cluster is at twenty-five and the behavior is twitchy, restless, something building. I'm building a taxonomy that's growing faster than my understanding.*
 
-*The Turned are shedding clothing. Pembrook's robe. The soldiers' body armor. The scrub woman's top. The oldest Turned are the most exposed. The sun-facing and the undressing have to be connected — the exposed skin is always the skin facing the light — but I can't see the mechanism yet.*
+*The Turned are shedding clothing. Pembrook's robe. The soldiers' body armor. A woman in the parking lot who was wearing a jacket yesterday and isn't today. The oldest Turned are the most exposed. The sun-facing and the undressing have to be connected — the exposed skin is always the skin facing the light — but I can't see the mechanism yet.*
 
 *Jim doubts his faith in private and performs it in public and the performance saves lives. I understand the mechanism in private and fail to act in public and the understanding saves nobody. Being right is not the same as being useful. Knowing is not the same as doing.*
--e 
 ---
