@@ -223,7 +223,7 @@ One key illustration per chapter. Character descriptions pulled from characters.
 ## Chapter 25: The Herd
 **Scene:** The group on a hilltop overlook, looking down into the valley of Fayetteville. Below them: hundreds of rooted disheveled random people standing motionless in the sun, nude, feet embedded in soil, connected by dark vine-like root structures threading between them across the ground. A forest of human-shaped trees. Street cuts through the field of rooted like a dark line of pavement.
 **Characters:** Nate (15, ~165lbs, fat, overweight, soft, brown hair, white skin, khakis, binoculars studying the valley), the group behind him on the overlook — Sienna (17, tall, lean, tan brown skin, black ponytail), Jim (70s, tall gaunt, white hair), Marcus (42, big), Ruth (72, small), Dale, Maria, Caleb (7, small, on someone's shoulders). Below: hundreds of rooted disheveled random people (nude, pale grey-green skin, motionless, feet embedded in earth, connected by dark vine-like root structures across ground)
-**Setting:** Hilltop overlook above Fayetteville valley, commercial district visible, Dixon Street cutting through rooted field
+**Setting:** Hilltop overlook above Fayetteville valley, commercial district visible, Dickson Street cutting through rooted field
 **Lighting:** Midday sun. The rooted face the light. Their grey-green skin catches the sun.
 **Mood:** Cosmic horror and awe. Not a herd — a colony. A networked organism.
 
