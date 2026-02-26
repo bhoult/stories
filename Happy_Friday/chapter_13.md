@@ -174,7 +174,7 @@ I set a book on the table between us — the PDR, the Physician's Desk Reference
 
 "The risk isn't worth the payoff. I know kratom. It's inconsistent, under-dosed, and the withdrawal from kratom itself is its own nightmare." He set the knife down. "You researched all this."
 
-"I research everything. It's the thing I do instead of being useful." The words came out before I could stop them — the self-deprecation, the joke, the deflection Sienna had named two days ago. I heard it and for the first time I heard what she heard: not humility but armor.
+"I research everything. It's the thing I do instead of being useful." The words came out before I could stop them — the self-deprecation, the joke, the thing I did whenever someone got too close to treating me like I mattered. I heard it this time. Not humility. Armor.
 
 Dale looked at me. "The reason Suboxone matters — do you actually understand, pharmacologically?"
 
@@ -293,5 +293,4 @@ In the steeple that evening, I wrote in the notebook:
 *And afterward, the organism eats its dead. Three Turned knelt beside the body and consumed it over three hours. Methodical. Efficient. What's left is bones. The organism wastes nothing. The dead become calories for the living. The system is closed — self-sustaining, self-fueling, and designed from the ground up to turn every loss into a gain.*
 
 *The organism has thought about this longer than we have.*
--e
 ---

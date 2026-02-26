@@ -2338,7 +2338,7 @@ I set a book on the table between us — the PDR, the Physician's Desk Reference
 
 "The risk isn't worth the payoff. I know kratom. It's inconsistent, under-dosed, and the withdrawal from kratom itself is its own nightmare." He set the knife down. "You researched all this."
 
-"I research everything. It's the thing I do instead of being useful." The words came out before I could stop them — the self-deprecation, the joke, the deflection Sienna had named two days ago. I heard it and for the first time I heard what she heard: not humility but armor.
+"I research everything. It's the thing I do instead of being useful." The words came out before I could stop them — the self-deprecation, the joke, the thing I did whenever someone got too close to treating me like I mattered. I heard it this time. Not humility. Armor.
 
 Dale looked at me. "The reason Suboxone matters — do you actually understand, pharmacologically?"
 
@@ -2457,7 +2457,6 @@ In the steeple that evening, I wrote in the notebook:
 *And afterward, the organism eats its dead. Three Turned knelt beside the body and consumed it over three hours. Methodical. Efficient. What's left is bones. The organism wastes nothing. The dead become calories for the living. The system is closed — self-sustaining, self-fueling, and designed from the ground up to turn every loss into a gain.*
 
 *The organism has thought about this longer than we have.*
--e
 ---
 
 
@@ -2473,13 +2472,13 @@ Jim and Marcus had walked eight blocks and back. Sienna went to the military int
 
 So I went. 5:30 AM, just after dawn. I left a note on the table — "Scouting nearby blocks, back by 8" — which I told myself counted as telling people. It did not. I left the walkie-talkie on the charging shelf. If I'd taken it, someone would have heard the click and woken up and asked where I was going, and I didn't want to be asked because being asked meant admitting this was a decision.
 
-The first three houses went fine. That's the sentence that should terrify you. "Fine" is the sound confidence makes before it kills you.
+The first three houses went fine.
 
 I moved slowly. Checked windows. Marked occupancy on a hand-drawn grid in the notebook. House one, Elm Street: empty, front door open, no supplies visible. House two: Turned inside, a man sitting at a kitchen table, staring at the wall, motionless. I watched him through the window for two minutes and he didn't move. House three: empty, pantry stocked — I noted the address for a future supply run.
 
 House four was a ranch-style place on Oak, one story, attached garage. I went through a back window that was already broken — someone had tried to get in or out before me. The glass crunched under my shoes. I noticed the crunch and didn't account for it, because I was feeling competent.
 
-Inside: canned food in the pantry. A hand-crank radio on the kitchen counter. A set of tools in the garage. I was loading the backpack I'd brought — one of Marcus's, canvas, military surplus — when I heard the sound.
+Inside: canned food in the pantry. A radio on the kitchen counter. A set of tools in the garage. I was loading the backpack I'd brought — one of Marcus's, canvas, military surplus — when I heard the sound.
 
 The drone. Low, vibrating, chest-resonant. The summoning call. Coming from outside, from the front of the house, from everywhere.
 
@@ -2488,6 +2487,8 @@ I went to the living room window.
 Turned were coming. Not from one direction — from every direction. Walking in from the cross streets, emerging from between houses, converging on this house with the methodical precision of a net closing. I counted: five, ten, fifteen. Twenty. Twenty-five. I stopped counting at thirty because my hands were shaking and the binoculars — I'd brought them, I always brought them — were vibrating against my face.
 
 I had made myself a data point. Thirty-plus Turned, converging on a single-story house with plywood-on-nothing walls, and me inside with a backpack full of canned peaches and no exit I'd tested. The organism had detected me — maybe the glass crunching, maybe scent, maybe the collective's pattern recognition flagging a house that had changed state from "empty" to "occupied" — and it had sent the net.
+
+I fumbled for the sandwich bag in my pocket. Two propranolol tablets — my emergency supply, the ones we'd all been carrying since the pharmacy run. I dry-swallowed both. Propranolol takes twenty to thirty minutes to reach peak effect. I did not have twenty to thirty minutes. But you take the medicine anyway, the same way you buckle the seatbelt after you see the truck, because doing the thing you can do is better than standing still doing nothing.
 
 I knew about the density threshold. I'd written about it. I'd warned Craig Lyle about it. And now I was inside the threshold, watching it build in real time, and the distance between understanding a concept and being inside the concept was the distance between reading about drowning and having water in your lungs.
 
@@ -2515,7 +2516,13 @@ I don't know how long I stood there before the sound changed. Twenty minutes? Th
 
 The sound that came next is the thing I don't talk about.
 
-A roaring. Not voices — not the human sounds the Turned usually made, the mimicry, the drone. This was structural: wood splitting, glass shattering, something heavy being overturned and overturned again. The ranch house was coming apart. The swarm had hit threshold and the patient herding had collapsed into undirected destruction and the Turned were tearing through the house the way a tornado tears through a mobile home — not aimed, not purposeful, just force. Raw collective force applied to whatever was in reach.
+First: silence. A gap — two, maybe three seconds — where the drone cut out and the footsteps stopped and everything went still, as if the collective had taken a breath. Then the roar.
+
+Every Turned above me screamed at once. Not the mimicry voices, not the drone. A sound no human throat should make — raw, shredding, the vocal cords tearing themselves apart to produce it. It came through the concrete lid and the four feet of earth and the standing waste and it filled the tank the way water fills a jar, all at once, total. It was the loudest thing I have ever heard. It was the sound of thirty human bodies being used as instruments by something that didn't know what volume would break them and didn't care. Later, at the Lyles', I would hear it from three blocks away and it would still be loud enough to vibrate the steeple floor. From four feet underground it was the mouth of hell opening directly above me.
+
+Moss had described this. "The collective behavior destabilizes." Five words. Clinical, measured, the careful language of a scientist summarizing data. Standing in a septic tank while thirty human bodies screamed themselves bloody above me, I understood with a horror that rearranged my whole model of the woman on the radio: she had heard this. She had heard this sound, or one like it, and she had gone back to her microphone and described it as "destabilizes." The understatement wasn't detachment. It was survival. If she'd described what it actually sounded like, no one listening would have stayed calm enough to keep listening.
+
+Then the destruction. Wood splitting, glass shattering, something heavy being overturned and overturned again. The ranch house was coming apart. The swarm had hit threshold and the patient herding had collapsed into something that had no strategy and no restraint — not aimed, not purposeful, just force. Raw collective force applied to whatever was in reach.
 
 It went on for an hour. Maybe longer. In the dark, in the tank, with the waste soaking through my clothes and the smell destroying my ability to think about anything except not vomiting, I pressed my hands over my ears and counted prime numbers. Two, three, five, seven, eleven, thirteen, seventeen, nineteen, twenty-three, twenty-nine. I counted them because they were orderly and because orderly things were the only defense I had against the chaos above me. The primes were reliable. They followed rules. They didn't change their minds or tear through walls or use your mother's voice to lure you outside.
 
@@ -2535,21 +2542,25 @@ I had maybe seconds. I knew this the way you know you're falling before you hit.
 
 So I did the only thing I could think of. I dropped my hands from my ears, bent down, and shoved my face into the waste.
 
-Not metaphorically. Not a splash. I plunged both hands into the black standing sewage at the bottom of the tank and brought them up to my face and pressed the filth against my nose and mouth and breathed in — a full, deliberate, gasping inhalation of the most revolting substance I had ever encountered. The smell hit my brainstem like a fist. My stomach convulsed so violently that I doubled over. My eyes flooded. I gagged, retched, retched again, the reflex so total and so involuntary that every other signal in my body — the warmth, the invitation, the gentle dissolution — was obliterated by the sheer biological imperative of *revulsion.*
+Not metaphorically. Not a splash. I plunged both hands into the black standing sewage at the bottom of the tank and brought them up to my face and pressed the filth against my nose and mouth and breathed in — a full, deliberate, gasping inhalation of the most revolting substance I had ever encountered. The smell hit my brainstem like a fist. My stomach convulsed so violently that I doubled over — and then my back spasmed and arched the other way, snapping me upright, and vomit came through my nose and my hands and sprayed against the roof of the tank inches above my head and rained back down on me and I kept retching, my body seizing in waves, every muscle firing at once like a medieval exorcism — spine arched, jaw locked open, eyes streaming, the contents of my stomach emptying themselves in every direction because the body had decided that *everything inside needed to come out right now*. The reflex was so total and so involuntary that every other signal — the warmth, the invitation, the gentle dissolution — was obliterated by the sheer biological imperative of *revulsion.*
 
 The warmth shattered. The softness at my edges snapped back into hardness. I was Nate again — Nate in a septic tank, Nate covered in filth, Nate retching in the dark with sewage on his face and tears streaming from his eyes, but *Nate.* The organism's invitation couldn't compete with the body's oldest and most violent reflex. Disgust is older than fear. It's the immune system's scream, and it doesn't negotiate and it doesn't dissolve. I had found the one feeling more powerful than terror: the body's absolute refusal to accept contamination.
 
 I was shaking. I was crying. I was wiping sewage from my face with a sleeve already soaked in sewage, which accomplished nothing except smearing it around, and I was laughing — the high thin laugh of a person who has just done something so disgusting and so desperate and so *effective* that the only response left is the sound your brain makes when it can't process what you've done.
 
-I started the primes again. From 2. The numbers came back. Two, three, five, seven. The walls of the tank were solid. The dark was just dark. I counted, and this time the counting held, because behind the counting was the taste of sewage and the knowledge that I had been *that close* — seconds, maybe less. That knowledge was a better wall than any prime number. Cold, clenched, purposeful fear — the fear of a person who has seen the edge and will do anything to not go back.
+I started the primes again. From 2. The numbers came back. Two, three, five, seven. The walls of the tank were solid. The dark was just dark. And somewhere around prime 23, the propranolol arrived. I felt it — not dramatically, not a wave, but a subtle downshift, as if someone had turned a dial I couldn't reach. My heart rate dropped from whatever catastrophic number it had been running and settled into something my body could sustain. Twenty-five minutes, give or take. The pills I'd swallowed in the living room, a lifetime ago, finally reaching the beta receptors they were designed for, blocking the adrenaline that had almost killed me. I counted, and this time the counting held, because behind the counting was the taste of sewage and the propranolol and the knowledge that I had been *that close* — seconds, maybe less. That knowledge was a better wall than any prime number. Cold, clenched, purposeful fear — the fear of a person who has seen the edge and will do anything to not go back.
 
-I got to 547 before the sounds stopped. I don't know if 547 is prime. I think it is. I never checked. It doesn't matter. What matters is that by the time the destruction ended I had been standing in a septic tank for approximately three hours and my legs had gone numb and my hands were shaking so badly I couldn't have held the binoculars if I'd had them and my entire body was coated in a film of waste that I could feel on my skin like a second layer of something that was not me.
+I got to 547 before the sounds stopped. I don't know if 547 is prime. I think it is. I never checked. It doesn't matter. What matters is that by the time the destruction ended I had been standing in a septic tank for approximately three hours and my legs had gone numb and my hands were shaking so badly I couldn't have held the binoculars if I'd had them and my entire body was coated in a film of waste that I could feel covering me like a straitjacket made from a rotting corpse.
+
+None of them came for the tank. I thought about this while I stood there — the analytical brain filling the hours the way it always does, because thinking about *why* I was alive was easier than thinking about the fact that I was standing in sewage with vomit in my hair. The Turned track biochemical signatures: cortisol, adrenaline, the chemical scent of human stress. I had been panicking hard enough to nearly convert. They should have found me. But the sewage — the overwhelming, world-ending stench of decomposed human waste coating every inch of me — may have buried the signal. You can't smell fear through a septic tank. The organism relies on chemical detection the way a shark relies on blood in water, and I had dumped a tanker truck of sewage into the water. Whether this was why they ignored the tank or whether they simply didn't think to check, I don't know. But the thought lodged: the filthiest thing I've ever done might also have been the smartest.
+
+It didn't feel smart. It felt like I was already dead and this was one of the less popular afterlives. There were minutes in that tank — maybe more than minutes — when I thought that pushing the lid off and letting the swarm take me would be better than standing in this for one more second. Not because I wanted to die. Because the body has a threshold for disgust the same way the Turned have a threshold for density, and mine was redlining, and the part of my brain that calculates cost-benefit was whispering that death was at least *clean*. I didn't push the lid off. But I understood, in a way I hadn't before, that survival isn't always the thing you want. Sometimes it's just the thing you do because you're too stubborn or too scared or too numb to do the alternative.
 
 The frenzy burned out. Moss had described this — the swarm's feedback loop was self-limiting. The collective violence escalated to a peak and then the signal scattered, the coordination broke, and the Turned dispersed in ones and twos, dazed, almost confused, like people waking from a blackout. The footsteps above thinned. The drone faded. A deep silence settled — the silence of aftermath.
 
-I waited. I waited until it was fully dark — hours after the last sound, hours of standing in the tank in the blackness with nothing to do but exist inside the consequences of my own confidence. Then I pushed the lid. It scraped. The night air hit me and I breathed it and it was the best breath I have ever taken and it was immediately followed by the worst, because the second breath carried my own smell back to me and I understood for the first time the full dimension of what I had done and what I was covered in and what I smelled like and I leaned over and vomited into the weeds and it didn't matter because nothing I produced could be worse than what was already on me.
+I waited. I waited until it was fully dark — hours after the last sound, hours of standing in the tank in the blackness with nothing to do but exist inside the consequences of my own confidence. Then I pushed the lid. It scraped. The night air hit me and I breathed it and it was the best breath I have ever taken and it was immediately followed by the worst, because the second breath carried my own smell back to me and I understood for the first time the full dimension of what I had done and what I was covered in and what I smelled like and I leaned over and dry heaved into the weeds and it didn't matter because nothing I produced could be worse than what was already on me.
 
-I walked back to the church. In the dark. By memory. Moving slow, step by step, through streets I'd mapped from the steeple but had never walked at night. The Turned were in their positions but scattered thin — the post-frenzy dispersal. None approached. I don't know if this was because I was moving slowly or because I smelled like a septic tank and even the Turned had standards.
+I walked back to the church. In the dark. By memory. Moving slow, step by step, through streets I'd mapped from the steeple but had never walked at night. The Turned were in their positions but scattered thin — the post-frenzy dispersal. None approached. The sewage theory held — the stench was a wall between me and anything that hunted by scent, and I moved through the night like something the world had already rejected.
 
 ---
 
@@ -3012,6 +3023,10 @@ Tammy was in the doorway. I could see her silhouette. She was not shooting. She 
 The count hit critical.
 
 I saw it happen. Through the binoculars, in the moonlight, I saw the change. It was like watching water go from liquid to boil — a phase transition, sudden and total. The Turned surrounding the house had been in their herding mode: strategic, patient, using the voices, applying psychological pressure. Then something shifted. A ripple went through the crowd — a physical shudder, a synchronization of movement that traveled through the mass like a wave. The voices stopped. The drone stopped. Everything stopped for maybe two seconds.
+
+Then they roared.
+
+Every Turned in the mass screamed at the same instant — a sound that crossed the three blocks between us and hit the steeple like a pressure wave. I felt it in the floor, in my teeth, in the binoculars vibrating against my face. It was the sound I'd heard through four feet of concrete in the septic tank, but from here I could see what made it: sixty-plus human mouths open wider than mouths should open, heads thrown back, throats distended, producing a collective scream so loud it shredded the vocal cords making it. I could see — through the binoculars, in the moonlight — blood on chins, on necks, the soft tissue of the throat tearing under the force of the sound and the sound not stopping. It carried for miles. It was a summoning call and a declaration and a sound that said *the patience is over* in a language older than speech.
 
 Then they went insane.
 
