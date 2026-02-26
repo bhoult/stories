@@ -2478,7 +2478,7 @@ I moved slowly. Checked windows. Marked occupancy on a hand-drawn grid in the no
 
 House four was a ranch-style place on Oak, one story, attached garage. I went through a back window that was already broken — someone had tried to get in or out before me. The glass crunched under my shoes. I noticed the crunch and didn't account for it, because I was feeling competent.
 
-Inside: canned food in the pantry. A radio on the kitchen counter. A set of tools in the garage. I was loading the backpack I'd brought — one of Marcus's, canvas, military surplus — when I heard the sound.
+Inside: canned food in the pantry. A set of tools in the garage. I was loading the backpack I'd brought — one of Marcus's, canvas, military surplus — when I heard the sound.
 
 The drone. Low, vibrating, chest-resonant. The summoning call. Coming from outside, from the front of the house, from everywhere.
 
@@ -2695,7 +2695,7 @@ She went downstairs. I sat in the steeple and looked through the binoculars and 
 
 # Chapter 15: Sienna Runs
 
-On Day 18, Sienna did the bravest and stupidest thing I have ever witnessed — and the septic tank only risked my own life.
+On Day 18, Sienna did the bravest and stupidest thing I have ever witnessed another person do.  I guess it was her turn.
 
 I was in the basement inventorying the pharmacy haul when she came down the stairs from the steeple moving faster than I'd ever seen her move indoors.
 
@@ -2739,7 +2739,7 @@ Jim was at the bottom of the stairs. He'd heard everything. He looked at Sienna 
 
 "Go," Jim said. "Walk as far as you can. Run only if you have to. And Nate —" He looked at me. "Watch. Guide her back."
 
-Sienna took the walkie-talkie from the charging shelf. Jim took the other. He didn't go to the steeple — he stayed on the ground floor, near the side door, because someone needed to be ready to open it fast and someone needed to be in the steeple, and I was already moving up the stairs.
+Sienna took a walkie-talkie from the charging shelf. I took one. Jim took the third — we'd found it during a supply run two days earlier, same brand, same yellow plastic, sitting on a kitchen counter like a gift from a universe that occasionally remembered we existed. He didn't go to the steeple — he stayed on the ground floor, near the side door, because someone needed to be ready to open it fast and someone needed to be in the steeple, and I was already moving up the stairs.
 
 ---
 
@@ -2759,7 +2759,7 @@ Sienna approached him. Slowly. She crouched down. She was talking to him — I c
 
 He reached for her. She picked him up.
 
-And the three Turned on the next block turned toward them.
+And the three Turned on the next block swiveled toward them.
 
 ---
 
@@ -2767,21 +2767,39 @@ Here is what I saw from the steeple and what I did about it.
 
 I saw Sienna pick up the child. I saw the child clutch her neck and press his face against her shoulder and I saw his body convulse with sobs — real sobs, the kind that shake the whole frame — and I saw the sound of those sobs ripple outward like a stone dropped in water because the three Turned on the south end of Birch had stopped drifting and were walking toward the yellow house with a purpose that wasn't their standard patrol.
 
-I keyed the radio. "Three incoming from the south. Moving with purpose. You need to go now."
+I keyed the radio. "Three incoming from the south. Moving with purpose. You need to go now. Jim — I need noise. North side. Draw them away from her route."
 
-I saw Sienna stand. I saw her assess — the child on her hip, the Turned incoming, the two blocks back to the church. I saw the moment she made the calculation and the moment the calculation said *run.*
+I didn't wait for confirmation. I was already scanning. Two more Turned on the cross street between Sienna and the church — five total in her path or converging on it. Too many for a clean walk back.
+
+Below me, I heard Jim relay the order. Then Marcus's voice — not on radio, just loud enough to carry up the stairs: "Dale and I are going out the north door. Give us thirty seconds."
+
+I saw Sienna stand. I saw her assess — the child on her hip, the Turned incoming, the two blocks back to the church. She was waiting. She trusted me to clear the path before she moved.
+
+Twenty seconds later, I heard it — a metallic banging from the north side of the church. Marcus and Dale, hitting the dumpster lid with the pipe wrench, the aluminum ringing like a bell in the silence. Through the binoculars I swung north and watched the two Turned on the cross street hesitate — heads turning between Sienna's position and the noise. One drifted north. The other followed.
+
+"Two pulled north. Go now, Sienna. Fast walk. You've got a window."
+
+She went. Fast-walking — not running, not yet — but the child was crying against her shoulder and the three from the south were still coming and the window was already closing.
+
+She made it one block. Then the child screamed — a raw, terrified shriek as he saw the Turned behind them — and the sound did what sound always does. It reached further than I wanted.
+
+"Marcus, louder. She's got four converging — south and east."
+
+The banging intensified. I heard Dale's voice — he was *yelling*, wordless shouts, putting his whole body into it. Reckless. The kind of thing that could draw Turned to the church itself, but Dale wasn't calculating that. He was hearing a child scream and doing the only thing he could do from where he was standing.
+
+It pulled one more away. Three still on her.
+
+"Jim, she's running. One block out, coming fast. Get the door. Marcus, Dale — get inside *now*."
 
 She ran.
 
-She ran the way she was built to run — long stride, balanced, the biomechanics of a girl who'd trained for the 400-meter since she was twelve. Even carrying a child, even with the wrong shoes and the cracked asphalt and the two blocks of residential street between her and safety, she was fast. She covered the first block in maybe forty seconds.
+She ran the way she was built to run — long stride, balanced, the biomechanics of a girl who'd trained for the 400-meter since she was twelve. Even carrying a child, even with the wrong shoes and the cracked asphalt and the block of residential street between her and safety, she was fast.
 
-"Jim, she's running. One block out, coming fast. Get the door."
+Through the binoculars I watched her face. Her mouth was open. Her chest was heaving. And her expression was the thing I'd been afraid of — something beyond fear, her body doing exactly what the organism needed. I could see the flush climbing her neck and her jawline, the exertion and the adrenaline merging into a single biochemical signal, and the Turned behind her were closing — more of them now, emerging from between houses, drawn by the crying and the scent of terror, five, six, seven. The distraction had bought her time but the child's screaming was louder than anything Marcus and Dale could make, and every Turned in a two-block radius was orienting toward it.
 
-Through the binoculars I watched her face. Her mouth was open. Her chest was heaving. And her expression was the thing I'd been afraid of — something beyond fear, her body doing exactly what the organism needed. I could see the flush climbing her neck and her jawline, the exertion and the adrenaline merging into a single biochemical signal, and the Turned behind her were closing — more of them now, emerging from between houses, drawn by the crying and the scent of terror, five, six, seven.
+"Seven behind her. The noise bought her half a block but the kid's screaming is pulling them back. She's fast but they're converging."
 
-"Seven behind her. Converging from side streets. She's fast but they're drawn by the kid's screaming."
-
-The child was screaming. Not words — a continuous wail, the sound of a child who has been alone for days and has been picked up by a stranger and is being carried at a sprint through a world that has stopped making sense. The sound carried. Every Turned in a two-block radius was orienting toward it.
+The child was screaming. Not words — a continuous wail, the sound of a child who has been alone for days and has been picked up by a stranger and is being carried at a sprint through a world that has stopped making sense. The sound carried.
 
 Sienna reached the church's block. Fifty yards to the side door.
 
@@ -2803,7 +2821,7 @@ Jim slammed it shut. I heard the bolt. From the steeple, two floors up, I heard 
 
 Then I heard something else. A sound I couldn't identify — sharp, flat, like a book being slapped against a table. Then silence. Then the child crying again, but differently now, a scared cry instead of a desperate one. Then Jim's voice, low and urgent, words I couldn't make out from two floors up.
 
-I watched the Turned arrive at the door. Seven of them. They stood in the parking lot. They didn't try the door. Below threshold — seven wasn't enough for the frenzy. They stood and they waited and after forty minutes they drifted away.
+I watched the Turned arrive at the door. Seven of them. They stood in the parking lot. They didn't try the door. Below threshold — seven wasn't enough for the frenzy. From the north side I could see that Marcus and Dale had made it back inside — the north door was shut, the dumpster still ringing faintly in the silence. The Turned stood and they waited and after forty minutes they drifted away.
 
 ---
 
@@ -2827,7 +2845,7 @@ The moan stopped.
 
 Maria was already there with the blood pressure cuff. She'd strapped it on before Jim's hand had unclenched. "142 over 95," she said. Then thirty seconds later: "138 over 92." Then: "It's coming down. It's coming down."
 
-Jim hadn't moved. He was kneeling beside an unconscious eighteen-year-old girl he'd just hit in the face, and his hand was shaking — not fear-shaking, not the kind the organism produces, but the deep tremor of a man whose body was rejecting what his brain had decided to do. Ruth brought him the wet cloth without being asked. He wrapped his hand and sat in the pew and didn't speak.
+Jim hadn't moved. He was kneeling beside an unconscious seventeen-year-old girl he'd just hit in the face, and his hand was shaking — not fear-shaking, not the kind the organism produces, but the deep tremor of a man whose body was rejecting what his brain had decided to do. Ruth brought him the wet cloth without being asked. He wrapped his hand and sat in the pew and didn't speak.
 
 Sienna came to about four minutes later. Confused, disoriented, the bruise already spreading. Jim told her what he'd done before she could ask. "I hit you," he said. "You were past the breathing. You were past your name. I hit you because I didn't know another way to stop it and I am sorry and I would do it again."
 
@@ -2865,9 +2883,9 @@ She opened her eyes. They were red. She looked at me.
 
 "Jim told me —"
 
-"I know what Jim told you. And I know you guided me back and I know you called the Turned count and I know you got the door open. I'm not asking what you did with the radio. I'm asking what you would have done if the radio wasn't enough."
+"I know what Jim told you. And I know you guided me back and I know you called the Turned count and I know you got the door open. I know you sent Marcus and Dale out to bang on a dumpster so two of them would turn away from me. I'm not asking what you did with the radio. I'm asking what you would have done if the radio wasn't enough."
 
-I didn't answer. The answer was: I don't know. From the steeple, through binoculars, I'd guided Sienna through two blocks of converging Turned, and I'd gotten Jim to the door. But she wasn't asking about the radio. She was asking whether I'd have come down the stairs and run into the street, and I didn't know. At least a coward has made a decision.
+I didn't answer. The answer was: I don't know. From the steeple, through binoculars, I'd guided Sienna through two blocks of converging Turned, and I'd gotten Jim to the door, and I'd coordinated a distraction that pulled two Turned off her path and maybe — maybe — made the difference between seven behind her and nine. But she wasn't asking about the radio or the dumpster. She was asking whether I'd have come down the stairs and run into the street, and I didn't know. At least a coward has made a decision.
 
 "You did the right thing," she said. "Staying. Watching. Not following. If you'd come after me, I'd have had to worry about you, and worrying about you would have pushed me over. You staying put kept me below the line."
 
@@ -2887,7 +2905,7 @@ I didn't write this last thought in the journal. Some observations are too ugly 
 
 **JOURNAL ENTRY #10:**
 
-*The Turned don't punish bad people. They punish brave ones. They punish the ones who run toward the crying. They punish the instinct that makes humans human — the impulse to help, to connect, to risk yourself for someone else. The organism has designed a world where kindness is a death sentence and selfishness is a survival strategy. I don't know what kind of world that is. I don't know what kind of person survives it. I'm afraid the answer is: my kind. The kind who guides from a distance. The kind who calculates. The kind who stays in the steeple with a radio and calls it "enough."*
+*The Turned don't punish bad people. They punish brave ones. They punish the ones who run toward the crying. They punish the instinct that makes humans human — the impulse to help, to connect, to risk yourself for someone else. The organism has designed a world where kindness is a death sentence and selfishness is a survival strategy. I don't know what kind of world that is. I don't know what kind of person survives it. I'm afraid the answer is: my kind. The kind who coordinates from a distance. The kind who sends other people out to bang on dumpsters while the real danger is two blocks south. The kind who stays in the steeple with a radio and calls it "enough."*
 
 *Eight people now. The cost of doing the right thing is 1.3 days of food. Maria was right about the arithmetic. She's always right about the arithmetic. The arithmetic is not the point.*
 
@@ -2909,7 +2927,7 @@ I didn't say anything. I waited.
 
 "At what point does the recording stop being the person?" He looked at me now. His eyes were red from the day and from the night and from the punch. "If I played you a recording of your mother's voice — her actual voice, saying something she actually said — would you tell me there's no part of her in that recording?"
 
-The question landed wrong. He knew it landed wrong. He didn't apologize because the question wasn't about apology. It was about the line between a person and the residue of a person, and he was asking me to tell him where that line was because he'd just punched an eighteen-year-old girl to keep her on one side of it and a man he'd served coffee to had just killed a man who might have been on the other side of it and Jim needed to know — needed someone to tell him — that those two acts weren't the same thing.
+The question landed wrong. He knew it landed wrong. He didn't apologize because the question wasn't about apology. It was about the line between a person and the residue of a person, and he was asking me to tell him where that line was because he'd just punched an seventeen-year-old girl to keep her on one side of it and a man he'd served coffee to had just killed a man who might have been on the other side of it and Jim needed to know — needed someone to tell him — that those two acts weren't the same thing.
 
 "At what point does running on a loop stop being human?" I said.
 

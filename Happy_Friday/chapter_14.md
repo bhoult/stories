@@ -16,7 +16,7 @@ I moved slowly. Checked windows. Marked occupancy on a hand-drawn grid in the no
 
 House four was a ranch-style place on Oak, one story, attached garage. I went through a back window that was already broken — someone had tried to get in or out before me. The glass crunched under my shoes. I noticed the crunch and didn't account for it, because I was feeling competent.
 
-Inside: canned food in the pantry. A radio on the kitchen counter. A set of tools in the garage. I was loading the backpack I'd brought — one of Marcus's, canvas, military surplus — when I heard the sound.
+Inside: canned food in the pantry. A set of tools in the garage. I was loading the backpack I'd brought — one of Marcus's, canvas, military surplus — when I heard the sound.
 
 The drone. Low, vibrating, chest-resonant. The summoning call. Coming from outside, from the front of the house, from everywhere.
 
