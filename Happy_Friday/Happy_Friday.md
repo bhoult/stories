@@ -1415,11 +1415,11 @@ I went downstairs.
 
 Jim sipped his coffee. "Craig is a good man. He protected this town for twenty years. He's doing what he knows how to do."
 
-"What he knows how to do is going to get him killed."
+"What he knows how to do is drawing every Turned in a half-mile radius to his front yard. I don't know what happens when enough of them show up in one place, but I don't want to find out."
 
 Jim set his mug down. He looked at me with the patient, measuring expression that I'd learned meant he was about to say something I needed to hear and didn't want to.
 
-"You're right," he said. "And being right doesn't give you the right to let him die without trying."
+"You might be right," he said. "And if you're right, that doesn't give you the right to sit here and watch without trying."
 
 "I'm not saying —"
 
@@ -1469,11 +1469,13 @@ Jim and Marcus walked back. Twenty minutes there, twenty minutes home. My heart 
 
 "He said he appreciated the concern. He said he had a duty to protect his family. He said he'd survived twenty years in law enforcement by trusting his training and he wasn't going to stop now." Jim paused. "He's not wrong about any of that. He's just applying it to the wrong situation."
 
-"Cognitive dissonance," I said. "The brain rejects new information that contradicts existing belief because revising the belief feels worse than the danger of keeping it. He can't hear you because hearing it would mean everything he's done — the boards, the guns, the perimeter — was wrong. And if that's wrong, he doesn't know how to protect his family. That uncertainty is more terrifying than the Turned."
+"He can't hear you," I said. "Because if you're right, then everything he's done — the boards, the guns, the perimeter — all of it was wrong. And if that's wrong, he doesn't know how to protect his family. That's scarier than the Turned."
 
-Jim looked at me. "That's not wrong either. Knowing why he won't listen doesn't help him listen."
+Ruth's voice came from the top of the stairs. "Cognitive dissonance. The brain rejects new information that contradicts existing belief because revising the belief is more painful than the danger of keeping it." She had her novel in her hand, finger marking her page. "I taught high school psychology for six years before I switched to English. Craig Lyle isn't stupid. He's protecting himself from a thought he can't afford to have."
 
-"No. But it tells me something about what we're up against. The human brain is its own obstacle, and it might be the bigger one."
+Jim looked at her, then at me. "Knowing why he won't listen doesn't help him listen."
+
+"No," Ruth said. "But it tells you what you're up against. The human brain is its own obstacle, and it might be the bigger one." She went back to her book.
 
 ---
 
@@ -1491,7 +1493,7 @@ She came back down with grease on her hands and her cardigan askew.
 
 "I thought —" I started.
 
-"You thought I was an old woman with a pill bottle and a sharp tongue. That's fair. I cultivated that impression. It's useful — people who underestimate you leave you alone, and being left alone is my preferred state." She washed her hands at the kitchen sink. "Leonard — my husband — died in 2019. Heart attack on a job site. I learned more from him than from any education course I ever took, and I took all of them. He could fix anything." She dried her hands. "I can fix *most* things. The distinction is important."
+"You thought I was an old woman with a pill bottle and a sharp tongue. That's fair. I cultivated that impression. It's useful — people who underestimate you leave you alone, and being left alone is my preferred state." She washed her hands at the kitchen sink. "Leonard — my husband — died in 2019. Heart attack on a job site. I learned more from him than from any education course I ever took, and I took all of them. He could fix anything." She dried her hands. "I can fix *most* things."
 
 She went back upstairs to her novel.
 
@@ -1509,17 +1511,17 @@ She was doing inventory — counting cans, updating the rationing spreadsheet sh
 
 "The Lyles have a lot of things."
 
-"If they fall — when they fall — their supplies will be in that house. Canned goods, ammunition, the generator fuel. It'll be scattered in the rubble, but it'll be there."
+"If something happens to them — if that house gets overrun — their supplies will still be in there. Canned goods, ammunition, the generator fuel."
 
-I put my pen down. "You're planning to scavenge the Lyles' supplies after they die."
+I put my pen down. "You're planning to scavenge the Lyles' supplies."
 
 "I'm planning for the group to survive. Those are the same thing." She turned a can of green beans label-out and placed it on the shelf. "Every person who joins us costs us 1.3 days of food at current rationing. Marcus cost us 1.3 days. The next person will too. If we take in survivors without replenishing supplies, we starve together instead of separately. That's not compassion. That's arithmetic."
 
 "Maria —"
 
-"I'm not saying don't help people. I'm saying know the cost. And I'm saying that when the Lyles' house comes apart — and it will, Nate, you know it will — the supplies in that house become available and we need to be ready to get them before the Turned scatter them or the rain ruins them."
+"I'm not saying don't help people. I'm saying know the cost. And I'm saying that if something happens over there, the supplies in that house become available and we need to be ready to get them before the rain ruins them or we lose the chance."
 
-She was right. I hated that she was right. I hated more that the thought hadn't occurred to me — that Maria had looked at the Lyles' probable death and calculated the caloric yield before I had.
+She was right. I hated that she was right. I hated more that the thought hadn't occurred to me — that Maria had looked at the Lyles' situation and calculated the caloric contingency before I had.
 
 "That's cold," I said.
 
@@ -1529,14 +1531,13 @@ She went to bed. I sat at the table and stared at my map and thought about wheth
 
 **JOURNAL ENTRY #5:**
 
-*Day 10. Three modes confirmed. Herding is coordinated strategy. The food-driven behavior is coordinated predation. The swarm is the coordination collapsing entirely. I need a better taxonomy but the pattern is there.*
+*Day 10. Two modes confirmed. Herding is coordinated strategy. The food-driven behavior is coordinated predation. I suspect there's a third — something that happens when enough of them gather in one place. I don't have evidence yet. I have a feeling, and feelings aren't data.*
 
 *The clothing pattern connects to the green skin and the light orientation. Bare feet first, then shirts. The oldest Turned are the most exposed. The organism is systematically removing anything that covers the skin. I'm circling something I'm not ready to name.*
 
 *Maria is already planning what to do with the Lyles' supplies when they fall. I think she always sees the cost. I think the cost is what she's calculating when the rest of us think she's just counting cans.*
 
-*I called Craig's situation cognitive dissonance. Mine might be too. I understand the mechanism and still can't act on it. Knowing and doing are separated by a gap I haven't figured out how to cross. The textbook doesn't have a chapter for that.*
--e 
+*Ruth called Craig's situation cognitive dissonance. She might be describing mine too. I understand the mechanism and still can't act on it. Knowing and doing are separated by a gap I haven't figured out how to cross. The textbook doesn't have a chapter for that.*
 ---
 
 
@@ -1562,7 +1563,7 @@ She said this the way you'd describe a chemical reaction — factual, measured, 
 
 I was writing as fast as I could. Sienna was watching me write. Marcus had his hand on the radio as if physical contact could hold the signal steady.
 
-"The implications for survival are these: stay small. Stay quiet. Do not concentrate. Do not fortify. Do not engage. If you are receiving this and you are alive, it is because your biochemistry is below the activation threshold. Do not do anything that raises it. Every fortress is a countdown. Every act of defense is an invitation."
+"The implications for survival are these: stay small. Stay quiet. Do not concentrate. Do not rely on fortification to save you. Do not engage. If you are receiving this and you are alive, it is because your biochemistry is below the activation threshold. Do not do anything that raises it. Every fortress is a countdown. Every act of defense is an invitation."
 
 Static intruded for a few seconds. Then she came back, and her voice had shifted — less clinical, more human, as if she'd looked up from her notes and was speaking directly to whoever was listening.
 
@@ -1694,11 +1695,35 @@ Dale's knife was moving — fast, sharp strokes. "I'll sleep separated. Upstairs
 
 Nobody answered. The word *kill* sat on the table like something physical.
 
-"We don't have to solve all of it today," Jim said. "We solve the first part. Watch rotation. Two-hour shifts. One person awake with a flashlight, watching the room. If someone spikes — thrashing, the sounds we know — the watcher wakes me. We assess together."
+"We should say it now," Maria said. She put down the can she was holding. "Each of us. What we want done if it happens to us. On the record. So nobody has to guess, and nobody has to carry the guilt of choosing for someone else."
 
-"And if the assessment is bad?" Maria asked.
+The room went very quiet. Jim opened his mouth — I could see him reaching for a way to steer us away from this — but Maria was already looking at him.
 
-"Then we deal with it. Together. In the light."
+"I'll go first," she said. "If I turn, you restrain me. Tie me to something solid. Wait twenty-four hours. If nothing changes — if I'm not coming back — you put me outside and you walk away. You do not waste food or water keeping something alive that isn't me anymore."
+
+Dale's knife stopped. "Same," he said. "But don't wait twenty-four hours. I've been close enough to the edge to know when someone's gone. If the watcher says I've turned, I've turned. Tie me, take me outside, leave."
+
+Ruth straightened in her chair. "I'm seventy-two. I have arthritis, a heart condition that Leonard's death did nothing to improve, and the knees of a woman who spent forty years climbing into attics alongside a plumber. If I turn, do not waste a single resource on restraint. Put me out. If someone is willing to make it quick, I would consider that a final kindness, not a crime." She looked at Jim. "And I say that as a churchgoing woman who has read the relevant passages."
+
+Jim's jaw tightened. He didn't argue with her. He didn't agree either.
+
+Marcus spoke from his corner. "Kill me." Two words. Flat. "Don't tie me up. Don't wait. Don't put me outside to wander around using Ava's name on somebody else's door. If I turn, I want it to stop. That's my answer."
+
+Sienna was sitting with her knees drawn up. "Restrain me. Wait. I don't know how long — a day, two days. I want to know that someone tried." She looked at me. "If there's no coming back, then exile. Not —" She stopped. "I don't want anyone here to have to do the other thing because of me."
+
+Everyone looked at me.
+
+"Restrain," I said. "Wait as long as is practical. Then kill me." The word was easier to say than I expected. "I don't want to be outside using my mom's voice on someone's door. I don't want someone years from now wondering if I'm still in there. I know what not knowing feels like. I won't do that to anyone else." I paused. "And read my notebook. Everything I've observed is in there. If I'm gone, the observations still matter."
+
+Jim had his hands folded. His knuckles were white.
+
+"I will not ask anyone in this room to end a life," he said. "Not mine. Not anyone's. If I turn — restrain me. Pray over me. Wait. And if there is no change, then put me in God's hands outside this building and let Him decide what mercy looks like." He looked around the room. "But I will not judge any person here for the choice they've stated. I've heard you. I respect you. And I will honor what you've asked."
+
+Maria nodded. "Good. It's said. Nobody has to wonder."
+
+She picked up her can and went back to counting.
+
+Jim let the silence settle. Then, quieter: "Now we solve the first part. Watch rotation. Two-hour shifts. One person awake, watching the room. If someone spikes — thrashing, the sounds we know — the watcher wakes me. We assess together."
 
 We set up the rotation that morning. Two-hour shifts, midnight to six. Jim took the first slot. Marcus took second. I took third. Dale insisted on fourth — the pre-dawn hours, his worst window, arguing that if he was going to be awake sweating through cortisol spikes anyway, he might as well be useful.
 
@@ -1767,7 +1792,6 @@ The sun went down. The Turned shifted. Sixteen faces turned toward the last of t
 *I'm starting to think the whole concept of "rules for survival" is a comfort blanket. The rules keep changing. The organism keeps learning. The only real rule is: pay attention. Revise. Don't get attached to being right.*
 
 *Moss said "every fortress is a countdown." She's right. But what she didn't say is that every model is a countdown too.*
--e 
 ---
 
 
@@ -1799,7 +1823,7 @@ Sienna and I looked at each other.
 
 Sienna stared at the shoe on the doorstep. "She didn't come inside. She didn't try the door. She just... gave it back."
 
-"Because we're not a threat. We're below threshold. The organism has *filed* us." I wrote it in the notebook. My hand was shaking slightly. Not from fear — from the implications. "They know exactly where we are. They've known since Jim put the sign up. And they're choosing not to act because we're more useful alive. We're fear batteries they're not ready to harvest yet."
+"Because we're not a threat. We're below threshold. The organism has *filed* us." I wrote it in the notebook. My hand was shaking slightly. Not from fear — from the implications. "They know exactly where we are. They've known since Jim put the sign up. And they're choosing not to act because we're more useful alive, they are not hungry. We're fear batteries they're not able to harvest yet."
 
 We spent the next hour testing proximity. From the steeple we watched Jim's morning walk — his daily circuit of the parking lot, slow, calm, passing within ten feet of three Turned. No reaction. We watched a stray cat cross the lot — the Turned tracked it, the head-turn, but didn't pursue. The cat was too small to be worth the caloric effort, apparently. Or the organism didn't categorize cats as food yet.
 
@@ -2045,11 +2069,51 @@ Tammy had been standing in the kitchen doorway, listening. She hadn't said a wor
 
 Tammy looked at Craig. Something passed between them — the compressed communication of a long marriage, an entire argument conducted in eye contact. Craig's jaw tightened. Tammy's didn't change.
 
-"Thank you, Nate," Craig said. The dismissal was polite. Complete. He walked me to the door. He shook my hand again. "Tell Jim I appreciate the concern. We'll be fine."
+"Thank you, Nate," Craig said. The dismissal was polite. Complete. He started walking me to the door.
 
-The door closed.
+I should have let it end there. I had the data, I'd delivered it, the door was closing. But the number was in my head — twenty-two, climbing, the threshold somewhere above it — and I heard myself say the thing I'd been thinking since the steeple.
 
-I stood on the porch next to Tammy's chrysanthemum and felt the sting of being dismissed by a man who was wrong. Then, under it: this was exactly how Craig had felt when Jim tried. The vanity I'd carried here — *my data is better than your faith, my framework is sharper than your training* — had produced exactly the same result as every other approach. Craig's model was intact. Mine had a crack in it. Being right and being persuasive had nothing to do with each other, and I'd confused them because confusing them let me feel superior.
+"There's another option. If you're staying."
+
+Craig stopped. His hand was on the doorknob.
+
+"The threshold is about density. If you keep the count below it, the behavior never destabilizes. You could thin the numbers. Quietly. One at a time. At night, with a blade — no noise, no gunfire, nothing to draw more in. If you keep the perimeter below critical mass, you could hold this position indefinitely."
+
+The room went still. Not quiet — *still*, the way air goes still before weather.
+
+Craig turned around. He looked at me differently than he had for the entire visit. Before, I'd been a kid with a notebook — earnest, harmless, easy to dismiss. Now he was seeing something else.
+
+"You're talking about killing them," he said.
+
+"I'm talking about keeping the number below the threshold that —"
+
+"Those are *people*." His voice had changed. The polite-cop register was gone. "Helen Rydell. Mike Cosgrove. Tommy Barton's daughter — she's nineteen years old. I coached her in softball." He stepped toward me. "I swore an oath to protect this community. Every single person in it. And you're standing in my house telling me to go out at night and put a knife in them?"
+
+"They're not —"
+
+"Don't." One word, and it hit like a door slamming. "Don't you tell me they're not people. I can see them from this window. I can see their *faces*. You want to call it a threshold? A density? Put a number on it so it doesn't feel like what it is?" He was close now. I could smell the coffee on his breath. "It's murder. A fifteen-year-old kid standing in my living room proposing murder, and dressing it up in math."
+
+Brett was on his feet. The couple at the table hadn't moved, but the woman's face had gone pale. The trucker unfolded his arms.
+
+"The kid's not wrong," the trucker said, quietly. "About the numbers. I saw what happens when —"
+
+"Then *you* go do it," Craig said, not turning. "You go out there with a knife and you put it in someone who used to be your neighbor and you tell me how the math feels then."
+
+The trucker went quiet.
+
+Craig turned back to me. The anger had shifted — still there, but underneath it now was something rawer. "And what if they're sick? What if this is a disease, and somewhere out there somebody's working on a cure? What if six months from now there's a treatment, and you've already gone out with your knife and your threshold and your *math*, and the people you thinned could have been saved?" His voice cracked on the last word. He caught it. "You want to put a number on Helen Rydell? She taught Sunday school for thirty years. She's standing in my yard right now. And you're telling me to go cut her throat because your spreadsheet says the number's too high."
+
+I had no answer. Not because he was wrong — he might not be wrong. We didn't know. Moss hadn't said the conversion was irreversible. She hadn't said it was reversible either. The absence of data cut both ways, and Craig was standing in the gap where the data should be and filling it with hope, which was the most human thing you could do and possibly the most dangerous.
+
+Tammy was standing in the kitchen doorway. She hadn't spoken. She was looking at me with an expression I couldn't read — not anger, not agreement. Something more complicated. The look of a woman who'd already done the math I was proposing and arrived at the same answer and hated herself for it.
+
+"Get out," Craig said. Not shouting. Worse than shouting — controlled, final, the voice of a man who'd decided what I was. "And don't come back. You or Jim or anyone else from that church. We're done."
+
+He opened the door. I walked through it. The door closed behind me hard enough to rattle the chrysanthemum pot.
+
+I stood on the porch and my hands were shaking. Not from fear — from the collision between knowing I was right and knowing Craig was also right, and that both things being true meant there was no good answer, only less terrible ones. I'd proposed killing people. I'd done it calmly, with data, in a man's living room, to his face. Craig had called it murder and I couldn't argue because the only difference between what I'd described and murder was a spreadsheet.
+
+This was exactly how Craig had felt when Jim tried. The vanity I'd carried here — *my data is better than your faith, my framework is sharper than your training* — had produced something worse than the same result. Jim had been dismissed politely. I'd been thrown out. And I deserved it, not because I was wrong about the numbers but because I'd said the unsayable thing out loud in the wrong room and expected math to make it clean.
 
 ---
 
@@ -2057,13 +2121,15 @@ I walked back to the corner of Cedar. Sienna was there, leaning against a mailbo
 
 "He didn't listen."
 
-"He listened. He didn't hear."
+"He threw me out." I didn't elaborate. I didn't tell her what I'd said at the end — the suggestion, the math, the look on Craig's face when he understood what the math meant. I didn't tell her because part of me thought Craig was right. Not about the strategy. About me. About what kind of person proposes what I'd proposed and does it calmly.
 
-"What's the difference?"
+"What happened?"
 
-"Listening is receiving information. Hearing is letting it change you. Craig received the information and then his brain routed it through his existing model and the model said 'this kid is wrong because what he's describing contradicts everything I know about how to protect people,' and the information died somewhere between his ears and his behavior."
+"I pushed too hard. Said something I shouldn't have."
 
-We walked back to the church. Sienna didn't touch my arm this time. She walked beside me and the space between us was comfortable in a way it hadn't been a week ago. I noticed this and filed it and did not examine it because examining it would raise my heart rate.
+She waited for more. I didn't give her more. After a few seconds she stopped waiting, and that was one of the things I was learning about Sienna — she could hear the silence where the words should be and she didn't try to fill it.
+
+We walked back to the church. She walked beside me and the space between us was comfortable in a way it hadn't been a week ago. I noticed this and filed it and did not examine it because examining it would raise my heart rate.
 
 "You tried," she said.
 
@@ -2071,9 +2137,7 @@ We walked back to the church. Sienna didn't touch my arm this time. She walked b
 
 "That's not true and you know it."
 
-"I know it intellectually. I don't know it in my body."
-
-She looked at me sideways. "That might be the most honest thing you've ever said."
+I didn't answer. The honest answer was that I wasn't sure anymore what I knew and what I'd built out of numbers to avoid knowing something worse.
 
 ---
 
@@ -2089,9 +2153,11 @@ I opened the notebook.
 
 *I don't know how to make people revise their models. Jim can't do it with faith. I can't do it with data. Maybe the only thing that revises a model is the model failing — and by then it's too late.*
 
-*Tammy listened differently. She asked about numbers. She's running her own calculations. Whether she can make Craig hear what she's hearing — that's their marriage, their version of the prisoner's dilemma.*
+*I told Craig to thin the herd. I said it calmly, with numbers, like the numbers made it something other than what it was. He called it murder. He's right. The fact that it might also be the only way to keep his family alive doesn't make it not murder. It just makes it murder with a justification, and justifications are what people build after the decision is already made.*
 
-*Jim said: "Being right doesn't give you the right to let him die without trying." He was talking to me. He was also talking about himself. He was also talking about God, probably. Jim talks about several things at once and you don't always know until later.*
+*Craig threw me out. He should have. I walked into a man's home and told him to kill his neighbors with a knife. I dressed it in math because math is where I hide when the thing I'm saying is too ugly to say straight. Craig saw through the math. I didn't expect that from him and the fact that I didn't expect it tells me more about me than about Craig.*
+
+*Tammy listened differently. She asked about numbers. She's running her own calculations. Whether she can make Craig hear what she's hearing — that's their marriage, their version of the prisoner's dilemma.*
 
 *Day 13. Twenty-three Turned around the Lyles. Sixteen around the church. The gap between those numbers is a measurement of the difference between being heard and being loud.*
 
@@ -2562,6 +2628,30 @@ I slept that night. I didn't mean to — I'd planned to stay awake, stay in the 
 Not the septic tank. Something larger. An infinite version of the same space — no walls, no lid, no bottom. Just dark, extending in every direction, and somewhere above me the sound of the house being torn apart. Not close. Not approaching. Just constant, like weather. The tearing was the texture of the world. And I was standing in it with my hands at my sides and I couldn't move, not because I was frozen but because there was nowhere to move *to*. Every direction was the same dark. Every step would land in the same place.
 
 I woke with my fists clenched so hard that my palms were marked with crescent moons from my fingernails. Four deep impressions in each hand, the skin white and then flushing red. For a disoriented second I thought my fingers were pruned — waterlogged — and the tank rushed back and my heart spiked and I pressed my thumb against my wrist and counted. The count took longer than usual. The dream didn't want to let go.
+
+Marcus was standing six feet away.
+
+He was on night watch — I could see the flashlight in his left hand, off, and the folding chair he'd been sitting in near the stairs. He was standing very still, watching me, and there was something in his right hand that he was holding close against his thigh where I almost couldn't see it. A kitchen knife. The good one, the eight-inch chef's knife from the church kitchen.
+
+"Hey," he said. Quiet. Careful. The way you'd talk to something you weren't sure about yet.
+
+I understood. I'd been asleep. I'd been making sounds — the dream had been the kind that moves your mouth. And Marcus had heard me and come over and stood there with a knife against his leg waiting to see what woke up.
+
+"It's me," I said. My voice was raw.
+
+"I know." He didn't move the knife. "What's your mom's name?"
+
+"Karen."
+
+"What'd you smell like when you got home yesterday?"
+
+"Septic tank. Still do, probably."
+
+He exhaled. The knife went into his back pocket — casual, practiced, like he'd done this before. He had. I realized then that every night watcher had probably done this. Every time someone cried out in their sleep or sat up too fast or went quiet in a way that didn't sound like breathing, whoever was on watch had to make a decision. And they had to make it before the person was fully awake, because if the person waking up wasn't a person anymore, being close and unarmed was how you died.
+
+"Go back to sleep," Marcus said. He sat back down in his chair.
+
+I didn't go back to sleep. I lay on the pew and stared at the ceiling and thought about Marcus standing over me with a knife, asking me my mother's name, and how that was what kindness looked like now — someone who cared enough to check before they cut.
 
 ---
 

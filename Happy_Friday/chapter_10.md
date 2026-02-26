@@ -26,11 +26,11 @@ I went downstairs.
 
 Jim sipped his coffee. "Craig is a good man. He protected this town for twenty years. He's doing what he knows how to do."
 
-"What he knows how to do is going to get him killed."
+"What he knows how to do is drawing every Turned in a half-mile radius to his front yard. I don't know what happens when enough of them show up in one place, but I don't want to find out."
 
 Jim set his mug down. He looked at me with the patient, measuring expression that I'd learned meant he was about to say something I needed to hear and didn't want to.
 
-"You're right," he said. "And being right doesn't give you the right to let him die without trying."
+"You might be right," he said. "And if you're right, that doesn't give you the right to sit here and watch without trying."
 
 "I'm not saying —"
 
@@ -80,11 +80,13 @@ Jim and Marcus walked back. Twenty minutes there, twenty minutes home. My heart 
 
 "He said he appreciated the concern. He said he had a duty to protect his family. He said he'd survived twenty years in law enforcement by trusting his training and he wasn't going to stop now." Jim paused. "He's not wrong about any of that. He's just applying it to the wrong situation."
 
-"Cognitive dissonance," I said. "The brain rejects new information that contradicts existing belief because revising the belief feels worse than the danger of keeping it. He can't hear you because hearing it would mean everything he's done — the boards, the guns, the perimeter — was wrong. And if that's wrong, he doesn't know how to protect his family. That uncertainty is more terrifying than the Turned."
+"He can't hear you," I said. "Because if you're right, then everything he's done — the boards, the guns, the perimeter — all of it was wrong. And if that's wrong, he doesn't know how to protect his family. That's scarier than the Turned."
 
-Jim looked at me. "That's not wrong either. Knowing why he won't listen doesn't help him listen."
+Ruth's voice came from the top of the stairs. "Cognitive dissonance. The brain rejects new information that contradicts existing belief because revising the belief is more painful than the danger of keeping it." She had her novel in her hand, finger marking her page. "I taught high school psychology for six years before I switched to English. Craig Lyle isn't stupid. He's protecting himself from a thought he can't afford to have."
 
-"No. But it tells me something about what we're up against. The human brain is its own obstacle, and it might be the bigger one."
+Jim looked at her, then at me. "Knowing why he won't listen doesn't help him listen."
+
+"No," Ruth said. "But it tells you what you're up against. The human brain is its own obstacle, and it might be the bigger one." She went back to her book.
 
 ---
 
@@ -102,7 +104,7 @@ She came back down with grease on her hands and her cardigan askew.
 
 "I thought —" I started.
 
-"You thought I was an old woman with a pill bottle and a sharp tongue. That's fair. I cultivated that impression. It's useful — people who underestimate you leave you alone, and being left alone is my preferred state." She washed her hands at the kitchen sink. "Leonard — my husband — died in 2019. Heart attack on a job site. I learned more from him than from any education course I ever took, and I took all of them. He could fix anything." She dried her hands. "I can fix *most* things. The distinction is important."
+"You thought I was an old woman with a pill bottle and a sharp tongue. That's fair. I cultivated that impression. It's useful — people who underestimate you leave you alone, and being left alone is my preferred state." She washed her hands at the kitchen sink. "Leonard — my husband — died in 2019. Heart attack on a job site. I learned more from him than from any education course I ever took, and I took all of them. He could fix anything." She dried her hands. "I can fix *most* things."
 
 She went back upstairs to her novel.
 
@@ -120,17 +122,17 @@ She was doing inventory — counting cans, updating the rationing spreadsheet sh
 
 "The Lyles have a lot of things."
 
-"If they fall — when they fall — their supplies will be in that house. Canned goods, ammunition, the generator fuel. It'll be scattered in the rubble, but it'll be there."
+"If something happens to them — if that house gets overrun — their supplies will still be in there. Canned goods, ammunition, the generator fuel."
 
-I put my pen down. "You're planning to scavenge the Lyles' supplies after they die."
+I put my pen down. "You're planning to scavenge the Lyles' supplies."
 
 "I'm planning for the group to survive. Those are the same thing." She turned a can of green beans label-out and placed it on the shelf. "Every person who joins us costs us 1.3 days of food at current rationing. Marcus cost us 1.3 days. The next person will too. If we take in survivors without replenishing supplies, we starve together instead of separately. That's not compassion. That's arithmetic."
 
 "Maria —"
 
-"I'm not saying don't help people. I'm saying know the cost. And I'm saying that when the Lyles' house comes apart — and it will, Nate, you know it will — the supplies in that house become available and we need to be ready to get them before the Turned scatter them or the rain ruins them."
+"I'm not saying don't help people. I'm saying know the cost. And I'm saying that if something happens over there, the supplies in that house become available and we need to be ready to get them before the rain ruins them or we lose the chance."
 
-She was right. I hated that she was right. I hated more that the thought hadn't occurred to me — that Maria had looked at the Lyles' probable death and calculated the caloric yield before I had.
+She was right. I hated that she was right. I hated more that the thought hadn't occurred to me — that Maria had looked at the Lyles' situation and calculated the caloric contingency before I had.
 
 "That's cold," I said.
 
@@ -140,12 +142,11 @@ She went to bed. I sat at the table and stared at my map and thought about wheth
 
 **JOURNAL ENTRY #5:**
 
-*Day 10. Three modes confirmed. Herding is coordinated strategy. The food-driven behavior is coordinated predation. The swarm is the coordination collapsing entirely. I need a better taxonomy but the pattern is there.*
+*Day 10. Two modes confirmed. Herding is coordinated strategy. The food-driven behavior is coordinated predation. I suspect there's a third — something that happens when enough of them gather in one place. I don't have evidence yet. I have a feeling, and feelings aren't data.*
 
 *The clothing pattern connects to the green skin and the light orientation. Bare feet first, then shirts. The oldest Turned are the most exposed. The organism is systematically removing anything that covers the skin. I'm circling something I'm not ready to name.*
 
 *Maria is already planning what to do with the Lyles' supplies when they fall. I think she always sees the cost. I think the cost is what she's calculating when the rest of us think she's just counting cans.*
 
-*I called Craig's situation cognitive dissonance. Mine might be too. I understand the mechanism and still can't act on it. Knowing and doing are separated by a gap I haven't figured out how to cross. The textbook doesn't have a chapter for that.*
--e 
+*Ruth called Craig's situation cognitive dissonance. She might be describing mine too. I understand the mechanism and still can't act on it. Knowing and doing are separated by a gap I haven't figured out how to cross. The textbook doesn't have a chapter for that.*
 ---

@@ -166,6 +166,30 @@ Not the septic tank. Something larger. An infinite version of the same space —
 
 I woke with my fists clenched so hard that my palms were marked with crescent moons from my fingernails. Four deep impressions in each hand, the skin white and then flushing red. For a disoriented second I thought my fingers were pruned — waterlogged — and the tank rushed back and my heart spiked and I pressed my thumb against my wrist and counted. The count took longer than usual. The dream didn't want to let go.
 
+Marcus was standing six feet away.
+
+He was on night watch — I could see the flashlight in his left hand, off, and the folding chair he'd been sitting in near the stairs. He was standing very still, watching me, and there was something in his right hand that he was holding close against his thigh where I almost couldn't see it. A kitchen knife. The good one, the eight-inch chef's knife from the church kitchen.
+
+"Hey," he said. Quiet. Careful. The way you'd talk to something you weren't sure about yet.
+
+I understood. I'd been asleep. I'd been making sounds — the dream had been the kind that moves your mouth. And Marcus had heard me and come over and stood there with a knife against his leg waiting to see what woke up.
+
+"It's me," I said. My voice was raw.
+
+"I know." He didn't move the knife. "What's your mom's name?"
+
+"Karen."
+
+"What'd you smell like when you got home yesterday?"
+
+"Septic tank. Still do, probably."
+
+He exhaled. The knife went into his back pocket — casual, practiced, like he'd done this before. He had. I realized then that every night watcher had probably done this. Every time someone cried out in their sleep or sat up too fast or went quiet in a way that didn't sound like breathing, whoever was on watch had to make a decision. And they had to make it before the person was fully awake, because if the person waking up wasn't a person anymore, being close and unarmed was how you died.
+
+"Go back to sleep," Marcus said. He sat back down in his chair.
+
+I didn't go back to sleep. I lay on the pew and stared at the ceiling and thought about Marcus standing over me with a knife, asking me my mother's name, and how that was what kindness looked like now — someone who cared enough to check before they cut.
+
 ---
 
 The next morning Sienna came to the steeple while I was on watch. She sat down across from me and didn't say anything for a long time. I knew this silence — it was the one she used when she was choosing words, which meant the words were going to matter.

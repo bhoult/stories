@@ -20,7 +20,7 @@ She said this the way you'd describe a chemical reaction — factual, measured, 
 
 I was writing as fast as I could. Sienna was watching me write. Marcus had his hand on the radio as if physical contact could hold the signal steady.
 
-"The implications for survival are these: stay small. Stay quiet. Do not concentrate. Do not fortify. Do not engage. If you are receiving this and you are alive, it is because your biochemistry is below the activation threshold. Do not do anything that raises it. Every fortress is a countdown. Every act of defense is an invitation."
+"The implications for survival are these: stay small. Stay quiet. Do not concentrate. Do not rely on fortification to save you. Do not engage. If you are receiving this and you are alive, it is because your biochemistry is below the activation threshold. Do not do anything that raises it. Every fortress is a countdown. Every act of defense is an invitation."
 
 Static intruded for a few seconds. Then she came back, and her voice had shifted — less clinical, more human, as if she'd looked up from her notes and was speaking directly to whoever was listening.
 
@@ -152,11 +152,35 @@ Dale's knife was moving — fast, sharp strokes. "I'll sleep separated. Upstairs
 
 Nobody answered. The word *kill* sat on the table like something physical.
 
-"We don't have to solve all of it today," Jim said. "We solve the first part. Watch rotation. Two-hour shifts. One person awake with a flashlight, watching the room. If someone spikes — thrashing, the sounds we know — the watcher wakes me. We assess together."
+"We should say it now," Maria said. She put down the can she was holding. "Each of us. What we want done if it happens to us. On the record. So nobody has to guess, and nobody has to carry the guilt of choosing for someone else."
 
-"And if the assessment is bad?" Maria asked.
+The room went very quiet. Jim opened his mouth — I could see him reaching for a way to steer us away from this — but Maria was already looking at him.
 
-"Then we deal with it. Together. In the light."
+"I'll go first," she said. "If I turn, you restrain me. Tie me to something solid. Wait twenty-four hours. If nothing changes — if I'm not coming back — you put me outside and you walk away. You do not waste food or water keeping something alive that isn't me anymore."
+
+Dale's knife stopped. "Same," he said. "But don't wait twenty-four hours. I've been close enough to the edge to know when someone's gone. If the watcher says I've turned, I've turned. Tie me, take me outside, leave."
+
+Ruth straightened in her chair. "I'm seventy-two. I have arthritis, a heart condition that Leonard's death did nothing to improve, and the knees of a woman who spent forty years climbing into attics alongside a plumber. If I turn, do not waste a single resource on restraint. Put me out. If someone is willing to make it quick, I would consider that a final kindness, not a crime." She looked at Jim. "And I say that as a churchgoing woman who has read the relevant passages."
+
+Jim's jaw tightened. He didn't argue with her. He didn't agree either.
+
+Marcus spoke from his corner. "Kill me." Two words. Flat. "Don't tie me up. Don't wait. Don't put me outside to wander around using Ava's name on somebody else's door. If I turn, I want it to stop. That's my answer."
+
+Sienna was sitting with her knees drawn up. "Restrain me. Wait. I don't know how long — a day, two days. I want to know that someone tried." She looked at me. "If there's no coming back, then exile. Not —" She stopped. "I don't want anyone here to have to do the other thing because of me."
+
+Everyone looked at me.
+
+"Restrain," I said. "Wait as long as is practical. Then kill me." The word was easier to say than I expected. "I don't want to be outside using my mom's voice on someone's door. I don't want someone years from now wondering if I'm still in there. I know what not knowing feels like. I won't do that to anyone else." I paused. "And read my notebook. Everything I've observed is in there. If I'm gone, the observations still matter."
+
+Jim had his hands folded. His knuckles were white.
+
+"I will not ask anyone in this room to end a life," he said. "Not mine. Not anyone's. If I turn — restrain me. Pray over me. Wait. And if there is no change, then put me in God's hands outside this building and let Him decide what mercy looks like." He looked around the room. "But I will not judge any person here for the choice they've stated. I've heard you. I respect you. And I will honor what you've asked."
+
+Maria nodded. "Good. It's said. Nobody has to wonder."
+
+She picked up her can and went back to counting.
+
+Jim let the silence settle. Then, quieter: "Now we solve the first part. Watch rotation. Two-hour shifts. One person awake, watching the room. If someone spikes — thrashing, the sounds we know — the watcher wakes me. We assess together."
 
 We set up the rotation that morning. Two-hour shifts, midnight to six. Jim took the first slot. Marcus took second. I took third. Dale insisted on fourth — the pre-dawn hours, his worst window, arguing that if he was going to be awake sweating through cortisol spikes anyway, he might as well be useful.
 
@@ -225,5 +249,4 @@ The sun went down. The Turned shifted. Sixteen faces turned toward the last of t
 *I'm starting to think the whole concept of "rules for survival" is a comfort blanket. The rules keep changing. The organism keeps learning. The only real rule is: pay attention. Revise. Don't get attached to being right.*
 
 *Moss said "every fortress is a countdown." She's right. But what she didn't say is that every model is a countdown too.*
--e 
 ---

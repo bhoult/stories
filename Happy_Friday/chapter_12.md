@@ -26,7 +26,7 @@ Sienna and I looked at each other.
 
 Sienna stared at the shoe on the doorstep. "She didn't come inside. She didn't try the door. She just... gave it back."
 
-"Because we're not a threat. We're below threshold. The organism has *filed* us." I wrote it in the notebook. My hand was shaking slightly. Not from fear — from the implications. "They know exactly where we are. They've known since Jim put the sign up. And they're choosing not to act because we're more useful alive. We're fear batteries they're not ready to harvest yet."
+"Because we're not a threat. We're below threshold. The organism has *filed* us." I wrote it in the notebook. My hand was shaking slightly. Not from fear — from the implications. "They know exactly where we are. They've known since Jim put the sign up. And they're choosing not to act because we're more useful alive, they are not hungry. We're fear batteries they're not able to harvest yet."
 
 We spent the next hour testing proximity. From the steeple we watched Jim's morning walk — his daily circuit of the parking lot, slow, calm, passing within ten feet of three Turned. No reaction. We watched a stray cat cross the lot — the Turned tracked it, the head-turn, but didn't pursue. The cat was too small to be worth the caloric effort, apparently. Or the organism didn't categorize cats as food yet.
 
@@ -272,11 +272,51 @@ Tammy had been standing in the kitchen doorway, listening. She hadn't said a wor
 
 Tammy looked at Craig. Something passed between them — the compressed communication of a long marriage, an entire argument conducted in eye contact. Craig's jaw tightened. Tammy's didn't change.
 
-"Thank you, Nate," Craig said. The dismissal was polite. Complete. He walked me to the door. He shook my hand again. "Tell Jim I appreciate the concern. We'll be fine."
+"Thank you, Nate," Craig said. The dismissal was polite. Complete. He started walking me to the door.
 
-The door closed.
+I should have let it end there. I had the data, I'd delivered it, the door was closing. But the number was in my head — twenty-two, climbing, the threshold somewhere above it — and I heard myself say the thing I'd been thinking since the steeple.
 
-I stood on the porch next to Tammy's chrysanthemum and felt the sting of being dismissed by a man who was wrong. Then, under it: this was exactly how Craig had felt when Jim tried. The vanity I'd carried here — *my data is better than your faith, my framework is sharper than your training* — had produced exactly the same result as every other approach. Craig's model was intact. Mine had a crack in it. Being right and being persuasive had nothing to do with each other, and I'd confused them because confusing them let me feel superior.
+"There's another option. If you're staying."
+
+Craig stopped. His hand was on the doorknob.
+
+"The threshold is about density. If you keep the count below it, the behavior never destabilizes. You could thin the numbers. Quietly. One at a time. At night, with a blade — no noise, no gunfire, nothing to draw more in. If you keep the perimeter below critical mass, you could hold this position indefinitely."
+
+The room went still. Not quiet — *still*, the way air goes still before weather.
+
+Craig turned around. He looked at me differently than he had for the entire visit. Before, I'd been a kid with a notebook — earnest, harmless, easy to dismiss. Now he was seeing something else.
+
+"You're talking about killing them," he said.
+
+"I'm talking about keeping the number below the threshold that —"
+
+"Those are *people*." His voice had changed. The polite-cop register was gone. "Helen Rydell. Mike Cosgrove. Tommy Barton's daughter — she's nineteen years old. I coached her in softball." He stepped toward me. "I swore an oath to protect this community. Every single person in it. And you're standing in my house telling me to go out at night and put a knife in them?"
+
+"They're not —"
+
+"Don't." One word, and it hit like a door slamming. "Don't you tell me they're not people. I can see them from this window. I can see their *faces*. You want to call it a threshold? A density? Put a number on it so it doesn't feel like what it is?" He was close now. I could smell the coffee on his breath. "It's murder. A fifteen-year-old kid standing in my living room proposing murder, and dressing it up in math."
+
+Brett was on his feet. The couple at the table hadn't moved, but the woman's face had gone pale. The trucker unfolded his arms.
+
+"The kid's not wrong," the trucker said, quietly. "About the numbers. I saw what happens when —"
+
+"Then *you* go do it," Craig said, not turning. "You go out there with a knife and you put it in someone who used to be your neighbor and you tell me how the math feels then."
+
+The trucker went quiet.
+
+Craig turned back to me. The anger had shifted — still there, but underneath it now was something rawer. "And what if they're sick? What if this is a disease, and somewhere out there somebody's working on a cure? What if six months from now there's a treatment, and you've already gone out with your knife and your threshold and your *math*, and the people you thinned could have been saved?" His voice cracked on the last word. He caught it. "You want to put a number on Helen Rydell? She taught Sunday school for thirty years. She's standing in my yard right now. And you're telling me to go cut her throat because your spreadsheet says the number's too high."
+
+I had no answer. Not because he was wrong — he might not be wrong. We didn't know. Moss hadn't said the conversion was irreversible. She hadn't said it was reversible either. The absence of data cut both ways, and Craig was standing in the gap where the data should be and filling it with hope, which was the most human thing you could do and possibly the most dangerous.
+
+Tammy was standing in the kitchen doorway. She hadn't spoken. She was looking at me with an expression I couldn't read — not anger, not agreement. Something more complicated. The look of a woman who'd already done the math I was proposing and arrived at the same answer and hated herself for it.
+
+"Get out," Craig said. Not shouting. Worse than shouting — controlled, final, the voice of a man who'd decided what I was. "And don't come back. You or Jim or anyone else from that church. We're done."
+
+He opened the door. I walked through it. The door closed behind me hard enough to rattle the chrysanthemum pot.
+
+I stood on the porch and my hands were shaking. Not from fear — from the collision between knowing I was right and knowing Craig was also right, and that both things being true meant there was no good answer, only less terrible ones. I'd proposed killing people. I'd done it calmly, with data, in a man's living room, to his face. Craig had called it murder and I couldn't argue because the only difference between what I'd described and murder was a spreadsheet.
+
+This was exactly how Craig had felt when Jim tried. The vanity I'd carried here — *my data is better than your faith, my framework is sharper than your training* — had produced something worse than the same result. Jim had been dismissed politely. I'd been thrown out. And I deserved it, not because I was wrong about the numbers but because I'd said the unsayable thing out loud in the wrong room and expected math to make it clean.
 
 ---
 
@@ -284,13 +324,15 @@ I walked back to the corner of Cedar. Sienna was there, leaning against a mailbo
 
 "He didn't listen."
 
-"He listened. He didn't hear."
+"He threw me out." I didn't elaborate. I didn't tell her what I'd said at the end — the suggestion, the math, the look on Craig's face when he understood what the math meant. I didn't tell her because part of me thought Craig was right. Not about the strategy. About me. About what kind of person proposes what I'd proposed and does it calmly.
 
-"What's the difference?"
+"What happened?"
 
-"Listening is receiving information. Hearing is letting it change you. Craig received the information and then his brain routed it through his existing model and the model said 'this kid is wrong because what he's describing contradicts everything I know about how to protect people,' and the information died somewhere between his ears and his behavior."
+"I pushed too hard. Said something I shouldn't have."
 
-We walked back to the church. Sienna didn't touch my arm this time. She walked beside me and the space between us was comfortable in a way it hadn't been a week ago. I noticed this and filed it and did not examine it because examining it would raise my heart rate.
+She waited for more. I didn't give her more. After a few seconds she stopped waiting, and that was one of the things I was learning about Sienna — she could hear the silence where the words should be and she didn't try to fill it.
+
+We walked back to the church. She walked beside me and the space between us was comfortable in a way it hadn't been a week ago. I noticed this and filed it and did not examine it because examining it would raise my heart rate.
 
 "You tried," she said.
 
@@ -298,9 +340,7 @@ We walked back to the church. Sienna didn't touch my arm this time. She walked b
 
 "That's not true and you know it."
 
-"I know it intellectually. I don't know it in my body."
-
-She looked at me sideways. "That might be the most honest thing you've ever said."
+I didn't answer. The honest answer was that I wasn't sure anymore what I knew and what I'd built out of numbers to avoid knowing something worse.
 
 ---
 
@@ -316,8 +356,10 @@ I opened the notebook.
 
 *I don't know how to make people revise their models. Jim can't do it with faith. I can't do it with data. Maybe the only thing that revises a model is the model failing — and by then it's too late.*
 
-*Tammy listened differently. She asked about numbers. She's running her own calculations. Whether she can make Craig hear what she's hearing — that's their marriage, their version of the prisoner's dilemma.*
+*I told Craig to thin the herd. I said it calmly, with numbers, like the numbers made it something other than what it was. He called it murder. He's right. The fact that it might also be the only way to keep his family alive doesn't make it not murder. It just makes it murder with a justification, and justifications are what people build after the decision is already made.*
 
-*Jim said: "Being right doesn't give you the right to let him die without trying." He was talking to me. He was also talking about himself. He was also talking about God, probably. Jim talks about several things at once and you don't always know until later.*
+*Craig threw me out. He should have. I walked into a man's home and told him to kill his neighbors with a knife. I dressed it in math because math is where I hide when the thing I'm saying is too ugly to say straight. Craig saw through the math. I didn't expect that from him and the fact that I didn't expect it tells me more about me than about Craig.*
+
+*Tammy listened differently. She asked about numbers. She's running her own calculations. Whether she can make Craig hear what she's hearing — that's their marriage, their version of the prisoner's dilemma.*
 
 *Day 13. Twenty-three Turned around the Lyles. Sixteen around the church. The gap between those numbers is a measurement of the difference between being heard and being loud.*
