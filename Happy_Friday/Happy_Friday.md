@@ -2656,7 +2656,7 @@ I understood. I'd been asleep. I'd been making sounds — the dream had been the
 
 "What'd you smell like when you got home yesterday?"
 
-"Septic tank. Still do, probably."
+"Septic tank and vomit. Still do, probably."
 
 He exhaled. The knife went into his back pocket — casual, practiced, like he'd done this before. He had. I realized then that every night watcher had probably done this. Every time someone cried out in their sleep or sat up too fast or went quiet in a way that didn't sound like breathing, whoever was on watch had to make a decision. And they had to make it before the person was fully awake, because if the person waking up wasn't a person anymore, being close and unarmed was how you died.
 
@@ -2688,7 +2688,7 @@ The binoculars were in my hands and I was gripping them hard enough that the rub
 
 "You went into that house and left a *note*. That's not a decision. That's running away with documentation." She paused. "You're the smartest person I've ever met. You see things nobody else sees. But you use the smart to build reasons why you can't act, instead of plans for how to act better. And I'm telling you this because —" Her voice changed. Went quieter. "Because the next time you go alone and leave a note, I might not be standing at the door when you come back. And you need to decide whether that matters to you more than being right about your own limitations."
 
-She went downstairs. I sat in the steeple and looked through the binoculars and didn't see anything because my eyes were blurring and I told myself it was the cold air and it wasn't the cold air.
+She went downstairs. I sat in the steeple and looked through the binoculars and didn't see anything because my eyes were blurring and I told myself it was the cold air, but it wasn't the cold air.
 
 ---
 
