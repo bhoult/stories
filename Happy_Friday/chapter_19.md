@@ -166,6 +166,48 @@ The forest was not quiet. I'd thought forests were quiet — the peaceful silenc
 
 We all smelled like smoke and sweat. The fire provided warmth for whoever was on watch — Marcus took first shift, Jim second — but the smoke got into everything. Hair. Sleeping bags. Clothes. The smell would be our constant companion. I'd stop noticing it by Day 3.
 
+---
+
+Day two was worse. Day three was worse than that. The trail did not believe in mercy and the trail did not believe in flat and the trail had an opinion about my cardiovascular fitness that it expressed through gradient.
+
+But on the afternoon of the second day, after climbing a ridge that seemed designed as a personal insult — switchback after switchback, the kind of hill that keeps promising a top and then revealing another false summit behind it — I reached the top. Actually reached it. The trail leveled and the trees thinned and the sky opened and I stopped walking because my body stopped walking for me, the way a machine shuts off when the fuel runs out.
+
+Sienna was already there. She'd been there for five minutes, probably. She was sitting on a rock with her knees pulled up, looking west, not looking at me. Giving me the dignity of arriving without an audience.
+
+I stood there and breathed. Just breathed. And the stopping — the sudden absence of effort after hours of nothing but effort — was the most satisfying physical sensation I had ever experienced. Better than food. Better than sleep. Better than anything the old world had offered, because the old world had never required me to earn the right to stand still. The stopping was pure. It filled my entire body the way cold water fills an empty glass, and for a few seconds there was nothing else — no anger, no fear, no calculation. Just the stopping.
+
+I looked west, where we were going. Ridgelines stacked to the horizon, blue on blue on blue, each one a day's walk, each one a promise that the trail continued. I looked east, where we'd come from — the valley we'd crossed that morning, the ridge we'd climbed the day before, the lowlands beyond where Clarksville sat invisible in the haze. I could see where we'd been. I could see where we were going. The distance was tangible, obvious, written in the landscape in a way that thousands of days of waking up, going to school, playing video games, reading books had never been. Those days had blended together — the same morning, the same hallway, the same screen, the same bed — until they meant nothing individually because they were all the same day repeated until the repetition erased them.
+
+This was not the same day. This day had a hill and the hill had a top and I was standing on it and the proof was in every direction.
+
+Sienna was a few feet away, not speaking. The wind was cool — the sun low, starting its slide toward the ridgeline — and on the distant horizon, past the last visible ridge, lightning flashed. Silent. Too far for thunder. Just light, pulsing in the clouds, the sky doing something vast and indifferent to our presence.
+
+I knew I would remember this moment for the rest of my life. Standing on a sandstone ridge in the Ozarks, breathing hard, sweat cooling on my back, Sienna a few feet away just breathing, lightning on the horizon and the wind in the last of the oak leaves and the trail behind us and the trail ahead and the silence that wasn't empty but full — full of the specific, unrepeatable fact of being alive in a place I had earned the right to stand.
+
+I didn't say any of this. Neither did she. We stood there until Marcus called up from the switchback below, and then we kept walking.
+
+---
+
+On day three the trail crossed a forest service road — a gravel track cutting east-west through the ridgeline, the kind of road that existed for timber trucks and hunters and nobody else. The day was hot. Arkansas does this in November — gives you frost at dawn and eighty degrees by noon, the kind of weather that can't decide what season it is and settles for all of them at once. We were sweating through our shirts by midmorning and the water filter was getting a workout at every creek crossing.
+
+Near the road crossing, set back in the trees: a cabin. Small, one-room, the kind of place a hunter or a forest service worker might use for a weekend. The windows were intact. The door was closed. No Turned — we checked the perimeter, checked the road in both directions, checked the tree line. Nothing. The cabin was alone the way some places in the Ozarks are alone — genuinely, deeply, as if the rest of the world had simply decided not to include it.
+
+Behind the cabin, a small greenhouse. Plastic sheeting over a wooden frame, the panels clouded with condensation, and inside — still growing, untended for weeks but alive because greenhouses don't need people, they need sun — vegetables. Tomatoes gone soft on the vine. Squash. Peppers. A row of herbs. And at the back, heavy on the ground, split open with ripeness: cantaloupes.
+
+We didn't discuss it. We didn't ration. We stood in the greenhouse and ate. Marcus cut a squash with his knife and handed sections around. Maria ate a tomato like an apple, juice running down her wrist. Ruth sat on an overturned bucket and ate peppers with the slow, deliberate satisfaction of a woman who had been eating freeze-dried cardboard for three days and had just rediscovered that food could have a texture other than "reconstituted."
+
+I picked up a cantaloupe. It was heavy, cool from the shade, the rind rough under my fingers. I cut it open and the smell hit me — sweet, dense, the smell of something alive and ripe and real — and I ate it standing in the corner of the greenhouse with my back to the group because my hands were shaking and I didn't want anyone to see.
+
+The juice ran down my chin. I was crying. Not from grief, not from anger — from cantaloupe. From the sweetness of it, the coolness, the way it tasted like something that had been made specifically for this moment by whatever force arranges the universe. I had never tasted anything this good. I would never taste anything this good again. No billionaire, no celebrity chef, no president or king would ever taste what I was tasting, because this couldn't be bought. It had to be earned. It had to be earned by standing in sewage expecting to die, by hauling a hundred and eighty pounds over thousands of feet of elevation change, by eating freeze-dried beef stew that tasted like salted regret for three days straight. The capacity to appreciate this cantaloupe — cool, sweet, perfect — was not because it was the best cantaloupe ever grown. It was because I had earned the tongue to taste it.
+
+I turned further into the corner. The tears were absurd and I didn't care. Behind me, Caleb was eating a tomato with both hands and giggling because the seeds kept sliding off his chin, and Ruth was telling Marcus that Gerald had grown cantaloupes every summer and they were always terrible and she'd eaten them anyway, and Jim was holding a slice up to the light coming through the greenhouse panels and looking at it the way he looked at communion bread — with reverence, with the specific attention of a man who believed that ordinary things could be sacred if you were paying attention.
+
+We stayed at the greenhouse longer than we should have. We ate everything that was ripe and filled water bottles with creek water and packed what we could carry — two squash, a handful of peppers, three tomatoes that wouldn't survive the trail but would taste like something tonight. Marcus found a can of coffee in the cabin. Actual coffee. He held it up and the group made a sound that was not quite a cheer and not quite a prayer.
+
+We left the greenhouse standing. Took what we needed. Left the rest to keep growing for whoever came next, if anyone did.
+
+---
+
 That night I dreamed I was in the trailer. Everything was right — the paneling, the counter, the burn mark. But the trailer was moving. Not on wheels — being dragged, the whole structure shuddering, the floor tilting, and through the kitchen window the trees were not the park's trees but the OHT forest, oaks and hickories scrolling past as the trailer was pulled through terrain it was never built for. I could hear the skirting tearing underneath, the vinyl shredding against rock, and I ran to the back door and opened it and the drop was not the gravel lot but a ravine, a hundred feet of empty air, and the trailer was sliding toward the edge and I couldn't stop it because you can't stop a house.
 
 I woke to the sound of wind in the canopy and for three heartbeats I didn't know which world was real — the forest or the trailer — and my hand found my wrist and counted and the count was high, one-ten, one-oh-six, and I lay still and watched the fire embers and breathed until the numbers came down and the trailer dissolved and I was on a rock in the Boston Mountains and the stars were the only things that hadn't changed. The bite scar on my palm pressed against my wrist as I counted — the crescent of tooth marks, white now, a souvenir from the night I learned to be quiet.
