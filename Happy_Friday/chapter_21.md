@@ -44,7 +44,7 @@ The pause was three seconds. It felt longer.
 
 Another pause. Then: "We have an emitter running. Eighty-meter radius. When you reach the campus, approach from the north — Razorback Road. The emitter covers the life sciences building and the surrounding quad. Stay calm, keep your heart rates down, and come straight to us. I'll have the door open."
 
-Marcus looked at me across the fire. The CB crackled with static and the faint hum of the frequency — audible even through the tiny speaker, a sound I'd never heard but that Jim had dreamed about on Day 7. A tuning fork pressed against the bones of the earth.
+Marcus looked at me across the fire. The CB crackled with static and the faint hum of the frequency — audible even through the tiny speaker, a sound I'd never heard but that Jim had dreamed about on Day 9. A tuning fork pressed against the bones of the earth.
 
 "Copy," Marcus said. "We'll be there."
 

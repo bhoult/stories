@@ -12,7 +12,7 @@ What Caleb doesn't know is that he cries in his sleep. Every night. Small, hitch
 
 These are the moments that don't make the journal entries. The tea. The rock. The sound of Ruth turning pages. They happened between the crises the way grass grows between stones. I want you to know about them because the version of this story that only contains fear and strategy and running is not the true version. The true version has chamomile tea in it. The true version has a seven-year-old showing you a rock.
 
-Dale was sitting across from me at the fire, carving. The turtle was nearly finished — the hexagonal plates of the shell emerging with clean, precise strokes. His hands were steady. They'd been steady for days now, the withdrawal broken back around Day 8 on the trail, but I was only now seeing it properly because I'd been inside my own weather system and had stopped noticing anything outside it.
+Dale was sitting across from me at the fire, carving. The turtle was nearly finished — the hexagonal plates of the shell emerging with clean, precise strokes. His hands were steady. They'd been steady for days now, the withdrawal broken back around Day 10 on the trail, but I was only now seeing it properly because I'd been inside my own weather system and had stopped noticing anything outside it.
 
 He looked up and caught me watching his hands.
 
