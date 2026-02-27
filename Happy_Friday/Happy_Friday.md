@@ -3227,9 +3227,7 @@ And me. At the end of the table with the notebook and a pen and the binoculars h
 
 "We need to talk about leaving," I said.
 
-Jim's jaw tightened. "We discussed this."
-
-"We postponed this. I gave you two days. We need to talk about it now, because the situation has changed and the change isn't in our favor."
+Jim's jaw tightened. 
 
 I opened the notebook. I'd prepared for this — drawn a diagram, assembled the observations, organized the argument the way you'd organize a presentation. Persuading people to leave the only safe place they'd known for three weeks required data.
 
@@ -3239,25 +3237,33 @@ I opened the notebook. I'd prepared for this — drawn a diagram, assembled the 
 
 **One.** The Turned count near the church was rising.
 
-"The swarm that hit the Lyles drew Turned from at least a six-block radius. After the frenzy burned out, they dispersed — but they didn't go back where they came from. They redistributed. The net effect is a higher density across this entire neighborhood. Before the Lyles, we had sixteen in our immediate area. As of this morning, twenty-three. The Lyles' swarm didn't just destroy their house. It seeded our perimeter."
+"Before the Lyles, we had sixteen in our immediate area. The morning after the swarm, I counted seven — the roar pulled the rest north. Seven damaged Turned, some of them barely functional. For about twelve hours it looked like the swarm had done us a favor." I paused. "It hadn't. The Turned that converged on the Lyles' house came from a six-block radius — blocks we thought were empty. After the frenzy burned out, they dispersed, but they didn't go back where they came from. They redistributed according to caloric availability and habitat, and this neighborhood has both. As of this morning, twenty-three. More than before. The Lyles' swarm didn't just destroy their house. It seeded our perimeter with Turned we'd never tracked."
 
 Ruth: "You're saying their death made us less safe."
 
-"Their death made everyone in this area less safe. The Turned don't go home. They redistribute according to caloric availability and habitat, and this neighborhood has both — the Walmart, the gardens, the dumpsters, the water sources. Every day the density increases. We're on the same trajectory the Lyles were. We're just earlier on the curve."
+"Their death made everyone in this area less safe. The Turned don't go home. They redistribute, and this neighborhood has everything they need — the Walmart, the gardens, the dumpsters, the water sources. Every day the density increases. And density isn't just a comfort problem. It's a trigger."
+
+I looked around the table.
+
+"You all heard the roar. That sound — the one that shook the windows — that was the threshold. The organism has a mode specifically designed to destroy fortified positions. When the count around a structure hits critical, the roar fires, and what follows is a demolition. Not coordinated. Not strategic. Just bodies against walls until the walls come down. Craig had plywood, brick, a generator, guns, and military training. The organism erased his house in forty-three minutes." I let that sit. "The church is the second-largest intact structure in the neighborhood. We're on the same trajectory the Lyles were. We're just earlier on the curve."
 
 ---
 
-**Two.** The Turned's behavior was changing.
+**Two.** The hunting behavior was escalating.
+
+"Marcus already showed us what happens when you approach one with intent — the crouch, the bark, the others closing in. We all heard the same thing at the Lyles' house when Brett started shooting. Hunting mode. We've known about it for a week." I turned a page. "What's changed is the trigger. Marcus triggered it with a hatchet. Brett triggered it with a shotgun. Threat. But now I'm seeing the same behavior without any threat at all. They're hunting because they're *hungry*."
+
+I turned a page.
 
 "They're not just herding anymore. I've been watching the patrol patterns from the steeple and they've shifted. Two weeks ago, the Turned near the church drifted — aimless circuits, no apparent purpose. Now they're checking doors. Systematically. A Turned man I've been tracking — the one in the Carhartt jacket, from across Highway 21 — spent thirty minutes yesterday working his way down the block, pushing on every door, testing every window. He's shed the jacket entirely now — bare from the waist up, the jacket folded on the ground near his usual position. The organism folded it. Whatever is driving them to remove clothing, it's deliberate, not decay."
 
 I turned a page.
 
-"When he found an unlocked door, he went inside. He was inside for about ten minutes. He came out carrying something — I couldn't see what. Food, probably. And here's the thing that changes the model: when he came out, he made a sound. The same sound Sienna described at the interchange — a short, sharp bark. Two other Turned, a block away, immediately oriented and moved toward the house. They went inside. The three of them foraged together for another twenty minutes."
+"When he found an unlocked door, he went inside. He was inside for about ten minutes. He came out carrying something — I couldn't see what. Food, probably. And here's the thing that changes the model: when he came out, he made the bark. The same sound that brought four hunters down on Marcus. Two other Turned, a block away, immediately oriented and moved toward the house. They went inside. The three of them foraged together for another twenty minutes. Not because someone threatened them. Because there was food and the bark said *come eat.*"
 
-"That's coordination," Marcus said. "That's not the herd behavior."
+"So it's not just defensive," Marcus said. His hand was on the table, flat, the way it got when he was processing something. "The bark at the Lyles' — that was them reacting to a gun. This is them... coordinating a grocery run."
 
-"No. I'm calling it *hunting.*" The word sat in the room and everyone knew it was the right one. "Three modes now. Herding — fear-farming, reproduction. Swarming — density threshold, demolition. And hunting — food-driven, directed, problem-solving. Small groups, coordinated by that sound. Herding is patient. Swarming is chaos. Hunting is directed, purposeful, and triggered by caloric need."
+"Same mode. Different trigger. And the new trigger is worse because it doesn't require us to do anything. We don't have to approach them. We don't have to fire a shot. They're entering hunting mode on their own now, because the easy food is gone."
 
 I turned another page.
 
@@ -3265,7 +3271,7 @@ I turned another page.
 
 The table was quiet.
 
-"A stray. Tabby. It had been living in the dumpster enclosure. She cornered it — methodically, between the dumpster and the fence — and she killed it and she ate it. Not frenzied. Not the swarm behavior. Hunting. A single Turned individual solving a caloric problem." I paused. "The cat scratched her. Clawed her arm, deep. And when it scratched her, she made the bark — that same short sharp sound — and the Carhartt man, fifty yards away, turned and started walking toward her. She'd been attacked and the sound came out like a reflex. Like a dinner bell and a distress call at once. He arrived, saw the cat was dead, and went back to his patrol. But the implication —"
+"A stray. Tabby. It had been living in the dumpster enclosure. She cornered it — methodically, between the dumpster and the fence — and she killed it and she ate it. Not frenzied. Not the swarm behavior. Hunting. A single Turned individual solving a caloric problem." I paused. "The cat scratched her. Clawed her arm, deep. And when it scratched her, she made the bark — and the Carhartt man, fifty yards away, turned and started walking toward her. She'd been attacked and the sound came out like a reflex. Like a dinner bell and a distress call at once. He arrived, saw the cat was dead, and went back to his patrol. But the implication —"
 
 "If you fight one of them," Sienna said, "the sound brings more."
 
@@ -3309,7 +3315,7 @@ Before the leaving debate consumed everything, Marcus put the kill question on t
 
 "I answered my own question," he said. "You can kill them. They die like people. But you can't kill them *quietly.*"
 
-He described it for the people who hadn't watched from the steeple — the approach, the shift, the hunting crouch. Dale's hands were still. Ruth's novel was closed. Jim listened with his eyes down.
+We'd been talking about hunting in the abstract — steeple observations, patrol patterns, the Carhartt man checking doors. Marcus put a body on it. Dale's hands were still. Ruth's novel was closed. Jim listened with his eyes down.
 
 "The organism detected me before I was in range," Marcus said. "Ten feet out, the thing changed. Dropped into a crouch, hands up like claws, came at me on tiptoes — fast, silent. Not the shuffling. Something else entirely. Then it made a sound — the bark — and three more shifted into the same thing. Four predators, closing on me from different angles. I got one. I almost didn't get back."
 
@@ -3343,7 +3349,7 @@ The second was newcomer verification — if we encountered survivors on the trai
 
 The third was the watch rotation callback. "The watch rotation is the most important job we have," Jim said, "and nobody wants to do it because nobody wants to be the person who has to decide, in the dark, whether the person in the next pew is still a person." On the trail, with no basement and no walls, the watch would be even more critical. We'd sleep in shifts. The watcher would have the cuff and a flashlight and the worst job in the world.
 
-The fourth was distraction doctrine. I laid out what we knew by type: "Herding Turned respond to sound and light — any stimulus that might mean a panicking human. A continuous noise draws them and holds their attention for thirty seconds to a minute. Hunters are harder — directed, problem-solving, noise works only briefly because they're already locked on a target. And swarmers are beyond distraction. Once the density threshold tips and the frenzy starts, you can bang every pot in a kitchen and they won't hear you over their own destruction." The hand-crank radio would travel with us. Standard procedure for any high-risk movement: position a noise source away from the group's path before proceeding.
+The fourth was distraction doctrine. I laid out what we knew by type: "Herding Turned respond to sound and light — any stimulus that might mean a panicking human. A continuous noise draws them and holds their attention for thirty seconds to a minute. Hunters are harder — directed, problem-solving, noise works only briefly because they're already locked on a target. And swarmers —" I stopped. Everyone at the table had heard the roar. I didn't need to explain what came after it. "Swarmers are beyond distraction. Beyond everything. You saw what they did to a brick house with a man with a rifle inside it. The only distraction protocol for a swarm is *don't be there.*" The hand-crank radio would travel with us. Standard procedure for any high-risk movement: position a noise source away from the group's path before proceeding.
 
 The loops intersected and diverged and re-intersected and at one point Ruth and Maria had a disagreement about food rationing that was actually a disagreement about whether leaving was an act of courage or an abandonment of everything they'd built, and at another point Dale said "I'll go wherever you need me to go" in a voice that was so flat and so steady that I realized he was already grieving his Suboxone and had made his peace with whatever came after, and that Dale's version of bravery was quieter and harder than any version I'd encountered.
 
@@ -3410,7 +3416,7 @@ The cold settled over me. Below, the Turned shifted in the parking lot, restless
 In three days we'd leave this church and walk sixty miles through the worst terrain in the state: a seventy-two-year-old woman, a seven-year-old boy, a man in withdrawal, a pastor whose faith was cracking, a truck driver who missed his daughter, a girl who ran toward crying children, and me — a hundred and eighty pounds, winded on stairs, capable of looking at a house full of dead people and calculating the load-bearing capacity of a gravel cliff.
 
 This was the team. God help us.
--e 
+
 ---
 
 
