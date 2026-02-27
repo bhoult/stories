@@ -2935,7 +2935,7 @@ Jim was quiet for a long time. The Turned swayed in the lot. Tom Hadley's hand t
 
 "At what point does killing someone who can't fight back stop being murder?" Jim said.
 
-Neither of us won. Neither of us tried to. We sat on the church steps in the cold and watched the Turned repeat their loops and we held two positions that couldn't both be right and might both be true, and the space between them was the space where every hard decision in the next three weeks would live.
+Neither of us won. Neither of us tried to. We sat on the church steps in the cold and watched the Turned repeat their loops and we held two positions that couldn't both be right and might both be true, the space between them was the space where every hard decision in the next three weeks would live.
 
 Jim stood up. He put his good hand on my shoulder.
 
@@ -2984,19 +2984,23 @@ Jim closed his Bible. "I'll go talk to him."
 
 "I can walk through anything." He said it without arrogance. Simple faith, the kind that had carried him across Highway 21 every day for three weeks. And he was right — he could. But walking through fifty-one to deliver a message Craig wouldn't hear was a risk I couldn't let him take.
 
-"What are you going to tell him that you haven't already told him?"
+"What are you going to tell him that you haven't already told him? And Jim — Craig isn't going to be happy to see you. Not after what I said to him."
 
-Jim looked at me. The sadness in his face was for Craig, for the inevitability I was describing.
+Jim looked at me. I hadn't told the group about the thinning proposal — the shame of it was mine to carry — but I'd told Jim. He needed to know what he was walking into. Jim had listened, and his face had done the thing it did when he was absorbing something that hurt him, and he'd been quiet for a long time. Then he'd said, "The people in that house are definitely alive. Definitely people. The Turned — I don't know what they are. Nobody does. And you're asking Craig to kill the uncertain ones to protect the certain ones." He'd looked at me. "The math isn't wrong, Nate. The math acknowledges something real. But we don't know enough to act on it, and acting on what you don't know is how you become the thing you're afraid of." That had been the end of it except that it wasn't the end of it because Craig Lyle now had a reason to hate everyone from the church.
 
 "I'm going to tell him to leave. Right now. Walk out the back door. Leave the guns, leave the boards, leave the generator. Walk to the church."
 
-"He won't."
+"He won't. And he might not even open the door."
 
-"I know he won't. But I need to have said it." He paused. "There are things you do because they might work and things you do because you can't stand before God having not tried. This is the second kind."
+"I know." He paused. "There are things you do because they might work and things you do because you can't stand before God having not tried. This is the second kind."
 
-He went. I watched from the steeple — Jim walking north through the residential streets, past clusters of Turned who tracked him and didn't engage, through the thickening perimeter around the Lyles' block, up to the porch. Craig came to the door. They talked. Three minutes. Craig shook his head. Jim put his hand on Craig's shoulder — the same gesture he'd used with Marcus at the pharmacy — and then turned and walked back. The Turned let him pass. Jim's calm was impenetrable and the organism had long since stopped trying.
+He went. I watched from the steeple — Jim walking north through the residential streets, past clusters of Turned who tracked him and didn't engage, through the thickening perimeter around the Lyles' block, up to the porch.
 
-He came back to the church and sat in his chair and folded his hands and said nothing, and the nothing he said was the loudest thing I'd heard all week.
+Craig came to the door with his rifle. Not slung across his chest — in his hands, the barrel not quite pointed at Jim but not pointed away either. They talked. I couldn't hear the words but I could read the posture. Craig's jaw was set, his weight forward, the stance of a man who'd already decided this conversation was over before it started. Jim was doing what Jim does — open hands, leaning in, the body language of a man offering something. Craig wasn't receiving. At one point Craig jabbed a finger toward the church — toward us — and I knew what he was saying. He was saying *your boy.* He was saying *that kid wanted to murder them.* He was saying *you people are no different from the things outside.*
+
+Two minutes. Craig stepped back and closed the door. Didn't slam it. Just closed it, the way you close a door on someone who isn't worth the energy of slamming. Jim stood on the porch for a few seconds, his hand half-raised — the gesture he'd been about to make, the shoulder-touch, the pastoral instinct — and then he lowered it and turned and walked back. The Turned let him pass. Jim's calm was impenetrable and the organism had long since stopped trying.
+
+He came back to the church and sat in his chair and folded his hands and said nothing, and the nothing he said was the loudest thing I'd heard all week. I wanted to ask what Craig had said. I didn't need to. Craig had said what I'd given him the ammunition to say, and Jim had absorbed it the way Jim absorbed everything — silently, completely, adding it to the weight he carried without complaint.
 
 ---
 
@@ -3032,7 +3036,9 @@ Brett Lyle came out with a shotgun.
 
 The first shot was a flash and a boom that broke the night open. The sound rolled across the blocks between us and hit the church like a physical thing — I felt it in the steeple floor, felt it in my teeth. Brett was firing into the Turned — I could see the muzzle flash, strobe-light snapshots of the yard, of the shapes closing in from every direction.
 
-The gunfire did what gunfire does. It drew them. More Turned, appearing from the dark, from between houses, from the blocks south and east and west, walking toward the sound with that steady, patient pace. The count spiked. Sixty, seventy — I couldn't count, the moonlight wasn't enough, they were a dark tide flowing toward the house from every direction and Brett was shooting and reloading and shooting and the shots were doing nothing except feeding the signal.
+The Turned reacted instantly. Every one of them dropped into the hunting crouch — spines curved, arms wide, fingers splayed into claws, the posture I'd seen Marcus trigger with a hatchet but multiplied by sixty. The herding patience was gone. They barked — sharp, staccato, the hunting call bouncing between them like gunfire of their own, each bark answered by another and another until the yard was a wall of sound. They began circling the house in the crouch, fast, low, the movement coordinated in the way that individual hunting never was. The gunfire had changed the equation. A man with a weapon wasn't prey. He was a threat, and the organism responded to threats the way an immune system responds to infection — with everything it had.
+
+Brett kept firing. Each shot drew more. More Turned, appearing from the dark, from between houses, from the blocks south and east and west, already in the crouch before they arrived, the hunting call preceding them like a wave front. The count spiked. Sixty, seventy — I couldn't count, the moonlight wasn't enough, they were a dark tide flowing toward the house from every direction and Brett was shooting and reloading and shooting and the shots were doing nothing except feeding the signal.
 
 Craig came out. I saw him through the binoculars — sheriff's jacket, rifle, taking a position at the corner of the house. He was firing controlled shots, the discipline of twenty years, and his discipline was the thing killing him because every controlled shot drew more and the more he drew the more he fired and the loop was closing.
 
@@ -3040,11 +3046,17 @@ Tammy was in the doorway. I could see her silhouette. She was not shooting. She 
 
 The count hit critical.
 
-I saw it happen. Through the binoculars, in the moonlight, I saw the change. It was like watching water go from liquid to boil — a phase transition, sudden and total. The Turned surrounding the house had been in their herding mode: strategic, patient, using the voices, applying psychological pressure. Then something shifted. A ripple went through the crowd — a physical shudder, a synchronization of movement that traveled through the mass like a wave. The voices stopped. The drone stopped. Everything stopped for maybe two seconds.
+I saw it happen. Through the binoculars, in the moonlight, I saw the change. It was like watching gasoline go from liquid to fire — a phase transition, sudden and total. The hunting crouch straightened. The barking stopped. The circling stopped. Every Turned surrounding the house stood upright at the same instant — a synchronization of movement that traveled through the mass like a wave. They went still. Sixty-plus bodies, motionless, silent, facing the house. The voices stopped. The drone stopped. Everything stopped for maybe two seconds.
 
 Then they roared.
 
 Every Turned in the mass screamed at the same instant — a sound that crossed the three blocks between us and hit the steeple like a pressure wave. I felt it in the floor, in my teeth, in the binoculars vibrating against my face. It was the sound I'd heard through four feet of concrete in the septic tank, but from here I could see what made it: sixty-plus human mouths open wider than mouths should open, heads thrown back, throats distended, producing a collective scream so loud it shredded the vocal cords making it. I could see — through the binoculars, in the moonlight — blood on chins, on necks, the soft tissue of the throat tearing under the force of the sound and the sound not stopping. It carried for miles. It was a summoning call and a declaration and a sound that said *the patience is over* in a language older than speech.
+
+Through the binoculars I saw Craig and Brett freeze. The roar did what gunfire hadn't — it reached past their training and grabbed the animal underneath. Brett's shotgun dropped to his side. Craig's head snapped toward the sound and I saw his face — not the controlled discipline of a deputy, but the white-eyed shock of a man who has just realized that the thing he's been fighting isn't what he thought it was. They ran for the door. Brett first, Craig behind him, Tammy pulling them in. The door slammed shut.
+
+It didn't matter. The door was already irrelevant.
+
+And from beyond the house — from blocks away, from the roads and the yards and the dark spaces between houses — I could see them coming. Turned I'd never catalogued, emerging from positions I didn't know existed, running. Not walking. Not drifting. *Running* — full sprint, the hunting crouch abandoned, arms pumping, bare feet slapping asphalt, converging on the house from every direction like iron filings pulled toward a magnet. The roar had carried for miles and every Turned within range had answered it. The count went from seventy to something I couldn't track — a hundred, more — dark shapes streaming in from the north, the south, the east, pouring down residential streets and across yards, and they were all running and the sound of their feet was a drumroll building toward something that had no name.
 
 Then they went insane.
 
@@ -3054,15 +3066,19 @@ I timed it. Timing things is what I do when I can't do anything else. The altern
 
 Four minutes for the plywood. The boarded windows went in sequence — north side first, then east, then the front. They didn't push the plywood off. They *dismantled* it — fingers hooked under edges, pulling in different directions, the wood splitting along the grain as twenty hands tore it apart the way you'd tear apart bread. I could hear the wood splitting from the steeple — a sound like bones cracking, continuous, overlapping.
 
-The walls went next. A man — I couldn't identify him in the moonlight — lowered his head and drove it into the brick façade on the east side. Not once. Over and over, a rhythmic battering that sent chips of mortar spraying with each impact. The brick didn't give but the mortar between the bricks did, and after six or seven blows he was pulling bricks out of the wall with bloody hands and the ones behind him were climbing through the gap before it was wide enough, squeezing their bodies through jagged openings, the brick edges tearing skin and muscle as they forced themselves through and they did not slow down. Others were punching through drywall on the interior walls — I could hear the crumbling, the gypsum giving way, and through the broken windows I could see them inside the house, climbing over each other, pulling down ceiling joists, tearing open closet doors, moving through the structure the way termites move through wood — consuming it from the inside out.
+The walls went next. A man — I couldn't identify him in the moonlight — lowered his head and drove it into the brick façade on the east side. Not once. Over and over, a rhythmic battering that sent chips of mortar spraying with each impact. The brick didn't give but the mortar between the bricks did, and after six or seven blows he was pulling bricks out of the wall with bloody hands and the ones behind him were climbing through the gap before it was wide enough, squeezing their bodies through jagged openings, the brick edges tearing skin and muscle as they forced themselves through and they did not slow down. Others were punching through drywall on the interior walls — I could hear the crumbling, the gypsum giving way, and through the broken windows I could see them inside the house, climbing over each other, pulling down ceiling joists, tearing open closet doors, moving through the structure the way fire move through wood — consuming it from the inside out.
 
 One of them reached the roof through the attic access and began tearing at the rafters from above. Others climbed the exterior and met him there. They pulled the roof apart in sections — not lifting it off but disassembling it, rafter by rafter, sheathing board by sheathing board, with the methodical frenzy of something that didn't know how to stop. A roof section collapsed and fell into the house and took six of them with it and the ones it fell on kept moving under the debris, still tearing, still pulling, broken arms still swinging at the framing around them. One crawled out from under a section of ridge beam with his ribcage visibly deformed — the ribs on his left side pushed inward, the chest wall caved — and he got up and went back to the wall he'd been pulling apart. The organism didn't register damage. The body was a tool and the tool was expendable.
 
-They attacked each other. Not deliberately — incidentally, the way you'd shove through a crowd that was in your way. When two Turned reached for the same section of wall, they fought for it — clawing, biting, shoving — and the one that lost didn't retreat. It turned on the nearest surface and kept destroying. I watched through the binoculars as a Turned woman pulled a man off a window frame by the shoulders, threw him to the ground, and went through the window herself. The man got up with a dislocated shoulder — the arm hanging wrong, swinging loose — and started battering the wall beside the window with his good arm, then his bad arm, then his head.
+They attacked each other. Not deliberately — incidentally, the way you'd shove through a crowd that was in your way. When two Turned reached for the same section of wall, they fought for it — clawing, biting, shoving — and the one that lost didn't retreat. It turned on the nearest surface and kept destroying, or it kept tearing at the back of the one that won. I watched through the binoculars as a Turned woman pulled a man off a window frame by the shoulders, threw him to the ground, and went through the window herself. The man got up with a dislocated shoulder — the arm hanging wrong, swinging loose — and started battering the wall beside the window with his good arm, then his bad arm, then his head.
 
-Brett's shotgun fired three more times during the breach. Each blast knocked a Turned backward — I saw the impacts through the binoculars, the bodies jerking, falling — and the ones that fell got up. Not all of them. Some didn't get up. But the ones that did got up with holes in them and kept coming, and the ones that didn't were trampled by the ones behind them, and then the shotgun stopped.
+From inside the house, Brett's shotgun fired three more times. Each blast lit the broken windows from within — strobe flashes, yellow-white, snapshots of the interior filling with bodies. I could see the impacts through the gaps in the plywood — Turned jerking backward, falling — and the ones that fell got up. Not all of them. Some didn't get up. But the ones that did got up with holes in them and kept coming, and the ones that didn't were trampled by the ones behind them, and then the shotgun stopped.
 
-Craig's rifle fired once.
+Craig's rifle fired twice. Three times. Then a gap. Then once more.
+
+Through a hole where the east wall had been — the brick torn away, the interior exposed like a rib cage opened by a giant hand — I saw him. Craig Lyle, backed against the far wall of what had been his living room. Sheriff's jacket. Rifle up. The room was full of them and he was firing into the mass at point-blank range and it was doing nothing and he knew it was doing nothing and he kept firing because it was the only thing he knew how to do.
+
+Then he stopped. The rifle was empty or jammed or it didn't matter. He lowered it. And in the last second before the Turned closed around him, Craig turned his head and looked south. Toward the church. Toward us. Through the binoculars, at three blocks, in the moonlight, I saw his face and I will never know what was on it — accusation, or understanding, or the blankness of a man past all of it — but he was looking at the church when they took him and I will carry that look for the rest of my life.
 
 Then nothing. Just the sound.
 
@@ -3088,7 +3104,7 @@ The Turned had scattered. Post-frenzy dispersal — the same pattern I'd observe
 
 The damage was extraordinary. Through the binoculars I could see the cost of what the swarm had done to itself. A woman sat in the rubble with both arms broken below the elbow — the forearms bent at angles that made my stomach clench — and she was trying to stand and couldn't because her arms couldn't push her up and she kept trying, the broken limbs folding under her weight, and the organism kept making her try. A man stood near the remains of the porch with his jaw hanging loose on one side, dislocated or broken, the lower teeth visible in a way they shouldn't have been. Others had torn hands, crushed fingers, scalps split open from battering brick, chest walls caved from being buried under debris. One — the headbatter from the east wall — stood swaying with his forehead caved in, the skull visibly deformed, and he was still upright, still blinking, still tracking movement. The organism maintained function. It didn't maintain the body.
 
-At least twenty of them were on the ground. Not standing. Not moving. Lying in the debris with the stillness that means nothing is operating anymore — the blood loss too great, the internal damage too severe, the ribs that had broken inward finally cutting the arteries they'd been grinding against for an hour. They'd destroyed themselves against the house the way moths destroy themselves against a light, and the destruction hadn't registered as a reason to stop. The frenzy had run until the bodies failed.
+At least fifty of them were on the ground. Not standing. Not moving. Lying in the debris with the stillness that means nothing is operating anymore — the blood loss too great, the internal damage too severe, the ribs that had broken inward finally cutting the arteries they'd been grinding against for an hour. They'd destroyed themselves against the house the way moths destroy themselves against a light, and the destruction hadn't registered as a reason to stop. The frenzy had run until the bodies failed.
 
 The ones that were still moving had noticed the ones that weren't.
 
@@ -3100,13 +3116,35 @@ Across the debris field, the same thing was happening in three other places. The
 
 The organism had designed a system with no waste. The frenzy destroyed the structure. The frenzy destroyed some of the Turned. The survivors ate the destroyed. The calories fueled the next cycle. I was watching a closed loop, self-sustaining, and the efficiency of it was the most horrifying thing I'd seen since the world ended because it meant the organism hadn't made a mistake. The self-destruction wasn't a flaw. It was a feature. The swarm was designed to lose bodies, and the bodies were designed to be consumed, and the whole thing ran like a machine that burned its own parts for fuel.
 
-I saw new faces among the survivors. Craig, still in his sheriff's jacket, standing in his own front yard with blank eyes and a smooth face. Brett, shirtless, blood on his arms that wasn't his, drifting toward the road. The trucker — I recognized the cap — standing motionless near what had been the porch. Others I couldn't identify at distance.
+And sitting in the steeple, watching the last of it wind down, I understood what the roar was. What it changed. What it meant.
+
+The herding — the voices, the patience, the psychological pressure — that was sophisticated. Subtle. It could break individuals. But it couldn't break walls. It couldn't breach a fortified position. The organism had run up against the same problem every army in history had run up against: how do you take a fortress? How do you breach a defended position when the defenders won't come out?
+
+The roar was the answer. Not a sound — a *weapon*. A biological siege engine that required no general, no strategy, no coordination beyond the trigger itself. The hunting crouch gathered them. The roar flipped the switch. And what came after — the frenzy, the mindless, self-destructive assault — was the organism's solution to fortification. It didn't need to be smart. It needed to be *total*. Sixty bodies thrown against a structure with no regard for damage, no retreat instinct, no pain response — that was enough to take any house, any building, any wall that humans could build. The bodies were the battering ram and the battering ram was disposable because the dead fed the living and the living would do it again tomorrow.
+
+This was an evolved behavior. Not learned. Not improvised. *Evolved* — refined across whatever timescale the organism operated on, designed to solve the specific problem of a species that builds shelters and hides inside them. The biological equivalent of a doomsday weapon: unstoppable, indiscriminate, and deployed automatically when the conditions were met. No thought required. No leadership. Just a threshold, a trigger, and then annihilation.
+
+Every fortress humanity had ever built — every wall, every bunker, every fortified position — was a problem this organism had already solved. The military checkpoints. The National Guard barricades. The boarded houses and the gated communities and the concrete shelters where people were huddling right now, believing that walls would save them. The organism would herd. It would wait. It would gather. And when the count hit critical, the roar would come, and what followed would reduce any structure to rubble and any defender to calories.
+
+Craig Lyle had fortified his home and the organism had erased it in forty-three minutes. The Pentagon would take longer. But not much.
+
+I saw new faces among the survivors. What was left of them.
+
+Craig was standing in his own front yard. I recognized the sheriff's jacket before I recognized anything else, because the man wearing it was hard to reconcile with the man I'd argued with on that porch. His left arm was gone below the elbow — not cut, torn, the stump ragged, the bone visible at distance through the binoculars, white against the dark mess around it. His right eye was swollen shut or missing — I couldn't tell at three blocks — the socket a dark socket above the smooth, blank expression that had replaced everything Craig Lyle had been. He was standing upright. The organism didn't care about the arm. The organism had the other one.
+
+Brett was worse. Shirtless — his shirt had been torn off or he'd lost it in the collapse — and his torso was a map of what the house had done to him on the way down. Ribs visible on the left side where the skin had been scraped away. His right leg dragged, the knee bent sideways at an angle that meant the ligaments were gone, and he walked on it anyway, the foot swinging loose with each step, the organism using the hip and the momentum to move forward because forward was all it knew. Blood on his arms that wasn't his. He was drifting toward the road.
+
+The trucker — I recognized the cap — stood motionless near what had been the porch. He was missing three fingers on his right hand. The stumps had stopped bleeding. Others I couldn't identify at distance, and some of that was the distance and some of it was that the frenzy had taken enough of their faces that identification wasn't possible anymore.
 
 I didn't see Tammy. I didn't see the couple from the subdivisions.
 
 I looked for her. I scanned the debris, the yard, the street — dead or turned. I couldn't find her. The house was too thoroughly destroyed, the debris too scattered. She was in there somewhere, or she'd turned and I couldn't identify her at distance, or she'd gotten out. While Craig and Brett were drawing the swarm's attention at the back door, she'd gone through the front. While the organism was focused on the guns and the shouting, she'd walked away. Slowly. Quietly. The way I'd walked back from Henderson's trailer. The way I walked everywhere now.
 
-I had no evidence for this. Tammy had listened when I talked. She'd asked the right questions. She'd looked at Craig with the expression of a woman doing math her husband couldn't hear. Maybe the math had saved her. Maybe it hadn't.
+I had no evidence for this. But I remembered Tammy watching from the kitchen while Craig threw me out — that unreadable expression, the stillness of a woman calculating something she couldn't say out loud. She'd heard everything I said. She'd heard Craig reject it. And she'd made her own plan, quietly, the way Tammy did everything, and when the moment came she'd used it. Maybe. Or maybe she was under the rubble. I'd never know.
+
+Before I went downstairs I turned the binoculars south — toward the church, toward us. Our parking lot had held sixteen Turned for three weeks. I counted seven. The roar had pulled the rest north to the Lyles', and they hadn't come back — either dead in the rubble, too damaged to walk, or still milling in the debris field three blocks away. The seven that remained were diminished. One was missing most of her right hand, the fingers gone, the palm a dark mess. Another limped in a tight circle, dragging a leg that bent where legs don't bend. A third stood motionless with his head tilted at an angle that suggested something in his neck had broken and fused wrong. They were still Turned. They were still dangerous. But they were fewer and they were damaged and for the first time in three weeks the perimeter around the church had thinned instead of thickened.
+
+I filed this. It mattered, and I'd think about it later. Right now I needed to go downstairs and be a person.
 
 I came down from the steeple at 7 AM. The group was in the basement. Jim was sitting with his head bowed. Ruth was reading her Bible — the pocket King James, not her novel — reading it the way people read when they need something and don't know what. Dale was carving. The turtle was nearly finished. Caleb was asleep on a pew, curled around the beagle Dale had given him.
 
@@ -3156,16 +3194,18 @@ The second I didn't show anyone. It arrived while I was watching the roof come d
 
 **JOURNAL ENTRY #11b (private):**
 
+*The roar changes everything. Before tonight I thought the organism was dangerous because it was patient and smart. Now I know it's dangerous because it has a mode where it stops being either. The frenzy is a siege weapon — evolved, automatic, deployed the moment the count crosses threshold. No generals. No coordination. Just bodies against walls until the walls or the bodies give out, and the bodies don't care which.*
+
 *When the swarm hit the Lyles' house, the roof section collapsed and took out at least six of them. They don't protect themselves. They don't dodge. They don't notice when the thing they're tearing apart falls on them. The frenzy makes them destroy everything in reach and "everything in reach" includes each other.*
 
 *I keep thinking about this. What if the space they were in was worse? What if the structure was weaker, or heavier, or positioned over terrain that didn't forgive a collapse? The quarry off Route 7 — the one with the gravel cliffs that are always sloughing off sections. You wouldn't need to fight them. You'd just need to get enough of them in the wrong place and let physics do the rest.*
 
-*And then I think about Marcus. Marcus approached one with intent and it saw him coming. It shifted — dropped into that hunting crouch, the claws, the bark — before he was close enough to swing. Craig used a bullhorn and brought hundreds of swarmers. The organism responds to threat at every scale. Individual approach triggers hunting. Collective noise triggers swarming. But both responses are predictable. The organism can't NOT respond. It's hardwired.*
+*And then I think about Marcus. Marcus approached one with intent and it saw him coming. It shifted — dropped into that hunting crouch, the claws, the bark — before he was close enough to swing. Craig used a bullhorn and brought hundreds of swarmers. The organism responds to threat at every scale. Individual approach triggers hunting. Collective noise triggers swarming. But both responses are predictable. The organism can't NOT respond. It's hardwired.
 
-*The interchange overpass. Sixty feet above the highway. The razor wire around the National Guard checkpoint on Route 7. If you could make them come to a place where coming was the thing that killed them — where the response they couldn't suppress was the weapon — you wouldn't need a hatchet. You wouldn't need to get within ten feet. You'd just need them to arrive, and arriving would be enough.*
+*I don't want to be thinking about this. But I am. Nobody else will, because it requires you to look at a hundred human beings — people with names, with families — and calculate the mechanics of their destruction. I can do this. I don't know what that says about me. I'm afraid it says the true thing.*
 
-*I don't want to be thinking about this. But I am. Nobody else will, because it requires you to look at forty human beings — people with names, with families — and calculate the mechanics of their destruction. I can do this. I don't know what that says about me. I'm afraid it says the true thing.*
--e 
+*Craig looked at the church before they took him. I don't know what he was thinking. I don't know if he was still Craig. But whatever was left of him turned south in the last second and looked toward the steeple where I was watching through binoculars and doing nothing, and I looked back.
+
 ---
 
 
