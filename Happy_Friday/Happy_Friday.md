@@ -3353,13 +3353,13 @@ The fourth was distraction doctrine. I laid out what we knew by type: "Herding T
 
 The loops intersected and diverged and re-intersected and at one point Ruth and Maria had a disagreement about food rationing that was actually a disagreement about whether leaving was an act of courage or an abandonment of everything they'd built, and at another point Dale said "I'll go wherever you need me to go" in a voice that was so flat and so steady that I realized he was already grieving his Suboxone and had made his peace with whatever came after, and that Dale's version of bravery was quieter and harder than any version I'd encountered.
 
-Jim opposed leaving.
+Jim hated leaving.
 
-Not on tactical grounds — Jim understood the math. He opposed it because the church was his church and the neighborhood was his congregation and the Turned who drifted through the parking lot were people he had known, had baptized, had buried their parents and married their children, and leaving felt like abandoning them. Even the Turned ones. Especially the Turned ones.
+Not on tactical grounds — Jim understood the math. He hated it because the church was his church and the neighborhood was his congregation and the Turned who drifted through the parking lot were people he had known, had baptized, had buried their parents and married their children, and leaving felt like abandoning them. Even the Turned ones. Especially the Turned ones.
 
 "They're still people," he said. "Somewhere inside, they're still —"
 
-"Jim." Marcus. Blunt, because Marcus was always blunt, and blunt was what Jim needed. "You're asking eight living people to stay and die so you can keep vigil over people who are already gone."
+"Jim." Marcus. Blunt, because Marcus was always blunt, and blunt was what Jim needed. "Don't forget the living so you can keep vigil over people who are already gone."
 
 Jim's face went still. The expression of a man who has been told a true thing he'd been praying would not be said aloud.
 
@@ -3389,11 +3389,11 @@ I looked at Sienna. She'd been quiet through most of the meeting — sitting on 
 
 "Yes."
 
-He nodded. He didn't reach for the flask that wasn't there anymore. He just nodded, and the nod was the closest Marcus ever came to enthusiasm.
+He nodded. He didn't reach for the flask that wasn't there anymore. He just nodded.
 
 ---
 
-That night, after the meeting, I couldn't sleep. I went to the steeple. The moon was up and the Turned were in their positions and the night was cold — early November now, frost on the gravel, my breath visible. I sat in the observation post with the binoculars around my neck and the notebook on my knees and I didn't write anything. I just sat.
+That night, after the meeting, I couldn't sleep. I went to the steeple. The moon was up and the Turned were in their positions and the night was cold and windy — early November now, frost on the gravel, my breath visible. I sat in the observation post with the binoculars around my neck and the notebook on my knees and I didn't write anything. I just sat.
 
 Below me, in the basement, I heard voices. Jim and Marcus, talking quietly. I didn't mean to eavesdrop. The steeple's acoustics funneled sound up from the stairwell, and their voices carried.
 
@@ -3416,7 +3416,6 @@ The cold settled over me. Below, the Turned shifted in the parking lot, restless
 In three days we'd leave this church and walk sixty miles through the worst terrain in the state: a seventy-two-year-old woman, a seven-year-old boy, a man in withdrawal, a pastor whose faith was cracking, a truck driver who missed his daughter, a girl who ran toward crying children, and me — a hundred and eighty pounds, winded on stairs, capable of looking at a house full of dead people and calculating the load-bearing capacity of a gravel cliff.
 
 This was the team. God help us.
-
 ---
 
 
@@ -3577,7 +3576,7 @@ It was not rational. It was not fair. I did not care.
 
 And deeper — anger at myself. I'd known since Day 1. I'd done the math. Night shift, first night, a hospital. I'd known and I'd sealed it in an envelope and I'd sat in a church basement writing in a notebook while she stood in a parking lot with bare feet. I was too slow. Too comfortable. Too willing to sit at a window and calculate instead of act. If I'd been faster — if I'd been someone other than a fat fifteen-year-old who got winded on stairs — would it have mattered? Probably not. The math said no. But the anger said *you didn't even try.*
 
-We walked the three miles back to the church. I carried two packs — mine and one of the extras — and the sleeping bags and the hatchets and the weight of what I'd seen. None of it was as heavy as it should have been. The anger was doing something unexpected — it was making the weight lighter. Every step, the anger lifted with me. Not grief. Grief makes you heavy. Anger makes you fast. I noticed this, the way the anger functioned as fuel, and the noticing disturbed me, and I took the next step anyway.
+We walked the three miles back to the church. I carried two packs — mine and one of the extras — and the sleeping bags and the hatchets and the weight of what I'd seen. None of it was as heavy as it should have been. The anger was doing something unexpected — it was making the weight lighter. Every step, the anger lifted with me. Not grief. Grief makes you heavy. Anger makes you fast. I noticed this, the way the anger functioned as fuel.
 
 I didn't tell anyone what I'd seen or felt. Grief I could have shared — grief has a script, people know what to say. But this anger had no script. I carried it the way I carried everything: sealed, sorted, filed.
 
@@ -3663,7 +3662,7 @@ I laughed. It was the second laugh since before the Turned. Genuine — because 
 
 **Day three: preparation.** Jim held a final service.
 
-In the basement, by candlelight, the eight of us plus Caleb's zoo of wooden animals lined up on the folding table. Jim read from Isaiah. Ruth sang something I didn't recognize — older, simpler, a melody that felt like it had been composed by people in a situation like ours. Dale sat with his hands on his knees, still, the first time I'd seen him fully still without tension. Maria was beside him, her shoulder touching his. They'd been fighting about rationing two hours ago. Now they were touching. The distances people traverse in the space of an evening.
+In the basement, by candlelight, the eight of us plus Caleb's zoo of wooden animals lined up on the folding table. Jim read from Isaiah — chapter 35. *Strengthen the weak hands, and make firm the feeble knees. Say to those who have a fearful heart, "Be strong; fear not."* He read it slowly, the way he did everything, and when he reached the part about the highway — *A highway shall be there, and it shall be called the Way of Holiness... the redeemed shall walk there* — his voice didn't break but it came close, and Ruth's hand found his on the table, and nobody pretended they hadn't noticed. We were about to walk a highway through the wilderness. Jim was giving us the only map he had. Ruth sang something I didn't recognize — older, simpler, a melody that felt like it had been composed by people in a situation like ours. Dale sat with his hands on his knees, still, the first time I'd seen him fully still without tension. Maria was beside him, her shoulder touching his. They'd been fighting about rationing two hours ago. Now they were touching. The distances people traverse in the space of an evening.
 
 During the reading, I saw Marcus lean toward Sienna. He was speaking low — below the candlelight, below Jim's voice, the murmur of a man delivering information he didn't want overheard. Sienna's face changed. Not dramatically — a tightening around the eyes, a stillness in the jaw, the controlled rearrangement of someone receiving news they have to absorb without reacting. Marcus glanced at me as he spoke. The glance was brief and it contained pity and I hated it — hated the pity, hated that Marcus had decided this was information Sienna needed, hated that he was right, hated that the information was *my mother is standing in a parking lot six blocks from here and the organism took her* and that someone other than me was saying it because I couldn't.
 
@@ -3674,6 +3673,8 @@ Jim prayed. The prayer was short: "Lord, we're leaving tomorrow. We don't know i
 Ruth said, "The trail doesn't need flattening. I need better knees."
 
 Jim said, "I'll pray for those too."
+
+Marcus and Dale made a second run — the bike shop on Main Street. They came back with eight bicycles, two of them electric with charges that Marcus estimated at fifteen to twenty miles. Ruth and Jim got the e-bikes. The plan was simple: ride twenty miles to the OHT trailhead on Forest Service Road 1003, leave the bikes, start walking. Twenty miles of road we wouldn't have to hike. Twenty miles of pavement before the real suffering began.
 
 During the packing, Marcus brought up the chickens. Not the leaving-them-behind part. The other part.
 
@@ -3708,8 +3709,6 @@ I looked at him. "You've never met Dr. Moss."
 "I've never met anyone in a lab coat, son. The closest I've come to a laboratory is the church kitchen, and Ruth's the only one running experiments in there." He smiled. "Probably just my brain filling in details. I've been listening to her broadcasts. The subconscious builds a picture."
 
 He was probably right. The brain does that — takes scattered data and assembles it into narratives during sleep. It didn't mean anything. Except that Jim had described a woman at a desk correcting printouts, and when we reached the university five weeks later, Dr. Moss's desk was covered in exactly the printouts he'd described, and she did have kind eyes, and she did say something about the math being close, and Jim looked at me when she said it and said nothing, and I said nothing, and neither of us needed to.
-
-Marcus and Dale made a second run — the bike shop on Main Street. They came back with eight bicycles, two of them electric with charges that Marcus estimated at fifteen to twenty miles. Ruth and Jim got the e-bikes. The plan was simple: ride twenty miles to the OHT trailhead on Forest Service Road 1003, leave the bikes, start walking. Twenty miles of road we wouldn't have to hike. Twenty miles of pavement before the real suffering began.
 
 Marcus packed the CB radio. He'd been listening every evening, catching fragments of Moss's broadcasts, confirming she was still there, still transmitting, still offering what she had. The last fragment, caught the night before: "— the frequency emitter has a range of approximately eighty meters. Within that radius, the Turned's collective coordination is disrupted. They become individuals again. Disoriented. Passive. The emitter buys time. It is not a solution. But time is what —" Static.
 
