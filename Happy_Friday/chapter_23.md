@@ -1,79 +1,83 @@
-# Chapter 23: Nate Walks
+# Chapter 23: Sienna Stops
 
 *Third-person interstitial.*
 
 ---
 
-Marcus woke her at 3 AM.
+Nate woke because the silence changed.
 
-He was crouched beside her sleeping bag, one hand on her shoulder, the other holding the crossbow loosely at his side. His face was the one he wore when he was worried and didn't want anyone to know — jaw set, eyes careful.
+Not the ambient silence — the highway silence, the wind-through-dead-cars silence that had become the sound of sleep. This was a subtraction. Something that had been there was gone. He lay still for three seconds, cataloguing: fire (coals, low), wind (north, steady), breathing (six sources, not seven).
 
-"Nate's walking," he said. Quiet. Resigned.
+Sienna's sleeping bag was empty.
 
-Sienna sat up. "Walking where?"
+He sat up. Marcus was on watch — seated on the retaining wall, crossbow across his knees, scanning the dark. He saw Nate and tilted his head south. The direction Sienna had gone.
 
-"North. Back up the highway. I watched him go twenty minutes ago." Marcus had been on watch — seated on the retaining wall at the edge of the pulloff, crossbow across his knees, scanning the dark highway in both directions the way he'd done every night since Clarksville. He'd seen Nate rise from the sleeping bag, take the binoculars, and walk past the fire without looking back. "I let him go. He needed — I don't know what he needed. But he's been gone too long and he's heading the wrong direction."
+"Ten minutes," Marcus said. Quiet. "She's walking the shoulder. Didn't take anything."
 
-They were camped in a highway pulloff — a wide gravel shoulder where truckers used to park, the shopping carts pulled to the side, sleeping bags laid out on pads in the shelter of a concrete retaining wall. The fire had burned down to coals that pulsed orange when the wind moved through. The group was scattered along the pulloff, the shapes of sleeping bodies barely visible in the dark. The air smelled like asphalt and woodsmoke and the particular cold of a November night on exposed highway.
+Nate pulled on his shoes. He didn't take the binoculars or the hatchet or the notebook. He took nothing because what Sienna needed was not a tool.
 
-Sienna pulled on her shoes, took the blood pressure cuff — habit, the cuff went everywhere now, pink and absurd and essential — and moved past the fire. Marcus stayed on watch. That was the arrangement they didn't need to discuss: someone goes after Nate, someone stays with the group. Marcus was the guard. Sienna was the one Nate might actually stop for.
+He found her a quarter mile south, sitting on the guardrail above the drainage ditch. Not walking — sitting. Her knees were pulled up and her arms were wrapped around them and she was staring south down the highway toward nothing, toward Oklahoma, toward the place her parents had been driving when the world changed.
 
-The night was cold. November on Highway 71, the air sharp enough to taste, the stars dense above the open road. She listened. Wind. The distant sound of something — an animal, or not — moving in the scrub beyond the shoulder. The sounds of an empty highway that she was learning to distinguish from the other sounds — the ones that meant something was wrong.
+She heard him coming. She didn't turn.
 
-She heard footsteps. North. On the highway.
+He sat on the guardrail beside her. Not close enough to crowd. Close enough to matter. He'd learned this from her — from the hours in the woods after the roadblock, from every time she'd walked near him on the trail without speaking, from the way she'd put her hand over his mouth on the highway and held him and said *quiet, quiet, I know.* She had taught him what presence looked like. He was returning the lesson.
 
-She found him a quarter mile from camp. He was just walking. In the dark, without a flashlight, without a plan, back up the highway the way they'd come. Back toward Clarksville. Back toward the hospital parking lot where he'd seen her from the truck, the woman in blue scrubs, the day Marcus kept driving.
+They sat. The highway stretched south in the starlight — a gray ribbon between dark mountains, the abandoned cars like sleeping animals, the guardrail cold under their hands. Somewhere far to the south and then west, across mountains and rivers and the ruined infrastructure of a civilization that had stopped functioning six weeks ago, was Oklahoma City. Was a grandmother's house. Were two parents who had kissed their daughter on the forehead and said *lock the door* and driven into a night that never ended.
 
-She caught up to him. His face was blank in the starlight — not the analytical blankness he wore like armor. This was empty. The face of a person who had run out of the thing that held them together.
+"I can't do it anymore," Sienna said. Her voice was flat. Not angry, not tearful — flat. The voice of a runner who has hit the wall and knows it.
 
-"Nate," she said.
+Nate waited.
 
-He didn't stop. Didn't acknowledge her. Kept walking.
+"The lie. The one I told you about — that they're alive. That my parents are alive in Oklahoma and everything is fine and I just have to get to Fayetteville and then somehow get to them." She stared south. "I've been telling myself that every morning for six weeks. Every morning I wake up and I rebuild it and I carry it all day and at night I put it down and in the morning I pick it back up and it's heavier every time. And today —"
 
-She walked alongside him. She didn't touch him, didn't talk, didn't try to block his path. She matched his pace and stayed a foot to his left and let the silence be the thing between them. She'd learned this from watching him — the patient observation, the refusal to intervene until you understood what you were intervening in. He'd taught her more about stillness than he'd ever know.
+She stopped. Her jaw was tight. She was holding something back with the same discipline she'd used to sprint through Turned to reach Caleb, the same controlled power that made her fast and sure and the person the group trusted to close the distance when the distance mattered.
 
-They walked for five minutes. The highway was dark. The mountains on either side were dark. Somewhere to the north, thirty miles of highway and sixty miles of trail and twenty miles of road away, was the hospital parking lot and the woman in blue scrubs.
+"Today I saw those hands on the wire," she said. "And I thought: those are someone's parents too. Every single one of them. Someone's mother, someone's father, someone who kissed their kid on the forehead and said *lock the door.* Three hundred of them. And I looked at the wire and I thought — what if they're in wire somewhere? What if the thing I've been telling myself is a lie and the truth is that my parents are in a ditch in Oklahoma or tangled in something or standing in a parking lot with bare feet and smiles that aren't theirs and I'm up here on a hillside watching a fifteen-year-old play Taylor Swift for a massacre?"
 
-"Nate, she's not there."
+Her voice cracked on the last word. Not loudly — Sienna didn't do loudly. The crack was small and controlled and devastating, the sound of a bridge cable snapping under load while the rest of the bridge held.
 
-He kept walking. Then he said: "I know."
+Nate said: "The lie is heavier when you carry it alone."
 
-His voice was flat. Two words, no inflection. He understood with absolute clarity that the thing he was walking toward was not the thing he needed and he could not stop walking toward it because the need was deeper than understanding, deeper than the machinery that had kept him alive for five weeks, deeper than the notebook and the lessons and the framework. The need was the child who wanted his mother, and the child did not care about epinephrine thresholds or density calculations.
+She looked at him. First time. Her eyes were wet and furious — furious at herself for cracking, furious at the world for being a place where seventeen-year-olds sat on guardrails in the dark wondering if their parents were dead.
 
-Sienna had watched Nate hold his composure through everything. The knock on the door. The septic tank. The Lyles burning. She had watched him see his mother's face in a parking lot and keep walking. She had watched him absorb horror after horror and convert each one into data, each trauma into a journal entry, each loss into a lesson. She had admired it and been frightened by it — the cold engine running behind the eyes of a fifteen-year-old who should have been doing homework.
+"I've been carrying mine for five weeks," he said. "My mother. The parking lot. The anger." He paused. "I put it down yesterday. Not the grief — the grief stays. You don't put down grief. But the lie I was telling myself — that the anger was useful, that it was fuel, that I could run on rage and never pay for it — that lie almost killed me. It killed three hundred people on a highway."
 
-She understood now that the engine had limits. The processing was not the same as the feeling, and the feelings he hadn't felt were still in there, pressing against the walls of the container he'd built, and the container had cracked — from the slow grinding of weeks, the hunger and the blisters and three hundred dead people in razor wire and everything the notebook couldn't carry — and the crack was beyond repair.
+Sienna wiped her face. Quick, angry, the same gesture she'd made on the hillside.
 
-She started talking. To be present. To fill the dark with something that wasn't silence.
+"You don't have to decide tonight," Nate said. "Whether they're alive or dead. You don't have to decide at all. You can carry the not-knowing without turning it into a story. The story is what's heavy — the lie or the truth, either one. The not-knowing is lighter because it's honest."
 
-"My parents left on Friday night," she said. "Around eight. They were going to get Jaylen from my grandmother's in Oklahoma City. My dad said they'd be back by midnight. My mom kissed me on the forehead and said 'Lock the door.'" She paused. "I locked the door. That's the last thing I did for them. I locked the door."
+"Since when are you a therapist?"
 
-Nate's pace slowed. Not much. A fraction.
+"Since Dale taught me HALT and Jim taught me patience and you taught me that sitting next to someone in the dark is more useful than solving the problem."
 
-"I decided three weeks ago that they're alive. I have no evidence. The math doesn't support it. But the alternative is a thought I can't afford to have. If I let myself think they're dead — or turned — or standing in a parking lot somewhere in Oklahoma with blank faces and bare feet — then I can't function. I can't run. I can't carry Caleb. I can't be the person this group needs me to be. So I decided they're alive and I carry that decision like a lie I tell myself every morning and I know it's probably a lie and I carry it anyway because the lie is lighter than the truth and I need my arms free."
+She almost smiled. But instead turned away.
 
-Nate stopped walking.
+They sat on the guardrail for a long time. The stars moved. The wind came through the cut in the mountains and carried the smell of cold rock and dead leaves and the faint, distant smell of the roadblock they'd left behind, the smell that would take weeks of rain to wash from the asphalt.
 
-His legs gave out. He sat down on the highway — just folded, the way a structure folds when the load-bearing element fails — and he was on the dirt in the dark and his hands were over his face and he was crying.
+"My mom's name is Denise," Sienna said. Quiet. "My dad's name is Michael. Jaylen is nine. He's afraid of dogs and he can do a backflip on the trampoline and he told me once that I was the fastest person in the world and I didn't correct him."
 
-Ugly and loud and completely uncontrolled — the sound of a fifteen-year-old boy who had held everything together for five weeks through intelligence and discipline and the ruthless conversion of grief into strategy, and who had run out. The raw sound of loss on an empty highway in the dark, in a world where raw sound was the thing that killed you.
+"I think I need to let them go," Sienna said. "The way you let your mom go. I think I need to just — accept it. Stop carrying the maybe. Stop waking up every morning and rebuilding the story where they're fine and Jaylen is doing backflips in grandma's backyard and my dad is grilling and my mom is telling him the charcoal's too hot." She wiped her face again. "I think I need to just say they're gone and stop pretending."
 
-Sienna dropped to her knees beside him. She put her hand over his mouth. Hard — this was survival, the same instinct that had made Nate bite his own hand on the night of the knock.
+"No," Nate said. The word came out harder than he intended. She looked at him.
 
-"Quiet," she said. "Quiet. I know. But quiet."
+"Don't do that," he said. "What I put down was the rage — the lie that being angry was the same as being strong. That's not the same as giving up on them. We can't walk to Oklahoma. Not now, not from here. But we're not the only survivors. There are people in that gas station behind us. There are people in Fayetteville. There are people in basements and churches and fire stations all over the country doing what we're doing — organizing, planning, figuring it out. Sooner or later those groups connect. They have to. Because that's the one thing we have that the organism doesn't." He paused. "It doesn't think. It spreads, but it doesn't strategize. It doesn't send scouts or draw maps or write things in notebooks. People do. That's our advantage — the only one that matters. And people will use it. We'll find out what's left. We'll find out who's still out there. Including Oklahoma."
 
-He couldn't stop. The sound came through her fingers — muffled, broken, the sound of something that had been sealed too long and was venting. She pressed harder. She put her other arm around him — the first time she'd held him, the first full-body contact between them, and it was the most intimate thing either of them had experienced because intimacy, in this world, was keeping someone alive when they wanted to die.
+She was quiet for a long time. Then: "You sound like Jim."
 
-"I know," she whispered. "I know. But quiet. Please. Quiet."
+"Worse things to sound like."
 
-The crying subsided. The body runs out before the grief does. He sat on the asphalt with Sienna's hand over his mouth and Sienna's arm around him and he shook and didn't make a sound and the stars were cold above them and the highway was dark in both directions.
+She leaned into him. Shoulder against shoulder, the guardrail cold beneath them, the stars turning overhead. Not a collapse — a leaning. The deliberate transfer of weight from one person to another, temporary and specific, the way you lean on a wall while you catch your breath before running again.
 
-Marcus found them twenty minutes later. He'd woken, noticed the empty sleeping bags, followed the highway. He stood over them for a moment — two kids on the asphalt, one holding the other — and he didn't ask what happened.
+He let her lean. He held still the way she'd held still in the woods after the roadblock — present, patient, refusing to fix what couldn't be fixed. Being there. That was all. Being there was the whole thing.
 
-He picked Nate up. Nate was not small, and Marcus was tired. He performed the effort without comment because Marcus understood that some things needed to be done.
+Marcus found them an hour later. He stood over them — two kids on a guardrail, one leaning on the other — and his face did something that Marcus's face almost never did. It softened.
 
-He carried Nate back to camp. Sienna walked beside them, her hand on Nate's arm, maintaining contact. Jim was awake by the fire, feeding it back to life. He said nothing. He put a blanket around Nate's shoulders and guided him onto his sleeping pad and Nate lay down and closed his eyes and Jim sat beside him for the rest of the night, one hand on his shoulder, not praying — or maybe praying, the line between presence and prayer being, as Jim would say, nonexistent.
+"Time to come back?" he asked. Not an order. An invitation.
 
-Nobody discussed it in the morning.
--e 
+They walked back together. Nate's hand on Sienna's elbow once, briefly, guiding her around a pothole in the dark. She didn't flinch. She didn't pull away. She only walked beside him.
+
+Nobody discussed it in the morning. But something had shifted — the way the group moved around the two of them, the specific quality of the silence that surrounded them. Ruth watched them with the expression of a woman who had been married for fifty years and recognized the geometry. Jim put his hand on Sienna's shoulder at breakfast and she let him.
+
+Nate wrote nothing in the journal about that night. Some things belonged to the dark and the guardrail and the stars and the girl who had taught him what carrying looked like.
+
 ---

@@ -329,6 +329,24 @@ This was the first thing I'd written since the hillside. The machinery had been 
 
 *Sienna asked me if I was okay. I said yes. She said "Liar." She was right. She's always right about the things I don't say.*
 
+*The price was paid and it was too high. The three hundred. The woman in the wire. The sound of Taylor Swift over a slaughter. The price was all of it and it was too high and there is no refund and no exchange and no one to complain to.*
+
+*I have to let my mother go.*
+
+*I've been carrying her since the parking lot — the woman in blue scrubs, the bare feet, the smile that wasn't hers. I've been angry at her for being taken. Angry at the organism for taking her. Angry at every human being on the planet for letting it happen — for panicking, for running, for not being smart enough or fast enough or calm enough to stop the thing that turned my mother into something that stands in a hospital parking lot and smiles at trucks that don't stop. The anger was the fuel. Every uphill, every switchback, every page of the notebook — the anger made the pack lighter and the math sharper and the plans more ruthless and I needed it. I used it. I used it today.*
+
+*And now I have three hundred bodies on a highway and the anger is still here and the anger is not enough. It was never enough. It was just loud enough to drown out the thing underneath, which is this: she is gone. Not dead — gone. The person who said "Happy Friday, bud" every morning of my life is gone and the organism is wearing her body and no amount of wire or math or anger will bring her back and I cannot keep using her loss as a weapon because the weapon is killing me.*
+
+*I am letting her go. Not the memory — the rage. The rage at her, at the world, at the species that failed her. I am putting it down the way I put down the hatchet: because my hand doesn't want to let go and I am making it let go. Because the alternative is becoming the thing on the hillside permanently, and I will not.*
+
+*Mom. I'm sorry I kept walking. I'm sorry Marcus put his hand on my shoulder and said "keep moving" and I did. I'm sorry the last thing I did was look at you across a parking lot and put one foot in front of the other until the hospital was behind me. You would be horrified at what I'm becoming. The wire, the hatchet, the hillside, the satisfaction — you would look at me the way you looked at me when I was cruel to someone at school and you'd say "Nate, that is not who you are" and you would be right. You told me to be brave and I have been brave in all the wrong ways and I am trying to learn the right ones.*
+
+*I will keep doing what I have to do. I won't stop. The math doesn't stop because the math is what keeps seven people alive, and I will not apologize for that. But I will not discount the price. I will not tell myself the three hundred didn't matter because the seven did. I will not make the cost disappear into the notebook the way I make everything disappear into the notebook. The cost is real and I will carry it and if there is ever a cure — if the organism is ever reversed and the Turned come back and the woman in the parking lot opens her eyes and is my mother again — I don't know how I live with what I've done. I don't know how I sit across from her at the kitchen table and eat Whataburger and be the person she raised. That is the price and I am paying it with my eyes open.*
+
+*And if I ever stop paying it — if the hillside ever feels good instead of necessary, if I ever look at the wire and feel satisfaction without horror — then I am not fit to make the plans. The day I enjoy it is the day I hand the notebook to someone else, because the person who enjoys killing is not the person this group needs making decisions. The wolf knife cuts. It does not get to like cutting.*
+
+*The envelope is closed. What's inside stays inside. I am walking north.*
+
 ---
 
 The next day we found the town.
