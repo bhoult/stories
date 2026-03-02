@@ -24,6 +24,14 @@ I told them. All of it. The rules — the mechanism, the threshold, the beta-blo
 
 I read from the notebook. The entries I'd written in a trailer, in a church, on a trail, in a pulloff on a highway covered in blood. The wrong parts and the right parts and the parts I still couldn't classify. The journal was the survival tool — an honest record of the past, failures included, and the only map any of us had.
 
+Halfway through the entry about the roadblock, I stopped. Not a decision — the machinery seized. The words were on the page and my mouth wouldn't form them because my mouth knew what the words contained and the distance between reading a thing and saying it into a microphone for strangers was the distance between carrying a weight and handing it to someone else and I couldn't — I released the transmit button. Sat there. The hum of the emitter. The empty room. My pulse climbing — 88, 94, 99 — and the old discipline kicking in, four in, hold, six out, the breathing that Dale taught and Jim taught and Sienna taught by holding still in a forest and not running.
+
+Ninety-two. Eighty-six. Eighty.
+
+I pressed the button again.
+
+"Sorry," I said. "I had to stop for a second. That's going to happen. That's part of it too — the stopping. If you're out there and you're managing your fear and it's working and then one day it stops working, that's not failure. That's the bill coming due. You stop. You breathe. You start again. I'm starting again."
+
 I told them the hardest thing last.
 
 "I'm not going to tell you to come to Fayetteville. We have an emitter here that keeps the Turned back, but it won't last. The organism adapts. The range is already shrinking. What we have here isn't a fortress — it's a lab. A place where people are learning. And the learning is the thing that matters, not the walls or the frequency.

@@ -4899,8 +4899,6 @@ They sat on the guardrail for a long time. The stars moved. The wind came throug
 
 "My mom's name is Denise," Sienna said. Quiet. "My dad's name is Michael. Jaylen is nine. He's afraid of dogs and he can do a backflip on the trampoline and he told me once that I was the fastest person in the world and I didn't correct him."
 
-Nate listened. He didn't write it down. Some things were not for the notebook.
-
 "I think I need to let them go," Sienna said. "The way you let your mom go. I think I need to just — accept it. Stop carrying the maybe. Stop waking up every morning and rebuilding the story where they're fine and Jaylen is doing backflips in grandma's backyard and my dad is grilling and my mom is telling him the charcoal's too hot." She wiped her face again. "I think I need to just say they're gone and stop pretending."
 
 "No," Nate said. The word came out harder than he intended. She looked at him.
@@ -4917,13 +4915,13 @@ He let her lean. He held still the way she'd held still in the woods after the r
 
 Marcus found them an hour later. He stood over them — two kids on a guardrail, one leaning on the other — and his face did something that Marcus's face almost never did. It softened.
 
-"Time to come back," he said. Not an order. An invitation.
+"Time to come back?" he asked. Not an order. An invitation.
 
 They walked back together. Nate's hand on Sienna's elbow once, briefly, guiding her around a pothole in the dark. She didn't flinch. She didn't pull away. She only walked beside him.
 
 Nobody discussed it in the morning. But something had shifted — the way the group moved around the two of them, the specific quality of the silence that surrounded them. Ruth watched them with the expression of a woman who had been married for fifty years and recognized the geometry. Jim put his hand on Sienna's shoulder at breakfast and she let him.
 
-Nate wrote nothing in the journal about that night. Some things belonged to the dark and the guardrail and the stars and the girl who had taught him what carrying looked like, and they did not need to be recorded to be real.
+Nate wrote nothing in the journal about that night. Some things belonged to the dark and the guardrail and the stars and the girl who had taught him what carrying looked like.
 
 ---
 
@@ -4932,9 +4930,11 @@ Nate wrote nothing in the journal about that night. Some things belonged to the 
 
 I came back slowly. From a state where you stop being the person who processes and become the person who is processed. I'd been there for two days and I don't remember much of it except Sienna's hand and Jim's shoulder and Marcus carrying me and Caleb putting the beagle in my lap and the weight of a small carved dog in my hands being the most real thing in the world.
 
-On the morning of Day 41 I woke up and the analytical machinery was back online. Not fully — the crack was still there, like a broken bone that's been set but not healed. But the machinery was running. I could think. I could observe. I could plan.
+On the morning of Day 41 I tried to think. I lay in my sleeping bag and reached for the analytical machinery — the part of me that observes, categorizes, plans — and it flopped like a beached fish — a wet, desperate lurch toward the water. Caught for a second. Lost it. I tried to count the group, a basic inventory, and got to four before the count dissolved into the parking lot, the bare feet, the distance I couldn't close. I pulled back. Tried again. Got to six. Held it. Lost it again.
 
-But first there was the morning, and the morning was slow. Ruth made me tea from a packet she'd been hoarding — chamomile, the paper tag still attached, the string hanging over the side of a dented camp cup. She didn't say anything while she made it. She didn't say anything when she handed it to me. She sat on a log across from mine and read her romance novel and the only sound was pages turning and the tea cooling and the specific silence of a person who is keeping you company without requiring you to be anything.
+The third time, the machinery caught and held — gasping, skipping, the fish finding the shallows but not the current. I could think in short bursts. A sentence at a time. I could observe if I didn't observe too hard. Planning was beyond me. But I could sit up. I could accept a cup of tea. I could let the morning be slow without the slowness swallowing me.
+
+The morning was slow. Ruth made me tea from a packet she'd been hoarding — chamomile, the paper tag still attached, the string hanging over the side of a dented camp cup. She didn't say anything while she made it. She didn't say anything when she handed it to me. She sat on a log across from mine and read her romance novel and the only sound was pages turning and the tea cooling and the specific silence of a person who is keeping you company without requiring you to be anything.
 
 Jim came through with Caleb. Caleb sat beside me and leaned against my arm and showed me a rock he'd found — quartz, milky, with a vein of something glittery running through it. "Marcus says it's worth a million dollars," he said. "He's lying but I'm keeping it." Then he climbed up and went to find more rocks, and the whole interaction lasted forty-five seconds and cost nothing and was worth everything.
 
@@ -4948,7 +4948,9 @@ He looked up and caught me watching his hands.
 
 "You're back," he said. Not a question.
 
-"I'm back."
+"Partly." The honest answer. The machinery was running but it was running rough — I could hold a thought for minutes now, not seconds, but the parking lot was still there at the edges, waiting for any gap in concentration. "Enough to walk. Enough to listen."
+
+"That's enough," Dale said.
 
 He set down the knife. "Good. Because I want to teach you something. All of you. Not HALT — that was the basics. This is the advanced course."
 
@@ -5617,6 +5619,14 @@ I was not the only one. Marcus's dormitory door was open every morning — he sl
 
 Safety, it turned out, was when the bill came due.
 
+On the third night, the machinery stopped again.
+
+Not the full collapse — not the highway, not the standing-still-on-asphalt emptiness of Day 39. This was smaller. I was in the dormitory bathroom brushing my teeth and I looked in the mirror and saw my mother's jaw in my jaw and the machinery just — stopped. Like someone had pulled a plug. I stood there with the toothbrush in my mouth and I couldn't move and I couldn't think and the fluorescent light buzzed and I was gone for — I don't know. Minutes. Long enough for the water to run cold.
+
+I came back. The machinery restarted, rough, the way it had restarted on Day 41. I spat. I rinsed. I went to bed and lay in the dark with the blood pressure cuff on my wrist and counted the ceiling tiles and didn't sleep.
+
+In the morning I was functional. Not recovered — I don't think that word applies anymore. Functional the way a cracked engine block is functional: it runs, it moves the vehicle, and somewhere inside it a fracture is propagating slowly and you drive anyway because the alternative is standing still. I was learning that recovery isn't a line trending upward. It's a line that drops without warning, recovers most of what it lost, drops again, recovers slightly less. The trajectory is upward if you stand far enough back. From inside, it feels like falling with pauses.
+
 ---
 
 From the campus perimeter, through the binoculars, I studied the Turned. The rooted stood at the four-hundred-yard line — the edge of the emitter's effective range — in a ring that was visible from any elevated point on campus. Hundreds of them, grey-green and motionless, feet embedded in the soil, root networks threading between them in dark webs across the ground. The population of Fayetteville and the surrounding area, accumulated over six weeks, drawn by the same instincts that had drawn them to the river valley and the highway interchanges — and then rooted in place, becoming permanent infrastructure, the organism's colony expanding in a ring around the campus like a besieging forest.
@@ -5731,6 +5741,14 @@ I pressed the transmit button.
 I told them. All of it. The rules — the mechanism, the threshold, the beta-blockers, the voices, the density, the frenzy. The things I'd learned by watching people die because they didn't have the information. I told them about fortification and why it kills you. I told them about the Turned getting smarter. I told them that the damage they carried — the addiction, the depression, the grief — was their skillset now, that managing a craving was the same mechanism as managing fear. I told them to write it down.
 
 I read from the notebook. The entries I'd written in a trailer, in a church, on a trail, in a pulloff on a highway covered in blood. The wrong parts and the right parts and the parts I still couldn't classify. The journal was the survival tool — an honest record of the past, failures included, and the only map any of us had.
+
+Halfway through the entry about the roadblock, I stopped. Not a decision — the machinery seized. The words were on the page and my mouth wouldn't form them because my mouth knew what the words contained and the distance between reading a thing and saying it into a microphone for strangers was the distance between carrying a weight and handing it to someone else and I couldn't — I released the transmit button. Sat there. The hum of the emitter. The empty room. My pulse climbing — 88, 94, 99 — and the old discipline kicking in, four in, hold, six out, the breathing that Dale taught and Jim taught and Sienna taught by holding still in a forest and not running.
+
+Ninety-two. Eighty-six. Eighty.
+
+I pressed the button again.
+
+"Sorry," I said. "I had to stop for a second. That's going to happen. That's part of it too — the stopping. If you're out there and you're managing your fear and it's working and then one day it stops working, that's not failure. That's the bill coming due. You stop. You breathe. You start again. I'm starting again."
 
 I told them the hardest thing last.
 

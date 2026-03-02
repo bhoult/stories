@@ -86,6 +86,14 @@ I was not the only one. Marcus's dormitory door was open every morning — he sl
 
 Safety, it turned out, was when the bill came due.
 
+On the third night, the machinery stopped again.
+
+Not the full collapse — not the highway, not the standing-still-on-asphalt emptiness of Day 39. This was smaller. I was in the dormitory bathroom brushing my teeth and I looked in the mirror and saw my mother's jaw in my jaw and the machinery just — stopped. Like someone had pulled a plug. I stood there with the toothbrush in my mouth and I couldn't move and I couldn't think and the fluorescent light buzzed and I was gone for — I don't know. Minutes. Long enough for the water to run cold.
+
+I came back. The machinery restarted, rough, the way it had restarted on Day 41. I spat. I rinsed. I went to bed and lay in the dark with the blood pressure cuff on my wrist and counted the ceiling tiles and didn't sleep.
+
+In the morning I was functional. Not recovered — I don't think that word applies anymore. Functional the way a cracked engine block is functional: it runs, it moves the vehicle, and somewhere inside it a fracture is propagating slowly and you drive anyway because the alternative is standing still. I was learning that recovery isn't a line trending upward. It's a line that drops without warning, recovers most of what it lost, drops again, recovers slightly less. The trajectory is upward if you stand far enough back. From inside, it feels like falling with pauses.
+
 ---
 
 From the campus perimeter, through the binoculars, I studied the Turned. The rooted stood at the four-hundred-yard line — the edge of the emitter's effective range — in a ring that was visible from any elevated point on campus. Hundreds of them, grey-green and motionless, feet embedded in the soil, root networks threading between them in dark webs across the ground. The population of Fayetteville and the surrounding area, accumulated over six weeks, drawn by the same instincts that had drawn them to the river valley and the highway interchanges — and then rooted in place, becoming permanent infrastructure, the organism's colony expanding in a ring around the campus like a besieging forest.

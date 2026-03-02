@@ -2,9 +2,11 @@
 
 I came back slowly. From a state where you stop being the person who processes and become the person who is processed. I'd been there for two days and I don't remember much of it except Sienna's hand and Jim's shoulder and Marcus carrying me and Caleb putting the beagle in my lap and the weight of a small carved dog in my hands being the most real thing in the world.
 
-On the morning of Day 41 I woke up and the analytical machinery was back online. Not fully — the crack was still there, like a broken bone that's been set but not healed. But the machinery was running. I could think. I could observe. I could plan.
+On the morning of Day 41 I tried to think. I lay in my sleeping bag and reached for the analytical machinery — the part of me that observes, categorizes, plans — and it flopped like a beached fish — a wet, desperate lurch toward the water. Caught for a second. Lost it. I tried to count the group, a basic inventory, and got to four before the count dissolved into the parking lot, the bare feet, the distance I couldn't close. I pulled back. Tried again. Got to six. Held it. Lost it again.
 
-But first there was the morning, and the morning was slow. Ruth made me tea from a packet she'd been hoarding — chamomile, the paper tag still attached, the string hanging over the side of a dented camp cup. She didn't say anything while she made it. She didn't say anything when she handed it to me. She sat on a log across from mine and read her romance novel and the only sound was pages turning and the tea cooling and the specific silence of a person who is keeping you company without requiring you to be anything.
+The third time, the machinery caught and held — gasping, skipping, the fish finding the shallows but not the current. I could think in short bursts. A sentence at a time. I could observe if I didn't observe too hard. Planning was beyond me. But I could sit up. I could accept a cup of tea. I could let the morning be slow without the slowness swallowing me.
+
+The morning was slow. Ruth made me tea from a packet she'd been hoarding — chamomile, the paper tag still attached, the string hanging over the side of a dented camp cup. She didn't say anything while she made it. She didn't say anything when she handed it to me. She sat on a log across from mine and read her romance novel and the only sound was pages turning and the tea cooling and the specific silence of a person who is keeping you company without requiring you to be anything.
 
 Jim came through with Caleb. Caleb sat beside me and leaned against my arm and showed me a rock he'd found — quartz, milky, with a vein of something glittery running through it. "Marcus says it's worth a million dollars," he said. "He's lying but I'm keeping it." Then he climbed up and went to find more rocks, and the whole interaction lasted forty-five seconds and cost nothing and was worth everything.
 
@@ -18,7 +20,9 @@ He looked up and caught me watching his hands.
 
 "You're back," he said. Not a question.
 
-"I'm back."
+"Partly." The honest answer. The machinery was running but it was running rough — I could hold a thought for minutes now, not seconds, but the parking lot was still there at the edges, waiting for any gap in concentration. "Enough to walk. Enough to listen."
+
+"That's enough," Dale said.
 
 He set down the knife. "Good. Because I want to teach you something. All of you. Not HALT — that was the basics. This is the advanced course."
 
