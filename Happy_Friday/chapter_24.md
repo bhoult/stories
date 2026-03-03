@@ -1,6 +1,6 @@
 # Chapter 24: What Dale Learned
 
-I came back slowly. From a state where you stop being the person who processes and become the person who is processed. I'd been there for two days and I don't remember much of it except Sienna's hand and Jim's shoulder and Marcus carrying me and Caleb putting the beagle in my lap and the weight of a small carved dog in my hands being the most real thing in the world.
+I came back slowly. From a state where you stop being the person who processes and become the person who is processed. I'd been there for two days and I don't remember much of it except Sienna's hand and Jim's shoulder and Marcus carrying me and Caleb putting the beagle in my lap.
 
 On the morning of Day 41 I tried to think. I lay in my sleeping bag and reached for the analytical machinery — the part of me that observes, categorizes, plans — and it flopped like a beached fish — a wet, desperate lurch toward the water. Caught for a second. Lost it. I tried to count the group, a basic inventory, and got to four before the count dissolved into the parking lot, the bare feet, the distance I couldn't close. I pulled back. Tried again. Got to six. Held it. Lost it again.
 
@@ -8,9 +8,9 @@ The third time, the machinery caught and held — gasping, skipping, the fish fi
 
 The morning was slow. Ruth made me tea from a packet she'd been hoarding — chamomile, the paper tag still attached, the string hanging over the side of a dented camp cup. She didn't say anything while she made it. She didn't say anything when she handed it to me. She sat on a log across from mine and read her romance novel and the only sound was pages turning and the tea cooling and the specific silence of a person who is keeping you company without requiring you to be anything.
 
-Jim came through with Caleb. Caleb sat beside me and leaned against my arm and showed me a rock he'd found — quartz, milky, with a vein of something glittery running through it. "Marcus says it's worth a million dollars," he said. "He's lying but I'm keeping it." Then he climbed up and went to find more rocks, and the whole interaction lasted forty-five seconds and cost nothing and was worth everything.
+Jim came through with Caleb. Caleb sat beside me and leaned against my arm and showed me a rock he'd found — quartz, milky, with a vein of something glittery running through it. "Marcus says it's worth a million dollars," he said. "He's lying but I'm keeping it." Then he climbed up and went to find more rocks, and the whole interaction lasted forty-five seconds and cost nothing.
 
-What Caleb doesn't know is that he cries in his sleep. Every night. Small, hitching sounds, the kind a child makes when the crying has gone on so long the body has automated it. He never remembers in the morning. Jim holds him through it, one hand on Caleb's back, not waking him, because waking him would mean explaining and explaining would mean making it real and the mercy, for now, is that Caleb's grief lives only in his sleep where he can't see it. None of us mention it. We lie in our sleeping bags and listen to a seven-year-old cry for parents he hasn't talked about since Week Two and we say nothing because saying something would break the one protection he has left.
+What Caleb doesn't know is that he cries in his sleep. Every night. Small, hitching sounds. He never remembers in the morning. Jim holds him through it, one hand on Caleb's back, not waking him, because waking him would mean explaining and explaining would mean making it real. The mercy, for now, is that Caleb's grief lives only in his sleep where he can't see it. None of us mention it. We lie in our sleeping bags and listen to a seven-year-old cry for parents he hasn't talked about since Week Two and we say nothing.
 
 These are the moments that don't make the journal entries. The tea. The rock. The sound of Ruth turning pages. They happened between the crises the way grass grows between stones. I want you to know about them because the version of this story that only contains fear and strategy and running is not the true version. The true version has chamomile tea in it. The true version has a seven-year-old showing you a rock.
 
@@ -48,7 +48,7 @@ Marcus, pushing his cart over a pothole: "That sounds like something I should ha
 
 "It sounds like something everyone should hear. The recovery community figured out the mechanics of emotional regulation before the neuroscientists did. We had to — our lives depended on it. And now everyone's life depends on it and the irony is —" He glanced at his hands on the cart handle. Steady. "The irony is that the thing that destroyed me is the thing that trained me. Six years of addiction gave me the problem. Twelve years of recovery gave me the skills. And the skills are the exact skills you need to survive a pathogen that feeds on fear."
 
-We stopped for water at a pull-off where the highway widened. Caleb sat on the guardrail, arranging his wooden animals in a line — beagle, cardinal, fox, turtle — and the line looked like a parade going somewhere hopeful.
+We stopped for water at a pull-off where the highway widened. Caleb sat on the guardrail, arranging his wooden animals in a line — beagle, cardinal, fox, turtle, chicken, chicken, chicken — and the line looked like a parade going somewhere hopeful.
 
 Dale sat on the edge of a shopping cart and looked at us.
 
@@ -100,7 +100,7 @@ We walked. The highway curved through the last of the hills. Through the trees I
 
 "Fayetteville," Marcus said, reading a road sign. "Ten miles."
 
-I nodded. Ten miles. The last stretch. But between us and the university — whatever was gathered on the outskirts of a city that had once held eighty thousand people. The Turned would be concentrated there. Drawn to the population center, the infrastructure, the gravitational pull of human settlement.
+I nodded. Ten miles. The last stretch. But between us and the university — whatever was gathered on the outskirts of a city that had once held almost one hundred thousand people. The Turned would be concentrated there. Drawn to the population center, the infrastructure, the gravitational pull of human settlement.
 
 "Then we'll need everything Dale just taught us."
 
@@ -111,8 +111,6 @@ Marcus nodded. We walked on. The highway dropped toward the city and the sky wid
 *Dale is through the withdrawal. Steady hands. Steady voice. Four weeks past his last Suboxone and he's alive and functioning and the reason he's alive is twelve years of sitting in folding chairs and not doing the thing his brain told him to do.*
 
 *He taught us radical acceptance. The situation is what it is. Your feelings about the situation are not the situation. This is the most useful sentence I've learned since "the mechanism is adrenaline," and it's more important because it applies to everything — not just the Turned, not just survival, but the grief and the fear and the fact that my mother is standing in a parking lot in Clarksville and I can't save her and the feeling of that is not the thing itself.*
-
-*Fayetteville. Ten miles. Whatever's gathered on the outskirts of a city that held eighty thousand people.*
 
 *I'm scared. My resting heart rate is 72. The gap is smaller than it used to be. I'm using Dale's techniques — noticing the fear, not fighting it, not riding it, just noticing. The fear is weather. The city is geography. I navigate the geography.*
 

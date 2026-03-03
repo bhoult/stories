@@ -86,9 +86,9 @@ I was not the only one. Marcus's dormitory door was open every morning — he sl
 
 Safety, it turned out, was when the bill came due.
 
-On the third night, the machinery stopped again.
+On the third night, the machinery stopped again. The emitter kept the Turned at four hundred yards. It did nothing about the thing in the mirror.
 
-Not the full collapse — not the highway, not the standing-still-on-asphalt emptiness of Day 39. This was smaller. I was in the dormitory bathroom brushing my teeth and I looked in the mirror and saw my mother's jaw in my jaw and the machinery just — stopped. Like someone had pulled a plug. I stood there with the toothbrush in my mouth and I couldn't move and I couldn't think and the fluorescent light buzzed and I was gone for — I don't know. Minutes. Long enough for the water to run cold.
+I was in the dormitory bathroom brushing my teeth and I looked up and saw my mother's jaw in my jaw and the machinery just — stopped. Like someone had pulled a plug. I stood there with the toothbrush in my mouth and I couldn't move and I couldn't think and the fluorescent light buzzed and I was gone for — I don't know. Minutes. Long enough for the water to run cold.
 
 I came back. The machinery restarted, rough, the way it had restarted on Day 41. I spat. I rinsed. I went to bed and lay in the dark with the blood pressure cuff on my wrist and counted the ceiling tiles and didn't sleep.
 
@@ -132,7 +132,7 @@ Marcus set down his fork. He looked at Jim. Jim looked back. The look between th
 
 Jim nodded. Went back to his toast. The morning continued. Nobody said anything else about it.
 
-I wrote it in the journal. I underlined it twice. I had no interpretation — never had one for Jim's dreams. They operated somewhere my analytical brain couldn't reach, and his faith accepted them without needing them to make sense. Three dreams, now four. Water rising in a valley. A woman in a lab coat. A boy on a roof writing everything. A girl on a highway, laughing, running toward a truck.
+I wrote it in the journal. I underlined it twice. I had no interpretation — never had one for Jim's dreams. They operated somewhere my analytical brain couldn't reach, and his faith accepted them without needing them to make sense. Three dreams, now four. Water rising in a valley. A woman in a lab coat. A man alone in a dark room hearing a voice on the radio. A girl on a highway, laughing, running toward a truck.
 
 Each one true. Each one impossible.
 

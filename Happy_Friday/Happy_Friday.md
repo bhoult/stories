@@ -4928,7 +4928,7 @@ Nate wrote nothing in the journal about that night. Some things belonged to the 
 
 # Chapter 24: What Dale Learned
 
-I came back slowly. From a state where you stop being the person who processes and become the person who is processed. I'd been there for two days and I don't remember much of it except Sienna's hand and Jim's shoulder and Marcus carrying me and Caleb putting the beagle in my lap and the weight of a small carved dog in my hands being the most real thing in the world.
+I came back slowly. From a state where you stop being the person who processes and become the person who is processed. I'd been there for two days and I don't remember much of it except Sienna's hand and Jim's shoulder and Marcus carrying me and Caleb putting the beagle in my lap.
 
 On the morning of Day 41 I tried to think. I lay in my sleeping bag and reached for the analytical machinery — the part of me that observes, categorizes, plans — and it flopped like a beached fish — a wet, desperate lurch toward the water. Caught for a second. Lost it. I tried to count the group, a basic inventory, and got to four before the count dissolved into the parking lot, the bare feet, the distance I couldn't close. I pulled back. Tried again. Got to six. Held it. Lost it again.
 
@@ -4936,9 +4936,9 @@ The third time, the machinery caught and held — gasping, skipping, the fish fi
 
 The morning was slow. Ruth made me tea from a packet she'd been hoarding — chamomile, the paper tag still attached, the string hanging over the side of a dented camp cup. She didn't say anything while she made it. She didn't say anything when she handed it to me. She sat on a log across from mine and read her romance novel and the only sound was pages turning and the tea cooling and the specific silence of a person who is keeping you company without requiring you to be anything.
 
-Jim came through with Caleb. Caleb sat beside me and leaned against my arm and showed me a rock he'd found — quartz, milky, with a vein of something glittery running through it. "Marcus says it's worth a million dollars," he said. "He's lying but I'm keeping it." Then he climbed up and went to find more rocks, and the whole interaction lasted forty-five seconds and cost nothing and was worth everything.
+Jim came through with Caleb. Caleb sat beside me and leaned against my arm and showed me a rock he'd found — quartz, milky, with a vein of something glittery running through it. "Marcus says it's worth a million dollars," he said. "He's lying but I'm keeping it." Then he climbed up and went to find more rocks, and the whole interaction lasted forty-five seconds and cost nothing.
 
-What Caleb doesn't know is that he cries in his sleep. Every night. Small, hitching sounds, the kind a child makes when the crying has gone on so long the body has automated it. He never remembers in the morning. Jim holds him through it, one hand on Caleb's back, not waking him, because waking him would mean explaining and explaining would mean making it real and the mercy, for now, is that Caleb's grief lives only in his sleep where he can't see it. None of us mention it. We lie in our sleeping bags and listen to a seven-year-old cry for parents he hasn't talked about since Week Two and we say nothing because saying something would break the one protection he has left.
+What Caleb doesn't know is that he cries in his sleep. Every night. Small, hitching sounds. He never remembers in the morning. Jim holds him through it, one hand on Caleb's back, not waking him, because waking him would mean explaining and explaining would mean making it real. The mercy, for now, is that Caleb's grief lives only in his sleep where he can't see it. None of us mention it. We lie in our sleeping bags and listen to a seven-year-old cry for parents he hasn't talked about since Week Two and we say nothing.
 
 These are the moments that don't make the journal entries. The tea. The rock. The sound of Ruth turning pages. They happened between the crises the way grass grows between stones. I want you to know about them because the version of this story that only contains fear and strategy and running is not the true version. The true version has chamomile tea in it. The true version has a seven-year-old showing you a rock.
 
@@ -4976,7 +4976,7 @@ Marcus, pushing his cart over a pothole: "That sounds like something I should ha
 
 "It sounds like something everyone should hear. The recovery community figured out the mechanics of emotional regulation before the neuroscientists did. We had to — our lives depended on it. And now everyone's life depends on it and the irony is —" He glanced at his hands on the cart handle. Steady. "The irony is that the thing that destroyed me is the thing that trained me. Six years of addiction gave me the problem. Twelve years of recovery gave me the skills. And the skills are the exact skills you need to survive a pathogen that feeds on fear."
 
-We stopped for water at a pull-off where the highway widened. Caleb sat on the guardrail, arranging his wooden animals in a line — beagle, cardinal, fox, turtle — and the line looked like a parade going somewhere hopeful.
+We stopped for water at a pull-off where the highway widened. Caleb sat on the guardrail, arranging his wooden animals in a line — beagle, cardinal, fox, turtle, chicken, chicken, chicken — and the line looked like a parade going somewhere hopeful.
 
 Dale sat on the edge of a shopping cart and looked at us.
 
@@ -5028,7 +5028,7 @@ We walked. The highway curved through the last of the hills. Through the trees I
 
 "Fayetteville," Marcus said, reading a road sign. "Ten miles."
 
-I nodded. Ten miles. The last stretch. But between us and the university — whatever was gathered on the outskirts of a city that had once held eighty thousand people. The Turned would be concentrated there. Drawn to the population center, the infrastructure, the gravitational pull of human settlement.
+I nodded. Ten miles. The last stretch. But between us and the university — whatever was gathered on the outskirts of a city that had once held almost one hundred thousand people. The Turned would be concentrated there. Drawn to the population center, the infrastructure, the gravitational pull of human settlement.
 
 "Then we'll need everything Dale just taught us."
 
@@ -5039,8 +5039,6 @@ Marcus nodded. We walked on. The highway dropped toward the city and the sky wid
 *Dale is through the withdrawal. Steady hands. Steady voice. Four weeks past his last Suboxone and he's alive and functioning and the reason he's alive is twelve years of sitting in folding chairs and not doing the thing his brain told him to do.*
 
 *He taught us radical acceptance. The situation is what it is. Your feelings about the situation are not the situation. This is the most useful sentence I've learned since "the mechanism is adrenaline," and it's more important because it applies to everything — not just the Turned, not just survival, but the grief and the fear and the fact that my mother is standing in a parking lot in Clarksville and I can't save her and the feeling of that is not the thing itself.*
-
-*Fayetteville. Ten miles. Whatever's gathered on the outskirts of a city that held eighty thousand people.*
 
 *I'm scared. My resting heart rate is 72. The gap is smaller than it used to be. I'm using Dale's techniques — noticing the fear, not fighting it, not riding it, just noticing. The fear is weather. The city is geography. I navigate the geography.*
 
@@ -5053,7 +5051,7 @@ From the last rise on Highway 71, where the road crested a hill and the landscap
 
 The outskirts of the city spread below us — a mile of open terrain, fields and subdivisions and strip malls and the wide, flat infrastructure of a college town's southern approach. Gas stations. A Dollar General. A church with a full parking lot — the cars still there, the congregation not. And beyond all of it, barely visible through the November haze, the campus. Red brick. Limestone. The glass front of the science building catching the late-afternoon sun.
 
-Between us and the campus: a thousand standing figures. But they were not standing the way the Turned I'd observed before had stood — swaying, drifting, the aimless patrol of the organism's default mode. These were motionless. Utterly, absolutely still. A field of human-shaped trees rooted in the earth of a college town's floodplain.
+Between us and the campus: thousands of standing figures. But they were not standing the way the Turned I'd observed before had stood — swaying, drifting, the aimless patrol of the organism's default mode. These were motionless. Utterly, absolutely still. A field of human-shaped trees rooted in the earth of a college town's floodplain.
 
 I adjusted the focus. The binoculars brought them close enough to see the details, and the details were wrong in a way that made the back of my skull go cold.
 
@@ -5073,7 +5071,7 @@ Marcus took the binoculars next. Then Dale. Then Jim. They passed them down the 
 
 "How many?" Sienna asked.
 
-"A thousand. Maybe more." I took the binoculars back and scanned again, counting categories this time. The analytical machinery, engaged. "But they're not all the same. The rooted ones — the ones in the ground — that's most of them. Maybe ninety percent. They're completely still. They don't react to anything I can see."
+"Thousands." I took the binoculars back and scanned again, counting categories this time. The analytical machinery, engaged. "But they're not all the same. The rooted ones — the ones in the ground — that's most of them. Maybe ninety percent. They're completely still. They don't react to anything I can see."
 
 I panned. "There are others. Maybe eight percent — they're the ones we've seen before. Drifters. Passive. They move through the rooted like — like attendants. Wandering between them. Same behavior as the Turned on the trail, the aimless patrol."
 
@@ -5113,9 +5111,9 @@ Walking through a thousand active Turned would be suicide. Walking through a fie
 
 I raised the binoculars again and studied the ground. The infrastructure. Looking for pavement.
 
-"Dickson Street," Marcus said. He was beside me, squinting at the valley without binoculars, reading the geography the way a trucker reads a map — by landmarks and routes and the logic of roads. "Runs north straight into campus. I used to take it when I had deliveries to the university district. Restaurants, coffee shops, bars, a big bookstore. Commercial strip. Mostly paved."
+"Dickson Street," Marcus said. He was beside me, squinting at the valley without binoculars, reading the geography the way a trucker reads a map — by landmarks and routes and the logic of roads. "Runs east-west through the university district. Campus is at the west end. I used to take it when I had deliveries — restaurants, coffee shops, bars, a big bookstore. Commercial strip. Mostly paved."
 
-I found it through the binoculars. A line of asphalt cutting north through the valley, flanked by low commercial buildings — the flat roofs and awnings of a college town's restaurant row. And Marcus was right. The pavement was a corridor. On either side, in the yards and medians and unpaved gaps, the rooted stood in their clusters, the root network dense and dark across the exposed soil. But the street itself — the asphalt, the sidewalks, the concrete of parking lots — was largely clear. A few roots crossed the pavement where cracks or gaps allowed them purchase, dark tendrils stretching across the road like veins on the back of a hand. But the density was nothing compared to the fields. The rooted couldn't push through concrete. The pavement was a river through a forest, and the forest couldn't cross it.
+I found it through the binoculars. A line of asphalt running east-west through the valley, flanked by low commercial buildings — the flat roofs and awnings of a college town's restaurant row. And Marcus was right. The pavement was a corridor. On either side, in the yards and medians and unpaved gaps, the rooted stood in their clusters, the root network dense and dark across the exposed soil. But the street itself — the asphalt, the sidewalks, the concrete of parking lots — was largely clear. A few roots crossed the pavement where cracks or gaps allowed them purchase, dark tendrils stretching across the road like veins on the back of a hand. But the density was nothing compared to the fields. The rooted couldn't push through concrete. The pavement was a river through a forest, and the forest couldn't cross it.
 
 "I can see it," I said. "Dickson Street. The rooted are mostly in the soil on either side. The road itself is passable — some root crossings, but the density is a fraction of the fields. The drifters use the street. Some hunters. But we're talking dozens, not hundreds."
 
@@ -5125,7 +5123,7 @@ The silence that followed was the loudest silence of the trip.
 
 ---
 
-We left the shopping carts at the top of the hill. Packs on our backs again — lighter now after the fortified group's trade, but still heavy enough that the straps bit into shoulders that had softened during the days of pushing carts on pavement. We descended in the late morning. Single file. Breathing.
+We left everything at the top of the hill. Shopping carts, packs, anything heavy — stripped down to what we could run with. Water bottles. Medications. The notebook in my waistband. Dale's knife on his belt. And the chickens, wrapped in the towel, silent in their manufactured night, tucked into a canvas bag that Dale slung across his chest. We weren't leaving them. Caleb didn't say this. Caleb didn't have to. Dale just picked them up and that was the end of the discussion. Three sleeping hens weighed less than a pack. And if the worst happened — if the hunters closed and we needed a distraction — three panicked chickens released into the open would give them something to chase that wasn't us. I didn't say this part out loud. Dale knew. The bag had a quick-release drawstring. We descended in the late morning. Single file. Breathing.
 
 The order of march was deliberate: Jim first, because Jim was the calmest person alive and his metoprolol and his faith made him the tip of the spear — a parting one, the way the bow of a boat parts water. Then Marcus, carrying Caleb on his back, because Marcus's depression was his dominant strategy and Caleb needed to be with the person least likely to spike. Then Dale, because Dale's recovery skills were running hot and his hands were steady and his whole body had been trained for exactly this kind of endurance. Then Maria, because Maria's organizational calm was its own kind of armor. Then Ruth, walking stick in hand, pace slow, each step considered. Then Sienna. Then me.
 
@@ -5141,7 +5139,7 @@ The rooted did not react to our passage. Not a twitch. Not a head-turn. They sto
 
 Not all silent. The voices came from them — not the targeted mimicry but something ambient. Fragments. Half-words and broken syllables drifting from the rooted like radio static — a woman's voice saying something that might have been a name, a man's voice with the cadence of a question, a child's voice that was just tone and rhythm without any of the words. The organism's memory banks, playing on loop. Just noise — a networked consciousness running idle, its human components still producing fragments of the lives they'd contained.
 
-The fragments didn't resolve. They hovered at the edge of meaning — close enough to activate recognition, too far to complete. This was worse than the targeted mimicry, which was specific, defeatable. The ambient version was fog. Every voice you'd ever known, broken into pieces and reassembled wrong, and your brain kept trying to make them cohere and they kept almost cohering and the effort was its own kind of assault.
+The fragments didn't resolve. They hovered at the edge of meaning — close enough to activate recognition, too far to complete. This was worse than the targeted mimicry, which was specific, defeatable. The ambient version was fog. Every voice you'd ever known, broken into pieces and reassembled wrong, and your brain kept trying to make them cohere and they kept almost cohering, the effort was its own kind of assault.
 
 The drifters were on the street. The eight percent — the passive Turned, the familiar behavior from the trail. They wandered among the rooted like attendants at a ward, aimless, swaying, navigating the root network on the pavement with an unconscious ease that suggested they knew the layout the way a nurse knows a hospital floor. Jim parted them as he walked — his humming, the tuneless melody that was just the sound Jim made when he was being Jim, cleared a narrow path. The drifters shifted. An inch here, a step there. Not the Red Sea. Just a small gap that moved with Jim and closed behind him.
 
@@ -5157,7 +5155,7 @@ We walked. The commercial strip of Dickson Street provided landmarks that were g
 
 Sienna, ahead of me, faltered. A half-step. A catch in her stride. I saw her shoulders tighten and her head tilt toward a fragment — something that sounded like her father's voice, something that might have been her name — and then she corrected. Breathed. Walked.
 
-My own brain was doing the same thing. Somewhere in the fog of voices I heard — thought I heard — the word "bud" in a voice that was close to my mother's, and the word went through me like an electric current and I breathed and counted — four in, hold, six out — and the current dissipated and I kept walking and I didn't stop and I didn't scream and the not-screaming was a form of prayer.
+My own brain was doing the same thing. Somewhere in the fog of voices I heard — thought I heard — the word "bud" in a voice that was close to my mother's, and the word went through me like an electric current and I breathed and counted — four in, hold, six out — and the current dissipated and I kept walking and I didn't stop and I didn't scream.
 
 ---
 
@@ -5265,8 +5263,6 @@ I wrote under the lights — actual electric lights, the first I'd written under
 
 *Key finding: the organism can't penetrate asphalt. Dickson Street was mostly clear of roots. The rooted stood on either side like statues and did not react — until Maria stepped on a root. Then the signal propagated through the network faster than I could track. Every mobile Turned in range summoned.*
 
-*I talked about Civilization VI. Absurdity and terror can't coexist in the same nervous system. The organism didn't know what to do with a signal that was neither fear nor calm but something so ordinary and so stupid it didn't fit any of its models.*
-
 *The rooting changes everything. Mobile host to sessile host. Animal to plant. The root network is the physical substrate of the collective intelligence — not metaphorical coherence but literal wiring. The undressing, the greening, the sun-facing — all of it was preparation for this. The organism was building itself a body. A permanent one. Something that roots and grows and connects and doesn't need to move because it's already everywhere.*
 
 *I don't have a framework for what comes next. I write it down because that's what I do.*
@@ -5277,9 +5273,7 @@ I wrote under the lights — actual electric lights, the first I'd written under
 
 That night, everyone dreamed.
 
-I know because I woke at 2 AM to a dormitory full of sounds — small sounds, the night-language of eight people whose bodies had held steady for three hours and whose minds, released from the discipline of waking, were processing what the discipline had suppressed. Marcus was muttering — not words, just the cadence of words, the rhythm of a conversation with someone who wasn't there. Sienna's legs were moving under her blanket, running, the stride pattern I knew from watching her on the trail. Ruth made a sound I'd never heard her make — a thin, keening note, barely audible, the sound of a woman who corrected grammar by day and wept for her husband by night. Dale's hands were moving on empty air, carving, the muscle memory so deep it ran in his sleep.
-
-I lay on a dormitory mattress — a real mattress, impossibly soft after weeks of sleeping pads and bare ground — with my hand on my pulse. Seventy-four. Safe. But the dreams had been there, waiting behind my eyelids, and the rooted were in every one. A thousand grey-green figures standing in the sun. The roots threading between them like veins. The ambient voices drifting from motionless mouths. The word *bud* in the fog. In one fragment I'd been walking through them on Dickson Street but my feet were slowing, my shoes sinking into the pavement that had become soil, and roots were growing from my ankles, and I was facing the sun, and I couldn't tell if I was walking through them or becoming one of them.
+I know because I had the 2 AM watch. We still ran watches — the emitter hummed and the perimeter held but sidoe a real mattress, impossibly soft after weeks of sleeping pads and bare ground — with my hand on my pulse. Seventy-four. Safe. But the dreams had been there, waiting behind my eyelids, and the rooted were in every one. A thousand grey-green figures standing in the sun. The roots threading between them like veins. The ambient voices drifting from motionless mouths. The word *bud* in the fog. In one fragment I'd been walking through them on Dickson Street but my feet were slowing, my shoes sinking into the pavement that had become soil, and roots were growing from my ankles, and I was facing the sun, and I couldn't tell if I was walking through them or becoming one of them.
 
 In the morning, nobody talked about it directly. But the signs were there — the heaviness, the slow starts, the way people stared at their coffee like it owed them something. Maria said, "I couldn't get warm all night," and Dale said, "Me neither," and the building had been heated and they weren't talking about cold.
 
@@ -5289,17 +5283,21 @@ Jim found me while I was refilling the water bottles from a faucet in the lab ha
 
 I waited.
 
-"I was sitting on a roof. A big building — flat roof, institutional. Below me was a campus. Buildings, quadrangles, oak trees. And there was a sound. A sound like a bell that never stopped ringing — not loud, just constant, in the bones, everywhere." He paused. Picked up a pebble from the creek bank and turned it in his fingers. "A boy was sitting next to me. Young. Writing in a notebook. Writing fast, like he was afraid he'd forget."
+"A man in a dark room. Small room — a back office, maybe, or a stockroom. Shelves on the walls. Bottles on the shelves." He paused, turning his coffee cup in his hands. "He was alone. He'd been alone a long time. You could see it in the way he sat — hunched, like the air was too heavy. And there was a radio on the desk. Old, the kind with a dial. Static. Just static, for a long time."
 
-"What was he writing?"
+He took a sip of coffee. Set the cup down.
 
-Jim looked at me. The look was steady and contained something I couldn't name — not surprise, not certainty, something between. The look of a man who had learned to hold what he received without demanding that it make sense.
+"Then a voice came through. Young voice. A boy's voice. And the man sat up. He put his hands on the radio like he was holding someone's face. And he started crying — not sad crying, the other kind. The kind where something you'd stopped believing in turns out to be real."
 
-"Everything," he said. "He was writing everything."
+"What did the voice say?"
 
-He dropped the pebble in the creek and walked back to camp. I stood there with the water bottles and the creek running cold over the stones and the hair on my arms standing up because Jim had just described a roof I'd never seen and a campus I'd never visited and a sound I'd never heard and a boy writing in a notebook who was, unmistakably, me.
+Jim looked at me. The steady, luminous look.
 
-I wrote it down. I underlined it. I wrote no interpretation because I had none.
+"I don't know. I couldn't hear the words. But the man could. And whatever the words were, they were enough. He picked up something — a microphone, I think — and he talked back. He said where he was. He said what he had." Jim paused. "He said he'd been listening for weeks and nobody had ever answered."
+
+He picked up his coffee and walked back down the hall. I stood there with the water bottles and the faucet running and the hair on my arms standing up. Jim had dreamed about a man alone in a room full of bottles — a pharmacy, maybe — hearing a voice on a radio that hadn't spoken yet. A broadcast that hadn't been made. A response from someone we hadn't reached because we hadn't tried.
+
+I wrote it down. I underlined it. I had no interpretation. But for the first time, one of Jim's dreams felt less like prophecy and more like an assignment.
 
 ---
 
@@ -5619,9 +5617,9 @@ I was not the only one. Marcus's dormitory door was open every morning — he sl
 
 Safety, it turned out, was when the bill came due.
 
-On the third night, the machinery stopped again.
+On the third night, the machinery stopped again. The emitter kept the Turned at four hundred yards. It did nothing about the thing in the mirror.
 
-Not the full collapse — not the highway, not the standing-still-on-asphalt emptiness of Day 39. This was smaller. I was in the dormitory bathroom brushing my teeth and I looked in the mirror and saw my mother's jaw in my jaw and the machinery just — stopped. Like someone had pulled a plug. I stood there with the toothbrush in my mouth and I couldn't move and I couldn't think and the fluorescent light buzzed and I was gone for — I don't know. Minutes. Long enough for the water to run cold.
+I was in the dormitory bathroom brushing my teeth and I looked up and saw my mother's jaw in my jaw and the machinery just — stopped. Like someone had pulled a plug. I stood there with the toothbrush in my mouth and I couldn't move and I couldn't think and the fluorescent light buzzed and I was gone for — I don't know. Minutes. Long enough for the water to run cold.
 
 I came back. The machinery restarted, rough, the way it had restarted on Day 41. I spat. I rinsed. I went to bed and lay in the dark with the blood pressure cuff on my wrist and counted the ceiling tiles and didn't sleep.
 
@@ -5665,7 +5663,7 @@ Marcus set down his fork. He looked at Jim. Jim looked back. The look between th
 
 Jim nodded. Went back to his toast. The morning continued. Nobody said anything else about it.
 
-I wrote it in the journal. I underlined it twice. I had no interpretation — never had one for Jim's dreams. They operated somewhere my analytical brain couldn't reach, and his faith accepted them without needing them to make sense. Three dreams, now four. Water rising in a valley. A woman in a lab coat. A boy on a roof writing everything. A girl on a highway, laughing, running toward a truck.
+I wrote it in the journal. I underlined it twice. I had no interpretation — never had one for Jim's dreams. They operated somewhere my analytical brain couldn't reach, and his faith accepted them without needing them to make sense. Three dreams, now four. Water rising in a valley. A woman in a lab coat. A man alone in a dark room hearing a voice on the radio. A girl on a highway, laughing, running toward a truck.
 
 Each one true. Each one impossible.
 
