@@ -48,11 +48,13 @@ She drew a new diagram — four columns, labeled.
 
 "Behavioral states. You've identified three in your journal: herding, swarming, and hunting. There's a fourth." She wrote them: *Herding. Swarming. Hunting. Rooting.* "Herding is the reproductive strategy — fear-farming, the conversion cycle, patient and coordinated. Swarming is the density-collapse behavior — the threshold event, uncontrolled destruction. Hunting is the caloric strategy — food-driven, directed, problem-solving. Small groups, coordinated by a distinct acoustic signal."
 
-"The bark," I said. "Short, sharp."
+"'Uncontrolled destruction' is an understatement," I said. "I watched a house come apart in under a minute. A fortified house — boarded windows, barred doors, a man with guns and supplies and a plan. The swarm didn't breach the defenses. It erased them. The walls came in. The people inside —" I stopped. "If you put that in a bulletin and someone hears 'uncontrolled destruction' and thinks they can ride it out behind a barricade, they'll die. Everyone who fortified died. The swarming isn't a behavior. It's a demolition."
 
-She looked at me. "You've observed it."
+Moss looked at me for a long moment. Then she turned back to the board and crossed out *uncontrolled destruction* and wrote, in smaller letters: *total structural demolition — no fortification observed to survive.*
 
-"At the interchange. And at the church — a Turned killed a cat and made the sound and another Turned a block away oriented immediately."
+"Better," I said.
+
+"The bark," I said. "Short, sharp. We heard it at the interchange. And at a church — a Turned killed a cat and made the sound and another Turned a block away oriented immediately."
 
 "That signal is a dedicated hunting call. It activates other Turned within auditory range as hunters — directed, aggressive, food-motivated. Critically —" She underlined something on the board. "— the hunting state is also triggered by attack. If a Turned is struck, threatened, physically engaged, it switches to hunting mode and produces the call. The implications for armed defense are significant. Every shot fired at a Turned potentially activates every Turned within earshot as hunters. The military checkpoints failed in part because the gunfire was triggering mass hunting activation on top of the density-threshold swarm."
 
@@ -64,11 +66,7 @@ She drew another diagram — a cross-section of skin.
 
 "The photosynthesis. You noted the green discoloration — the sun-facing behavior, the skin changes. The organism is introducing chlorophyll analogs into the host's dermis. The skin is becoming a solar panel. This supplements caloric intake as conventional food sources deplete." She tapped the board. "The clothing removal you've been tracking — shoes first, then shirts, then everything — is the organism systematically eliminating anything that blocks photon absorption. The host's skin needs maximum sun exposure for the photosynthetic system to function. The removal is deliberate, ordered, and accelerates as caloric need increases."
 
-"The oldest ones were nearly nude," I said. "But they weren't just photosynthesizing. They were rooted. Feet in the ground. Connected by vine-like structures through the soil."
-
-Moss looked at me differently then. The squint tightened. "You saw that."
-
-"We walked through it. A thousand of them, most rooted. Connected. A network."
+"The oldest ones were nude," I said. "But they weren't just photosynthesizing. They were rooted. Feet in the ground. Connected by vine-like structures through the soil. We walked through a thousand of them on Dickson Street. Most rooted. Connected. A network."
 
 She turned back to the board and tapped the fourth column. "Rooting. The terminal behavioral state — at least, the terminal state we've observed so far. The photosynthetic adaptation is stage one. Stage two is sessile conversion. The organism anchors the host in soil, establishes root-like structures that connect to adjacent hosts, and transitions from mobile to stationary. The host becomes a node in a networked colonial organism." She drew lines between stick figures on the board — connections, a web. "The root structures aren't just anchors. They're dendrites. The human hosts are the neurons — the processing nodes. The roots are the connections between them, carrying signals, propagating patterns. The organism's distributed nervous system, which normally coordinates through airborne biochemical signals, now has a physical substrate. Hardwired connections. Faster. More reliable. The rooted clusters are functionally a single organism with multiple bodies."
 
@@ -127,5 +125,4 @@ That night, in a dormitory room on the second floor with the frequency humming i
 *Dale doesn't need Suboxone anymore. Marcus hasn't had a drink in three weeks. Caleb is drawing dinosaurs with crayons he found in a classroom. Sienna is looking at the campus track through the window and her feet are moving.*
 
 *We're safe. For now. That's all anyone ever has. We just know it.*
--e 
 ---
