@@ -48,6 +48,12 @@ Jim broke it. "She didn't mention God."
 
 Marcus capped his flask. "The density threshold. She said it varies. She doesn't have numbers."
 
+*Density threshold.* I wrote it down because it was hers and it was precise and I wanted it in the record in her words. Then I wrote underneath it, in my own words, what I actually understood, which was this: **when you cram enough of them into one place they stop being patient and start being a mosh pit.** I went to exactly one show in my life, in Fort Smith, with Braden Cooke's older brother driving, and I stood at the back and watched the middle of the floor go from people-standing-near-each-other to a single stupid animal in about forty seconds, and a girl came out of it with a broken collarbone and no memory of how.
+
+Nobody decided that. Nobody in that pit wanted it. It was just what happens when the number gets high enough in a space that small.
+
+That is not what Dr. Moss said. It is what she meant, and I understood it faster in my own words than I had in hers, and I am recording that because I spent six weeks assuming her vocabulary was better than mine at the thing her vocabulary was for.
+
 "I've been counting," I said. "The Walmart cluster hit twenty-five and I saw behavioral changes. Twitchiness, agitation. The Lyles have maybe twenty in their perimeter and the count is growing." I wrote the number in the notebook and circled it. The most important number was the one nobody could give us.
 
 **JOURNAL ENTRY #6:**
@@ -190,7 +196,7 @@ She picked up her can and went back to counting.
 
 Jim let the silence settle. Then, quieter: "Now we solve the first part. Watch rotation. Two-hour shifts. One person awake, watching the room. If someone spikes, thrashing, the sounds we know, the watcher wakes me. We assess together."
 
-We set up the rotation that morning. Two-hour shifts, midnight to six. Jim took the first slot. Marcus took second. I took third. Dale insisted on fourth: the pre-dawn hours, his worst window, arguing that if he was going to be awake sweating through cortisol spikes anyway, he might as well be useful.
+We set up the rotation that morning. Two-hour shifts, midnight to six. Jim took the first slot. Marcus took second. I took third. Dale insisted on fourth: the pre-dawn hours, his worst window, arguing that if he was going to be awake sweating through stress-juice spikes anyway, he might as well be useful.
 
 I wrote it in the notebook: *We are now watching ourselves the way we watch the Turned. The perimeter is inside the room.*
 

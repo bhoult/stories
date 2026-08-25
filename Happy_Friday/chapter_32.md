@@ -216,7 +216,7 @@ Maria did not count anything for two days, which frightened me more than the fun
 
 I had the last watch that night, sitting on the steps of the science building where Jim used to sit with Caleb, and I did not write anything, and the emitter hummed in the walls behind me, as always.
 
-Six weeks ago a man put a piece of cardboard in a church window that said KEEP CALM. COME INSIDE. DON'T RUN, and set it at the angle where a driver on Highway 21 would catch it, and made coffee for everyone who came through the door so he could watch their hands. Everything I have — Sienna, Ruth, Marcus, Dale, Maria, Caleb, the notebook, the whole of it — comes down through that sign. I did not build any of this. I inherited it from a seventy-three-year-old pastor with a bad heart who was wrong about the mechanism from the first day to the last and right about every single thing that mattered.
+Six weeks ago a man put a piece of cardboard in a church window that said KEEP CALM. COME INSIDE. DON'T RUN, and set it at the angle where a driver on Highway 21 would catch it, and made coffee for everyone who came through the door so he could watch their hands. Everything I have — Sienna, Ruth, Marcus, Dale, Maria, Caleb, the notebook, the whole of it — comes down through that sign. I did not build any of this. I inherited it from a seventy-three-year-old pastor with a bad heart who was wrong about the trapdoor from the first day to the last and right about every single thing that mattered.
 
 On the highway two weeks ago I sat down on a center line and told myself that the only part still available to me was the next one.
 
@@ -236,7 +236,7 @@ I did not give it a number. The numbered entries are a document; Moss is going t
 
 *He asked You to carry the part I can't. I don't know whether You did. I know I got up the next morning. I know I have gotten up every morning since. I could not have told You in advance that I would.*
 
-*He wasn't afraid. That's the whole of what I have and I've turned it over more than anything else in this book. At the end, at a hundred and forty beats a minute, with every threshold I ever wrote behind him, the man was not afraid, and the thing that eats fear went through him and came out the other side with nothing. If that was You, then I have spent six weeks describing You in a notebook and calling it endocrinology, and I'd rather be wrong about the word than wrong about the mechanism.*
+*He wasn't afraid. That's the whole of what I have and I've turned it over more than anything else in this book. At the end, at a hundred and forty beats a minute, with every threshold I ever wrote behind him, the man was not afraid, and the thing that eats fear went through him and came out the other side with nothing. If that was You, then I have spent six weeks describing You in a notebook and calling it endocrinology, and I'd rather be wrong about the word than wrong about the trapdoor.*
 
 *I'm not asking for anything. He'd have said that's the wrong way around and he'd have been kind about it.*
 

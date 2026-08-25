@@ -89,7 +89,15 @@ Ch11's journal was relocated twice: the first placement left it immediately afte
 - **Em-dash reduction.** Attempted programmatically and reverted. The transformation replaced dashes with commas and left the spacing, producing `items , jerky, nuts ... dried fruit , were` — and even where it worked mechanically, converting an em-dash parenthetical to commas inside a sentence that already has commas made the prose worse, not tighter. Rate stands at 15.7/1k. **This is a human line-edit, not a find-and-replace.**
 - ~~**"It wasn't X. It was Y."** and **"the way a/you…"**~~ **Done — see below.**
 - ~~**Chapter-ending cadence**~~ **Done — see below.**
-- **Pushing the voice toward the Civ-VI register.** Not mechanizable — a rewrite instruction, not a rule.
+- **§8.1 item 37 — partially done.** Suggestions 1 and 2 implemented (below). Suggestions 3–5 (returning the Civ frame to Ch12/17/18/21/27, and adding the undercut where the vocabulary is densest) remain open — those are a dozen specific insertions that each have to be funny in place.
+
+  **1. Nate now names the thing himself.** The manuscript used *the mechanism* **23 times** at full clinical formality, against the outline's instruction to use the technical word once and then coin a kid's word for it. He now does both, in Ch4, after reading his mother's textbook: **stress juice** for the catecholamines (the outline's own suggestion) and **the trapdoor** for the fear-conversion process — *"Lisa Anderson stood on her own concrete step… and the ground held her right up until it didn't. That is not a mechanism. A mechanism is a thing you can see."*
+
+  Propagated into narration only. **Moss, Phil, the textbook and formal dialogue keep the clinical vocabulary, and that contrast is now doing characterisation.** Counts: *the mechanism* 23 → 9 (all dialogue or pre-coinage), *trapdoor* 14, *stress juice* 4.
+
+  It pays off twice without alteration: the septic tank — *"this was the loop, this was the trapdoor, this was how the organism won"* — and Jim's death, where *"I'd rather be wrong about the word than wrong about the trapdoor"* becomes a sentence about the difference between vocabulary and truth.
+
+  **2. The density threshold now gets mistranslated into his own terms.** Moss names it on the radio in Ch11 and Nate previously adopted her phrase wholesale. He now writes hers down for the record and then writes his own underneath: **when you cram enough of them into one place they stop being patient and start being a mosh pit** — with the one show he ever went to, in Fort Smith, and the girl who came out of the pit with a broken collarbone and no memory of how. Closes on him noticing he understood it faster in his own words than in hers.
 
 **Deferred from Tier 2, needs a decision:** §2.2 (Ch2 narrating Ch3's green-tomato woman and laundry-building strangers before they appear) and §2.3 (Ch3 and Ch4 both narrating the night of Day 2). Both are prose restructuring rather than mechanical fixes and were left alone. Note that §1.2's month sweep is now the largest remaining continuity item, and the date anchor change locks it in — with Day 0 on Oct 23, the book crosses into **December at Day 39**.
 

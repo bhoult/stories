@@ -256,7 +256,7 @@ Craig's jaw tightened. He turned to me fully.
 
 Brett racked the shotgun's slide: not loading it, just cycling the action, the mechanical sound of a statement being made. "This is the kid from the trailer park. The one who plays video games." He said "video games" as one says "finger-painting." "He's here to tell us how to survive? Dad, come on."
 
-I looked at Brett. He was everything the apocalypse was supposed to reward: strong, brave, young, capable. He could run faster than me, fight harder, lift more, endure more. In every survival scenario except this one, Brett Lyle would outlive me by decades. In this one, his strengths were the mechanism of his destruction.
+I looked at Brett. He was everything the apocalypse was supposed to reward: strong, brave, young, capable. He could run faster than me, fight harder, lift more, endure more. In every survival scenario except this one, Brett Lyle would outlive me by decades. In this one, his strengths were what opened the trapdoor under him.
 
 "I'm not telling you how to survive," I said to Craig. "I'm telling you what's happening to your perimeter. What you do with the information is your decision."
 

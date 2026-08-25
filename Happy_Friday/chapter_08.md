@@ -33,7 +33,7 @@ Jim picked up his coffee. Sipped it. Put it down.
 
 "Those aren't mutually exclusive," he said. "The medication and the peace."
 
-He was right in a way I was too smart to understand at the time. The metoprolol kept his body under the threshold. His faith kept his mind there. His faith had produced the sign in the window, which saved at least three lives. My correct understanding of the mechanism had produced a notebook.
+He was right in a way I was too smart to understand at the time. The metoprolol kept his body under the threshold. His faith kept his mind there. His faith had produced the sign in the window, which saved at least three lives. My correct understanding of the trapdoor had produced a notebook.
 
 I would learn, later, to hold both truths at once. Jim's theology and my pharmacology, both incomplete, both functional, pointing at the same survival behavior from opposite directions. Most people resolve contradictions by collapsing one side, picking the explanation that feels better and discarding the other. Jim didn't. He held "God protects the peaceful" and "metoprolol suppresses the HPA axis" in the same hand and didn't flinch. That capacity would turn out to be more important than either truth alone. The people who survived this world would be the ones who could let their assumptions and their observations coexist long enough for something useful to emerge from the friction.
 
@@ -265,7 +265,7 @@ He looked at me. "It matters to me."
 
 He almost smiled. Then the almost-smile faded and he was just a tired old man in a dark church. "I told Ruth the Lord protects the peaceful. And I believe that. But I also know it's the metoprolol, and I know it's the beta-blockade, and I know that if the medication runs out I'll have to find out whether my faith is strong enough to keep my heart rate below whatever the number is. And I don't know if it is."
 
-He said this to me and not to any of the adults because I was the one who'd named the mechanism, and naming it had made me the person he could be honest with, and I didn't want that responsibility. I had it anyway.
+He said this to me and not to any of the adults because I was the one who'd named the trapdoor, and naming it had made me the person he could be honest with, and I didn't want that responsibility. I had it anyway.
 
 "Your faith got us here," I said. "That's data."
 
@@ -289,5 +289,5 @@ He sat in the dark pew and I sat behind him and neither of us said anything else
 
 *The Turned are shedding clothing. Pembrook's robe. The soldiers' body armor. A woman in the parking lot who was wearing a jacket yesterday and isn't today. The oldest Turned are the most exposed. The sun-facing and the undressing have to be connected, the exposed skin is always the skin facing the light, but I can't see the mechanism yet.*
 
-*Jim doubts his faith in private and performs it in public and the performance saves lives. I understand the mechanism in private and fail to act in public and the understanding saves nobody. Being right is not the same as being useful. Knowing is not the same as doing.*
+*Jim doubts his faith in private and performs it in public and the performance saves lives. I understand the trapdoor in private and fail to act in public and the understanding saves nobody. Being right is not the same as being useful. Knowing is not the same as doing.*
 ---

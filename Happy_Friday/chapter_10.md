@@ -120,7 +120,7 @@ The assumptions you don't question are the ones that kill you. I'd written that 
 
 *Maria is already planning what to do with the Lyles' supplies when they fall. I think she always sees the cost. I think the cost is what she's calculating when the rest of us think she's just counting cans.*
 
-*Ruth called Craig's situation cognitive dissonance. She might be describing mine too. I understand the mechanism and still can't act on it. Knowing and doing are separated by a gap I haven't figured out how to cross. The textbook doesn't have a chapter for that.*
+*Ruth called Craig's situation cognitive dissonance. She might be describing mine too. I understand the trapdoor and still can't act on it. Knowing and doing are separated by a gap I haven't figured out how to cross. The textbook doesn't have a chapter for that.*
 
 ---
 

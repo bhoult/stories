@@ -16,7 +16,7 @@ He sat in the basement on a folding chair too small for him and told us about th
 
 "Walked. The bourbon ran out on Day 5 and the truck was getting cold and I figured sitting still was just dying slow. So I walked. Back roads, then the highway shoulder. The Turned were everywhere but they didn't bother me." He paused, as if the next part confused him. "They'd look. Tilt their heads. Then go back to whatever they were doing. I don't know why. I wasn't calm. I was just... empty. Too tired to be scared. I figured I was already dead and dead men don't have much to be afraid of."
 
-He'd walked right through them. Not because he understood the mechanism, he didn't, not yet, but because his depression and his grief and his three days of bourbon had left him with nothing the organism could use. His catecholamines were flatlined. He was below threshold by accident, the same way Jim was below threshold by metoprolol and faith. Different roads to the same quiet place.
+He'd walked right through them. Not because he understood the trapdoor, he didn't, not yet, but because his depression and his grief and his three days of bourbon had left him with nothing the organism could use. His stress juice had run dry. He was below threshold by accident, the same way Jim was below threshold by metoprolol and faith. Different roads to the same quiet place.
 
 "Saw the church sign from the highway. The one in the window. Figured if somebody was still putting up signs, somebody was still alive."
 

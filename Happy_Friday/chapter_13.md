@@ -112,7 +112,7 @@ The front door was broken: someone had put a rock through the glass in the first
 
 Gone: the narcotics cabinet, smashed open, emptied. The OxyContin, the Vicodin, the Xanax: every controlled substance that people knew by name and reputation, stripped clean. The antibiotics, amoxicillin, azithromycin, ciprofloxacin, gone, because antibiotics are the thing you know you need in a disaster.
 
-Still there: metoprolol. Atenolol. Propranolol. Carvedilol. Bottles of beta-blockers sitting on shelves, undisturbed. Sertraline. Fluoxetine. Escitalopram. SSRIs, untouched. Clonazepam. Lorazepam. Anxiolytics, dusty and perfect. Buspirone. Hydroxyzine. The things that would have saved lives, sitting on shelves because people understood pain and didn't understand the mechanism that was killing them.
+Still there: metoprolol. Atenolol. Propranolol. Carvedilol. Bottles of beta-blockers sitting on shelves, undisturbed. Sertraline. Fluoxetine. Escitalopram. SSRIs, untouched. Clonazepam. Lorazepam. Anxiolytics, dusty and perfect. Buspirone. Hydroxyzine. The things that would have saved lives, sitting on shelves because people understood pain and didn't understand the trapdoor that was killing them.
 
 The right supplies were always there. Nobody took them because nobody knew.
 

@@ -502,7 +502,7 @@ Here is what I knew: Pembrook was one of them. Lisa Anderson was one of them now
 
 And here is the other thing I knew, the thing that sat heavier: they ate. They drank. They foraged through garbage and tore tomatoes off vines and drank from garden hoses. They were not dying. They were not winding down. They were maintaining themselves with the mechanical persistence of something that intended to still be here tomorrow, and the day after that, and the day after that. Whatever this was, it wasn't a spasm. It wasn't a fever that would break. It was a new steady state, and the things outside my window were settling into it the way water settles into a basin, filling every available space, finding equilibrium, and staying.
 
-You couldn't wait this out. The movie was over: the one where you barricade and hold and the National Guard shows up on Day Five. These things weren't deteriorating. The walls were irrelevant when the mechanism was your own adrenaline. And the cavalry was probably standing in a parking lot somewhere with blank faces, because the thing that turns you is the thing soldiers are trained to produce.
+You couldn't wait this out. The movie was over: the one where you barricade and hold and the National Guard shows up on Day Five. These things weren't deteriorating. The walls were irrelevant when the thing that got you was your own adrenaline. And the cavalry was probably standing in a parking lot somewhere with blank faces, because the thing that turns you is the thing soldiers are trained to produce.
 
 And my mom — my mom who ran toward emergencies, who spent twelve hours in the loudest, most fear-saturated room in the county — my mom was almost certainly standing somewhere too. I could see it now. The ER filling up, the confusion, the screaming, the patients who weren't patients anymore, and her in the middle of it doing her job because that's what she does, and her heart rate climbing because that's what hearts do, and the line, whatever the line was, approaching. I could see it and I couldn't unsee it and I hated every frame.
 
@@ -538,6 +538,12 @@ My mom kept two textbooks from her associate's degree on a shelf above the washe
 The phone was down to nothing, the laptop was dead, the TV was off, I'd read every magazine in the house, and the textbooks were there. I pulled *Brunner & Suddarth* off the shelf and started reading about the autonomic nervous system because the alternative was sitting in the dark replaying the sound of Lisa Anderson screaming.
 
 I didn't understand half of it. I understood enough. The sympathetic nervous system ran on chemicals: epinephrine, norepinephrine, cortisol. Produced by the adrenal glands in response to perceived threat. The system was involuntary. You didn't choose to activate it any more than you chose to digest food. I read about beta-blockers. I read about the feedback loop between the amygdala and the hypothalamus: the cycle where fear triggers chemicals that trigger more fear.
+
+Epinephrine, norepinephrine, cortisol. I wrote all three in the notebook and then I sat there looking at them and thought, I am not writing those out every time. I am fifteen. So I crossed them out and wrote **stress juice**, which is not a medical term and which I have used in my own head ever since, and if a doctor ever reads this journal I would ask them to consider the circumstances.
+
+The other thing needed a name too, and it was harder, because the other thing didn't have a word yet. Not the chemicals. The part where the chemicals get you. Lisa Anderson stood on her own concrete step in her own front yard on a Sunday morning and the ground held her right up until it didn't. That is not a mechanism. A mechanism is a thing you can see. This was underneath, and it was under all of us, and every single person alive was standing on it and didn't know.
+
+**The trapdoor.** That's what I wrote. That's what I've called it since.
 
 ---
 
@@ -603,13 +609,13 @@ I wrote in the notebook:
 
 I did not sleep. My brain had the Knock on a loop and the loop had no off switch. Forty-five minutes of audio playing behind my eyes every time I closed them. Lisa's voice. Then Mom's voice. "Happy Friday, bud." Over and over. I tried to think about something else and my mind returned to the loop the way a compass needle returns to north.
 
-Around 3 AM I realized the loop itself was dangerous. Each replay spiked cortisol. Chronic stress activation. The organism didn't need to scare me all at once. It could do it in installments. The Knock wasn't just an attempt to get me to open the door. It was a seed planted in a brain that couldn't stop replaying. My brain was doing its work for it, for free, in the dark.
+Around 3 AM I realized the loop itself was dangerous. Each replay dumped a little more stress juice into me. Chronic activation. The organism didn't need to scare me all at once. It could do it in installments. The Knock wasn't just an attempt to get me to open the door. It was a seed planted in a brain that couldn't stop replaying. My brain was doing its work for it, for free, in the dark.
 
 I pressed my palms against my eyes and counted backward from a hundred by sevens. A cognitive interrupt: the kind of task that forces the prefrontal cortex to override the amygdala. It worked, partly. The loop dimmed to background noise. It didn't stop.
 
 Sometime before dawn I went under anyway, and I was in the hospital. Not visiting. Working. I was wearing my mom's scrubs and they fit, which was wrong, and I was walking the hallway toward the ER and the fluorescents were buzzing the way fluorescents do and everything was fine. Mom was at the nurses' station. She looked up and said "Happy Friday, bud" and I said "It's Sunday" and she said "No, honey, it's always Friday now" and smiled, and the smile was too wide, and I was awake.
 
-My heart was slamming. I could feel it in my throat, in my wrists, behind my eyes. I pressed my hand flat against my chest and counted: not breaths, heartbeats. One hundred and twelve, one hundred and eight, one hundred and four. I counted them down the way you'd count down a launch sequence, because somewhere in the part of my brain that was still working I understood that my heart rate was the thing that could kill me now, that the fear wasn't just fear anymore, it was a mechanism, and the mechanism was running, and I had to shut it down manually because the automatic systems had stopped being trustworthy.
+My heart was slamming. I could feel it in my throat, in my wrists, behind my eyes. I pressed my hand flat against my chest and counted: not breaths, heartbeats. One hundred and twelve, one hundred and eight, one hundred and four. I counted them down the way you'd count down a launch sequence, because somewhere in the part of my brain that was still working I understood that my heart rate was the thing that could kill me now, that the fear wasn't just fear anymore, it was the trapdoor, and the trapdoor was open, and I had to close it manually because the automatic systems had stopped being trustworthy.
 
 Ninety-six. Eighty-eight. Eighty-two.
 
@@ -969,7 +975,7 @@ Jim picked up his coffee. Sipped it. Put it down.
 
 "Those aren't mutually exclusive," he said. "The medication and the peace."
 
-He was right in a way I was too smart to understand at the time. The metoprolol kept his body under the threshold. His faith kept his mind there. His faith had produced the sign in the window, which saved at least three lives. My correct understanding of the mechanism had produced a notebook.
+He was right in a way I was too smart to understand at the time. The metoprolol kept his body under the threshold. His faith kept his mind there. His faith had produced the sign in the window, which saved at least three lives. My correct understanding of the trapdoor had produced a notebook.
 
 I would learn, later, to hold both truths at once. Jim's theology and my pharmacology, both incomplete, both functional, pointing at the same survival behavior from opposite directions. Most people resolve contradictions by collapsing one side, picking the explanation that feels better and discarding the other. Jim didn't. He held "God protects the peaceful" and "metoprolol suppresses the HPA axis" in the same hand and didn't flinch. That capacity would turn out to be more important than either truth alone. The people who survived this world would be the ones who could let their assumptions and their observations coexist long enough for something useful to emerge from the friction.
 
@@ -1201,7 +1207,7 @@ He looked at me. "It matters to me."
 
 He almost smiled. Then the almost-smile faded and he was just a tired old man in a dark church. "I told Ruth the Lord protects the peaceful. And I believe that. But I also know it's the metoprolol, and I know it's the beta-blockade, and I know that if the medication runs out I'll have to find out whether my faith is strong enough to keep my heart rate below whatever the number is. And I don't know if it is."
 
-He said this to me and not to any of the adults because I was the one who'd named the mechanism, and naming it had made me the person he could be honest with, and I didn't want that responsibility. I had it anyway.
+He said this to me and not to any of the adults because I was the one who'd named the trapdoor, and naming it had made me the person he could be honest with, and I didn't want that responsibility. I had it anyway.
 
 "Your faith got us here," I said. "That's data."
 
@@ -1225,7 +1231,7 @@ He sat in the dark pew and I sat behind him and neither of us said anything else
 
 *The Turned are shedding clothing. Pembrook's robe. The soldiers' body armor. A woman in the parking lot who was wearing a jacket yesterday and isn't today. The oldest Turned are the most exposed. The sun-facing and the undressing have to be connected, the exposed skin is always the skin facing the light, but I can't see the mechanism yet.*
 
-*Jim doubts his faith in private and performs it in public and the performance saves lives. I understand the mechanism in private and fail to act in public and the understanding saves nobody. Being right is not the same as being useful. Knowing is not the same as doing.*
+*Jim doubts his faith in private and performs it in public and the performance saves lives. I understand the trapdoor in private and fail to act in public and the understanding saves nobody. Being right is not the same as being useful. Knowing is not the same as doing.*
 ---
 
 
@@ -1247,7 +1253,7 @@ He sat in the basement on a folding chair too small for him and told us about th
 
 "Walked. The bourbon ran out on Day 5 and the truck was getting cold and I figured sitting still was just dying slow. So I walked. Back roads, then the highway shoulder. The Turned were everywhere but they didn't bother me." He paused, as if the next part confused him. "They'd look. Tilt their heads. Then go back to whatever they were doing. I don't know why. I wasn't calm. I was just... empty. Too tired to be scared. I figured I was already dead and dead men don't have much to be afraid of."
 
-He'd walked right through them. Not because he understood the mechanism, he didn't, not yet, but because his depression and his grief and his three days of bourbon had left him with nothing the organism could use. His catecholamines were flatlined. He was below threshold by accident, the same way Jim was below threshold by metoprolol and faith. Different roads to the same quiet place.
+He'd walked right through them. Not because he understood the trapdoor, he didn't, not yet, but because his depression and his grief and his three days of bourbon had left him with nothing the organism could use. His stress juice had run dry. He was below threshold by accident, the same way Jim was below threshold by metoprolol and faith. Different roads to the same quiet place.
 
 "Saw the church sign from the highway. The one in the window. Figured if somebody was still putting up signs, somebody was still alive."
 
@@ -1603,7 +1609,7 @@ The assumptions you don't question are the ones that kill you. I'd written that 
 
 *Maria is already planning what to do with the Lyles' supplies when they fall. I think she always sees the cost. I think the cost is what she's calculating when the rest of us think she's just counting cans.*
 
-*Ruth called Craig's situation cognitive dissonance. She might be describing mine too. I understand the mechanism and still can't act on it. Knowing and doing are separated by a gap I haven't figured out how to cross. The textbook doesn't have a chapter for that.*
+*Ruth called Craig's situation cognitive dissonance. She might be describing mine too. I understand the trapdoor and still can't act on it. Knowing and doing are separated by a gap I haven't figured out how to cross. The textbook doesn't have a chapter for that.*
 
 ---
 
@@ -1683,6 +1689,12 @@ Jim broke it. "She didn't mention God."
 "Maybe." He didn't argue. He folded his hands. "Or maybe the layer underneath is the part she hasn't found yet."
 
 Marcus capped his flask. "The density threshold. She said it varies. She doesn't have numbers."
+
+*Density threshold.* I wrote it down because it was hers and it was precise and I wanted it in the record in her words. Then I wrote underneath it, in my own words, what I actually understood, which was this: **when you cram enough of them into one place they stop being patient and start being a mosh pit.** I went to exactly one show in my life, in Fort Smith, with Braden Cooke's older brother driving, and I stood at the back and watched the middle of the floor go from people-standing-near-each-other to a single stupid animal in about forty seconds, and a girl came out of it with a broken collarbone and no memory of how.
+
+Nobody decided that. Nobody in that pit wanted it. It was just what happens when the number gets high enough in a space that small.
+
+That is not what Dr. Moss said. It is what she meant, and I understood it faster in my own words than I had in hers, and I am recording that because I spent six weeks assuming her vocabulary was better than mine at the thing her vocabulary was for.
 
 "I've been counting," I said. "The Walmart cluster hit twenty-five and I saw behavioral changes. Twitchiness, agitation. The Lyles have maybe twenty in their perimeter and the count is growing." I wrote the number in the notebook and circled it. The most important number was the one nobody could give us.
 
@@ -1826,7 +1838,7 @@ She picked up her can and went back to counting.
 
 Jim let the silence settle. Then, quieter: "Now we solve the first part. Watch rotation. Two-hour shifts. One person awake, watching the room. If someone spikes, thrashing, the sounds we know, the watcher wakes me. We assess together."
 
-We set up the rotation that morning. Two-hour shifts, midnight to six. Jim took the first slot. Marcus took second. I took third. Dale insisted on fourth: the pre-dawn hours, his worst window, arguing that if he was going to be awake sweating through cortisol spikes anyway, he might as well be useful.
+We set up the rotation that morning. Two-hour shifts, midnight to six. Jim took the first slot. Marcus took second. I took third. Dale insisted on fourth: the pre-dawn hours, his worst window, arguing that if he was going to be awake sweating through stress-juice spikes anyway, he might as well be useful.
 
 I wrote it in the notebook: *We are now watching ourselves the way we watch the Turned. The perimeter is inside the room.*
 
@@ -2135,7 +2147,7 @@ Craig's jaw tightened. He turned to me fully.
 
 Brett racked the shotgun's slide: not loading it, just cycling the action, the mechanical sound of a statement being made. "This is the kid from the trailer park. The one who plays video games." He said "video games" as one says "finger-painting." "He's here to tell us how to survive? Dad, come on."
 
-I looked at Brett. He was everything the apocalypse was supposed to reward: strong, brave, young, capable. He could run faster than me, fight harder, lift more, endure more. In every survival scenario except this one, Brett Lyle would outlive me by decades. In this one, his strengths were the mechanism of his destruction.
+I looked at Brett. He was everything the apocalypse was supposed to reward: strong, brave, young, capable. He could run faster than me, fight harder, lift more, endure more. In every survival scenario except this one, Brett Lyle would outlive me by decades. In this one, his strengths were what opened the trapdoor under him.
 
 "I'm not telling you how to survive," I said to Craig. "I'm telling you what's happening to your perimeter. What you do with the information is your decision."
 
@@ -2358,7 +2370,7 @@ The front door was broken: someone had put a rock through the glass in the first
 
 Gone: the narcotics cabinet, smashed open, emptied. The OxyContin, the Vicodin, the Xanax: every controlled substance that people knew by name and reputation, stripped clean. The antibiotics, amoxicillin, azithromycin, ciprofloxacin, gone, because antibiotics are the thing you know you need in a disaster.
 
-Still there: metoprolol. Atenolol. Propranolol. Carvedilol. Bottles of beta-blockers sitting on shelves, undisturbed. Sertraline. Fluoxetine. Escitalopram. SSRIs, untouched. Clonazepam. Lorazepam. Anxiolytics, dusty and perfect. Buspirone. Hydroxyzine. The things that would have saved lives, sitting on shelves because people understood pain and didn't understand the mechanism that was killing them.
+Still there: metoprolol. Atenolol. Propranolol. Carvedilol. Bottles of beta-blockers sitting on shelves, undisturbed. Sertraline. Fluoxetine. Escitalopram. SSRIs, untouched. Clonazepam. Lorazepam. Anxiolytics, dusty and perfect. Buspirone. Hydroxyzine. The things that would have saved lives, sitting on shelves because people understood pain and didn't understand the trapdoor that was killing them.
 
 The right supplies were always there. Nobody took them because nobody knew.
 
@@ -2612,7 +2624,7 @@ At 89 the primes stopped working.
 
 I don't mean I forgot the sequence. I mean the numbers stopped being a wall and became sounds my mouth made while the rest of me went somewhere else. Because the house above me was being torn apart and I was standing in human waste in the dark and I was fifteen years old and I was going to die here and nobody knew where I was because I'd left a *note*. The terror filled the tank the way the waste filled my shoes and I couldn't count around it the way you can't breathe around water.
 
-My heart was hammering. Not the managed rhythm Jim had taught, not the four-in-hold-six-out, but the runaway cascade — 140, 150, higher, the kind of heart rate that exists for one biological purpose, which is to fuel a sprint, and I couldn't sprint because I was in a concrete box four feet wide and if I pushed the lid off and ran they would tear me apart as they were tearing the house apart and that thought — the image of it, the sound of it translated to my body — pushed the rate higher and the rate pushing higher made the fear worse and the fear made the rate worse and I understood in a way I hadn't before that this was the loop, this was the mechanism, this was how the organism won. Not by catching you. By letting your own chemistry do the catching.
+My heart was hammering. Not the managed rhythm Jim had taught, not the four-in-hold-six-out, but the runaway cascade — 140, 150, higher, the kind of heart rate that exists for one biological purpose, which is to fuel a sprint, and I couldn't sprint because I was in a concrete box four feet wide and if I pushed the lid off and ran they would tear me apart as they were tearing the house apart and that thought — the image of it, the sound of it translated to my body — pushed the rate higher and the rate pushing higher made the fear worse and the fear made the rate worse and I understood in a way I hadn't before that this was the loop, this was the trapdoor, this was how the organism won. Not by catching you. By letting your own chemistry do the catching.
 
 Then the warmth came.
 
@@ -6158,7 +6170,7 @@ Maria did not count anything for two days, which frightened me more than the fun
 
 I had the last watch that night, sitting on the steps of the science building where Jim used to sit with Caleb, and I did not write anything, and the emitter hummed in the walls behind me, as always.
 
-Six weeks ago a man put a piece of cardboard in a church window that said KEEP CALM. COME INSIDE. DON'T RUN, and set it at the angle where a driver on Highway 21 would catch it, and made coffee for everyone who came through the door so he could watch their hands. Everything I have — Sienna, Ruth, Marcus, Dale, Maria, Caleb, the notebook, the whole of it — comes down through that sign. I did not build any of this. I inherited it from a seventy-three-year-old pastor with a bad heart who was wrong about the mechanism from the first day to the last and right about every single thing that mattered.
+Six weeks ago a man put a piece of cardboard in a church window that said KEEP CALM. COME INSIDE. DON'T RUN, and set it at the angle where a driver on Highway 21 would catch it, and made coffee for everyone who came through the door so he could watch their hands. Everything I have — Sienna, Ruth, Marcus, Dale, Maria, Caleb, the notebook, the whole of it — comes down through that sign. I did not build any of this. I inherited it from a seventy-three-year-old pastor with a bad heart who was wrong about the trapdoor from the first day to the last and right about every single thing that mattered.
 
 On the highway two weeks ago I sat down on a center line and told myself that the only part still available to me was the next one.
 
@@ -6178,7 +6190,7 @@ I did not give it a number. The numbered entries are a document; Moss is going t
 
 *He asked You to carry the part I can't. I don't know whether You did. I know I got up the next morning. I know I have gotten up every morning since. I could not have told You in advance that I would.*
 
-*He wasn't afraid. That's the whole of what I have and I've turned it over more than anything else in this book. At the end, at a hundred and forty beats a minute, with every threshold I ever wrote behind him, the man was not afraid, and the thing that eats fear went through him and came out the other side with nothing. If that was You, then I have spent six weeks describing You in a notebook and calling it endocrinology, and I'd rather be wrong about the word than wrong about the mechanism.*
+*He wasn't afraid. That's the whole of what I have and I've turned it over more than anything else in this book. At the end, at a hundred and forty beats a minute, with every threshold I ever wrote behind him, the man was not afraid, and the thing that eats fear went through him and came out the other side with nothing. If that was You, then I have spent six weeks describing You in a notebook and calling it endocrinology, and I'd rather be wrong about the word than wrong about the trapdoor.*
 
 *I'm not asking for anything. He'd have said that's the wrong way around and he'd have been kind about it.*
 
@@ -6217,7 +6229,7 @@ And then, because it was true and because I had decided on the stairs coming up 
 
 "We buried a man yesterday. His name was Jim Whittaker and he was a pastor in Clarksville and he is the reason any of the rest of us are alive. He did not turn. His heart gave out and he stayed himself the whole way down, and I am going to come back to why, because it is the most useful thing I have ever had to tell anybody."
 
-I told them. All of it. The rules: the mechanism, the threshold, the beta-blockers, the voices, the density, the frenzy. The things I'd learned by watching people die because they didn't have the information. I told them about fortification and why it kills you. I told them about the Turned getting smarter. I told them that the damage they carried, the addiction, the depression, the grief, was their skillset now, that managing a craving was the same mechanism as managing fear. I told them to write it down.
+I told them. All of it. The rules: the trapdoor, the threshold, the beta-blockers, the voices, the density, the frenzy. The things I'd learned by watching people die because they didn't have the information. I told them about fortification and why it kills you. I told them about the Turned getting smarter. I told them that the damage they carried, the addiction, the depression, the grief, was their skillset now, that managing a craving was the same mechanism as managing fear. I told them to write it down.
 
 I read from the notebook. The entries I'd written in a trailer, in a church, on a trail, in a pulloff on a highway covered in blood. The wrong parts and the right parts and the parts I still couldn't classify. The journal was the survival tool: an honest record of the past, failures included, and the only map any of us had.
 

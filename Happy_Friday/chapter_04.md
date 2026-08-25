@@ -8,6 +8,12 @@ The phone was down to nothing, the laptop was dead, the TV was off, I'd read eve
 
 I didn't understand half of it. I understood enough. The sympathetic nervous system ran on chemicals: epinephrine, norepinephrine, cortisol. Produced by the adrenal glands in response to perceived threat. The system was involuntary. You didn't choose to activate it any more than you chose to digest food. I read about beta-blockers. I read about the feedback loop between the amygdala and the hypothalamus: the cycle where fear triggers chemicals that trigger more fear.
 
+Epinephrine, norepinephrine, cortisol. I wrote all three in the notebook and then I sat there looking at them and thought, I am not writing those out every time. I am fifteen. So I crossed them out and wrote **stress juice**, which is not a medical term and which I have used in my own head ever since, and if a doctor ever reads this journal I would ask them to consider the circumstances.
+
+The other thing needed a name too, and it was harder, because the other thing didn't have a word yet. Not the chemicals. The part where the chemicals get you. Lisa Anderson stood on her own concrete step in her own front yard on a Sunday morning and the ground held her right up until it didn't. That is not a mechanism. A mechanism is a thing you can see. This was underneath, and it was under all of us, and every single person alive was standing on it and didn't know.
+
+**The trapdoor.** That's what I wrote. That's what I've called it since.
+
 ---
 
 That night I learned the worst thing about them.
@@ -72,13 +78,13 @@ I wrote in the notebook:
 
 I did not sleep. My brain had the Knock on a loop and the loop had no off switch. Forty-five minutes of audio playing behind my eyes every time I closed them. Lisa's voice. Then Mom's voice. "Happy Friday, bud." Over and over. I tried to think about something else and my mind returned to the loop the way a compass needle returns to north.
 
-Around 3 AM I realized the loop itself was dangerous. Each replay spiked cortisol. Chronic stress activation. The organism didn't need to scare me all at once. It could do it in installments. The Knock wasn't just an attempt to get me to open the door. It was a seed planted in a brain that couldn't stop replaying. My brain was doing its work for it, for free, in the dark.
+Around 3 AM I realized the loop itself was dangerous. Each replay dumped a little more stress juice into me. Chronic activation. The organism didn't need to scare me all at once. It could do it in installments. The Knock wasn't just an attempt to get me to open the door. It was a seed planted in a brain that couldn't stop replaying. My brain was doing its work for it, for free, in the dark.
 
 I pressed my palms against my eyes and counted backward from a hundred by sevens. A cognitive interrupt: the kind of task that forces the prefrontal cortex to override the amygdala. It worked, partly. The loop dimmed to background noise. It didn't stop.
 
 Sometime before dawn I went under anyway, and I was in the hospital. Not visiting. Working. I was wearing my mom's scrubs and they fit, which was wrong, and I was walking the hallway toward the ER and the fluorescents were buzzing the way fluorescents do and everything was fine. Mom was at the nurses' station. She looked up and said "Happy Friday, bud" and I said "It's Sunday" and she said "No, honey, it's always Friday now" and smiled, and the smile was too wide, and I was awake.
 
-My heart was slamming. I could feel it in my throat, in my wrists, behind my eyes. I pressed my hand flat against my chest and counted: not breaths, heartbeats. One hundred and twelve, one hundred and eight, one hundred and four. I counted them down the way you'd count down a launch sequence, because somewhere in the part of my brain that was still working I understood that my heart rate was the thing that could kill me now, that the fear wasn't just fear anymore, it was a mechanism, and the mechanism was running, and I had to shut it down manually because the automatic systems had stopped being trustworthy.
+My heart was slamming. I could feel it in my throat, in my wrists, behind my eyes. I pressed my hand flat against my chest and counted: not breaths, heartbeats. One hundred and twelve, one hundred and eight, one hundred and four. I counted them down the way you'd count down a launch sequence, because somewhere in the part of my brain that was still working I understood that my heart rate was the thing that could kill me now, that the fear wasn't just fear anymore, it was the trapdoor, and the trapdoor was open, and I had to close it manually because the automatic systems had stopped being trustworthy.
 
 Ninety-six. Eighty-eight. Eighty-two.
 
