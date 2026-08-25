@@ -170,6 +170,46 @@ Every experiment Nate runs is a demonstration of what the tells are. He is debug
 
 *He does not realise this until after, and when he does it is the second time he has taught the organism something it could not have learned on its own.*
 
+### The offer — and the schism it causes
+
+Delia is not just a Trojan horse. She is an **argument**, and it is a good one.
+
+If the organism can return a person — whole, articulate, herself, and *better* — then the entire premise the survivors have organised their lives around is wrong. Conversion is not death. It is a chrysalis. Every rule in Nate's notebook, every hour of breathing exercises, every person who died holding the line, was a response to a misunderstanding.
+
+**And the offer is not a trick.** This is what makes it lethal. The organism will genuinely do it. It would return everyone, and it would return them improved, and from inside its frame it is baffled that this is refused. It is not recruiting. It is not negotiating. It has produced a demonstration and cannot parse why the demonstration hasn't settled the matter.
+
+### Why nobody can refute it
+
+Every witness is compromised, and the compromise is unfalsifiable.
+
+Ask a returned person whether something was taken from them and they will say no, sincerely, because the faculty that would notice is the thing that was removed. Their testimony is not evidence that they are intact. **It is a prediction of the model.** Both hypotheses — "she is fine" and "she is gone and cannot tell" — produce exactly the same interview.
+
+*This is the direct sequel to Ch30's survivorship-bias passage: in Book One Nate could only interview people who survived. In Book Two he can only interview people who were returned, and it is the same broken instrument pointed at a worse question.*
+
+### Who breaks
+
+The argument does not land on people who are reasoning. It lands on people who are **grieving and exhausted and running out of medication**, and it hands every one of them a reason to hope for the specific person they lost.
+
+- **Marcus is the one who breaks, or nearly does.** Book One's entire Marcus arc is *"every mile we walk toward Dr. Moss is a mile that isn't toward Ava"* — a sacrifice he made on the math and has never stopped paying. If the organism can return a nine-year-old girl in Tulsa, the math changes, and Marcus has already demonstrated that he will walk the wrong way for years if the math tells him to.
+- **Dale is the counterweight**, and it should be him, in recovery language, because he is the only person there who has been offered an end to suffering before and knows exactly what that offer costs. He can name it as a relapse — *the easy thing that feels like relief and is the thing that kills you* — and he is the only one with standing, because he is not arguing from theory. **This is Dale inheriting Jim's function**, and doing it in a completely different vocabulary.
+- **Ruth, Maria, Moss** all have to land somewhere, and it should not be unanimous. A group that splits cleanly into believers and sceptics is a debate. A group where the smartest person is tempted is a book.
+
+### Nate's position, and why it is unbearable
+
+He has to be the one who says no, and he has to say it while holding the *worst* possible credential: he is the only person arguing against it who has been given his mother back.
+
+Every argument he makes will be heard as a son who cannot accept a gift. And the people he is arguing with are not fools — they are the people who buried Jim, who carried Ruth up a rock scramble in the rain, who watched him engineer three hundred deaths on a wire because he was certain about a mechanism.
+
+**And Phil was the rehearsal.** Ch23: a soft-spoken man asks *"tell me where the error is and I'll change the system today,"* and Nate has nothing, and finds the answer four miles too late. The organism's offer is Phil's system, executed perfectly and offered voluntarily — *eliminate the capacity to suffer, and what remains is alive.* Nate lost that argument in Book One with twelve lives at stake. In Book Two the same argument comes back with everyone.
+
+### The organism's frame
+
+It is not persuading. It has no model of persuasion, because persuasion presumes a party that can be wrong and needs convincing, and it has never encountered separateness.
+
+From inside: there is a group of small warm things in permanent, painful exclusion from the network. It has demonstrated, at some cost, that inclusion is survivable and improving. It has returned one of them, repaired, to the one who seemed most attached to her.
+
+**It thinks it has answered a question.** It cannot understand why they are still outside.
+
 ### The epistemology collapse
 
 Every detection method the group built in Book One tests for **the absence of a person** — Jim's coffee ritual and the fine-motor grip correction, the twenty-foot conversation gate, sustained context tracking, the watch rotation.
@@ -232,5 +272,9 @@ He has the method. He wrote it. And it is now pointed at the single most comfort
 | Ch2/Ch3 — Nate cataloguing Pembrook through binoculars, filing anomalies | he does it to his mother, knows it, and cannot stop |
 | Ch12 — the shoe test, the rooftop conversation test, the hymnal drop | the template for how he runs the experiments |
 | Ch1 — the two nursing textbooks kept "like trophies" | establishes her intellectual self-image, which is what the first tell violates |
+| Ch23 — Phil: "tell me where the error is and I'll change the system today," and Nate has nothing | the rehearsal. The organism's offer is Phil's system, perfected and voluntary. Same argument, everyone at stake |
+| Ch30 — survivorship bias: "the people who could contradict it aren't available" | every returned witness is compromised; both hypotheses produce the same interview |
+| Ch9 — Marcus: "every mile toward Dr. Moss is a mile that isn't toward Ava" | the offer changes his math, and he has proved he will walk years on a calculation |
+| Ch20/Ch27 — Dale on cravings, HALT, "the only way out is through" | he names the offer as a relapse, and inherits Jim's function in a different vocabulary |
 | Ch31 — Sienna running laps to map her own threshold | she is first to distrust Delia, in her body, and cannot make it survive Nate's analysis |
 
