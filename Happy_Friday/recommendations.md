@@ -89,7 +89,15 @@ Ch11's journal was relocated twice: the first placement left it immediately afte
 - **Em-dash reduction.** Attempted programmatically and reverted. The transformation replaced dashes with commas and left the spacing, producing `items , jerky, nuts ... dried fruit , were` — and even where it worked mechanically, converting an em-dash parenthetical to commas inside a sentence that already has commas made the prose worse, not tighter. Rate stands at 15.7/1k. **This is a human line-edit, not a find-and-replace.**
 - ~~**"It wasn't X. It was Y."** and **"the way a/you…"**~~ **Done — see below.**
 - ~~**Chapter-ending cadence**~~ **Done — see below.**
-- **§8.1 item 37 — partially done.** Suggestions 1 and 2 implemented (below). Suggestion 3 done for Ch18 and Ch21 (below). Remaining: the Civ frame in Ch12/17/27, and the undercut where the technical exposition runs longest (Ch29, Ch33).
+- **§8.1 item 37 — partially done.** Suggestions 1 and 2 implemented (below). Suggestion 3 done for Ch18 and Ch21 (below). Suggestion 5 done for Ch29 and Ch33 (below). Remaining: the Civ frame in Ch12/17/27 — the last open item on this report.
+
+  **5. The undercut, at the two densest stretches of exposition.**
+
+  *Ch29* — Moss's terraforming speech previously deflated into a simile about gravity (*"The word landed in the room like a stone in still water"*). Replaced with the undercut the character actually produces: *"I knew the word from games. You land on a dead planet and you run the atmosphere processors for two hundred turns, and at the end the map is green and the map is yours. That is the whole win condition. You get a little sound when it finishes. I had spent my entire life on the side of the machine doing the terraforming. It had never once occurred to me to wonder what it was like to be the atmosphere."*
+
+  *Ch33* — the broadcast summarized the rules with no deflation. Now it pays off the Ch4 coinage on air: *"I said 'catecholamines' once, into the microphone, because that is the actual word. Then I said 'stress juice,' because that is what it is, and because a man sitting in a stockroom in Ozark with a shortwave and a dying flashlight does not need the actual word. He needs the thing the word is for. I have thought about that a lot since. It is the only genuinely useful thing I have ever done with vocabulary."*
+
+  **Unplanned resonance worth preserving:** that Ch33 line describes a man in a stockroom with a radio — which is exactly Jim's third dream in Ch28 (*"a back office, maybe, or a stockroom. Shelves on the walls. Bottles on the shelves"* and a radio on the desk) — and the group that answers the broadcast two pages later says *"There are twelve of us. We have a pharmacy."* Nate pictures Jim's dreamed listener moments before that listener answers. Left ambiguous as to whether he knows he's doing it.
 
   **3. The Civ frame returned at two points, thirteen chapters apart, as the two ends of one arc.**
 

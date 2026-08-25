@@ -5635,7 +5635,11 @@ She drew a series of arrows on the board. Simple loops. Input, response, feedbac
 
 "The organism operates the same way. Fear chemical above threshold. Convert. Caloric deficit. Hunt. Photosynthetic capacity reached. Root. Host density sufficient. Network. Each behavior is a biological imperative, not a decision. The herding, the swarming, the hunting, the rooting. None of it requires intelligence. It requires *rules.* And the rules are very good, because they've been refined by evolution on at least one other world, probably more. The organism doesn't need to be smart. It just needs to follow its program, and the program is optimized for exactly this, arriving on a new world, co-opting the dominant species, and terraforming the environment for its own biology."
 
-"Terraforming," I said. The word landed in the room like a stone in still water.
+"Terraforming," I said.
+
+I knew the word from games. You land on a dead planet and you run the atmosphere processors for two hundred turns, and at the end the map is green and the map is yours. That is the whole win condition. You get a little sound when it finishes.
+
+I had spent my entire life on the side of the machine doing the terraforming. It had never once occurred to me to wonder what it was like to be the atmosphere.
 
 "The rooting isn't the end state. It's the beginning of a process. The organism is modifying its environment, converting mobile hosts to sessile ones, building root networks, establishing photosynthetic infrastructure. It's reshaping Earth's ecology to suit itself. Not consciously. Not strategically. The way kudzu reshapes a hillside: one biological imperative at a time, no plan, no intent, just growth following rules." She looked at the window, where the last light of the day was fading. "Where it ultimately leads, I don't know. We're six weeks into a process that may take years or decades to complete. We're watching the first chapter of a very long book, and we don't know the genre."
 
@@ -6236,6 +6240,10 @@ I pressed the transmit button.
 And then, because it was true and because I had decided on the stairs coming up here that I was not going to do this the tidy way:
 
 "We buried a man yesterday. His name was Jim Whittaker and he was a pastor in Clarksville and he is the reason any of the rest of us are alive. He did not turn. His heart gave out and he stayed himself the whole way down, and I am going to come back to why, because it is the most useful thing I have ever had to tell anybody."
+
+I said "catecholamines" once, into the microphone, because that is the actual word. Then I said "stress juice," because that is what it is, and because a man sitting in a stockroom in Ozark with a shortwave and a dying flashlight does not need the actual word. He needs the thing the word is for.
+
+I have thought about that a lot since. It is the only genuinely useful thing I have ever done with vocabulary.
 
 I told them. All of it. The rules: the trapdoor, the threshold, the beta-blockers, the voices, the density, the frenzy. The things I'd learned by watching people die because they didn't have the information. I told them about fortification and why it kills you. I told them about the Turned getting smarter. I told them that the damage they carried, the addiction, the depression, the grief, was their skillset now, that managing a craving was the same mechanism as managing fear. I told them to write it down.
 
