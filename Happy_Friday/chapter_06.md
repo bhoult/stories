@@ -146,7 +146,7 @@ She strapped it on. Heart rate: 82. Blood pressure: 126/80. Higher than mine. Th
 
 "Don't tell me to calm down."
 
-"I wasn't going to. I was going to say that Jim walks outside every day and nothing happens to him and he's seventy years old with a bad heart, which means he's on medication that does chemically what you're trying to do through willpower. If we can figure out what he's taking —"
+"I wasn't going to. I was going to say that Jim walks outside every day and nothing happens to him and he's seventy-three years old with a bad heart, which means he's on medication that does chemically what you're trying to do through willpower. If we can figure out what he's taking —"
 
 She looked at me. The expression was complicated — frustration, respect, the look people get when they realize the quiet kid in Lot 7 has been paying attention to things they missed.
 

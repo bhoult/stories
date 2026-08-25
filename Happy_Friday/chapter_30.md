@@ -63,5 +63,4 @@ Static swallowed the rest. But the voice had been there. Someone had heard.
 I picked up the microphone.
 
 "This is Nate Carver. I hear you. Tell me your location. Tell me what you need. I'm listening."
--e 
 ---

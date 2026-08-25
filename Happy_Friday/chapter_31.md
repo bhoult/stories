@@ -28,7 +28,7 @@ I picked up the pen.
 
 ---
 
-**JOURNAL ENTRY #21:**
+**JOURNAL ENTRY #22:**
 
 *I survived. Not because I was brave or strong or smart. I survived because I was slow, and I was scared, and I paid attention. That's not a hero's story. The world doesn't need hero stories anymore. It needs notes.*
 

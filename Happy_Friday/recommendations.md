@@ -23,13 +23,39 @@ None of this requires re-conceiving anything. Estimated work: a hard continuity 
 
 ---
 
+## STATUS — applied since this report was written
+
+**Ch23 "Nate Walks" restored** (reframed as surrender rather than breakdown; see §2.1). The manuscript is now **31 chapters** and everything from the old Ch23 onward shifted up one. **All chapter references in this report have been renumbered to match** — Ch24 is "Sienna Stops," Ch31 is "The Journal." References to the *outline's* planned chapters are unchanged.
+
+**Tier 1 complete:**
+
+| Item | Resolution |
+|---|---|
+| §2.1 Restore "Nate Walks" | Done. Downstream cuts applied to Ch24 and Ch25. |
+| §3.1 Leonard/Gerald | → **Leonard** throughout (Ch18, 19, 20). |
+| §3.2 Tulsa/Odessa | → **Tulsa**; the I-20 reference removed, preserving Marcus's west-vs-northwest geometry. |
+| §3.3 Marcus's "secret" | Rewritten to acknowledge he shouted Ava's name in the basement in Ch11. |
+| §3.4 Jim's misremembered dream | → "A forest of bodies, and a sound like a tuning fork against the bones of the earth," matching Ch8. |
+| §3.5 Jaylen's age | → **seven** (Ch24). |
+| §3.6 Jim's age | → **seventy-three** throughout (Ch6, Ch7, Ch29). *Chosen, not derived — change with one sweep if you prefer seventy.* |
+| §3.17 "Karen" | → **Delia** (Ch14). |
+| §1.1 Date anchor | → **Friday, October 23rd** (Ch3), the Friday in 2026 that preserves C/2026 Voss. |
+| §5.2 `-e` artifact | Removed from Ch30. |
+| §5.1 Journal numbering | **Journal #2 restored** to Ch7 from the outline's surviving text; duplicate #21 in Ch31 → **#22**. Sequence is now 1–22 with 11b, no gaps. |
+| §5.4 Broken italics | Journals #11b, #14, #15 closed; #15's non-italic tail folded in. |
+| §5.3 Garbled sentences | All fixed: Ch21's opening line, Ch26's "sidoe," the Rock House spring/trash-can splice, "an seventeen," "a overlapping," "fire move," "splatterd," "remans," "someones," "cement floor," the "...damn" artifact, the cantaloupe ellipsis, and two comma splices. |
+
+**Still open:** Tier 2 onward. Note that §1.2's month sweep is now the largest remaining continuity item, and the date anchor change locks it in — with Day 0 on Oct 23, the book crosses into **December at Day 39**.
+
+---
+
 ## 1. Timeline and Calendar
 
 ### 1.1 The anchor
 
 Chapter 3 fixes the outbreak: *"Friday, October 24th."* Chapter 5 confirms *"Day three. Monday."* Day 0 = Friday, Oct 24, and every subsequent Day N = October 24 + N.
 
-But Chapter 26 shows Moss's printout reading **Comet C/2026 Voss**, and the outline confirms 2026 is intentional (series canon). **October 24, 2026 is a Saturday.** October 24 falls on a Friday only in 2025, 2031, 2036.
+But Chapter 27 shows Moss's printout reading **Comet C/2026 Voss**, and the outline confirms 2026 is intentional (series canon). **October 24, 2026 is a Saturday.** October 24 falls on a Friday only in 2025, 2031, 2036.
 
 **Fix (one-word):** change the date to **October 23rd**, which *is* a Friday in 2026. This preserves the comet designation, the September tail-passage, the "six weeks before the outbreak" discovery window, and the Monday = Day 3 anchor. Do not change the comet — the outline's series arc depends on it.
 
@@ -54,10 +80,10 @@ Chapter 17 correctly says *"early November now, frost on the gravel."* The Octob
 | Day 37 | Nov 29 |
 | Day 38 | Nov 30 |
 | **Day 39** (Ch22, the mother/highway chapter) | **Dec 1** |
-| Day 42 (Ch25, the herd) | Dec 4 |
-| Day 45 (Ch30, the ending) | Dec 7 |
+| Day 42 (Ch26, the herd) | Dec 4 |
+| Day 45 (Ch31, the ending) | Dec 7 |
 
-But there are **eight "November" references at Day 37 or later** — five in Ch21 alone, plus Ch22, Ch25 and Ch28 — and exactly one "December" in the entire manuscript, which is Maria forecasting forward (*"whether the emitter's range would hold through December"*). The last third of the book is set in December and never says so.
+But there are **eight "November" references at Day 37 or later** — five in Ch21 alone, plus Ch22, Ch26 and Ch29 — and exactly one "December" in the entire manuscript, which is Maria forecasting forward (*"whether the emitter's range would hold through December"*). The last third of the book is set in December and never says so.
 
 **This compounds with §1.4's elapsed-time errors** — if any of those are resolved by moving events *later*, more of the book slides into December. Settle §1.4 first, then sweep months once, against a single dated spreadsheet.
 
@@ -80,16 +106,16 @@ Acts One and Two count "Day N" from the outbreak. Act Three silently restarts th
 - **Ch18:** *"when we reached the university five weeks later."* Departure ~Day 24–26; campus arrival Day 42. That's about **two and a half weeks**.
 - **Ch21:** *"a sound… that Jim had dreamed about on **Day 9**."* Ch8 states explicitly: *"He'd dreamed it on Day 7."*
 - **Ch21:** the gas-station woman: *"Since the beginning. **Three weeks**."* It is Day 38 — five and a half weeks.
-- **Ch22 vs Ch23:** Nate has been carrying the mother-sighting *"for sixteen days"* (Ch22) and *"for five weeks"* (Ch23), two pages apart.
-- **Ch24:** Dale says *"I'm **three weeks** past my last dose"*; Journal #18 in the same chapter says *"**Four weeks** past his last Suboxone."* Actual elapsed time from the last dose (Ch19, trail day 1) is ~16 days.
-- **Ch28 vs Ch27:** Chapter 28 is dated **Day 43** but ends in the hallway immediately before the broadcast, while Chapter 27 is dated **Day 44** and ends with Nate *planning* the broadcast for "tomorrow." Chapter 28 is out of order or misdated.
+- **Ch22 vs Ch24:** Nate has been carrying the mother-sighting *"for sixteen days"* (Ch22) and *"for five weeks"* (Ch24), two pages apart.
+- **Ch25:** Dale says *"I'm **three weeks** past my last dose"*; Journal #18 in the same chapter says *"**Four weeks** past his last Suboxone."* Actual elapsed time from the last dose (Ch19, trail day 1) is ~16 days.
+- **Ch29 vs Ch28:** Chapter 29 is dated **Day 43** but ends in the hallway immediately before the broadcast, while Chapter 28 is dated **Day 44** and ends with Nate *planning* the broadcast for "tomorrow." Chapter 29 is out of order or misdated.
 
 ### 1.5 Medication clocks
 
 These are mostly excellent — Ruth's atenolol tracks cleanly from Ch17 (18 days, Day 23) to Ch21 (4 days, Day 37). Two exceptions:
 
 - **Dale's Suboxone:** Ch11 (Day 12) = 18 days. Ch13 (Day 15) = 13 days. Ch17 (Day 23) = **10 days**, but should be ~5. Ch19 has him take his last dose on trail day 1.
-- **Ruth's atenolol** "runs out tomorrow" in Ch25 (~Day 42) vs Ch21's four-days-left on Day 37 (= Day 41). One day of slack; trivial.
+- **Ruth's atenolol** "runs out tomorrow" in Ch26 (~Day 42) vs Ch21's four-days-left on Day 37 (= Day 41). One day of slack; trivial.
 
 ### 1.6 The Lyle head-count table contradicts itself
 
@@ -104,15 +130,15 @@ Separately, Ch12 says the perimeter is at twenty-two but on arrival Nate *"count
 
 ## 2. Plot Holes and Dangling Threads
 
-### 2.1 THE BIG ONE: the missing Chapter 23
+### 2.1 THE BIG ONE: the missing Chapter 23 — **RESOLVED**
 
-The outline's **Chapter 23, "Nate Walks,"** is a third-person chapter from Sienna's POV: Nate wakes at 3 AM two nights after seeing his mother and walks back toward the hospital; Sienna follows; he breaks down on the road; **she puts her hand over his mouth and says "Quiet. Quiet. I know. But quiet."**; Marcus finds them and **physically carries Nate back**.
+The outline's **Chapter 23, "Nate Walks,"** was a third-person chapter from Sienna's POV: Nate wakes at 3 AM two nights after seeing his mother and walks back toward the hospital; Sienna follows; he breaks down on the road; **she puts her hand over his mouth and says "Quiet. Quiet. I know. But quiet."**; Marcus finds them and **physically carries Nate back**.
 
 That chapter is not in the manuscript. In its place is a different scene ("Sienna Stops"). Three orphaned references remain:
 
-1. **Chapter 22 ends** on: *"I took the binoculars and walked. Back up the highway. Back the way we'd come. Back toward Clarksville."* **This is never resolved.** Chapter 23 opens with Nate asleep in camp. A reader will assume they skipped a page.
-2. **Chapter 23** has Nate recall *"the way she'd put her hand over his mouth on the highway and held him and said 'quiet, quiet, I know.'"* **No such scene exists in the book.**
-3. **Chapter 24** opens: *"I'd been there for two days and I don't remember much of it except Sienna's hand and Jim's shoulder and **Marcus carrying me**."* **Marcus never carries him on the page.**
+1. **Chapter 22 ends** on: *"I took the binoculars and walked. Back up the highway. Back the way we'd come. Back toward Clarksville."* **This is never resolved.** Chapter 24 opens with Nate asleep in camp. A reader will assume they skipped a page.
+2. **Chapter 24** has Nate recall *"the way she'd put her hand over his mouth on the highway and held him and said 'quiet, quiet, I know.'"* **No such scene exists in the book.**
+3. **Chapter 25** opens: *"I'd been there for two days and I don't remember much of it except Sienna's hand and Jim's shoulder and **Marcus carrying me**."* **Marcus never carries him on the page.**
 
 All three trace to the same deleted chapter. This is the manuscript's one true plot hole and it sits at the emotional climax.
 
@@ -121,7 +147,7 @@ All three trace to the same deleted chapter. This is the manuscript's one true p
 1. **The book already spent that card.** Chapter 21 has Nate collapse on the hillside after the roadblock, make "sounds like a wounded thing," and run into the woods. A second uncontrolled breakdown two chapters later is a repeat, and the weaker of the two.
 2. **It breaks the book's own physics.** Sustained loud sobbing in the open at 3 AM is exactly the catecholamine-plus-noise profile that turns people or summons hunters. Sienna's hand over his mouth is the outline patching that hole, and the patch is the part that reads as melodrama.
 
-**Reframe as surrender, not collapse.** Nate's failure mode has never been screaming — it's *stopping*. The manuscript establishes this repeatedly: Ch22's "I stopped on the highway… there was nowhere to move to"; Ch24's "you stop being the person who processes and become the person who is processed"; Ch5's hypothermic drift where "my rationality was failing, and the failure felt like comfort." Act One is literally titled **INERTIA**, and Nate's original sin is sitting at a window while Lisa Anderson is taken. A quiet give-up chapter makes his lowest moment a *relapse into who he was*, which no version of a sobbing fit can do.
+**Reframe as surrender, not collapse.** Nate's failure mode has never been screaming — it's *stopping*. The manuscript establishes this repeatedly: Ch22's "I stopped on the highway… there was nowhere to move to"; Ch25's "you stop being the person who processes and become the person who is processed"; Ch5's hypothermic drift where "my rationality was failing, and the failure felt like comfort." Act One is literally titled **INERTIA**, and Nate's original sin is sitting at a window while Lisa Anderson is taken. A quiet give-up chapter makes his lowest moment a *relapse into who he was*, which no version of a sobbing fit can do.
 
 The reframe also inverts the threat in a way nothing else in the book does. Giving up is not a spike — it's a drop. He goes *below* threshold. The Turned ignore him completely. He can sit down on a highway at 3 AM in November and be perfectly safe and quietly die of it, and **nothing comes for him.** That is a fresher horror than a chase, and it lets him walk toward the organism's "warmth / invitation" — seeded in the septic tank (Ch14) and in Sienna's near-conversion (Ch15) — voluntarily, because it is offering exactly what he now wants: permission to stop being himself.
 
@@ -129,15 +155,15 @@ The reframe also inverts the threat in a way nothing else in the book does. Givi
 
 | | |
 |---|---|
-| **Length** | 1,200–1,600 words. Matches Ch22 (1,395) and Ch23 (1,562) — a three-chapter triptych of short chapters reads as designed rather than accidental. |
+| **Length** | 1,200–1,600 words. Matches Ch22 (1,395) and Ch24 (1,562) — a three-chapter triptych of short chapters reads as designed rather than accidental. |
 | **POV** | **First person, Nate.** Do not use third person here; two consecutive third-person chapters over-tilts, and the horror of giving up is that it feels *reasonable from the inside*. Every sentence should be calm and sensible while the reader is shouting at the page. |
 | **Distance** | He gets a mile or two, not thirty. He is not attempting Clarksville. He has a direction, not a destination — the appeal is that a walk with no end never has to be finished. Then he sits down. |
 | **Threat** | Cold, not Turned. The cold-induced sympatholysis that saved him under Henderson's trailer on Day 3 is now the thing making surrender feel fine. Same mechanism, inverted. |
 | **The turn** | Sienna does not argue and does not give a speech. She sits down beside him and waits. Then *she* starts shivering — and Nate gets up to save **her**, because his own survival instinct is offline but that one isn't. He moves toward someone else, which is the exact instinct the organism punishes everywhere else in the book and the only thing that gets him off the road here. |
 
 **Required downstream fixes if reframed:**
-- **Ch23** — cut *"the way she'd put her hand over his mouth on the highway and held him and said 'quiet, quiet, I know'"*; replace with the new scene's image (she sat down on the asphalt and got cold and would not leave first).
-- **Ch24** — cut *"Marcus carrying me."* Keep the rest: *"I'd been there for two days… the person who is processed"* already describes surrender rather than hysteria and needs no change.
+- **Ch24** — cut *"the way she'd put her hand over his mouth on the highway and held him and said 'quiet, quiet, I know'"*; replace with the new scene's image (she sat down on the asphalt and got cold and would not leave first).
+- **Ch25** — cut *"Marcus carrying me."* Keep the rest: *"I'd been there for two days… the person who is processed"* already describes surrender rather than hysteria and needs no change.
 - **Ch22** — its closing paragraph now resolves as written. No edit needed.
 
 If you decide not to restore it at all, you must cut all three references *and* rewrite the last paragraph of Chapter 22.
@@ -180,13 +206,13 @@ Chapter 1 states the framework he's obeying: *"My brain went straight to the mov
 
 **Do not close this.** My original suggestion — Marcus asking why he's still carrying it, or Nate deliberately setting it down — would resolve the irony and kill it.
 
-*Two supporting claims in the earlier draft of this report were also factually wrong: the ruck purge occurs on trail night 1 (Ch19) and the bow is acquired on trail day 9 (Ch20), so he never carries it through a purge; and Ch25 does dispose of it — "We left everything at the top of the hill. Shopping carts, packs, anything heavy."*
+*Two supporting claims in the earlier draft of this report were also factually wrong: the ruck purge occurs on trail night 1 (Ch19) and the bow is acquired on trail day 9 (Ch20), so he never carries it through a purge; and Ch26 does dispose of it — "We left everything at the top of the hill. Shopping carts, packs, anything heavy."*
 
 **NOT A THREAD — Moss's "wrong at colony scale."** This is a discrepancy between `characters.md` and the manuscript, not a dangling setup. The character sheet promises a reversal the book never stages. If it's Book Two, correct the sheet.
 
 ### 2.6 Dialogue quoted that was never spoken
 
-**Ch26:** Sienna says *"You said superintelligence. On the hill."* Nate never says it aloud — the word appears only in his interior narration in Ch25 (*"The superintelligence I'd sensed in the herd…"*). Either give him the line on the hilltop or change Sienna's attribution.
+**Ch27:** Sienna says *"You said superintelligence. On the hill."* Nate never says it aloud — the word appears only in his interior narration in Ch26 (*"The superintelligence I'd sensed in the herd…"*). Either give him the line on the hilltop or change Sienna's attribution.
 
 ---
 
@@ -204,32 +230,32 @@ Same man, same death year, same marriage length, two names. Pick one and sweep. 
 ### 3.2 Marcus's daughter moves states
 
 - **Ch9:** *"Ava. She's nine. **Tulsa**."* And the whole basis of Marcus's sacrifice: *"Fayetteville is northwest. **Tulsa is west.** Every mile we walk toward Dr. Moss is a mile that isn't toward Ava."*
-- **Ch28:** *"Ava was nine. She lived in **Odessa, Texas.** The highway Jim described was **I-20**."*
+- **Ch29:** *"Ava was nine. She lived in **Odessa, Texas.** The highway Jim described was **I-20**."*
 
 This one matters more than a name error, because Marcus's entire arc is geometric — every step north is a step away from Tulsa. Odessa/I-20 breaks the geometry and Jim's prophetic dream with it.
 
 ### 3.3 Marcus's secret isn't a secret
 
-**Ch28:** *"Marcus had told no one about Ava except me, in a whisper, on a night when the dark was thick enough to hold a confession."*
+**Ch29:** *"Marcus had told no one about Ava except me, in a whisper, on a night when the dark was thick enough to hold a confession."*
 **Ch11:** Marcus screams *"Ava!"* in his sleep, wakes the entire basement, and Dale answers him in the dark. Everyone knows the name.
 
 ### 3.4 Jim's first dream is misremembered
 
 **Ch8:** *"A forest of bodies. And we were walking through it. And a sound. Not music. A frequency. Like a tuning fork pressed against the bones of the earth."*
-**Ch28:** *"Three dreams, now four. **Water rising in a valley.** A woman in a lab coat…"*
+**Ch29:** *"Three dreams, now four. **Water rising in a valley.** A woman in a lab coat…"*
 
-The forest-of-bodies dream is the better image *and* the one that pays off in Ch25. Fix the Ch28 recap.
+The forest-of-bodies dream is the better image *and* the one that pays off in Ch26. Fix the Ch29 recap.
 
 ### 3.5 Jaylen ages two years
 
 **Ch6, Ch8, Ch15:** Jaylen is **seven** (*"Jaylen's seven," "only seven-year-olds can pull off," "He's Jaylen's age"* — said of seven-year-old Caleb).
-**Ch23:** *"Jaylen is **nine**."*
+**Ch24:** *"Jaylen is **nine**."*
 
 Note that Jaylen-is-seven is load-bearing: it's why Sienna sprints through a herd for Caleb.
 
 ### 3.6 Jim's age
 
-"Seventy" (Ch6, Ch28) / "late sixties" (Ch7) / "seventy-three" (Ch19 ×2). `characters.md` flags this but doesn't resolve it; the outline says sixty-seven. Pick a number.
+"Seventy" (Ch6, Ch29) / "late sixties" (Ch7) / "seventy-three" (Ch19 ×2). `characters.md` flags this but doesn't resolve it; the outline says sixty-seven. Pick a number.
 
 ### 3.7 The Atwoods truck is never introduced — and it can't be Marcus's
 
@@ -268,7 +294,7 @@ This is worth more than continuity repair. It converts Ch19's ruck purge from a 
 
 ### 3.10 The wooden zoo doesn't reconcile
 
-Within Chapter 18, on the same night: Caleb puts the wooden chickens *"in the wooden zoo, next to the beagle and **the cardinal** and the fox"* — and twenty lines later, *"Dale gave Sienna **the cardinal** he'd carved."* Chapter 19 then has Caleb carrying the cardinal *and* asleep holding *"the half-finished cardinal"* while Dale carves a fox that Caleb already owns. Chapter 30's zoo inventory (beagle, cardinal, fox, turtle, owl) still has the cardinal.
+Within Chapter 18, on the same night: Caleb puts the wooden chickens *"in the wooden zoo, next to the beagle and **the cardinal** and the fox"* — and twenty lines later, *"Dale gave Sienna **the cardinal** he'd carved."* Chapter 19 then has Caleb carrying the cardinal *and* asleep holding *"the half-finished cardinal"* while Dale carves a fox that Caleb already owns. Chapter 31's zoo inventory (beagle, cardinal, fox, turtle, owl) still has the cardinal.
 
 Dale's carvings are one of the book's best emotional instruments. They need a single tracked inventory: what exists, when it was made, who has it. Suggest a one-page carving ledger as a working doc.
 
@@ -290,8 +316,8 @@ Ch2: her voicemail stumbles on *"Carver"* because *"she'd only had the name back
 
 ### 3.15 Survivor-group counts
 
-**Ch27:** Moss: *"I've had **seventeen** survivor groups reach this campus."*
-**Ch29:** Moss: *"I've had contact with **eleven** survivor groups in the past three weeks."*
+**Ch28:** Moss: *"I've had **seventeen** survivor groups reach this campus."*
+**Ch30:** Moss: *"I've had contact with **eleven** survivor groups in the past three weeks."*
 
 (Reached vs. contacted could reconcile these, but as written it reads as a slip.)
 
@@ -308,7 +334,7 @@ Marcus exhales and puts the knife away, so the answer is meant to be correct. Na
 
 ### 3.16 Moss critiques journal entries that don't exist
 
-**Ch27:** *"The HPA axis description in **entry two** is simplified to the point of inaccuracy… You misidentify the parasympathetic response as 'vagal override' in **entry five**."* There is no entry two (see §5.1), and entry five is the Lyles/Maria entry, which contains no such term. Either write the referenced content or change the entry numbers.
+**Ch28:** *"The HPA axis description in **entry two** is simplified to the point of inaccuracy… You misidentify the parasympathetic response as 'vagal override' in **entry five**."* There is no entry two (see §5.1), and entry five is the Lyles/Maria entry, which contains no such term. Either write the referenced content or change the entry numbers.
 
 ---
 
@@ -333,13 +359,13 @@ Three corrections:
 Present: 1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 11b, 12, 13, 14, 15, 16, 17, 18, 19, 20, **21, 21**.
 
 - **#2 never appears.**
-- **#21 appears twice** — once at the end of Ch27, once at the end of Ch30.
+- **#21 appears twice** — once at the end of Ch28, once at the end of Ch31.
 
 Since the journal is explicitly described as "the book's structural spine," the numbering has to be airtight. Renumber sequentially after the continuity pass.
 
 ### 5.2 A shell artifact is committed into the manuscript
 
-`chapter_29.md` ends:
+`chapter_30.md` ends:
 
 ```
 "This is Nate Carver. I hear you. Tell me your location. Tell me what you need. I'm listening."
@@ -363,8 +389,8 @@ That stray `-e ` is leaked output from an `echo -e` and is present in the combin
 | Ch20 | "I left what **remans** of my mother" |
 | Ch21 | "On Day 37 **A** part of me I loved died**,** it started from a hillside, with a plan I'd borrowed from Eskimo hunters." (capitalization + double comma splice — this is the opening line of the book's biggest sequence) |
 | Ch21 | "…and I didn't want to be alone **and…damn.**" (authorial artifact left in the text) |
-| Ch25 | "Maria said 'oops… sorry'. Like she had accidentally stepped on **someones** shoe." |
-| Ch25 | "We still ran watches — the emitter hummed and the perimeter held but **sidoe** a real mattress, impossibly soft…" (sentence is broken; "sidoe" is not a word) |
+| Ch26 | "Maria said 'oops… sorry'. Like she had accidentally stepped on **someones** shoe." |
+| Ch26 | "We still ran watches — the emitter hummed and the perimeter held but **sidoe** a real mattress, impossibly soft…" (sentence is broken; "sidoe" is not a word) |
 | Ch15 | "…that couldn't both be right and might both be true**,** the space between them was the space where…" (comma splice) |
 
 ### 5.4 Italic formatting breaks in journal entries
@@ -377,7 +403,7 @@ In a book where the journal entries are a visually distinct formal element, thes
 
 ### 5.5 The third-person label is left in as a stage direction
 
-Chapter 23 opens with the bare line `*Third-person interstitial.*` — an outline note that made it into the manuscript. See §6.2 for the larger issue.
+Chapter 24 opens with the bare line `*Third-person interstitial.*` — an outline note that made it into the manuscript. See §6.2 for the larger issue.
 
 ---
 
@@ -396,7 +422,7 @@ Act Four is an epilogue wearing an act's clothes. It has real material in it —
 
 **Options:**
 - **(a)** Grow Act Four to ~15,000 words by collecting a cost. Jim's decline is already loaded and cocked; the act title is literally about what gets passed down. Jim dying — or visibly beginning to — and handing something to Nate would make the epigraph true.
-- **(b)** Retitle and re-epigraph Act Four to be honest about what it is (a coda), and move the act break earlier so Act Four begins at Chapter 25 (arrival).
+- **(b)** Retitle and re-epigraph Act Four to be honest about what it is (a coda), and move the act break earlier so Act Four begins at Chapter 26 (arrival).
 
 I'd take (a).
 
@@ -404,7 +430,7 @@ I'd take (a).
 
 The outline specifies a formal architecture: *"Intercut with Nate's chapters are third-person interstitial sections that show events Nate can't witness: **Delia's last shift at the hospital, the Lyles' final hours from inside their house, Marcus's three days alone in his truck cab, Dr. Moss's early research as the university empties around her.**"*
 
-**None of them exist.** Chapter 23 carries the label but is third-person-limited *on Nate*, not on another character — so the book never once leaves Nate's knowledge.
+**None of them exist.** Chapter 24 carries the label but is third-person-limited *on Nate*, not on another character — so the book never once leaves Nate's knowledge.
 
 This is the largest craft cost in the manuscript, and it's most visible in two places:
 
@@ -422,7 +448,7 @@ Range: **682 words** (Ch7) to **10,914** (Ch21) — a 16× spread.
 
 - **Ch7 "The Pattern" (682 words)** is not a chapter. It's the closing beat of Ch6. Merge it.
 - **Ch21 "The Wolf Knife" (10,914 words)** is three chapters: the roadblock operation, the aftermath walk and Nate's collapse, and the gas station + chickens. The chicken/towel scene — one of the best comic beats in the book — is currently buried 9,000 words into a massacre chapter, where its tonal whiplash works against it. **Split into three.** This also fixes §2.1: a "Nate Walks" chapter restored after Ch22 would sit naturally in a re-chaptered Act Three.
-- **Ch4 (1,258), Ch22 (1,395), Ch23 (1,562), Ch29 (991), Ch30 (984)** are all sub-1,600. Short chapters are fine as a deliberate rhythm — Ch22 and Ch29 in particular earn their brevity — but right now the variance looks accidental rather than designed.
+- **Ch4 (1,258), Ch22 (1,395), Ch24 (1,562), Ch30 (991), Ch31 (984)** are all sub-1,600. Short chapters are fine as a deliberate rhythm — Ch22 and Ch30 in particular earn their brevity — but right now the variance looks accidental rather than designed.
 
 ### 6.4 Two "other survivors" encounters do the same job
 
@@ -436,7 +462,7 @@ That's a straight downgrade. The gas station is **the Lyles again** — same les
 
 > *"Conceptual lessons (cognitive dissonance, neural plasticity, game theory, prisoner's dilemma) should be spread throughout the narrative, arising when Nate naturally notices their application — **not front-loaded as textbook reading sessions.**"*
 
-The manuscript has five stop-the-story teaching passages: the *Brunner & Suddarth* reading (Ch4), the prisoner's dilemma (Ch5), the Red Queen hypothesis (Ch11), HALT (Ch20), and radical acceptance (Ch24). The first three are integrated well enough. **HALT and radical acceptance are the weakest — they're the same lesson delivered twice, four chapters apart, both times as Dale lecturing a seated audience.** Merge them into one scene and let the rest of Dale's philosophy emerge through his hands, which is what the carvings are for and what they already do beautifully.
+The manuscript has five stop-the-story teaching passages: the *Brunner & Suddarth* reading (Ch4), the prisoner's dilemma (Ch5), the Red Queen hypothesis (Ch11), HALT (Ch20), and radical acceptance (Ch25). The first three are integrated well enough. **HALT and radical acceptance are the weakest — they're the same lesson delivered twice, four chapters apart, both times as Dale lecturing a seated audience.** Merge them into one scene and let the rest of Dale's philosophy emerge through his hands, which is what the carvings are for and what they already do beautifully.
 
 Also missing: **neural plasticity** is in the Lesson Placement Guide as a named through-line and never appears in the manuscript at all.
 
@@ -452,12 +478,12 @@ Herding / swarming / hunting / rooting — plus the density threshold and the fe
 2. **Ch11** — Moss's 12-minute broadcast, *then* Nate's "layered model" recap at the chapter's end, *then* Journal #6 recapping the recap. **Three passes in one chapter.**
 3. **Ch13/16** — journal entries restating swarm and hunting mechanics.
 4. **Ch17** — the committee meeting presents all of it again in four numbered sections (3,671 words, most of it recap).
-5. **Ch26** — Moss presents all of it *again* on a whiteboard (2,524 words).
-6. **Ch27/29** — Nate presents all of it *again* in the broadcast.
+5. **Ch27** — Moss presents all of it *again* on a whiteboard (2,524 words).
+6. **Ch28/29** — Nate presents all of it *again* in the broadcast.
 
-By Chapter 26 the reader has been told the taxonomy so many times that Moss's whiteboard — which should be the moment the machinery snaps into focus — reads as review. Worse, it *demotes Nate*: he spent 100,000 words earning this knowledge and then sits in a lecture hall being told it.
+By Chapter 27 the reader has been told the taxonomy so many times that Moss's whiteboard — which should be the moment the machinery snaps into focus — reads as review. Worse, it *demotes Nate*: he spent 100,000 words earning this knowledge and then sits in a lecture hall being told it.
 
-**Fix:** make Ch26 about what's *new* — the extraterrestrial biochemistry, the chlorophyll analogs, the roots-as-dendrites, the wired-vs-wireless emitter problem, terraforming, and the termite-mound rebuttal (that speech is excellent and should stay). Cut every sentence where Moss tells Nate something he told the reader. Nate's whiteboard correction (*"'Uncontrolled destruction' is an understatement"*) already shows you the right move — do more of that and less of the lecture.
+**Fix:** make Ch27 about what's *new* — the extraterrestrial biochemistry, the chlorophyll analogs, the roots-as-dendrites, the wired-vs-wireless emitter problem, terraforming, and the termite-mound rebuttal (that speech is excellent and should stay). Cut every sentence where Moss tells Nate something he told the reader. Nate's whiteboard correction (*"'Uncontrolled destruction' is an understatement"*) already shows you the right move — do more of that and less of the lecture.
 
 **Estimated savings: 4,000–6,000 words.**
 
@@ -479,7 +505,7 @@ The committee meeting's four numbered sections are structured as a presentation 
 
 **PARTIALLY HELD — #7 (Ch12).** Paragraphs three through five are the best self-indictment in Act Two (*"I dressed it in math because math is where I hide when the thing I'm saying is too ugly to say straight"*) and are essential. But the opening cognitive-dissonance paragraph duplicates Ruth's in-scene explanation two chapters earlier in Ch10 (*"The brain rejects new information that contradicts existing belief…"*). **Cut the first paragraph only** — Ruth already taught the reader this, in dialogue, better.
 
-**HELD — #17 and #18 (both in Ch24).** This is the real finding, and it's narrower than what I originally claimed. Chapter 24 carries **two journal entries recapping the same lecture the chapter just delivered.** #17's front half restates Dale's "your damage is your skillset"; #18 restates radical acceptance. #17's back half is worth keeping (*"I hate her less every day, which is a trajectory that points toward something I don't have a word for yet"*), as are #18's closing lines about the shrinking gap between fear and resting heart rate. **Merge into one entry and cut the restatements.**
+**HELD — #17 and #18 (both in Ch25).** This is the real finding, and it's narrower than what I originally claimed. Chapter 25 carries **two journal entries recapping the same lecture the chapter just delivered.** #17's front half restates Dale's "your damage is your skillset"; #18 restates radical acceptance. #17's back half is worth keeping (*"I hate her less every day, which is a trajectory that points toward something I don't have a word for yet"*), as are #18's closing lines about the shrinking gap between fear and resting heart rate. **Merge into one entry and cut the restatements.**
 
 **Revised estimated savings: 700–1,000 words, not 2,000–3,000.**
 
@@ -504,10 +530,10 @@ Deflating instances, by act:
 |---|---|---|---|
 | One (Ch1–7) | 1 | 0.5 | Establishing the wound (Ch3, Lisa Anderson) |
 | Two (Ch8–17) | 7 | **1.5** | Peak — and named on the page twice |
-| Three (Ch18–26) | **0** | 0.0 | Frame inverts to confident |
-| Four (Ch27–30) | **0** | 0.0 | Frame turned outward |
+| Three (Ch18–27) | **0** | 0.0 | Frame inverts to confident |
+| Four (Ch28–30) | **0** | 0.0 | Frame turned outward |
 
-**The pattern doesn't merely decay — the same syntactic frame reverses.** Ch8: *"it's what I do instead of being useful."* Ch13: *"It's the thing I do instead of being useful,"* immediately diagnosed by the narrator — *"Not humility. Armor."* Ch14: Sienna names it out loud. Ch21: *"I'll have a plan because that's what I do **now**."* Ch30, pointed at another person entirely: *"Maria is counting, always counting, because counting is how she loves us."*
+**The pattern doesn't merely decay — the same syntactic frame reverses.** Ch8: *"it's what I do instead of being useful."* Ch13: *"It's the thing I do instead of being useful,"* immediately diagnosed by the narrator — *"Not humility. Armor."* Ch14: Sienna names it out loud. Ch21: *"I'll have a plan because that's what I do **now**."* Ch31, pointed at another person entirely: *"Maria is counting, always counting, because counting is how she loves us."*
 
 That is a complete arc: reflex → self-diagnosis → external diagnosis → confident assertion → generosity. **No structural change needed.**
 
@@ -532,7 +558,7 @@ Near-verbatim, including the case/plans antithesis. Both scenes are strong; toge
 
 **Fix — differentiate rather than delete.** Ch14 is better placed (the failure is concrete and hours old, and it ends on *"the next time you go alone and leave a note, I might not be standing at the door when you come back"*). Give Ch14 the **diagnosis**. Then let Ch18 be **escalation, not repetition**: she already said this, he didn't change, and now three people are dead at the Lyles'. Ch18's genuinely new and sharper idea is *"in the best case scenario, everything that goes wrong is your fault — because if it's your fault, that means you had the power to prevent it."* Build Ch18 around that alone, strip the case/plans language, and cut *"She didn't know I had already given myself this talk."*
 
-Note this theme gets a **third** pass in Journal #17 (Ch24). Two is the maximum it can carry.
+Note this theme gets a **third** pass in Journal #17 (Ch25). Two is the maximum it can carry.
 
 **Estimated savings: 400–600 words.**
 
@@ -548,7 +574,7 @@ At **120,923 words** with a fifteen-year-old first-person narrator, this sits ab
 
 | Source | Cut |
 |---|---|
-| Taxonomy re-explanations (Ch11, Ch17, Ch26, Ch29) | 5,000 |
+| Taxonomy re-explanations (Ch11, Ch17, Ch27, Ch30) | 5,000 |
 | Journal entries #7, #17, #18 (revised — see §7.3) | 900 |
 | Sienna's doubled confrontation (§7.5) | 500 |
 | Trail montage overlap (Ch19/20) | 1,500 |
@@ -573,7 +599,7 @@ The outline's voice note is specific and good:
 
 The manuscript is closer to the essayist. Nate is frequently articulate in a way that's beyond fifteen not in *vocabulary* but in **syntactic control** — long, balanced, professionally cadenced periodic sentences with parallel clauses. It's very good prose. It is not quite a fifteen-year-old's prose.
 
-The places where the voice *is* perfectly calibrated are the ones the outline predicted: the Civ VI monologue in Ch25, the diazepam-vs-towel chicken calculation in Ch21, the spatula in Ch6, *"I am alive because an alien organism used the wrong woman's memory of a drive-through"* in Ch4. **These are the best-voiced passages in the book and they all work the same way** — technical precision applied to something absurd, then deflated. There should be more of them and fewer paragraphs of measured abstraction.
+The places where the voice *is* perfectly calibrated are the ones the outline predicted: the Civ VI monologue in Ch26, the diazepam-vs-towel chicken calculation in Ch21, the spatula in Ch6, *"I am alive because an alien organism used the wrong woman's memory of a drive-through"* in Ch4. **These are the best-voiced passages in the book and they all work the same way** — technical precision applied to something absurd, then deflated. There should be more of them and fewer paragraphs of measured abstraction.
 
 ### 8.2 Measurable tics
 
@@ -598,8 +624,8 @@ Nate rarely performs an action without explaining to the reader why he is the so
 |---|---|---|
 | One (Ch1–7) | **3.2** | 3.2 — correct, leave alone |
 | Two (Ch8–17) | 1.7 | ~1.7 |
-| Three (Ch18–26) | 1.9 | **~1.1** |
-| Four (Ch27–30) | 2.6 | ~1.3 |
+| Three (Ch18–27) | 1.9 | **~1.1** |
+| Four (Ch28–30) | 2.6 | ~1.3 |
 
 It plateaus instead of decaying, and ticks *up* in Act Four.
 
@@ -610,17 +636,17 @@ It plateaus instead of decaying, and ticks *up* in Act Four.
 | 19 | *"I am putting this in the journal because it should contain the truth: I was sitting on a rock…and I was happy."* | Preamble guarding an admission. The sentence is stronger starting at *"I was sitting on a rock."* |
 | 20 | *"I want that recorded because the journal has been a catalog of horrors and the forest deserves better."* | Precious. The description that follows makes the case by itself. |
 | 21 | *"I broke. **I should record that.** The analytical machinery failed…"* | *"I broke"* is stronger alone; the permission-slip weakens it at the book's most naked moment. |
-| 24 | *"I want you to know about them because the version of this story that only contains fear and strategy and running is not the true version."* | **Duplicates Ch8** — *"I want you to know about these hours because they matter as much as the crises."* Same frame, same argument, sixteen chapters apart. Keep Ch8's; it's the original and it's better placed. |
+| 25 | *"I want you to know about them because the version of this story that only contains fear and strategy and running is not the true version."* | **Duplicates Ch8** — *"I want you to know about these hours because they matter as much as the crises."* Same frame, same argument, sixteen chapters apart. Keep Ch8's; it's the original and it's better placed. |
 
 **Do not cut** — these look like the pattern and aren't:
 
 - **Ch19:** *"That's how I'm going to describe it because describing it accurately would require writing words I'm not ready to see in my own handwriting."* The *because* clause is the content — an act of concealment, not a throat-clear. See §7.3.
 - **Ch21:** *"I'll have a plan because that's what I do now."* The confident inversion. See §7.4b.
-- **Ch30:** *"counting is how she loves us."* Frame turned outward onto Maria.
+- **Ch31:** *"counting is how she loves us."* Frame turned outward onto Maria.
 
 **Result:** Act Three drops to ~1.1 and Act Four's two survivors are both inversions rather than justifications — producing the decay curve the voice needs.
 
-**Guardrail for new material:** this tic is the most visible signature in Nate's voice, which makes it the easiest thing to over-apply when writing new chapters in his register. The first draft of the restored Ch23 ran at **44 per 10k — twelve times the manuscript's worst chapter** — before correction. Worse, it was the wrong chapter for it: Nate's machinery is *off* in that scene, and a narrator busy framing and justifying is a narrator whose machinery is running. **Prose should get flatter as he goes under, not more self-conscious.** Check any new Nate material against the table above before adding it.
+**Guardrail for new material:** this tic is the most visible signature in Nate's voice, which makes it the easiest thing to over-apply when writing new chapters in his register. The first draft of the restored Ch24 ran at **44 per 10k — twelve times the manuscript's worst chapter** — before correction. Worse, it was the wrong chapter for it: Nate's machinery is *off* in that scene, and a narrator busy framing and justifying is a narrator whose machinery is running. **Prose should get flatter as he goes under, not more self-conscious.** Check any new Nate material against the table above before adding it.
 
 ### 8.3 The withheld-scene move in Ch21 — works as written
 
@@ -651,14 +677,14 @@ Listed because a report this long can make a book sound worse than it is:
 - **Jim generally.** Holding metoprolol and the metaphysics of grace in one hand without collapsing either is the best-drawn character in the book, and *"Those aren't mutually exclusive"* is its thesis in three words.
 - **The pharmacy inventory (Ch13).** Narcotics gone, beta-blockers untouched. *"That is a metaphor for the entirety of the human condition."* Ruth is right.
 - **The roar as an evolved anti-fortification siege weapon (Ch16).** The best conceptual payoff — it retroactively explains the military checkpoints, the Lyles, and every fortified position in the book.
-- **The rooting reveal (Ch25).** Everything seeded from Chapter 2 — the sun-facing, the greening, the undressing — converges. Structurally the most satisfying moment in the manuscript.
-- **The Civ VI monologue (Ch25)** and **Ruth's towel (Ch21).** The two funniest beats, both perfectly placed against horror.
+- **The rooting reveal (Ch26).** Everything seeded from Chapter 2 — the sun-facing, the greening, the undressing — converges. Structurally the most satisfying moment in the manuscript.
+- **The Civ VI monologue (Ch26)** and **Ruth's towel (Ch21).** The two funniest beats, both perfectly placed against horror.
 - **The cantaloupe (Ch19).** *"I had earned the tongue to taste it."*
 - **The wooden chickens (Ch18).** Dale carving what Caleb can't keep. The book's best small gesture.
 - **Journal #16.** One line. Leave it exactly as it is.
 - **Dale's ruined and finished foxes carried in opposite pockets.** *"What the hands could do, and what the shaking had done, and both of them his."*
 - **Marcus's "You can't save people who don't want to be saved. That's not a failure. That's a boundary."**
-- **Nate's nightmares getting worse once he's safe (Ch28).** The most psychologically true thing in the book.
+- **Nate's nightmares getting worse once he's safe (Ch29).** The most psychologically true thing in the book.
 
 ---
 
@@ -670,10 +696,10 @@ Listed because a report this long can make a book sound worse than it is:
 2. Sweep **Leonard/Gerald**, **Tulsa/Odessa**, **Jaylen 7/9**, **Jim's age**. §3.1–3.6
 3. Fix **"Karen" → Delia** in Ch14. §3.17
 4. Fix the **date anchor**: October 24 → **October 23** (Friday in 2026, matches C/2026 Voss). §1.1
-5. Remove the **`-e` artifact** in `chapter_29.md`. §5.2
+5. Remove the **`-e` artifact** in `chapter_30.md`. §5.2
 6. Fix the **duplicate Journal #21** and the **missing #2**; renumber sequentially. §5.1
 7. Repair **broken italics** in Journals #11b, #14, #15. §5.4
-8. Fix the **garbled sentences**, especially Ch21's opening line and Ch25's "sidoe." §5.3
+8. Fix the **garbled sentences**, especially Ch21's opening line and Ch26's "sidoe." §5.3
 
 ### Tier 2 — Continuity pass
 
@@ -702,8 +728,8 @@ Listed because a report this long can make a book sound worse than it is:
 
 ### Tier 4 — Compression (target ~13,500 words)
 
-27. Cut the **taxonomy re-explanations** in Ch11, Ch17, Ch26, Ch29. §7.1, §7.2
-28. Merge Ch24's **two journal entries** and cut §7.3's two held restatements. §7.3
+27. Cut the **taxonomy re-explanations** in Ch11, Ch17, Ch27, Ch30. §7.1, §7.2
+28. Merge Ch25's **two journal entries** and cut §7.3's two held restatements. §7.3
 29. **Differentiate Sienna's two speeches** (Ch14 vs Ch18). §7.5
 30. Merge **HALT and radical acceptance** into one Dale scene. §6.5, §7.7
 31. Trim the **trail-montage overlap** between Ch19 and Ch20. §7.6

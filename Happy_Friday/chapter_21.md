@@ -62,7 +62,7 @@ The CB went to static. Marcus clipped it to his belt and came back to the fire a
 
 ---
 
-On Day 37 A part of me I loved died, it started from a hillside, with a plan I'd borrowed from Eskimo hunters.
+On Day 37 a part of me I loved died. It started on a hillside, with a plan I'd borrowed from Eskimo hunters.
 
 The roadblock appeared on the afternoon of the second day on the highway. We came around a long curve where the road cut through a ridgeline — blasted limestone faces on the right, a steep drop on the left where the mountain fell away — and the highway ahead was blocked.
 
@@ -257,7 +257,7 @@ She didn't say anything. She sat down on the ground next to me — the cold grou
 
 I don't know what happened in those hours. I know the sounds stopped eventually. I know the light changed — the afternoon moving toward evening, the shadows lengthening, the temperature dropping. I know she stayed. I know that at some point my breathing slowed and the convulsions stopped and I was just lying on the ground in the woods with my face in the leaves and my hands bleeding and the girl who had looked at me with horror sitting beside me in silence, and the silence was not the silence of judgment. It was the silence of someone who had decided that being there was enough, even if being there meant sitting next to the thing she'd seen on the hillside.
 
-That is all I will ever say about this.  What happened is not for a journal or a story to be told, there was no lesson to learn. Those hours belong to nobody, I wish I could forget them myself.
+That is all I will ever say about this.  What happened is not for a journal or a story to be told. There was no lesson to learn. Those hours belong to nobody, and I wish I could forget them myself.
 
 We walked back at dusk. I don't remember the walk. I remember her hand on my elbow — once, brief, guiding me around a root — and I remember the group's faces when we emerged from the tree line. Marcus's face. Dale's face. Jim's face. I did not look at any of them. I could not look at anyone. The machinery was not running. The analytical brain was offline. Whatever remained was something older and simpler — a body that could walk and a pair of eyes that could see and a mouth that would not open.
 
@@ -293,7 +293,7 @@ Jim walked last. He walked through the blood with his head bowed and his lips mo
 
 Jim would carry the prayer. I would carry the woman in the wire.
 
-That night, camped in a pulloff a mile north of the roadblock, I wrote by flashlight. The fire was too far from where I was sitting and I was sitting apart because I didn't want to be near people and I didn't want to be alone and...damn. I'd washed the blood off my shoes in a creek but the smell was still there — in my clothes, in my hair, in the skin of my hands where the wire had cut me. The cuts on my palms were shallow but they stung and I didn't bandage them because the stinging felt correct.
+That night, camped in a pulloff a mile north of the roadblock, I wrote by flashlight. The fire was too far from where I was sitting, and I was sitting apart because I didn't want to be near people and I didn't want to be alone. I'd washed the blood off my shoes in a creek but the smell was still there — in my clothes, in my hair, in the skin of my hands where the wire had cut me. The cuts on my palms were shallow but they stung and I didn't bandage them because the stinging felt correct.
 
 This was the first thing I'd written since the hillside. The machinery had been offline for most of a day — the breakdown, the woods, the silence, the walk through the blood. Now it was back, and the first thing the machinery did with its restored capacity was try to process what had happened by writing it down, because that's what the machinery does, because I am the machinery and the machinery is me and the writing is the only tool I have that works on the things that break me.
 
@@ -301,11 +301,11 @@ This was the first thing I'd written since the hillside. The machinery had been 
 
 *We killed approximately three hundred people yesterday. I say "approximately" because I lost count when the second wave came out of the woods. I say "people" because I don't know what else to call them. I say "we" because it was my idea.*
 
-*I planned for a hundred and thirty. I planned it with math and with a hunting technique I'd read about on Wikipedia at two in the morning three years ago when I should have been sleeping. The Eskimo wolf knife. I taught myself how Eskimo hunters kill wolves and I applied it to human beings and the application worked and then kept working after I wanted it to stop.
+*I planned for a hundred and thirty. I planned it with math and with a hunting technique I'd read about on Wikipedia at two in the morning three years ago when I should have been sleeping. The Eskimo wolf knife. I taught myself how Eskimo hunters kill wolves and I applied it to human beings and the application worked and then kept working after I wanted it to stop.*
 
-*After the second wave I looked at Sienna and she was looking at me and the thing in her face was — I am not going to write what it was. I know what it was.
+*After the second wave I looked at Sienna and she was looking at me and the thing in her face was — I am not going to write what it was. I know what it was.*
 
-*I broke. I should record that. The analytical machinery failed and what came out was not data. Sienna came after me and we sat in the dirt for hours and that is all you need to know.
+*I broke. I should record that. The analytical machinery failed and what came out was not data. Sienna came after me and we sat in the dirt for hours and that is all you need to know.*
 
 *Jim wouldn't look at me during dinner. Marcus gave me a cup of water and said "drink this" the way you talk to someone in shock, because I was.*
 
@@ -315,11 +315,11 @@ This was the first thing I'd written since the hillside. The machinery had been 
 
 *Here is what I'm afraid of: that I'll get used to it.*
 
-*Here is what I'm more afraid of: that I need to.* because clearly, I can't.
+*Here is what I'm more afraid of: that I need to. And that clearly, I can't.**
 
 *Here is what I can't write and am writing anyway: part of me wanted it. The other thing. The thing with edges that I've been carrying since Clarksville. It wanted the roadblock. It wanted the wire to hold and the frenzy to build and the organism to feel, for once, what it felt like to be on the receiving end. The math provided the justification. The anger provided the willingness. And I don't know which one made the decision because they arrived at the same answer at the same time and the answer was: do it.*
 
-*I told Jim "they WERE people" and heard the detachment in my own voice and the detachment was real but it was also a performance — the analytical boy performing analysis while the angry boy watched the wire cut and felt something that was not horror. And then the performance collapsed and I was on the ground making sounds that were not analysis.
+*I told Jim "they WERE people" and heard the detachment in my own voice and the detachment was real but it was also a performance — the analytical boy performing analysis while the angry boy watched the wire cut and felt something that was not horror. And then the performance collapsed and I was on the ground making sounds that were not analysis.*
 
 *The worst part is the scale. I did the math for a hundred and thirty and the world sent three hundred and the wolf knife doesn't have an off switch. I can't hide behind precision when the result was the opposite of precise. I can't say "I calculated the optimal outcome" when the outcome was a quarter-mile of highway covered in blood deep enough to soak through shoes. The math was a frame I built and the world broke the frame and the breaking is the thing I can't reconcile: that my best analysis, my most careful plan, produced something I couldn't control.*
 

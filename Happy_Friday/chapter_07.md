@@ -26,9 +26,14 @@ We reached Highway 21. Asphalt empty in both directions. Crossed. Past the churc
 
 Jim had placed it to be visible from the road. He'd thought about the angle, the letter size, the window height — placed it the way you place a lighthouse, to catch people at the moment they most need direction. I don't know how many people that sign saved. I know it saved us, and I hadn't even consciously registered reading it from the trailer park until this moment, standing in the parking lot, seeing it from the intended distance.
 
-The side door opened before we reached it. Jim Whittaker — big man gone thin, late sixties, white hair cropped military-short, flannel and khakis — held the door open and didn't speak until we were inside and the bolt was thrown.
+The side door opened before we reached it. Jim Whittaker — big man gone thin, seventy-three, white hair cropped military-short, flannel and khakis — held the door open and didn't speak until we were inside and the bolt was thrown.
 
 "Delia's boy," he said. "And the Okafor girl. Took you long enough."
 
 The bolt clicked home. The sound of a lock engaging had never meant more.
+
+**JOURNAL ENTRY #2:**
+
+*The rule isn't "stay inside." The rule is "stay calm." I think. Maybe. Sienna says I'm guessing and she's right. But Mr. Pembrook was calm when he was outside and he was fine, and Lisa Anderson was screaming and she turned, and the soldiers were shooting and they turned, and Jim walks around like he's going to the grocery store and nothing happens to him. I don't know why being calm matters. I just know it does.*
+
 ---

@@ -8,7 +8,7 @@ I needed to count us.
 
 ---
 
-**Jim.** He was in decline and pretending he wasn't. The walk had taken something from him — not just sixty miles at seventy years old, but something deeper. Six weeks of being the person everyone leaned on had emptied reserves he couldn't refill. His color was off. His breathing was heavier than it had been. He'd started sitting more and standing less, and when he stood he put his hand on things — tables, door frames, the back of a chair — in the way of a man whose balance was negotiating with his body.
+**Jim.** He was in decline and pretending he wasn't. The walk had taken something from him — not just sixty miles at seventy-three, but something deeper. Six weeks of being the person everyone leaned on had emptied reserves he couldn't refill. His color was off. His breathing was heavier than it had been. He'd started sitting more and standing less, and when he stood he put his hand on things — tables, door frames, the back of a chair — in the way of a man whose balance was negotiating with his body.
 
 He didn't talk about it. He led prayers. He made coffee from the campus supply — real coffee, not instant, the first real coffee in six weeks, and the smell of it in the morning was a sacrament. He sat with Caleb on the steps of the science building and taught the boy to count his breaths, and Caleb counted — four in, hold, six out — with the careful concentration of a child who didn't fully understand why he was counting but trusted the person teaching him.
 
@@ -124,7 +124,7 @@ He took a bite of toast. Chewed. Swallowed.
 
 Behind us, at the next table, Marcus went very still. His fork stopped halfway to his mouth. His face didn't change — the same flat, weathered expression he wore for everything — but his body went rigid in the way of a man who has just heard something impossible.
 
-Ava was nine. She lived in Odessa, Texas. The highway Jim described was I-20 — the highway Marcus had driven ten thousand times, the highway that connected his routes to his daughter's birthday parties, the highway his phone had died on. Marcus had told no one about Ava except me, in a whisper, on a night when the dark was thick enough to hold a confession. Jim had never heard the name. Jim had never seen the photo on Marcus's phone. Jim had no way to know about a little girl in Texas or the highway that led to her.
+Ava was nine. She lived in Tulsa. The highway Jim described was the one Marcus had driven ten thousand times, the highway that connected his routes to his daughter's birthday parties, the highway his phone had died on. Marcus had said Ava's name aloud exactly once in front of the group — torn out of him in his sleep in the church basement, and never mentioned again by anyone. He had told me the rest of it in a whisper on a night when the dark was thick enough to hold a confession. Jim had never heard any of it. Jim had never seen the photo on Marcus's phone. Jim had no way to know about a little girl in Texas or the highway that led to her.
 
 Marcus set down his fork. He looked at Jim. Jim looked back. The look between them lasted three seconds and contained something I couldn't interpret and didn't try to.
 
@@ -132,7 +132,7 @@ Marcus set down his fork. He looked at Jim. Jim looked back. The look between th
 
 Jim nodded. Went back to his toast. The morning continued. Nobody said anything else about it.
 
-I wrote it in the journal. I underlined it twice. I had no interpretation — never had one for Jim's dreams. They operated somewhere my analytical brain couldn't reach, and his faith accepted them without needing them to make sense. Three dreams, now four. Water rising in a valley. A woman in a lab coat. A man alone in a dark room hearing a voice on the radio. A girl on a highway, laughing, running toward a truck.
+I wrote it in the journal. I underlined it twice. I had no interpretation — never had one for Jim's dreams. They operated somewhere my analytical brain couldn't reach, and his faith accepted them without needing them to make sense. Three dreams, now four. A forest of bodies, and a sound like a tuning fork against the bones of the earth. A woman in a lab coat. A man alone in a dark room hearing a voice on the radio. A girl on a highway, laughing, running toward a truck.
 
 Each one true. Each one impossible.
 

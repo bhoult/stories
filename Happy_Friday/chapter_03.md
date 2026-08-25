@@ -12,7 +12,7 @@ I'd slept in my mom's bed. Her room is at the back of the trailer, away from the
 
 The trailer was worse in the morning. Not structurally worse — the same thin walls, the same vinyl floor, the same countertop with the burn mark from when I put a hot pan down without a trivet and she didn't yell at me, just looked at the mark and sighed and said, "Well, now it has character." All of that was still there. But the systems that made it a home were unwinding. The coffee maker hadn't run because nobody set it. The bathroom smelled like my soap, not hers. Her reading glasses were on the arm of the chair at the exact angle she'd left them, and they would stay at that angle forever now, or until I moved them, and either option felt like a violation.
 
-The trailer was becoming a museum of Friday, October 24th — the last day someone lived here instead of just surviving here — and every unchanged object was a timestamp marking the moment the world split.
+The trailer was becoming a museum of Friday, October 23rd — the last day someone lived here instead of just surviving here — and every unchanged object was a timestamp marking the moment the world split.
 
 I ate cereal. I went to the window.
 
@@ -188,7 +188,7 @@ Somewhere past Highway 21, in the direction of the subdivisions down toward town
 
 The power went out at — I don't know. Late. The streetlight at the park entrance had been on all day, the one constant, the orange cone on the asphalt that meant the grid was still there, that somewhere a power plant was still running with people still at the controls. Then it flickered. Twice. And went dark.
 
-The trailer died around me. The furnace fan spun down. The refrigerator compressor shuddered and stopped — I hadn't realized it was still humming until it wasn't. The microwave clock went blank. The little green light on the smoke detector stayed on for a few seconds, running on its battery, and then it was just me and the dark and the silence that comes when the last machine stops pretending things are normal.
+The trailer died around me. The furnace fan spun down. The refrigerator compressor shuddered and stopped — I hadn't realized it was still humming until it wasn't. The microwave clock went blank. The little green light on the smoke detector stayed on, running on its battery, and then it was just me and the dark and the silence that comes when the last machine stops pretending things are normal.
 
 I checked my phone. Fourteen percent. No charger would work now. The cell signal was still there — one bar, flickering — but the battery was a countdown I couldn't stop. I turned the screen off and held the phone in my hand and felt it cooling and thought: *this is the last connection. When this dies, there's no more news, no more updates, no more voicemail from a number that won't answer. Just the window and the notebook and whatever I can figure out by watching.*
 

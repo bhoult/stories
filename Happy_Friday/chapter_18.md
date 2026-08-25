@@ -97,7 +97,7 @@ It was the first time anyone had proposed using the engine noise as a weapon ins
 
 Six of us went. Marcus drove. Maria rode shotgun with her list. Sienna, Dale, and I sat in the truck bed with the tailgate down. As the truck pulled onto Highway 21, I watched the Turned in the church parking lot — the half-dozen that had been orbiting our sanctuary for three weeks — pivot toward the sound. Head-turns. The slow gravitational drift. Then, as the truck moved south, they followed. Not fast. But south, toward the highway, away from the church. That was the point.
 
-Marcus parked a quarter mile from Atwoods — close enough to walk, far enough that the sound would draw Turned to the truck rather than the store. He left the engine running. He put a CD in — one of Ruth's husband Gerald's old Merle Haggard albums that had been sitting in the glove box since before the world ended — and turned the volume up. Merle Haggard singing "Mama Tried" to an empty highway, the speakers buzzing, the engine idling underneath. A beacon of noise. Everything within a quarter mile would drift toward it.
+Marcus parked a quarter mile from Atwoods — close enough to walk, far enough that the sound would draw Turned to the truck rather than the store. He left the engine running. He put a CD in — one of Ruth's husband Leonard's old Merle Haggard albums that had been sitting in the glove box since before the world ended — and turned the volume up. Merle Haggard singing "Mama Tried" to an empty highway, the speakers buzzing, the engine idling underneath. A beacon of noise. Everything within a quarter mile would drift toward it.
 
 "Move," Marcus said.
 

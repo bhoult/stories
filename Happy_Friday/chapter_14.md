@@ -190,7 +190,7 @@ I understood. I'd been asleep. I'd been making sounds — the dream had been the
 
 "I know." He didn't move the knife. "What's your mom's name?"
 
-"Karen."
+"Delia."
 
 "What'd you smell like when you got home yesterday?"
 

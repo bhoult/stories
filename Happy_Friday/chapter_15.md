@@ -232,7 +232,7 @@ I didn't say anything. I waited.
 
 "At what point does the recording stop being the person?" He looked at me now. His eyes were red from the day and from the night and from the punch. "If I played you a recording of your mother's voice — her actual voice, saying something she actually said — would you tell me there's no part of her in that recording?"
 
-The question landed wrong. He knew it landed wrong. He didn't apologize because the question wasn't about apology. It was about the line between a person and the residue of a person, and he was asking me to tell him where that line was because he'd just punched an seventeen-year-old girl to keep her on one side of it and a man he'd served coffee to had just killed a man who might have been on the other side of it and Jim needed to know — needed someone to tell him — that those two acts weren't the same thing.
+The question landed wrong. He knew it landed wrong. He didn't apologize because the question wasn't about apology. It was about the line between a person and the residue of a person, and he was asking me to tell him where that line was because he'd just punched a seventeen-year-old girl to keep her on one side of it and a man he'd served coffee to had just killed a man who might have been on the other side of it and Jim needed to know — needed someone to tell him — that those two acts weren't the same thing.
 
 "At what point does running on a loop stop being human?" I said.
 
@@ -240,7 +240,7 @@ Jim was quiet for a long time. The Turned swayed in the lot. Tom Hadley's hand t
 
 "At what point does killing someone who can't fight back stop being murder?" Jim said.
 
-Neither of us won. Neither of us tried to. We sat on the church steps in the cold and watched the Turned repeat their loops and we held two positions that couldn't both be right and might both be true, the space between them was the space where every hard decision in the next three weeks would live.
+Neither of us won. Neither of us tried to. We sat on the church steps in the cold and watched the Turned repeat their loops and we held two positions that couldn't both be right and might both be true. The space between them was the space where every hard decision in the next three weeks would live.
 
 Jim stood up. He put his good hand on my shoulder.
 

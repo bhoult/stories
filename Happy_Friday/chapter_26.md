@@ -140,7 +140,7 @@ Sienna, ahead of me, glanced back once. Her expression contained horror and love
 
 We were two hundred yards from the campus when Maria stepped on a root.  
 
-Maria said "oops... sorry".  Like she had accidentally stepped on someones shoe.
+Maria said "oops — sorry," like she had accidentally stepped on someone's shoe.
 
 It wasn't dramatic. A misstep — her foot coming down on a dark tendril that crossed the asphalt where a utility cut had left a seam in the pavement. The root was barely visible, the color of the road surface in the low light, and she didn't see it until her weight was on it and the thing compressed beneath her shoe with a faint, wet sound like stepping on a grape.
 
@@ -226,7 +226,7 @@ I wrote under the lights — actual electric lights, the first I'd written under
 
 That night, everyone dreamed.
 
-I know because I had the 2 AM watch. We still ran watches — the emitter hummed and the perimeter held but sidoe a real mattress, impossibly soft after weeks of sleeping pads and bare ground — with my hand on my pulse. Seventy-four. Safe. But the dreams had been there, waiting behind my eyelids, and the rooted were in every one. A thousand grey-green figures standing in the sun. The roots threading between them like veins. The ambient voices drifting from motionless mouths. The word *bud* in the fog. In one fragment I'd been walking through them on Dickson Street but my feet were slowing, my shoes sinking into the pavement that had become soil, and roots were growing from my ankles, and I was facing the sun, and I couldn't tell if I was walking through them or becoming one of them.
+I know because I had the 2 AM watch. We still ran watches — the emitter hummed and the perimeter held, but I took my turn anyway, sitting up on a real mattress that was impossibly soft after weeks of sleeping pads and bare ground, with my hand on my pulse. Seventy-four. Safe. But the dreams had been there, waiting behind my eyelids, and the rooted were in every one. A thousand grey-green figures standing in the sun. The roots threading between them like veins. The ambient voices drifting from motionless mouths. The word *bud* in the fog. In one fragment I'd been walking through them on Dickson Street but my feet were slowing, my shoes sinking into the pavement that had become soil, and roots were growing from my ankles, and I was facing the sun, and I couldn't tell if I was walking through them or becoming one of them.
 
 In the morning, nobody talked about it directly. But the signs were there — the heaviness, the slow starts, the way people stared at their coffee like it owed them something. Maria said, "I couldn't get warm all night," and Dale said, "Me neither," and the building had been heated and they weren't talking about cold.
 
