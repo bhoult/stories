@@ -98,13 +98,23 @@ It took two hours and ten minutes.
 
 The heart rate went to one hundred and forty and stayed there. I watched the number on that stupid pink display and I did the only thing I know how to do, which was count, and Jim went past every threshold I had ever written in the notebook and he did not turn.
 
-I don't know how to write down what that was like. I had a model. My model said three hundred picograms per milliliter sustained for two minutes and Jim was four hours past any reasonable version of that, and my model was wrong, or it was incomplete, or the fifty milligrams of metoprolol he had taken twice a day for eleven years was doing something at the receptor level that I do not have the education to describe, or thirty years of a man practicing being unafraid had laid down something in his nervous system that the organism could not find a handle on.
+I don't know how to write down what that was like. I had a model. My model said three hundred picograms per milliliter sustained for two minutes, and Jim was four hours past any reasonable version of that, and the model did not describe what was in front of me.
 
 Moss said afterward that it was the beta-blockade. She said it flatly, the way she says everything, and then she was quiet for a second and said, "Probably," which from her is an enormous concession.
 
 Ruth said it was not the beta-blockade.
 
-I have thought about it more than I have thought about almost anything, and here is where I have landed: they are both right and it does not matter which mechanism you name, because Jim held both of them in one hand for six weeks and never once asked me to choose, and it would be a poor way to remember him if I started choosing now.
+I have gone at it from every direction I have and I keep arriving somewhere I did not expect, so I am going to put it down plainly and let it stand.
+
+The organism runs on one thing. Not pain, not proximity, not injury — I have watched a man walk on a leg bent the wrong way and I have watched a woman bleed out on a wire without her face changing. It runs on *fear*. Six weeks of observation and one broadcast from a research biologist and a nursing textbook all say the same sentence, which is that the thing gets in through the part of you that does not want to die.
+
+Jim was not afraid of dying.
+
+That is not a figure of speech and it is not me being generous about a man I loved. I was in the room. I had a cuff on his arm and my fingers on his wrist and I have spent six weeks becoming the closest thing this campus has to an instrument for measuring exactly that, and I am telling you that the fear was not there. Not suppressed. Not managed. Not held under by fifty milligrams of anything. *Absent.* He was about to find out whether he had been right about the largest question a person can be wrong about, and what was on him was something closer to courtesy — the specific calm of a man who has an appointment and does not want to be late for it.
+
+The thing came in and found the room empty and had nowhere to put its hands.
+
+I have written the word *miracle* twice in this notebook and crossed it out both times, and I am not going to write it a third time, because I do not have the standing and because Jim would have been embarrassed by it. What I will write is this: the organism has a key, and it fits every lock I have ever examined, and it did not fit his. Whatever else that is, it is a fact, and I record facts.
 
 Mostly he prayed.
 
@@ -215,3 +225,25 @@ On the highway two weeks ago I sat down on a center line and told myself that th
 The next one was Jim. I was there for it. I said the thing out loud.
 
 It did not feel like enough. I understand now that it is not supposed to.
+
+---
+
+I wrote something else that night, further back in the notebook, on a page by itself.
+
+I did not give it a number. The numbered entries are a document; Moss is going to make a manual out of them and people I will never meet are going to read them and I have made my peace with that. This one is not that. This one has an audience of one and I do not believe in Him.
+
+*To whoever Jim was talking to.*
+
+*I don't think You're there. He knew that about me from the second day and he never once held it against me or worked on me about it, and that is the most persuasive argument for You I have ever encountered. It did not persuade me.*
+
+*He asked You to carry the part I can't. I don't know whether You did. I know I got up the next morning. I know I have gotten up every morning since. I could not have told You in advance that I would.*
+
+*He wasn't afraid. That's the whole of what I have and I've turned it over more than anything else in this book. At the end, at a hundred and forty beats a minute, with every threshold I ever wrote behind him, the man was not afraid — and the thing that eats fear went through him and came out the other side with nothing. If that was You, then I have spent six weeks describing You in a notebook and calling it endocrinology, and I'd rather be wrong about the word than wrong about the mechanism.*
+
+*I'm not asking for anything. He'd have said that's the wrong way around and he'd have been kind about it.*
+
+*Look after him. He would tell me You already are.*
+
+*Amen.*
+
+I don't know whether I am entitled to write that last word. I wrote it anyway. It is the only thing in six weeks I have put in that notebook that was not for anybody's survival, and I have read it more times than any page I have ever written.
