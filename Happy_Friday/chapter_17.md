@@ -26,17 +26,11 @@ I opened the notebook. I'd prepared for this — drawn a diagram, assembled the 
 
 **One.** The Turned count near the church was rising.
 
-"Before the Lyles, we had sixteen in our immediate area. The morning after the swarm, I counted seven — the roar pulled the rest north. Seven damaged Turned, some of them barely functional. For about twelve hours it looked like the swarm had done us a favor." I paused. "It hadn't. The Turned that converged on the Lyles' house came from a six-block radius — blocks we thought were empty. After the frenzy burned out, they dispersed, but they didn't go back where they came from. They redistributed according to caloric availability and habitat, and this neighborhood has both. As of this morning, twenty-three. More than before. The Lyles' swarm didn't just destroy their house. It seeded our perimeter with Turned we'd never tracked."
+"Sixteen before the Lyles. Seven the morning after — the roar pulled the rest north. As of this morning, twenty-three." I let that sit. "They didn't go home. They redistributed, and this neighborhood has the Walmart and the gardens and the dumpsters and the water. Their deaths made us less safe, not more."
 
-Ruth: "You're saying their death made us less safe."
+Ruth said, "You're certain of that."
 
-"Their death made everyone in this area less safe. The Turned don't go home. They redistribute, and this neighborhood has everything they need — the Walmart, the gardens, the dumpsters, the water sources. Every day the density increases. And density isn't just a comfort problem. It's a trigger."
-
-I looked around the table.
-
-"You all heard the roar. That sound — the one that shook the windows — that was the threshold. The organism has a mode specifically designed to destroy fortified positions. When the count around a structure hits critical, the roar fires, and what follows is a demolition. Not coordinated. Not strategic. Just bodies against walls until the walls come down. Craig had plywood, brick, a generator, guns, and military training. The organism erased his house in forty-three minutes." I let that sit. "The church is the second-largest intact structure in the neighborhood. We're on the same trajectory the Lyles were. We're just earlier on the curve."
-
----
+"I counted." I turned the notebook around so she could see the column. "And density isn't a comfort problem. It's a trigger. You all heard what that sound did to a brick house with an armed man inside it. The church is the second-largest intact structure in this neighborhood. We are on the Lyles' curve. We are just further back on it."
 
 **Two.** The hunting behavior was escalating.
 
@@ -60,7 +54,7 @@ I turned another page.
 
 The table was quiet.
 
-"A stray. Tabby. It had been living in the dumpster enclosure. She cornered it — methodically, between the dumpster and the fence — and she killed it and she ate it. Not frenzied. Not the swarm behavior. Hunting. A single Turned individual solving a caloric problem." I paused. "The cat scratched her. Clawed her arm, deep. And when it scratched her, she made the bark — and the Carhartt man, fifty yards away, turned and started walking toward her. She'd been attacked and the sound came out like a reflex. Like a dinner bell and a distress call at once. He arrived, saw the cat was dead, and went back to his patrol. But the implication —"
+"A stray. Tabby. It had been living in the dumpster enclosure. She cornered it — methodically, between the dumpster and the fence — and she killed it and she ate it. Not frenzied. Not the swarm behavior. Hunting. A single Turned individual solving a caloric problem." I paused. "The cat scratched her. Clawed her arm, deep. And when it scratched her, she made the bark — and the Carhartt man, fifty yards away, turned and started walking toward her. She'd been attacked and the sound came out like a reflex. Like a dinner bell and a distress call at once. He arrived, saw the cat was dead, and went back to his patrol. But the implication ,"
 
 "If you fight one of them," Sienna said, "the sound brings more."
 
@@ -78,13 +72,11 @@ Maria, from her chair: "You're saying the medication doesn't protect us from thi
 
 **Three.** The adaptation clock.
 
-"The Turned are getting smarter. Not individually — collectively. The organism's coordination is tighter every week. Three weeks ago, the Turned near the church stood in their positions like mannequins. Now they patrol. They check doors. They forage in organized rotations. Last week the Carhartt man found the church's rain barrel and drank from it for five minutes, and when he was done he went back to his position. He knows where our water is. He knows where we are."
+"Three weeks ago they stood in their positions like mannequins. Now they patrol, they check doors, they forage in rotations. The Carhartt man found our rain barrel last week and drank from it for five minutes and went back to his spot. He knows where our water is."
 
 Jim: "He's always known where we are."
 
-"He's always known we're here. What's changed is that he's acting on it. The organism is moving from passive awareness to active engagement, and the engagement isn't about fear anymore. It's about resource optimization. We are a resource."
-
----
+"He's always known we're here. What's changed is that he's acting on it, and it isn't about fear anymore. It's about resources. We are a resource."
 
 **Four.** The medication clock.
 

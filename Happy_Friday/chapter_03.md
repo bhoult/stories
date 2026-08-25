@@ -132,7 +132,7 @@ I wasn't frozen. The calculation was instant: I was fifteen, a hundred and eight
 
 The math said I couldn't help. The math was right. But the math also meant I didn't have to try, and I was already good at not-trying. I was a fat kid who couldn't run. I couldn't help. The logic was clean and I could stand behind it like a locked door.
 
-The Turned closed in. Not fast. Patient. The ones in front wore that grin — that wrong, wide, too-many-teeth grin that flickered across their faces like a signal, like a welcome sign in a language nobody alive spoke. The closer they got, the wider the grins got, and Lisa was shaking, her whole body vibrating, and the screaming had turned to a high, thin sound that wasn't screaming anymore — something more animal than that — and then—
+The Turned closed in. Not fast. Patient. The ones in front wore that grin — that wrong, wide, too-many-teeth grin that flickered across their faces like a signal, like a welcome sign in a language nobody alive spoke. The closer they got, the wider the grins got, and Lisa was shaking, her whole body vibrating, and the screaming had turned to a high, thin sound that wasn't screaming anymore — something more animal than that — and then,
 
 She stopped.
 
@@ -194,12 +194,4 @@ I checked my phone. Fourteen percent. No charger would work now. The cell signal
 
 I used the last of the battery to try Mom one more time. Voicemail. I didn't leave a message. I turned the phone off to save what was left, knowing I was saving it for nothing, knowing the call I was saving it for was never going to come.
 
-At some point — I don't know when, the dark doesn't have hours — I must have slipped under, because I was in the hospital. Not visiting. Working. I was wearing my mom's scrubs and they fit, which was wrong, and I was walking the hallway toward the ER and the fluorescents were buzzing the way fluorescents do and everything was fine. Mom was at the nurses' station. She looked up and said "Happy Friday, bud" and I said "It's Sunday" and she said "No, honey, it's always Friday now" and smiled, and the smile was too wide, and I was awake.
-
-My heart was slamming. I could feel it in my throat, in my wrists, behind my eyes. I pressed my hand flat against my chest and counted — not breaths, heartbeats. One hundred and twelve, one hundred and eight, one hundred and four. I counted them down the way you'd count down a launch sequence, because somewhere in the part of my brain that was still working I understood that my heart rate was the thing that could kill me now, that the fear wasn't just fear anymore, it was a mechanism, and the mechanism was running, and I had to shut it down manually because the automatic systems had stopped being trustworthy.
-
-Ninety-six. Eighty-eight. Eighty-two.
-
-I sat there with my hand on my chest until the number felt safe, whatever safe meant, and I did not let myself close my eyes again.
-
-I sat in the bathroom in the dark and I listened and I did not sleep and the trailer settled around me — the creaks and pops of a metal box cooling in the October night — and every sound was both familiar and alien, because this was my home and also it wasn't anymore, because home requires a person and the person wasn't here, and what was here instead was just a fifteen-year-old and some thin walls and the knowledge that the thin walls were the only thing between him and a thing that grinned when it was hungry and ate when it was done.
+Then I sat in the dark and waited for something to happen, and at 10:47 that night something did.

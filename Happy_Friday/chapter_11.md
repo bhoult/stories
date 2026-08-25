@@ -224,17 +224,9 @@ I lowered the binoculars. Jim was watching Hadley the way a father watches a sle
 
 He went back downstairs. I stayed in the steeple and watched Tom Hadley conduct his empty choir, and I didn't know which possibility unsettled me more — that he was still in there, or that he wasn't and the organism was borrowing his hands for a purpose I couldn't fathom.
 
-I was revising assumptions. You observe. You form a model. The model predicts behavior. When the behavior deviates, you revise. You don't get attached to the model. You let it be wrong and you build a better one.
+I was revising assumptions. You observe. You form a model. The model predicts behavior. When the behavior deviates, you revise. You don't get attached to the model.
 
-My first model: the Turned are dangerous because they herd you and scare you and the fear turns you. This was true but incomplete.
-
-My second model: the danger is biochemical, not behavioral. Keep your adrenaline down and you're invisible. Also true. Also incomplete.
-
-The new model, after Moss's broadcast and Sienna's report from the blockade: the danger is *layered.* Layer one is the herding — the fear-farming, the conversion cycle. We'd learned to counter that. Layer two is the density threshold — the swarm behavior that makes them destructive. We couldn't counter that; we could only avoid it. Layer three — the one that scared me most — was the hunger. Sienna had seen them eating the dead at the interchange. When the easy food ran out, the Turned would expand their search. They wouldn't need to scare you to kill you. They'd just need to find you.
-
-And underneath all three layers was the thing Moss had described without dwelling on: the organism was adapting. Getting better. The Turned from week one were clumsy, degrading, barely functional. The Turned from week two were coordinated, strategic, increasingly efficient. If the trajectory continued — and why wouldn't it — the Turned from week four or six or eight would be something we hadn't seen yet and couldn't predict.
-
-Every model I built had a shelf life. Every answer was temporary. The organism was iterating faster than my understanding.
+What Moss had done was add a floor under the thing I already suspected and a ceiling I hadn't imagined. The herding I understood. The density threshold I had felt coming and had no name for. The hunger was new, and it was the one that scared me, because the first two require us to do something wrong and the third one only requires them to be hungry.
 
 Ruth would have called it the Red Queen hypothesis — she had a Lewis Carroll reference for everything, thirty-nine years of teaching lodged in her brain like sediment. "It takes all the running you can do, to keep in the same place." In evolutionary biology, the idea is simple: in an arms race, you have to keep adapting just to maintain your position. The organism adapts, so you adapt, so it adapts again, and the race never ends.
 

@@ -60,7 +60,18 @@ None of this requires re-conceiving anything. Estimated work: a hard continuity 
 
 **Chapter count is now 32 plus one interstitial.** All references in this report reflect the pre-Act-Four numbering for Ch28–31; the Act Four chapters are now 28 Archive, 29 Inventory, **30 A Fearful Heart**, 31 Broadcast, 32 Journal.
 
-**Still open:** the Ch21 split, Tier 4 (compression), Tier 5 (line pass), and the two deferred Tier 2 items (§2.2, §2.3).
+**Ch21 split: done.** Now three chapters — 21 "The Wolf Knife" (the operation), 22 "What It Cost" (the collapse, the woods, the walk through the aftermath), 23 "The Man With the Clipboard" (Phil and the chickens). **The book is 34 chapters plus one interstitial.** Chapter references in this report predate that split and are off by two from Ch22 onward.
+
+**Deferred Tier 2 items: done.** §2.2 — Ch2 no longer names the green-tomato woman or the laundry-building strangers before they appear in Ch3. §2.3 — Ch3 now stops at the power failure and hands off (*"Then I sat in the dark and waited for something to happen, and at 10:47 that night something did"*); Ch4 owns the night of Day 2 and inherits the dream and the heart-rate count.
+
+**Tier 4: done.** Ch11's model-recap after Moss's broadcast cut; Ch17's committee sections One and Three compressed; Ch29's whiteboard no longer replays the taxonomy back at Nate; Ch20's montage opening trimmed of Ch19 overlap; Ch27's two journal entries merged (sequence renumbered, now 1–21 + 11b) and the radical-acceptance lecture compressed so it no longer repeats HALT; Sienna's Ch18 speech now escalates rather than repeating Ch14 (*"I told you in a steeple and you agreed with me and then you went and did it again"*); body-deprecation motif thinned 14 → 10.
+
+**Tier 5: partially done.** The four back-half justifying clauses are cut (§8.2b), and the decay curve now reads **2.1 / 0.4 / 0.0 / 0.0** per 10k across the four acts — the shape the voice needed.
+
+**Tier 5 items NOT done, deliberately:**
+- **Em-dash reduction.** Attempted programmatically and reverted. The transformation replaced dashes with commas and left the spacing, producing `items , jerky, nuts ... dried fruit , were` — and even where it worked mechanically, converting an em-dash parenthetical to commas inside a sentence that already has commas made the prose worse, not tighter. Rate stands at 15.7/1k. **This is a human line-edit, not a find-and-replace.**
+- **"It wasn't X. It was Y."** (12 remaining) and **"the way a/you…"** (62). Each needs to be judged in place; several are load-bearing.
+- **Chapter-ending cadence** and **pushing the voice toward the Civ-VI register.** Not mechanizable.
 
 **Deferred from Tier 2, needs a decision:** §2.2 (Ch2 narrating Ch3's green-tomato woman and laundry-building strangers before they appear) and §2.3 (Ch3 and Ch4 both narrating the night of Day 2). Both are prose restructuring rather than mechanical fixes and were left alone. Note that §1.2's month sweep is now the largest remaining continuity item, and the date anchor change locks it in — with Day 0 on Oct 23, the book crosses into **December at Day 39**.
 

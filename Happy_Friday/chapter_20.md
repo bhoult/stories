@@ -6,13 +6,9 @@ But the body lies in the morning. It says *you can't do this.* You do it anyway,
 
 ---
 
-Days on the trail settled into a relentless rhythm.
+Days on the trail settled into a relentless rhythm, and the rhythm was mostly about food and feet.
 
-The mornings were the same: stiff, cold, sore. Pack up the tarps and pads, stuff the sleeping bags, eat something — usually a handful of trail mix or a packet of instant oatmeal cooked on the camp stove with creek water. Never enough. The food was never enough. Freeze-dried meals were light and compact and tasted like salted nothing and the portions were designed for recreational hikers who would eat a real dinner afterward, not for people whose dinner was another freeze-dried packet. Ramen noodles were the staple — ten for a dollar at any grocery store before the world ended, weightless in the pack, and hot, which mattered more than flavor when the temperature dropped after sunset. We ate ramen until the sodium bloated our fingers and the smell of the seasoning packets became its own kind of nausea. We ate everything heavy first — the canned goods that had survived the gear purge, the denser bars — to lighten the packs as quickly as possible. By Day 6, the packs were lighter. The hunger was not.
-
-All you think about when you're walking is food. What you ate, what you'll eat, what you wish you were eating. Marcus talked about truck-stop diners — chicken fried steak, mashed potatoes, coffee that was always too hot and never strong enough. Ruth described Leonard's meatloaf in a level of detail that should have been illegal. Caleb requested, repeatedly, "chicken nuggets shaped like dinosaurs." The conversations happened on the downhill, when breathing was easier. On the uphills, nobody spoke.
-
-The trail was roots and rocks and more roots. The white blazes — aluminum diamonds nailed to trees — marked the path, and Marcus read them instinctively, the way he read road signs. Where the blazes faded or the path split, he stopped and studied the ground — boot prints, worn bark, the subtle compression of soil that said *people walked here* — and chose, and was always right. The trail crossed creeks every few miles, sometimes on stepping stones, sometimes on fallen logs, sometimes through the water itself.
+The food was never enough. Freeze-dried meals are portioned for recreational hikers who will eat a real dinner afterward, and ramen is weightless and hot and turns your fingers into sausages by the second week. We ate the heavy things first to lighten the packs. By the sixth day the packs were lighter and the hunger was not. All you think about when you're walking is food — what you ate, what you'll eat, what you wish you were eating. Marcus wanted chicken fried steak. Ruth described Leonard's meatloaf in a level of detail that should have been illegal. Caleb requested, repeatedly, "chicken nuggets shaped like dinosaurs." Those conversations happened on the downhills. On the uphills nobody spoke.
 
 The creek crossings became ritual, and the ritual was Jim's. He'd established it at the first crossing on Day 1, before any of us had thought about it, with the quiet authority of a man reciting something he'd learned fifty years ago and never unlearned. Stop. Remove shoes and socks. Bag your dry clothes. Cross barefoot or in camp sandals, using the hiking poles for balance, helping each other across. Dry your feet — thoroughly, between the toes — check for cuts, hot spots, anything red. Put on dry socks. Carefully. No wrinkles, no pebbles, because a wrinkle in a sock becomes a blister in a mile and a blister becomes the difference between making distance and not.
 
@@ -276,7 +272,7 @@ In the morning the world was slightly less wrong than it had been the night befo
 
 *The worst thing that happened to Dale gave him the exact skills this world requires. Wrong reasons. Right answers. The pattern holds.*
 
-*The forest is beautiful. I want that recorded because the journal has been a catalog of horrors and the forest deserves better. The oaks are bronze. The ridgelines are blue. The air tastes like nothing and nothing is the best thing I've tasted in a month.*
+*The forest is beautiful. The journal has been a catalog of horrors and the forest deserves better. The oaks are bronze. The ridgelines are blue. The air tastes like nothing and nothing is the best thing I've tasted in a month.*
 
 *I told Marcus we had to kill the hunter. The decision was correct. But I wanted it. When I said "we have to kill him," the emphasis in my head was on "kill," not "have to." I hated it and it felt satisfying and both of those are true at the same time. Somewhere between the necessity and the satisfaction there is a line and I don't know which side I'm facing. The person on the wrong side of it is not someone my mother would recognize.*
 

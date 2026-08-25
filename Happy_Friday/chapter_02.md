@@ -98,7 +98,7 @@ I checked the locks. Front door — locked, already locked, Mom always locks it.
 
 I sat on the couch. The TV was still running its loop. Mr. Pembrook was still in his lot. The afternoon light was going flat and grey.
 
-Then I noticed something that made my stomach clench. One of the two strangers by the laundry building had drifted closer. Not toward me specifically — toward this end of the park, toward the row of trailers where mine was. And I thought about what I'd been observing all day: how they oriented toward sound, how their heads tracked noise. The TV had been on for hours. It wasn't loud — my mom kept the volume low because the walls are thin and she was considerate about that — but it was the only sound in the park besides the wind and the occasional creak of siding. In this silence, even a low murmur of newscasters carried.
+Then I noticed something that made my stomach clench. A figure I didn't recognize had come in off Highway 21 and was standing near the laundry building, and over the course of an hour it had drifted closer. Not toward me specifically — toward this end of the park, toward the row of trailers where mine was. And I thought about what I'd been observing all day: how they oriented toward sound, how their heads tracked noise. The TV had been on for hours. It wasn't loud — my mom kept the volume low because the walls are thin and she was considerate about that — but it was the only sound in the park besides the wind and the occasional creak of siding. In this silence, even a low murmur of newscasters carried.
 
 I turned it off. The click of the power button was the loudest thing in the trailer. The screen went dark and the silence rushed in like water filling a hole, and I sat there in the quiet and felt the absence of the one thing that had been connecting me to a world where people still talked and explained and tried to make sense of things. The TV had been a tether. Cutting it was the first time I chose the world outside the window over the world I wanted to still be living in.
 
@@ -122,7 +122,7 @@ Mr. Pembrook had moved. Not far — he'd drifted about ten feet from his previou
 
 I'd been telling myself they were deteriorating. Confused, disoriented, running on fumes — they'd wander around for a day or two and then collapse, and the CDC or whoever would come through and clean it up. That was the comfortable version. The version where this was a medical crisis with a timeline and an ending.
 
-The woman eating green tomatoes off the vine killed that version. This was the moment I understood, without having the language for it yet, that these things were not going to just stop. They were not going to stand there until they fell over. They were taking care of themselves, the way any living thing takes care of itself, and whatever was running them had figured out — already, within the first twenty-four hours — how to keep the machinery going.
+Pembrook at the spigot killed that version. This was the moment I understood, without having the language for it yet, that these things were not going to just stop. They were not going to stand there until they fell over. They were taking care of themselves, the way any living thing takes care of itself, and whatever was running them had figured out — already, within the first twenty-four hours — how to keep the machinery going.
 
 I ate Frosted Mini-Wheats and monitored the drive through the blinds and thought about this.
 

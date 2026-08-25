@@ -1,10 +1,10 @@
 # Chapter 4: The Knock
 
-I spent the afternoon reading my mom's nursing textbook.
+I had spent that afternoon reading my mom's nursing textbook.
 
 My mom kept two textbooks from her associate's degree on a shelf above the washer-dryer unit: *Fundamentals of Nursing* and *Brunner & Suddarth's Medical-Surgical Nursing*, which is the size and weight of a cinder block. She'd never gotten rid of them because, she said, "Nursing school was the hardest thing I ever did and those books are my trophies." I'd never opened them.
 
-By Day 2 my phone was dead, the laptop was dead, the TV was off, I'd read every magazine in the house, and the textbooks were there. I pulled *Brunner & Suddarth* off the shelf and started reading about the autonomic nervous system because the alternative was sitting in the dark replaying the sound of Lisa Anderson screaming.
+The phone was down to nothing, the laptop was dead, the TV was off, I'd read every magazine in the house, and the textbooks were there. I pulled *Brunner & Suddarth* off the shelf and started reading about the autonomic nervous system because the alternative was sitting in the dark replaying the sound of Lisa Anderson screaming.
 
 I didn't understand half of it. I understood enough. The sympathetic nervous system ran on chemicals: epinephrine, norepinephrine, cortisol. Produced by the adrenal glands in response to perceived threat. The system was involuntary — you didn't choose to activate it any more than you chose to digest food. I read about beta-blockers. I read about the feedback loop between the amygdala and the hypothalamus — the cycle where fear triggers chemicals that trigger more fear.
 
@@ -75,5 +75,13 @@ I did not sleep. My brain had the Knock on a loop and the loop had no off switch
 Around 3 AM I realized the loop itself was dangerous. Each replay spiked cortisol — chronic stress activation. The organism didn't need to scare me all at once. It could do it in installments. The Knock wasn't just an attempt to get me to open the door. It was a seed planted in a brain that couldn't stop replaying. My brain was doing its work for it, for free, in the dark.
 
 I pressed my palms against my eyes and counted backward from a hundred by sevens. A cognitive interrupt — the kind of task that forces the prefrontal cortex to override the amygdala. It worked, partly. The loop dimmed to background noise. It didn't stop.
+
+Sometime before dawn I went under anyway, and I was in the hospital. Not visiting. Working. I was wearing my mom's scrubs and they fit, which was wrong, and I was walking the hallway toward the ER and the fluorescents were buzzing the way fluorescents do and everything was fine. Mom was at the nurses' station. She looked up and said "Happy Friday, bud" and I said "It's Sunday" and she said "No, honey, it's always Friday now" and smiled, and the smile was too wide, and I was awake.
+
+My heart was slamming. I could feel it in my throat, in my wrists, behind my eyes. I pressed my hand flat against my chest and counted — not breaths, heartbeats. One hundred and twelve, one hundred and eight, one hundred and four. I counted them down the way you'd count down a launch sequence, because somewhere in the part of my brain that was still working I understood that my heart rate was the thing that could kill me now, that the fear wasn't just fear anymore, it was a mechanism, and the mechanism was running, and I had to shut it down manually because the automatic systems had stopped being trustworthy.
+
+Ninety-six. Eighty-eight. Eighty-two.
+
+I sat there with my hand on my chest until the number felt safe, whatever safe meant, and I did not let myself close my eyes again.
 
 ---

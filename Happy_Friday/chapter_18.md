@@ -155,7 +155,7 @@ And underneath — something less rational, something I recognized as unfair eve
 
 It was not rational. It was not fair. I did not care.
 
-And deeper — anger at myself. I'd known since Day 1. I'd done the math. Night shift, first night, a hospital. I'd known and I'd sealed it in an envelope and I'd sat in a church basement writing in a notebook while she stood in a parking lot with bare feet. I was too slow. Too comfortable. Too willing to sit at a window and calculate instead of act. If I'd been faster — if I'd been someone other than a fat fifteen-year-old who got winded on stairs — would it have mattered? Probably not. The math said no. But the anger said *you didn't even try.*
+And deeper — anger at myself. I'd known since Day 1. I'd done the math. Night shift, first night, a hospital. I'd known and I'd sealed it in an envelope and I'd sat in a church basement writing in a notebook while she stood in a parking lot with bare feet. I was too slow. Too comfortable. Too willing to sit at a window and calculate instead of act. If I'd been faster — if I'd been someone else entirely — would it have mattered? Probably not. The math said no. But the anger said *you didn't even try.*
 
 We walked the three miles back to the church. I carried two packs — mine and one of the extras — and the sleeping bags and the hatchets and the weight of what I'd seen. None of it was as heavy as it should have been. The anger was doing something unexpected — it was making the weight lighter. Every step, the anger lifted with me. Not grief. Grief makes you heavy. Anger makes you fast. I noticed this, the way the anger functioned as fuel.
 
@@ -213,7 +213,7 @@ I didn't say anything.
 
 "No. You did everything you were *comfortable* doing. You walked over there once, said your piece, and walked back. When he didn't listen, you filed it under 'not my problem' because you'd already decided you weren't the kind of person who could make someone listen. You decided that before you walked over there. You decided it before you decided to go. You decided it on Day One, when you sat at your window and watched Lisa Anderson get taken and said 'I'm fifteen and I weigh a hundred and eighty pounds' like those numbers were a verdict instead of a starting point."
 
-I stopped walking. She stopped with me.  She didn't know I had already given myself this talk.
+I stopped walking. She stopped with me.
 
 "I couldn't save Lisa Anderson." It came out of me automatically, an old habit. I hated it.
 
@@ -221,13 +221,13 @@ I stopped walking. She stopped with me.  She didn't know I had already given mys
 
 "It was mine. The Lyles —"
 
-"Yes. It was yours. And mine. And Jim's. And everyone's who saw what was coming and accepted Craig's 'no' like it was the end of the conversation." She looked at me and her eyes were fierce and wet at the same time. "In the best case scenario, Nate — the absolute best case — everything that goes wrong is your fault. Because if it's your fault, that means you had the power to prevent it, which means you have the power to do better next time. If nothing is your fault — if you're just a fat fifteen-year-old kid who can't run and can't help and can't change anything — then you're powerless. And you're not powerless. You're the person who figured out what's happening when the entire rest of the world couldn't. So stop building the case for why you can't do things and start building plans for how to do them better."
+"Yes. It was yours. And mine. And Jim's. And everyone's who saw what was coming and accepted Craig's 'no' like it was the end of the conversation." She looked at me and her eyes were fierce and wet at the same time. "In the best case scenario, Nate — the absolute best case — everything that goes wrong is your fault. Because if it's your fault, that means you had the power to prevent it, which means you have the power to do better next time. If nothing is your fault — if you're just a fat fifteen-year-old kid who can't run and can't help and can't change anything — then you're powerless. And you're not powerless. You're the person who figured out what's happening when the entire rest of the world couldn't. You already know all this. I told you in a steeple and you agreed with me and then you went and did it again."
 
 The Turned in the parking lot swayed. A bird — an actual bird, a real one, alive — crossed the parking lot and landed on the church sign. We stood in the gravel and my lungs burned and my legs ached and the thing Sienna had just said was sitting in my chest like a stone, heavy and cold and true.
 
 But true in a way she didn't intend. She meant: *be brave. Try harder. Take responsibility.* She was talking to the passive boy who watched from windows and decided the odds weren't worth it. She was right about that boy. But the boy standing next to her was holding an anger she couldn't see, and her words were landing in it like stones in a furnace.
 
-*Stop building the case for why you can't do things.* Yes. Stop being weak. Stop flinching. The Turned want to eat you, and what was human in them is gone, and mercy is the comfortable lie, and the comfortable lie will get you killed.
+*You did everything you were comfortable doing.* Yes. Stop being weak. Stop flinching. The Turned want to eat you, and what was human in them is gone, and mercy is the comfortable lie, and the comfortable lie will get you killed.
 
 *You sat at your window and watched Lisa Anderson get taken.* Yes. I sat. I calculated. I was too slow, too soft, too willing to be comfortable while the world burned. I deserved the pain in my legs and the burning in my lungs and the chafing and the exhaustion because the pain was what I'd earned by being the version of myself that sat and watched.
 

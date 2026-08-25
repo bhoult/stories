@@ -224,7 +224,7 @@ The man in the trucker cap spoke from the wall. "The interchange," he said. "I c
 
 "My friend was there. She saw it."
 
-"The soldiers were defending it. Full checkpoint — barricades, vehicles, weapons. They held it for maybe four days." He paused. "On the fourth day the Turned came through the barricades like they weren't there. Not walking. Running. Screaming. The soldiers fired and every shot drew more. The noise — the guns, the shouting, the engines — it was like ringing a dinner bell. The soldiers who didn't run got —" He stopped. "The ones who ran survived. The ones who fought didn't."
+"The soldiers were defending it. Full checkpoint — barricades, vehicles, weapons. They held it for maybe four days." He paused. "On the fourth day the Turned came through the barricades like they weren't there. Not walking. Running. Screaming. The soldiers fired and every shot drew more. The noise — the guns, the shouting, the engines — it was like ringing a dinner bell. The soldiers who didn't run got ," He stopped. "The ones who ran survived. The ones who fought didn't."
 
 The couple at the table hadn't moved. The woman's knuckles were white on her mug. She'd heard this before. She was hearing it again and it was not getting easier.
 

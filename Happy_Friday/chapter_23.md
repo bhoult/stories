@@ -1,153 +1,147 @@
-# Chapter 23: Nate Walks
+# Chapter 23: The Man With the Clipboard
 
-I was not in distress.
+The next day we found the town.
 
-Nobody believed that afterward. I wasn't crying. I wasn't spiraling. I got out of my sleeping bag at an hour I didn't check, and I took the binoculars, and I took the hatchet off the top of my pack where it lived, and I walked south down the shoulder of Highway 71.
+It wasn't much — a bend in the highway where a gas station, a general store, and a barbecue restaurant clustered around an intersection like survivors huddling for warmth. The kind of place that had survived on weekend tourists: bikers on weekend rides, families stopping for pulled pork and sweet tea, college kids from Fayetteville driving up to see the fall leaves. A sign out front of the restaurant said WORLD FAMOUS SMOKED RIBS. The world that had made them famous was gone.
 
-Dale had the watch. He was sitting on an overturned bucket with his back to the fire, facing north — because north is where we were going, and north is where a threat comes from. South is the direction you've already survived. Nobody watches the ground behind you. It's the only flaw I ever found in a protocol I wrote myself, and I found it by exploiting it.
+Someone had fortified the gas station, and they had done it well. Plywood over the windows, screwed not nailed, reinforced with sheet metal off the restaurant roof. A pickup parked square across the entrance. And on the roof behind a low wall of sandbags, a man with a deer rifle, watching us come.
 
----
+"That's far enough."
 
-In the church basement, on Day Twelve, we went around the room and each said what we wanted done if we turned. Maria said restrain her, wait a day, then put her outside. Marcus said kill me, don't wait. Ruth said don't waste a single resource, and if someone was willing to make it quick she would consider that a kindness.
+Marcus raised both hands. "Passing through. Heading north."
 
-I said: restrain, wait as long as is practical, then kill me. I said I didn't want to be standing outside somebody's door using my mother's voice. I said — and everyone was listening, and Jim's knuckles were white on the table — *I know what not knowing feels like. I won't do that to anyone else.*
+There was a pause while the man on the roof spoke to somebody below. Then the barricade truck's door opened and a woman came out — mid-forties, sunburned, a shotgun at port arms with the ease of somebody who grew up around them — and behind her, unhurried, a man in a fleece vest carrying a clipboard.
 
-Then on Day Twenty-Four I stood in an insurance office parking lot six blocks from Johnson Regional and looked across the road at a woman in blue scrubs with bare feet and a ponytail, and Marcus put his hand on my shoulder and said *I see her. Keep moving.*
+"How many?" the woman said.
 
-And I kept moving.
+"Eight. One child, one elderly."
 
-She is not alive. She is not dead. She is standing in a lot in the sun with her face tilted up, and she will keep standing there, and the thing in her will use her mouth when it needs to, and there is no end to it that arrives on its own. I wrote the rule. I said it out loud to seven people. I made every one of them promise it for each other.
+The man with the clipboard was already writing. He looked up at us over the top of it — a soft, tired, entirely pleasant face, the face of somebody who has explained the return policy nine thousand times and has never once raised his voice about it.
 
-I could have done it myself. I had the hatchet. I had done it to a man in a tree stand nine days earlier and it took three swings and afterward I climbed up and took his bow.
+"Any of you agitated?" he asked.
 
-I could have asked. Marcus's hand was on my shoulder. Marcus would have said yes, and Marcus would not have asked me why.
+Nobody answered, because it was not a question anybody knew how to take.
 
-I did neither thing. I put one foot in front of the other until the hospital was behind me, and I told myself it was the group, and Ruth's medication, and the mileage. Every one of those was true. None of them was the reason.
+"It's not a trick question. I'm asking whether anyone in your group is currently distressed. Grieving, panicking, angry. It matters and I'd rather ask than guess."
 
----
+"We're fine," Marcus said.
 
-I did not run the distance.
-
-I run everything. I had the numbers. I had walked every one of those miles with a pack on. And I started the sum somewhere around the first mile marker and then I put it down, the way you put down a letter you already know the contents of, and I kept walking.
-
-What I let myself have instead was the end of it. The lot, and one swing, and after the swing the bark — the short sharp call that turns every herder in earshot into a hunter. I'd written that down myself after Marcus killed Gary Sutton in a church parking lot with the same hatchet. *Every kill broadcasts your location.*
-
-One swing, and no arithmetic after that. It did not feel like a decision to die. It felt like the first errand in six weeks with a definite end.
-
-The highway at night was not dark the way I expected. The white lines held light better than anything else, so the road read as two pale stripes running away into nothing. I walked between them. The cold was in my face and the backs of my hands and nowhere else yet.
-
-I passed three of them at the second mile.
-
-They were standing near a sedan with its doors open, in the loose triangle they always make, and their heads came around when my shoes changed pitch on a patch of gravel. All three at once. The tracking turn, the smooth one, the one I'd catalogued from a kitchen window on Day Two.
-
-I stopped. Not tactically. My legs stopped.
-
-They looked at me for maybe four seconds. Then the nearest one's head drifted back toward the east, and the other two followed, and that was it.
-
-I put my thumb against my wrist and counted.
-
-Fifty-eight.
-
-I counted it again. Fifty-eight is what Jim runs on fifty milligrams of metoprolol twice a day. Fifty-eight is a sleeping man. I was two miles into a walk to go and kill my mother with a hand axe, and my body had produced nothing. No spike. No cascade. None of the chemistry I'd spent six weeks learning to suppress, because there was nothing there to suppress.
-
-That was the part that stopped me. Not that they let me pass. That I hadn't needed them to.
-
-Marcus told us about this in the basement on his first day, holding a flask. *They'd look. Tilt their heads. Then go back to whatever they were doing. I wasn't calm — I was empty.* I'd written it down as a data point. I'd called it a dominant strategy and been pleased with myself for the phrase.
-
-I was standing in the middle of Highway 71 having become the data point.
+"Good." He made a note. "I'm Phil. What do you have to trade?"
 
 ---
 
-I sat down on the center line.
+Marcus started the way Marcus always started, laying out the inventory: blood pressure medication, antibiotics, anti-inflammatories, some prescription painkillers.
 
-There was a road, and I was on it, and sitting seemed like the accurate response to that. The asphalt was colder than the air.
+Phil listened to all of it politely and then said, "Benzodiazepines."
 
-And then, with nothing else in front of me, the machinery produced the number I'd refused to produce for two miles.
+Marcus stopped.
 
-Fifteen miles of highway to Lake Fort Smith. Sixty miles of Ozark Highlands Trail — the ridgelines, the creek crossings, the rock scramble it took both Marcus and Jim to get Ruth up in the rain. Twenty miles of county road after that. Ninety-five miles, backward, alone, in December, with a hatchet and a water bottle and whatever was in my jacket. The roads don't go there; Marcus settled that in a church basement on his first day. The only way back to my mother was the trail, and the trail had taken eight of us eleven days with tents and stoves and a man who knew where the water was.
+"I'm sorry to be blunt. You've got eight people who walked here from Clarksville and you raided a pharmacy on the way, which means you have benzodiazepines. Diazepam, lorazepam, clonazepam, I'm not particular. I'll pay very well." He turned the clipboard around, and there was a chart on it. An actual chart, ruled in pencil, with names down the left side. "I'm not going to insult you by pretending it's for something else."
 
-I was not going to arrive. There was no arrangement of the numbers in which I arrived.
+I looked at the chart, and then I looked past him at the gap in the plywood, and I did the arithmetic that I do, and it took about a second and a half.
 
-And it changed nothing.
+There were maybe a dozen of them inside. They were not doing anything. That was the thing my brain caught on first — in a room that size you expect motion, somebody adjusting something, somebody bored. These people were seated, mostly, in a dim room in the middle of the afternoon, and the ones who were upright moved through it like people wading. A woman sat against the drink cooler with her hands in her lap and her eyes open, and in the whole time we stood there she did not change position once.
 
-That is the part. I sat on a highway with the correct answer in my hands and it did not move me an inch. Being right had stopped doing anything at all — and being right was the whole of what I had, the only thing I'd ever brought to any of it, and it turned out to be a tool that only worked on other people's problems.
+And at the counter, a boy about my age, watching us come. Same age, same nothing behind the face. I had been telling myself for two weeks that I recognized that expression because I saw it in every reflective surface I passed. I was wrong about that. What was on him wasn't exhaustion.
 
-There was a second number underneath it. Whatever I did or failed to do, she was going to go on standing in that lot. It was not a problem. It was a debt I had no currency for.
+"How long has she been like that?" I said. "By the cooler."
 
-So I stayed where I was. And nothing came.
-
-I could sit on the center line of a dead highway at fifty-eight beats a minute and every one of them would walk past me until morning, the way they walked past Marcus for three days, because there was nothing left in me worth harvesting.
-
-It was the safest I'd been since October.
-
-The cold got into my hands around the third quarter hour. I know the sequence. I learned it under Mr. Henderson's trailer on Day Three, lying in mud and my own vomit with eighteen inches of clearance over my back. Hypothermia suppresses the HPA axis. Fear and cold compete for the same fuel and cold wins. That night it had saved my life. The textbook calls it the cold-induced sympatholytic effect.
-
-Same mechanism. Both times it made me invisible. The difference was that the first time I crawled out.
-
-And then the warmth came, and I was not surprised to feel it.
-
-It started in my chest, the way it had in the tank. Spreading, unhurried, not unpleasant. Something unclenching that I hadn't known was clenched. My jaw let go. The edges of me got soft — the name, the weight, the scar on my palm, the hatchet lying across my knees. All of it started to feel like things I was holding rather than things I was, and there was a surface somewhere out in the dark where I could set them down.
-
-In the septic tank I put my hands into human waste and breathed it in to break this.
-
-On the highway I sat still and let it come. There is no version of this that flatters me: I could not construct an argument against it. I tried. The machinery turned over and produced nothing. Every reason I'd ever written down for staying was a reason for staying *useful*, and I had just spent a hillside proving what I was useful for, and I had walked two miles toward proving it again on the only person who ever called me bud.
-
-The organism was offering to stop being me. It was the first offer anyone had made in six weeks that didn't come with arithmetic.
+"Eleven days," Phil said. "She's safe."
 
 ---
 
-I heard her before I saw her.
+He explained it standing in the sun with his clipboard, and the worst thing about it was that he explained it well.
 
-She wasn't running. Sienna could have covered those two miles in eleven minutes and didn't, because she had spent five weeks unlearning exactly that, and because — I found this out later — she had watched me go and given me a head start on purpose. She said it was so I'd get far enough to be honest. I have never known whether to believe that.
+"You already know the mechanism, or you wouldn't have made it this far. Fear turns you. Not proximity, not contact — fear. Everybody who ever told me to calm down was correct." He said it without any edge at all. "We lost eleven people in the first nine days. Every one of them panicked. Every one of them turned. I sat down afterward and I worked out that there is exactly one variable in this and it is not one you can leave to people's discretion, because people are not reliable about it. So I stopped leaving it to their discretion."
 
-She sat down on the center line next to me. She didn't say my name. She didn't take my arm or check my pulse or ask what I thought I was doing. She looked at the hatchet across my knees for about a second and a half. Then she looked south down the highway at the same nothing I was looking at, and she stayed there.
+"You're drugging them," Sienna said.
 
-I don't know how long. The moon moved. The road stayed pale.
+"I'm dosing them. There's a schedule." He tapped the chart. "It's in the water for the general population, because that's the only way to be consistent, and it's individual for the ones who need more. Some people need more. Grief especially — grief runs high for weeks and it doesn't respond to being talked to." He looked at the boy behind the counter, and something crossed his face that I could not read and did not want to. "That's my nephew. He lost his mother and his sister in the same night. He is alive. Sixteen days now."
 
-I remember thinking, with the small part of the machinery still turning: *she isn't going to argue.* And underneath that: *she doesn't have an argument either.* And that was almost a relief, and the almost is the closest thing to a warning I got.
+"He's not there," Sienna said.
 
-Then she shivered.
+"No," Phil agreed. "But he's alive, and the version of him that was there would not be. I've done that arithmetic more times than you have and it comes out the same way every time." He turned to me — I don't know why me; maybe because I hadn't said anything, and Phil was a man who noticed who wasn't talking. "You've done it too. I can tell by your face. Tell me where the error is and I'll change the system today."
 
-It went through her all at once, shoulders to hands, the involuntary kind, and she clamped down on it, and it came again forty seconds later and she clamped down on that one too.
+I opened my mouth.
 
-And the machinery came on.
+Here is what I had: that a person is not only the part of them that can be kept breathing. That what he was protecting them from was also what they were made of. That there is a difference between a man who chooses to be calm and a man who has had the choosing removed.
 
-Not gently. It came on the way an engine catches — a lurch, a catch, and then it was running, and it started doing math. Ambient temperature somewhere near thirty-four. Track pants, a hoodie, canvas sneakers from a church donation box. One hundred thirty-five pounds and almost no body fat, because she was a distance runner who'd been eating freeze-dried rations for two weeks. Wind out of the north at the speed that was moving the leaves in the ditch. She had been sitting still for however long I had been sitting still.
+And underneath all of that, in the place where I actually live, the machinery ran the numbers and reported that Phil's group had lost eleven people in nine days and nobody in the four weeks since, and that ours had lost the Lyles and the ranch house and three hundred people on a wire, and that if you scored it the way I score everything, he was winning.
 
-She was going to get hypothermic well before I did. She had less to burn.
+"I don't have one," I said.
 
-Ninety-five miles hadn't moved me. Thirty-four degrees and a hundred and thirty-five pounds did.
-
-And she was not going to leave first. That was not a variable. I could hold that number up against every other number I had and it did not move.
-
-I stood up. My legs took a long time about it.
-
-She stood up when I stood up. She didn't ask. We walked north on the shoulder of Highway 71, and at some point my hand was on her elbow and I have no memory of putting it there, and neither of us said anything for two miles.
-
-I was doing sums the whole way. Not about her. About Ruth's atenolol, and how far the carts could go in a day, and what I was going to say to Moss when we got there. The machinery had come back on and gone straight back to work, and all of the work was about people who were still alive. It has never stopped being about them since. That is not the same as forgiveness and I have never pretended it was.
-
-She never asked what the hatchet was for. She saw it and she did the arithmetic on it in a second and a half and she sat down next to me anyway. Not asking was the largest thing anyone has ever done for me, and she did it at that temperature, in those shoes, without once mentioning that she was cold.
-
-I have gone over what I could have done differently, and the answer is not the one I went looking for. It isn't the parking lot. By the parking lot it was already decided. It goes back to a kitchen window on the second day, watching Lisa Anderson run out of exits and doing the arithmetic on whether I could reach her, and getting the right answer — I couldn't — and discovering that a right answer will hold a door shut for you as long as you need it to.
-
-I have been getting right answers ever since.
-
-Sienna told me in a steeple that I was building a case for why nothing was ever going to be my responsibility, and that it was going to get someone killed. She had the verb wrong. It didn't get someone killed. It left someone standing.
-
-There is no repair available. I am not going to get back there, and knowing precisely why I didn't act is worth nothing to the woman in the lot, because understanding is not a currency she can spend. This is not a thing I resolve. It's a thing I carry, badly, for as long as I go on.
-
-What's left is narrow, and it is the only part I actually get a say in. Not her. The next one.
+"No," Phil said, kindly. "Nobody does. Believe me, I ask."
 
 ---
 
-Dale was still facing north when we came back into the pulloff.
+We made the trade.
 
-He saw us. He didn't stand and he didn't speak. He moved over on the bucket, and I sat down next to him, and he took the knife and the block of cedar out of his coat and started to carve, at three in the morning, in the cold, with nothing to see by.
+I could dress that up. Maria did the counting, and Maria is the one who says *know the cost*, and the cost was Ruth's blood pressure and Caleb's calories and twenty-five miles of highway with nothing in the carts. She kept the propranolol and the atenolol. She handed over the diazepam and most of the clonazepam. Twelve cans of beans, a bag of rice, a sleeve of jerky, a gallon of water.
 
-I put the hatchet back on the top of my pack. It is still there. I never went back for her, and I have never once stopped intending to.
+I stood there and let it happen and did not say a word, and I knew exactly what I was doing, and I did it anyway. Add it to the pile.
 
-The sound of the blade going into the wood is the last thing I remember with any confidence.
+The boy behind the counter watched us load the carts. When we started north he raised his hand — not waving, just lifting it off the counter a few inches and putting it back down, and I have thought about that gesture more than I have thought about almost anything else on that highway, because I could not tell you whether it was a greeting or something trying to get out.
 
-After that the days come apart. I've tried to reassemble them and I can't. The pieces I have are enough to know what they were: Sienna's hand. Jim's shoulder under my arm on a grade I don't remember climbing. Caleb putting the wooden beagle in my lap without a word and going back to Marcus.
+---
 
-Two days. Somebody kept me walking. I wasn't the one doing it.
+We walked. Nobody said anything for a long time.
+
+Then Sienna said, "They're not survivors."
+
+"No."
+
+"They're the Turned with better management." She said it to the road, not to me. "He's got a room full of people who can't be scared and can't be sad and can't leave. That's the whole thing. That's what it does to you. He just gets there slower and he writes it down."
+
+Marcus, on my other side: "You want to go back and argue with him?"
+
+"No," I said.
+
+"Good. Because he'd win." He shifted the crossbow on his shoulder. "You can't save people who don't want to be saved. That's not a failure, that's a boundary. But I'll tell you the part that's going to keep me up — those folks would want to be saved. They just can't get to the wanting from where he's put them."
+
+I didn't answer. I was thinking about the four propranolol tablets in my jacket pocket, and about the sandwich bags I'd handed out in a church basement six weeks ago, one to each person, *break glass in case of catecholamine spike*. I'd been proud of that. I'd written it in the notebook.
+
+The distance between what I'd done and what Phil was doing was a matter of dosage and consent, and I had spent two days proving to myself that I am not a person who can be trusted with either one.
+
+A quarter mile past the gas station, a farmhouse sat back from the highway behind a collapsing fence. The house was empty — door open, curtains moving in the wind. But behind it, in a tilted coop with chicken wire peeling off the frame, something was alive and making sounds about it.
+
+Three hens. Brown, fat, furious. Surviving on gravel and weeds and whatever insects had the misfortune of crossing their path. They'd outlasted the apocalypse through the only strategy chickens know: being too dumb and too angry to die.
+
+Caleb heard them before anyone else. His head came up from Marcus's shoulder — he'd been riding in the cart, legs dangling — and his face did something I hadn't seen since before the roadblock. Hope. The specific, dangerous hope of a seven-year-old who has lost something and is seeing it returned in a different shape.
+
+"Can we —"
+
+"No," Marcus said.
+
+"They'll die here."
+
+"They've been alive for six weeks without us."
+
+Maria was already lining a shopping cart with a towel. She looked at Marcus. Marcus looked at the sky. The hens went into the cart. They did not go quietly. They went with the concentrated outrage of animals being handled by strangers, flapping and squawking and producing a volume of sound wildly disproportionate to their size.
+
+"If that bird makes one sound past dark," Marcus said, "it's nuggets."
+
+Caleb, from the cart, deadly serious: "Her name is Steggy Two."
+
+The chickens squawked at every crack in the asphalt, every pebble, every shift in the cart's trajectory. They squawked at the wind. They squawked at each other. They squawked at the concept of forward motion.
+
+After ten minutes of this, I started calculating. Sound attenuation over distance — chicken vocalization averages sixty-five decibels at source, which meant roughly forty-five at a hundred yards, which was within the auditory detection range I'd estimated for the Turned's hunting mode. We needed to reduce output. I had Maria's pharmacy inventory memorized; we still had diazepam from the church supply, and if we crushed half a milligram into feed and factored for avian body mass — chickens average six pounds, metabolic rate roughly twice human per kilogram, so the dosing would need to —
+
+"Nate," Ruth said.
+
+"— account for hepatic clearance, which in gallinaceous birds is —"
+
+Ruth took the towel out of the cart — the one Maria had lined it with — and draped it over the hens.
+
+Silence. Immediate, total. The chickens stopped moving, stopped squawking, stopped existing as a tactical problem. Three birds, convinced it was nighttime, tucked their heads and went to sleep in a shopping cart on Highway 71.
+
+"Chickens sleep when it's dark," Ruth said. Not unkindly. The voice of a woman who had grown up in rural Arkansas and had waited precisely long enough for the boy with the notebook to embarrass himself before intervening. "You don't need to sedate them. You need a towel."
+
+Marcus made a sound. It might have been a cough.
+
+I am going to record, for accuracy, that I knew this. I knew chickens were photosensitive. I had read about circadian rhythms in avian species during a Wikipedia spiral about sleep disorders at 1 AM two years ago. The information was in my brain. It was filed under "ornithology, behavioral" and cross-referenced with "circadian biology, non-mammalian" and at no point during my diazepam dosing calculation did my brain think to check that drawer. The analytical machinery is very good at building complex solutions. It is less good at remembering that simple ones exist.
+
+We pushed them north toward Fayetteville in a shopping cart under a towel, three sleeping hens and a seven-year-old boy who was already talking to them in the low, earnest voice he used for Dale's wooden animals, and for thirty minutes the apocalypse was a grocery run that had gone sideways, and I almost forgot what the highway behind us looked like.
+
+I looked back once. The man on the roof was watching us go. The rifle was still in his hands. The barbed wire glinted in the afternoon sun. Nine people in a gas station, waiting for the world to come to them.
+
+The world would come.

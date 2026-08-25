@@ -283,7 +283,7 @@ I checked the locks. Front door — locked, already locked, Mom always locks it.
 
 I sat on the couch. The TV was still running its loop. Mr. Pembrook was still in his lot. The afternoon light was going flat and grey.
 
-Then I noticed something that made my stomach clench. One of the two strangers by the laundry building had drifted closer. Not toward me specifically — toward this end of the park, toward the row of trailers where mine was. And I thought about what I'd been observing all day: how they oriented toward sound, how their heads tracked noise. The TV had been on for hours. It wasn't loud — my mom kept the volume low because the walls are thin and she was considerate about that — but it was the only sound in the park besides the wind and the occasional creak of siding. In this silence, even a low murmur of newscasters carried.
+Then I noticed something that made my stomach clench. A figure I didn't recognize had come in off Highway 21 and was standing near the laundry building, and over the course of an hour it had drifted closer. Not toward me specifically — toward this end of the park, toward the row of trailers where mine was. And I thought about what I'd been observing all day: how they oriented toward sound, how their heads tracked noise. The TV had been on for hours. It wasn't loud — my mom kept the volume low because the walls are thin and she was considerate about that — but it was the only sound in the park besides the wind and the occasional creak of siding. In this silence, even a low murmur of newscasters carried.
 
 I turned it off. The click of the power button was the loudest thing in the trailer. The screen went dark and the silence rushed in like water filling a hole, and I sat there in the quiet and felt the absence of the one thing that had been connecting me to a world where people still talked and explained and tried to make sense of things. The TV had been a tether. Cutting it was the first time I chose the world outside the window over the world I wanted to still be living in.
 
@@ -307,7 +307,7 @@ Mr. Pembrook had moved. Not far — he'd drifted about ten feet from his previou
 
 I'd been telling myself they were deteriorating. Confused, disoriented, running on fumes — they'd wander around for a day or two and then collapse, and the CDC or whoever would come through and clean it up. That was the comfortable version. The version where this was a medical crisis with a timeline and an ending.
 
-The woman eating green tomatoes off the vine killed that version. This was the moment I understood, without having the language for it yet, that these things were not going to just stop. They were not going to stand there until they fell over. They were taking care of themselves, the way any living thing takes care of itself, and whatever was running them had figured out — already, within the first twenty-four hours — how to keep the machinery going.
+Pembrook at the spigot killed that version. This was the moment I understood, without having the language for it yet, that these things were not going to just stop. They were not going to stand there until they fell over. They were taking care of themselves, the way any living thing takes care of itself, and whatever was running them had figured out — already, within the first twenty-four hours — how to keep the machinery going.
 
 I ate Frosted Mini-Wheats and monitored the drive through the blinds and thought about this.
 
@@ -464,7 +464,7 @@ I wasn't frozen. The calculation was instant: I was fifteen, a hundred and eight
 
 The math said I couldn't help. The math was right. But the math also meant I didn't have to try, and I was already good at not-trying. I was a fat kid who couldn't run. I couldn't help. The logic was clean and I could stand behind it like a locked door.
 
-The Turned closed in. Not fast. Patient. The ones in front wore that grin — that wrong, wide, too-many-teeth grin that flickered across their faces like a signal, like a welcome sign in a language nobody alive spoke. The closer they got, the wider the grins got, and Lisa was shaking, her whole body vibrating, and the screaming had turned to a high, thin sound that wasn't screaming anymore — something more animal than that — and then—
+The Turned closed in. Not fast. Patient. The ones in front wore that grin — that wrong, wide, too-many-teeth grin that flickered across their faces like a signal, like a welcome sign in a language nobody alive spoke. The closer they got, the wider the grins got, and Lisa was shaking, her whole body vibrating, and the screaming had turned to a high, thin sound that wasn't screaming anymore — something more animal than that — and then,
 
 She stopped.
 
@@ -526,24 +526,16 @@ I checked my phone. Fourteen percent. No charger would work now. The cell signal
 
 I used the last of the battery to try Mom one more time. Voicemail. I didn't leave a message. I turned the phone off to save what was left, knowing I was saving it for nothing, knowing the call I was saving it for was never going to come.
 
-At some point — I don't know when, the dark doesn't have hours — I must have slipped under, because I was in the hospital. Not visiting. Working. I was wearing my mom's scrubs and they fit, which was wrong, and I was walking the hallway toward the ER and the fluorescents were buzzing the way fluorescents do and everything was fine. Mom was at the nurses' station. She looked up and said "Happy Friday, bud" and I said "It's Sunday" and she said "No, honey, it's always Friday now" and smiled, and the smile was too wide, and I was awake.
-
-My heart was slamming. I could feel it in my throat, in my wrists, behind my eyes. I pressed my hand flat against my chest and counted — not breaths, heartbeats. One hundred and twelve, one hundred and eight, one hundred and four. I counted them down the way you'd count down a launch sequence, because somewhere in the part of my brain that was still working I understood that my heart rate was the thing that could kill me now, that the fear wasn't just fear anymore, it was a mechanism, and the mechanism was running, and I had to shut it down manually because the automatic systems had stopped being trustworthy.
-
-Ninety-six. Eighty-eight. Eighty-two.
-
-I sat there with my hand on my chest until the number felt safe, whatever safe meant, and I did not let myself close my eyes again.
-
-I sat in the bathroom in the dark and I listened and I did not sleep and the trailer settled around me — the creaks and pops of a metal box cooling in the October night — and every sound was both familiar and alien, because this was my home and also it wasn't anymore, because home requires a person and the person wasn't here, and what was here instead was just a fifteen-year-old and some thin walls and the knowledge that the thin walls were the only thing between him and a thing that grinned when it was hungry and ate when it was done.
+Then I sat in the dark and waited for something to happen, and at 10:47 that night something did.
 
 
 # Chapter 4: The Knock
 
-I spent the afternoon reading my mom's nursing textbook.
+I had spent that afternoon reading my mom's nursing textbook.
 
 My mom kept two textbooks from her associate's degree on a shelf above the washer-dryer unit: *Fundamentals of Nursing* and *Brunner & Suddarth's Medical-Surgical Nursing*, which is the size and weight of a cinder block. She'd never gotten rid of them because, she said, "Nursing school was the hardest thing I ever did and those books are my trophies." I'd never opened them.
 
-By Day 2 my phone was dead, the laptop was dead, the TV was off, I'd read every magazine in the house, and the textbooks were there. I pulled *Brunner & Suddarth* off the shelf and started reading about the autonomic nervous system because the alternative was sitting in the dark replaying the sound of Lisa Anderson screaming.
+The phone was down to nothing, the laptop was dead, the TV was off, I'd read every magazine in the house, and the textbooks were there. I pulled *Brunner & Suddarth* off the shelf and started reading about the autonomic nervous system because the alternative was sitting in the dark replaying the sound of Lisa Anderson screaming.
 
 I didn't understand half of it. I understood enough. The sympathetic nervous system ran on chemicals: epinephrine, norepinephrine, cortisol. Produced by the adrenal glands in response to perceived threat. The system was involuntary — you didn't choose to activate it any more than you chose to digest food. I read about beta-blockers. I read about the feedback loop between the amygdala and the hypothalamus — the cycle where fear triggers chemicals that trigger more fear.
 
@@ -615,6 +607,14 @@ Around 3 AM I realized the loop itself was dangerous. Each replay spiked cortiso
 
 I pressed my palms against my eyes and counted backward from a hundred by sevens. A cognitive interrupt — the kind of task that forces the prefrontal cortex to override the amygdala. It worked, partly. The loop dimmed to background noise. It didn't stop.
 
+Sometime before dawn I went under anyway, and I was in the hospital. Not visiting. Working. I was wearing my mom's scrubs and they fit, which was wrong, and I was walking the hallway toward the ER and the fluorescents were buzzing the way fluorescents do and everything was fine. Mom was at the nurses' station. She looked up and said "Happy Friday, bud" and I said "It's Sunday" and she said "No, honey, it's always Friday now" and smiled, and the smile was too wide, and I was awake.
+
+My heart was slamming. I could feel it in my throat, in my wrists, behind my eyes. I pressed my hand flat against my chest and counted — not breaths, heartbeats. One hundred and twelve, one hundred and eight, one hundred and four. I counted them down the way you'd count down a launch sequence, because somewhere in the part of my brain that was still working I understood that my heart rate was the thing that could kill me now, that the fear wasn't just fear anymore, it was a mechanism, and the mechanism was running, and I had to shut it down manually because the automatic systems had stopped being trustworthy.
+
+Ninety-six. Eighty-eight. Eighty-two.
+
+I sat there with my hand on my chest until the number felt safe, whatever safe meant, and I did not let myself close my eyes again.
+
 ---
 
 
@@ -660,13 +660,13 @@ The laundry building had a flat roof with a maintenance ladder on the back. From
 
 I watched the route for an hour. Two Turned visible, neither between me and the building. Clear path.
 
-What I did not account for: a hundred and eighty pounds on gravel is not quiet.
+What I did not account for: my weight on gravel is not quiet.
 
 Each step was a crunch. By twenty feet the Turned had oriented toward me. By thirty I saw a third one in the laundry building's shadow that I'd missed from the window. I should have turned back. I didn't, because I was fifteen and my ego was running my risk assessment.
 
 I made it to the ladder. I was breathing hard — not the distance but the weight. My heart was hammering in my ears and I was sweating despite the cold. Three Turned were walking toward me. That steady two miles an hour. And they were making a sound — a low vibrating drone, resonant in the chest. A summoning call. *Come here. Something's happening.*
 
-I ran. Gravel like gunshots under my feet. Knocked a propane tank — a clang like a bell. More of them appearing between trailers, drawn by the noise. I was a parade of panic, a hundred and eighty pounds of proof that the thing they respond to is exactly the thing I was producing.
+I ran. Gravel like gunshots under my feet. Knocked a propane tank — a clang like a bell. More of them appearing between trailers, drawn by the noise. I was a parade of panic, living proof that the thing they respond to is exactly the thing I was producing.
 
 I couldn't reach my trailer. Two between me and it. I veered toward Henderson's place, saw the gap between skirting and ground, and my body threw itself flat before my brain gave permission.
 
@@ -750,7 +750,7 @@ She'd done what I'd done: watched. But she'd watched with different eyes. She co
 
 She was also the most distractingly present person I had ever been in a room with. My brain, which had been functioning as a passable survival computer for four days, immediately downgraded to a calculator with a dead battery. She moved through my kitchen with the economy of someone who'd spent her life in motion and I kept losing my train of thought mid-sentence because she'd turn her head or shift her weight and some useless ancient part of my brain would say *hey notice this* and I'd forget what I was saying and have to start over and she'd look at me like she knew exactly what was happening and was choosing not to comment on it, which was worse.
 
-I am fifteen. I weigh a hundred and eighty pounds. I have never been on a date or kissed anyone or had a conversation with a girl that lasted more than two minutes without me finding a reason to leave. There are monsters outside and my mother is missing and something I don't understand is turning people into blank-faced herding machines. None of it matters to the part of my brain that has noticed that Sienna Okafor has very nice collarbones. I would like that part of my brain to shut up. It will not shut up. I am going to ignore it and focus on survival and hope that nobody ever reads this paragraph.
+I am fifteen. I have never been on a date or kissed anyone or had a conversation with a girl that lasted more than two minutes without me finding a reason to leave. There are monsters outside and my mother is missing and something I don't understand is turning people into blank-faced herding machines. None of it matters to the part of my brain that has noticed that Sienna Okafor has very nice collarbones. I would like that part of my brain to shut up. It will not shut up. I am going to ignore it and focus on survival and hope that nobody ever reads this paragraph.
 
 ---
 
@@ -1861,17 +1861,9 @@ I lowered the binoculars. Jim was watching Hadley the way a father watches a sle
 
 He went back downstairs. I stayed in the steeple and watched Tom Hadley conduct his empty choir, and I didn't know which possibility unsettled me more — that he was still in there, or that he wasn't and the organism was borrowing his hands for a purpose I couldn't fathom.
 
-I was revising assumptions. You observe. You form a model. The model predicts behavior. When the behavior deviates, you revise. You don't get attached to the model. You let it be wrong and you build a better one.
+I was revising assumptions. You observe. You form a model. The model predicts behavior. When the behavior deviates, you revise. You don't get attached to the model.
 
-My first model: the Turned are dangerous because they herd you and scare you and the fear turns you. This was true but incomplete.
-
-My second model: the danger is biochemical, not behavioral. Keep your adrenaline down and you're invisible. Also true. Also incomplete.
-
-The new model, after Moss's broadcast and Sienna's report from the blockade: the danger is *layered.* Layer one is the herding — the fear-farming, the conversion cycle. We'd learned to counter that. Layer two is the density threshold — the swarm behavior that makes them destructive. We couldn't counter that; we could only avoid it. Layer three — the one that scared me most — was the hunger. Sienna had seen them eating the dead at the interchange. When the easy food ran out, the Turned would expand their search. They wouldn't need to scare you to kill you. They'd just need to find you.
-
-And underneath all three layers was the thing Moss had described without dwelling on: the organism was adapting. Getting better. The Turned from week one were clumsy, degrading, barely functional. The Turned from week two were coordinated, strategic, increasingly efficient. If the trajectory continued — and why wouldn't it — the Turned from week four or six or eight would be something we hadn't seen yet and couldn't predict.
-
-Every model I built had a shelf life. Every answer was temporary. The organism was iterating faster than my understanding.
+What Moss had done was add a floor under the thing I already suspected and a ceiling I hadn't imagined. The herding I understood. The density threshold I had felt coming and had no name for. The hunger was new, and it was the one that scared me, because the first two require us to do something wrong and the third one only requires them to be hungry.
 
 Ruth would have called it the Red Queen hypothesis — she had a Lewis Carroll reference for everything, thirty-nine years of teaching lodged in her brain like sediment. "It takes all the running you can do, to keep in the same place." In evolutionary biology, the idea is simple: in an arms race, you have to keep adapting just to maintain your position. The organism adapts, so you adapt, so it adapts again, and the race never ends.
 
@@ -2115,7 +2107,7 @@ The man in the trucker cap spoke from the wall. "The interchange," he said. "I c
 
 "My friend was there. She saw it."
 
-"The soldiers were defending it. Full checkpoint — barricades, vehicles, weapons. They held it for maybe four days." He paused. "On the fourth day the Turned came through the barricades like they weren't there. Not walking. Running. Screaming. The soldiers fired and every shot drew more. The noise — the guns, the shouting, the engines — it was like ringing a dinner bell. The soldiers who didn't run got —" He stopped. "The ones who ran survived. The ones who fought didn't."
+"The soldiers were defending it. Full checkpoint — barricades, vehicles, weapons. They held it for maybe four days." He paused. "On the fourth day the Turned came through the barricades like they weren't there. Not walking. Running. Screaming. The soldiers fired and every shot drew more. The noise — the guns, the shouting, the engines — it was like ringing a dinner bell. The soldiers who didn't run got ," He stopped. "The ones who ran survived. The ones who fought didn't."
 
 The couple at the table hadn't moved. The woman's knuckles were white on her mug. She'd heard this before. She was hearing it again and it was not getting easier.
 
@@ -3331,17 +3323,11 @@ I opened the notebook. I'd prepared for this — drawn a diagram, assembled the 
 
 **One.** The Turned count near the church was rising.
 
-"Before the Lyles, we had sixteen in our immediate area. The morning after the swarm, I counted seven — the roar pulled the rest north. Seven damaged Turned, some of them barely functional. For about twelve hours it looked like the swarm had done us a favor." I paused. "It hadn't. The Turned that converged on the Lyles' house came from a six-block radius — blocks we thought were empty. After the frenzy burned out, they dispersed, but they didn't go back where they came from. They redistributed according to caloric availability and habitat, and this neighborhood has both. As of this morning, twenty-three. More than before. The Lyles' swarm didn't just destroy their house. It seeded our perimeter with Turned we'd never tracked."
+"Sixteen before the Lyles. Seven the morning after — the roar pulled the rest north. As of this morning, twenty-three." I let that sit. "They didn't go home. They redistributed, and this neighborhood has the Walmart and the gardens and the dumpsters and the water. Their deaths made us less safe, not more."
 
-Ruth: "You're saying their death made us less safe."
+Ruth said, "You're certain of that."
 
-"Their death made everyone in this area less safe. The Turned don't go home. They redistribute, and this neighborhood has everything they need — the Walmart, the gardens, the dumpsters, the water sources. Every day the density increases. And density isn't just a comfort problem. It's a trigger."
-
-I looked around the table.
-
-"You all heard the roar. That sound — the one that shook the windows — that was the threshold. The organism has a mode specifically designed to destroy fortified positions. When the count around a structure hits critical, the roar fires, and what follows is a demolition. Not coordinated. Not strategic. Just bodies against walls until the walls come down. Craig had plywood, brick, a generator, guns, and military training. The organism erased his house in forty-three minutes." I let that sit. "The church is the second-largest intact structure in the neighborhood. We're on the same trajectory the Lyles were. We're just earlier on the curve."
-
----
+"I counted." I turned the notebook around so she could see the column. "And density isn't a comfort problem. It's a trigger. You all heard what that sound did to a brick house with an armed man inside it. The church is the second-largest intact structure in this neighborhood. We are on the Lyles' curve. We are just further back on it."
 
 **Two.** The hunting behavior was escalating.
 
@@ -3365,7 +3351,7 @@ I turned another page.
 
 The table was quiet.
 
-"A stray. Tabby. It had been living in the dumpster enclosure. She cornered it — methodically, between the dumpster and the fence — and she killed it and she ate it. Not frenzied. Not the swarm behavior. Hunting. A single Turned individual solving a caloric problem." I paused. "The cat scratched her. Clawed her arm, deep. And when it scratched her, she made the bark — and the Carhartt man, fifty yards away, turned and started walking toward her. She'd been attacked and the sound came out like a reflex. Like a dinner bell and a distress call at once. He arrived, saw the cat was dead, and went back to his patrol. But the implication —"
+"A stray. Tabby. It had been living in the dumpster enclosure. She cornered it — methodically, between the dumpster and the fence — and she killed it and she ate it. Not frenzied. Not the swarm behavior. Hunting. A single Turned individual solving a caloric problem." I paused. "The cat scratched her. Clawed her arm, deep. And when it scratched her, she made the bark — and the Carhartt man, fifty yards away, turned and started walking toward her. She'd been attacked and the sound came out like a reflex. Like a dinner bell and a distress call at once. He arrived, saw the cat was dead, and went back to his patrol. But the implication ,"
 
 "If you fight one of them," Sienna said, "the sound brings more."
 
@@ -3383,13 +3369,11 @@ Maria, from her chair: "You're saying the medication doesn't protect us from thi
 
 **Three.** The adaptation clock.
 
-"The Turned are getting smarter. Not individually — collectively. The organism's coordination is tighter every week. Three weeks ago, the Turned near the church stood in their positions like mannequins. Now they patrol. They check doors. They forage in organized rotations. Last week the Carhartt man found the church's rain barrel and drank from it for five minutes, and when he was done he went back to his position. He knows where our water is. He knows where we are."
+"Three weeks ago they stood in their positions like mannequins. Now they patrol, they check doors, they forage in rotations. The Carhartt man found our rain barrel last week and drank from it for five minutes and went back to his spot. He knows where our water is."
 
 Jim: "He's always known where we are."
 
-"He's always known we're here. What's changed is that he's acting on it. The organism is moving from passive awareness to active engagement, and the engagement isn't about fear anymore. It's about resource optimization. We are a resource."
-
----
+"He's always known we're here. What's changed is that he's acting on it, and it isn't about fear anymore. It's about resources. We are a resource."
 
 **Four.** The medication clock.
 
@@ -3670,7 +3654,7 @@ And underneath — something less rational, something I recognized as unfair eve
 
 It was not rational. It was not fair. I did not care.
 
-And deeper — anger at myself. I'd known since Day 1. I'd done the math. Night shift, first night, a hospital. I'd known and I'd sealed it in an envelope and I'd sat in a church basement writing in a notebook while she stood in a parking lot with bare feet. I was too slow. Too comfortable. Too willing to sit at a window and calculate instead of act. If I'd been faster — if I'd been someone other than a fat fifteen-year-old who got winded on stairs — would it have mattered? Probably not. The math said no. But the anger said *you didn't even try.*
+And deeper — anger at myself. I'd known since Day 1. I'd done the math. Night shift, first night, a hospital. I'd known and I'd sealed it in an envelope and I'd sat in a church basement writing in a notebook while she stood in a parking lot with bare feet. I was too slow. Too comfortable. Too willing to sit at a window and calculate instead of act. If I'd been faster — if I'd been someone else entirely — would it have mattered? Probably not. The math said no. But the anger said *you didn't even try.*
 
 We walked the three miles back to the church. I carried two packs — mine and one of the extras — and the sleeping bags and the hatchets and the weight of what I'd seen. None of it was as heavy as it should have been. The anger was doing something unexpected — it was making the weight lighter. Every step, the anger lifted with me. Not grief. Grief makes you heavy. Anger makes you fast. I noticed this, the way the anger functioned as fuel.
 
@@ -3728,7 +3712,7 @@ I didn't say anything.
 
 "No. You did everything you were *comfortable* doing. You walked over there once, said your piece, and walked back. When he didn't listen, you filed it under 'not my problem' because you'd already decided you weren't the kind of person who could make someone listen. You decided that before you walked over there. You decided it before you decided to go. You decided it on Day One, when you sat at your window and watched Lisa Anderson get taken and said 'I'm fifteen and I weigh a hundred and eighty pounds' like those numbers were a verdict instead of a starting point."
 
-I stopped walking. She stopped with me.  She didn't know I had already given myself this talk.
+I stopped walking. She stopped with me.
 
 "I couldn't save Lisa Anderson." It came out of me automatically, an old habit. I hated it.
 
@@ -3736,13 +3720,13 @@ I stopped walking. She stopped with me.  She didn't know I had already given mys
 
 "It was mine. The Lyles —"
 
-"Yes. It was yours. And mine. And Jim's. And everyone's who saw what was coming and accepted Craig's 'no' like it was the end of the conversation." She looked at me and her eyes were fierce and wet at the same time. "In the best case scenario, Nate — the absolute best case — everything that goes wrong is your fault. Because if it's your fault, that means you had the power to prevent it, which means you have the power to do better next time. If nothing is your fault — if you're just a fat fifteen-year-old kid who can't run and can't help and can't change anything — then you're powerless. And you're not powerless. You're the person who figured out what's happening when the entire rest of the world couldn't. So stop building the case for why you can't do things and start building plans for how to do them better."
+"Yes. It was yours. And mine. And Jim's. And everyone's who saw what was coming and accepted Craig's 'no' like it was the end of the conversation." She looked at me and her eyes were fierce and wet at the same time. "In the best case scenario, Nate — the absolute best case — everything that goes wrong is your fault. Because if it's your fault, that means you had the power to prevent it, which means you have the power to do better next time. If nothing is your fault — if you're just a fat fifteen-year-old kid who can't run and can't help and can't change anything — then you're powerless. And you're not powerless. You're the person who figured out what's happening when the entire rest of the world couldn't. You already know all this. I told you in a steeple and you agreed with me and then you went and did it again."
 
 The Turned in the parking lot swayed. A bird — an actual bird, a real one, alive — crossed the parking lot and landed on the church sign. We stood in the gravel and my lungs burned and my legs ached and the thing Sienna had just said was sitting in my chest like a stone, heavy and cold and true.
 
 But true in a way she didn't intend. She meant: *be brave. Try harder. Take responsibility.* She was talking to the passive boy who watched from windows and decided the odds weren't worth it. She was right about that boy. But the boy standing next to her was holding an anger she couldn't see, and her words were landing in it like stones in a furnace.
 
-*Stop building the case for why you can't do things.* Yes. Stop being weak. Stop flinching. The Turned want to eat you, and what was human in them is gone, and mercy is the comfortable lie, and the comfortable lie will get you killed.
+*You did everything you were comfortable doing.* Yes. Stop being weak. Stop flinching. The Turned want to eat you, and what was human in them is gone, and mercy is the comfortable lie, and the comfortable lie will get you killed.
 
 *You sat at your window and watched Lisa Anderson get taken.* Yes. I sat. I calculated. I was too slow, too soft, too willing to be comfortable while the world burned. I deserved the pain in my legs and the burning in my lungs and the chafing and the exhaustion because the pain was what I'd earned by being the version of myself that sat and watched.
 
@@ -3893,7 +3877,7 @@ The order of march: Marcus in front, because he'd crossed these ridgelines by ro
 
 Then me.
 
-I was last because I was slowest. Physics. A hundred and eighty pounds going uphill on legs that had never climbed anything steeper than the stairs to the school library, with thirty-two pounds of pack shifting on my back like a drunk passenger. The hip belt dug into the tops of my hip bones — a grinding pressure that started as discomfort and became pain within the first half mile. The shoulder straps pulled backward, hauling at my collarbones, making me lean forward on the uphills until my center of gravity was somewhere in front of my knees and every step felt like catching a fall.
+I was last because I was slowest. Physics. Going uphill on legs that had never climbed anything steeper than the stairs to the school library, with thirty-two pounds of pack shifting on my back like a drunk passenger. The hip belt dug into the tops of my hip bones — a grinding pressure that started as discomfort and became pain within the first half mile. The shoulder straps pulled backward, hauling at my collarbones, making me lean forward on the uphills until my center of gravity was somewhere in front of my knees and every step felt like catching a fall.
 
 Jim caught up with me on the second switchback. He was breathing hard — seventy-three years old, bad knees, carrying twenty pounds — but he was walking with the economy of a man who'd done this before. He had. Fort Benning, 1971. He'd never talked much about the Army, but the trail brought it out of him the way the church had brought out his faith: automatically, without thinking.
 
@@ -4023,7 +4007,7 @@ I almost told her. Almost said: *I'm angry all the time and the anger is the onl
 
 She studied me. Then she let it go — not because she believed me, but because she understood that pushing wouldn't work. Not tonight. She settled her head back against my shoulder and stayed.
 
-I am putting this in the journal because it should contain the truth: I was sitting on a rock in the Boston Mountains at eleven o'clock at night with a girl's head on my shoulder and the Milky Way overhead and I was happy. Briefly, illogically happy. The anger was still there underneath, patient and dense. The happiness passed. The anger didn't. Both things on the record.
+I was sitting on a rock in the Boston Mountains at eleven o'clock at night with a girl's head on my shoulder and the Milky Way overhead and I was happy. Briefly, illogically happy. The anger was still there underneath, patient and dense. The happiness passed. The anger didn't. Both things on the record.
 
 I wrote by firelight. The notebook was wrinkled from the septic tank and smelled faintly of things I wouldn't name. The pen was a ballpoint from Ruth's purse. The fire popped and the smoke rose and the stars were out and behind us the trail continued into the dark, climbing the next ridge, and the next, and the next.
 
@@ -4100,13 +4084,9 @@ But the body lies in the morning. It says *you can't do this.* You do it anyway,
 
 ---
 
-Days on the trail settled into a relentless rhythm.
+Days on the trail settled into a relentless rhythm, and the rhythm was mostly about food and feet.
 
-The mornings were the same: stiff, cold, sore. Pack up the tarps and pads, stuff the sleeping bags, eat something — usually a handful of trail mix or a packet of instant oatmeal cooked on the camp stove with creek water. Never enough. The food was never enough. Freeze-dried meals were light and compact and tasted like salted nothing and the portions were designed for recreational hikers who would eat a real dinner afterward, not for people whose dinner was another freeze-dried packet. Ramen noodles were the staple — ten for a dollar at any grocery store before the world ended, weightless in the pack, and hot, which mattered more than flavor when the temperature dropped after sunset. We ate ramen until the sodium bloated our fingers and the smell of the seasoning packets became its own kind of nausea. We ate everything heavy first — the canned goods that had survived the gear purge, the denser bars — to lighten the packs as quickly as possible. By Day 6, the packs were lighter. The hunger was not.
-
-All you think about when you're walking is food. What you ate, what you'll eat, what you wish you were eating. Marcus talked about truck-stop diners — chicken fried steak, mashed potatoes, coffee that was always too hot and never strong enough. Ruth described Leonard's meatloaf in a level of detail that should have been illegal. Caleb requested, repeatedly, "chicken nuggets shaped like dinosaurs." The conversations happened on the downhill, when breathing was easier. On the uphills, nobody spoke.
-
-The trail was roots and rocks and more roots. The white blazes — aluminum diamonds nailed to trees — marked the path, and Marcus read them instinctively, the way he read road signs. Where the blazes faded or the path split, he stopped and studied the ground — boot prints, worn bark, the subtle compression of soil that said *people walked here* — and chose, and was always right. The trail crossed creeks every few miles, sometimes on stepping stones, sometimes on fallen logs, sometimes through the water itself.
+The food was never enough. Freeze-dried meals are portioned for recreational hikers who will eat a real dinner afterward, and ramen is weightless and hot and turns your fingers into sausages by the second week. We ate the heavy things first to lighten the packs. By the sixth day the packs were lighter and the hunger was not. All you think about when you're walking is food — what you ate, what you'll eat, what you wish you were eating. Marcus wanted chicken fried steak. Ruth described Leonard's meatloaf in a level of detail that should have been illegal. Caleb requested, repeatedly, "chicken nuggets shaped like dinosaurs." Those conversations happened on the downhills. On the uphills nobody spoke.
 
 The creek crossings became ritual, and the ritual was Jim's. He'd established it at the first crossing on Day 1, before any of us had thought about it, with the quiet authority of a man reciting something he'd learned fifty years ago and never unlearned. Stop. Remove shoes and socks. Bag your dry clothes. Cross barefoot or in camp sandals, using the hiking poles for balance, helping each other across. Dry your feet — thoroughly, between the toes — check for cuts, hot spots, anything red. Put on dry socks. Carefully. No wrinkles, no pebbles, because a wrinkle in a sock becomes a blister in a mile and a blister becomes the difference between making distance and not.
 
@@ -4370,7 +4350,7 @@ In the morning the world was slightly less wrong than it had been the night befo
 
 *The worst thing that happened to Dale gave him the exact skills this world requires. Wrong reasons. Right answers. The pattern holds.*
 
-*The forest is beautiful. I want that recorded because the journal has been a catalog of horrors and the forest deserves better. The oaks are bronze. The ridgelines are blue. The air tastes like nothing and nothing is the best thing I've tasted in a month.*
+*The forest is beautiful. The journal has been a catalog of horrors and the forest deserves better. The oaks are bronze. The ridgelines are blue. The air tastes like nothing and nothing is the best thing I've tasted in a month.*
 
 *I told Marcus we had to kill the hunter. The decision was correct. But I wanted it. When I said "we have to kill him," the emphasis in my head was on "kill," not "have to." I hated it and it felt satisfying and both of those are true at the same time. Somewhere between the necessity and the satisfaction there is a line and I don't know which side I'm facing. The person on the wrong side of it is not someone my mother would recognize.*
 
@@ -4635,7 +4615,8 @@ I ran.
 
 I ran like a child runs — blind, graceless, crashing through the scrub oak and the dead leaves and the winter brush on the hillside, away from the compound and the wire and the blood and the sounds and Sienna's face and Dale's hand and everything I had done and everything I had become. I ran into the woods because the woods were the only place that wasn't the roadblock and I needed to not be at the roadblock. The branches caught my face, my arms, the cuts from the wire opening again, and I didn't care. I ran until my legs gave out and then I crawled and when I couldn't crawl I stopped and I was somewhere in the Ozark woods, on the ground, alone, and the sounds were still coming out of me and I couldn't make them stop.
 
----
+
+# Chapter 22: What It Cost
 
 Sienna found me.
 
@@ -4693,7 +4674,7 @@ This was the first thing I'd written since the hillside. The machinery had been 
 
 *After the second wave I looked at Sienna and she was looking at me and the thing in her face was — I am not going to write what it was. I know what it was.*
 
-*I broke. I should record that. The analytical machinery failed and what came out was not data. Sienna came after me and we sat in the dirt for hours and that is all you need to know.*
+*I broke. The analytical machinery failed and what came out was not data. Sienna came after me and we sat in the dirt for hours and that is all you need to know.*
 
 *Jim wouldn't look at me during dinner. Marcus gave me a cup of water and said "drink this" the way you talk to someone in shock, because I was.*
 
@@ -4735,7 +4716,8 @@ This was the first thing I'd written since the hillside. The machinery had been 
 
 *The envelope is closed. What's inside stays inside. I am walking north.*
 
----
+
+# Chapter 23: The Man With the Clipboard
 
 The next day we found the town.
 
@@ -4884,7 +4866,7 @@ I looked back once. The man on the roof was watching us go. The rifle was still 
 The world would come.
 
 
-# Chapter 22: Mom
+# Chapter 24: Mom
 
 Day 39. The highway was flat and empty and there was nothing to think about except the things I'd been refusing to think about for fifteen days.
 
@@ -4961,7 +4943,7 @@ I took the binoculars and walked. Back up the highway. Back the way we'd come. B
 ---
 
 
-# Chapter 23: Nate Walks
+# Chapter 25: Nate Walks
 
 I was not in distress.
 
@@ -5116,7 +5098,7 @@ After that the days come apart. I've tried to reassemble them and I can't. The p
 Two days. Somebody kept me walking. I wasn't the one doing it.
 
 
-# Chapter 24: Sienna Stops
+# Chapter 26: Sienna Stops
 
 *Third-person interstitial.*
 
@@ -5201,7 +5183,7 @@ Nate wrote nothing in the journal about that night. Some things belonged to the 
 ---
 
 
-# Chapter 25: What Dale Learned
+# Chapter 27: What Dale Learned
 
 I came back slowly. From a state where you stop being the person who processes and become the person who is processed. I'd been there for two days and I don't remember much of it except Sienna's hand and Jim's shoulder and Caleb putting the beagle in my lap.
 
@@ -5217,7 +5199,7 @@ Jim came through with Caleb. Caleb sat beside me and leaned against my arm and s
 
 What Caleb doesn't know is that he cries in his sleep. Every night. Small, hitching sounds. He never remembers in the morning. Jim holds him through it, one hand on Caleb's back, not waking him, because waking him would mean explaining and explaining would mean making it real. The mercy, for now, is that Caleb's grief lives only in his sleep where he can't see it. None of us mention it. We lie in our sleeping bags and listen to a seven-year-old cry for parents he hasn't talked about since Week Two and we say nothing.
 
-These are the moments that don't make the journal entries. The tea. The rock. The sound of Ruth turning pages. They happened between the crises the way grass grows between stones. I want you to know about them because the version of this story that only contains fear and strategy and running is not the true version. The true version has chamomile tea in it. The true version has a seven-year-old showing you a rock.
+These are the moments that don't make the journal entries. The tea. The rock. The sound of Ruth turning pages. They happened between the crises the way grass grows between stones. The version of this story that only contains fear and strategy and running is not the true version. The true version has chamomile tea in it. The true version has a seven-year-old showing you a rock.
 
 Dale was sitting across from me at the fire, carving. The turtle was nearly finished — the hexagonal plates of the shell emerging with clean, precise strokes. His hands were steady. They'd been steady for days now, the withdrawal broken back around the tenth day on the trail, but I was only now seeing it properly because I'd been inside my own weather system and had stopped noticing anything outside it.
 
@@ -5239,19 +5221,11 @@ So Dale taught while we walked.
 
 We broke camp and continued north on the highway, the terrain opening as the mountains fell behind us. The first lesson came on the first grade — not steep, but enough that my breathing deepened and I felt the old pattern stirring, the anger looking for something to push against.
 
-"Radical acceptance," Dale said, walking beside me, pushing a shopping cart over cracked asphalt. "The name is terrible. It sounds like a bumper sticker. But it's the most useful thing I ever learned." He was breathing hard — the grade — but his voice was steady. "Here's what it means. The situation is what it is. Your feelings about the situation are not the situation. You can feel like this hill is going to kill you and still be walking up it. The feeling is weather. The hill is geography. You navigate the geography. You endure the weather."
+"Radical acceptance," Dale said, walking beside me, pushing a shopping cart over cracked asphalt. "The name is terrible. It sounds like a bumper sticker. But it's the most useful thing I ever learned." He was breathing hard — the grade — but his voice was steady. "The situation is what it is. Your feelings about the situation are not the situation. You can feel like this hill is going to kill you and still be walking up it. The feeling is weather. The hill is geography. You navigate the geography. You endure the weather."
 
 Ruth, from behind us: "That's remarkably coherent for someone who learned it in a rehabilitation clinic."
 
-"Rehab was the most educational experience of my life. More than high school. More than the army. Six years of active addiction was its own education, but the curriculum was pain and the degree was worthless." He almost smiled. "In rehab I learned that the brain lies. Not maliciously — the brain lies the way a GPS lies when the map is outdated. It gives you directions based on old data. 'Turn left to feel better.' 'Use this substance to stop the pain.' 'Run from the thing that scares you.' The directions were correct in the old world. In this world, the directions will kill you."
-
-He went quiet on the steeper pitch — nobody talks on the steep parts — and picked it up on the next flat stretch.
-
-"Urge surfing. When the urge comes — the craving, the fear, the panic — you don't fight it. You ride it. You notice it: 'My heart rate is up. My hands are sweating. My brain is telling me to run.' Like a wave. The wave is real. The wave has power. And the wave passes. Every wave passes. You just have to not drown, and not drowning is mostly about not panicking."
-
-Marcus, pushing his cart over a pothole: "That sounds like something I should have heard twenty years ago."
-
-"It sounds like something everyone should hear. The recovery community figured out the mechanics of emotional regulation before the neuroscientists did. We had to — our lives depended on it. And now everyone's life depends on it and the irony is —" He glanced at his hands on the cart handle. Steady. "The irony is that the thing that destroyed me is the thing that trained me. Six years of addiction gave me the problem. Twelve years of recovery gave me the skills. And the skills are the exact skills you need to survive a pathogen that feeds on fear."
+"Rehab was the most educational experience of my life. More than high school. Six years of active addiction was its own education, but the curriculum was pain and the degree was worthless." He almost smiled. "What I learned there is that the brain lies. Not maliciously — the way a GPS lies when the map is outdated. It gives you directions based on old data. Turn left to feel better. Use this to stop the pain. Run from the thing that scares you. The directions were correct in the old world. In this world, the directions will kill you."
 
 We stopped for water at a pull-off where the highway widened. Caleb sat on the guardrail, arranging his wooden animals in a line — beagle, cardinal, fox, turtle, chicken, chicken, chicken — and the line looked like a parade going somewhere hopeful.
 
@@ -5287,6 +5261,10 @@ Dale looked at Jim. Two men who had spent their lives in folding chairs — one 
 
 *I'm not going to stop being funny about it. The humor is mine. But I'm going to stop using it as a door I hide behind. Sienna opened that door. I'm walking through.*
 
+*I'm scared. My resting heart rate is 72. The gap is smaller than it used to be. I'm using Dale's techniques — noticing the fear, not fighting it, not riding it, just noticing. The fear is weather. The city is geography. I navigate the geography.*
+
+*I navigate the geography.*
+
 ---
 
 After the stop, Dale walked near the front, pushing one of the shopping carts. His pace was steady — the walk of a man who had come through the worst of it and was standing on the other side. The road descended through the last of the switchbacks toward the broad plateau where Fayetteville sat. Maria walked behind him, and I noticed that she wasn't walking behind him to support him. He was setting the pace and she was following it. The dynamic between them had shifted from "managing the addict" to "walking with the man," and neither of them acknowledged it.
@@ -5311,18 +5289,8 @@ I nodded. Ten miles. The last stretch. But between us and the university — wha
 
 Marcus nodded. We walked on. The highway dropped toward the city and the sky widened above us and somewhere ahead, past whatever waited on the outskirts of Fayetteville, was the university and Dr. Moss and the sound of a frequency that kept the Turned at bay.
 
-**JOURNAL ENTRY #18:**
 
-*Dale is through the withdrawal. Steady hands. Steady voice. Sixteen days past his last Suboxone and he's alive and functioning and the reason he's alive is twelve years of sitting in folding chairs and not doing the thing his brain told him to do.*
-
-*He taught us radical acceptance. The situation is what it is. Your feelings about the situation are not the situation. This is the most useful sentence I've learned since "the mechanism is adrenaline," and it's more important because it applies to everything — not just the Turned, not just survival, but the grief and the fear and the fact that my mother is standing in a parking lot in Clarksville and I can't save her and the feeling of that is not the thing itself.*
-
-*I'm scared. My resting heart rate is 72. The gap is smaller than it used to be. I'm using Dale's techniques — noticing the fear, not fighting it, not riding it, just noticing. The fear is weather. The city is geography. I navigate the geography.*
-
-*I navigate the geography.*
-
-
-# Chapter 26: The Herd
+# Chapter 28: The Herd
 
 From the last rise on Highway 71, where the road crested a hill and the landscape opened into the broad plateau south of Fayetteville, I looked through the binoculars and saw a forest that hadn't existed six weeks ago.
 
@@ -5532,7 +5500,7 @@ Jim prayed. It was the shortest prayer he'd ever said: "Thank you." Two words. T
 
 I wrote under the lights — actual electric lights, the first I'd written under since the trailer. The notebook was nearly full. I'd need a new one soon. The university had notebooks. The university was real. We were inside it.
 
-**JOURNAL ENTRY #19:**
+**JOURNAL ENTRY #18:**
 
 *A fourth behavioral state — not herding, not swarming, not hunting. Rooting. The oldest Turned have stopped moving entirely. Their feet are in the ground. Their skin is dark grey-green. They face the sun. And they're connected — vine-like root structures running between them through the soil, linking body to body in a visible network. A colony, like coral, like fungus, like something that has no good analogy because nothing on Earth does this with human bodies.*
 
@@ -5579,7 +5547,7 @@ I wrote it down. I underlined it. I had no interpretation. But for the first tim
 ---
 
 
-# Chapter 27: The Frequency
+# Chapter 29: The Frequency
 
 Dr. Eleanor Moss. Young, maybe thirty, short black hair, glasses, the lab coat over a flannel shirt and jeans. She was thin — too focused to eat properly for weeks, probably. Her eyes were sharp and tired and she had a permanent squint, the kind you get from living inside a noise that never stops.
 
@@ -5603,7 +5571,7 @@ Moss gave us the science that night.
 
 We sat in a seminar room — the kind with tiered seating and a whiteboard and a projector that no longer worked. Moss stood at the whiteboard with a dry-erase marker and drew diagrams that I photographed with my eyes because my notebook was almost full and I was rationing pages.
 
-"The organism is triggered by sustained elevation of catecholamines — epinephrine, norepinephrine — above a threshold of approximately three hundred picograms per milliliter for a sustained period of roughly two minutes," she said. "You've already figured out most of this. Your journal —" She looked at me. Marcus had radioed ahead. She'd been expecting us. "— your journal describes the mechanism with remarkable accuracy for someone working from a nursing textbook and direct observation."
+"The organism is triggered by sustained elevation of catecholamines — epinephrine, norepinephrine — above a threshold of approximately three hundred picograms per milliliter for a sustained period of roughly two minutes," she said. "You've already figured out most of this. Your journal ," She looked at me. Marcus had radioed ahead. She'd been expecting us. ", your journal describes the mechanism with remarkable accuracy for someone working from a nursing textbook and direct observation."
 
 "I was wrong about some things."
 
@@ -5625,23 +5593,13 @@ Jim, from the back row: "Where?"
 
 "I don't know. I have a hypothesis I'm not willing to broadcast because the hypothesis is speculative and I've watched enough misinformation kill people in the last six weeks to last several lifetimes." She put the marker down. "What I can tell you is this: the organism communicates. The Turned coordinate because the organism synchronizes their behavior through a biochemical signaling network that functions like a distributed nervous system. The frequency —" She gestured upward, toward the emitter on the roof. "— disrupts that synchronization. It's the biological equivalent of jamming a radio signal. I reverse-engineered it from the organism's own communication patterns."
 
-She drew a new diagram — four columns, labeled.
+She drew a new diagram — four columns — and wrote them out: *Herding. Swarming. Hunting. Rooting.*
 
-"Behavioral states. You've identified three in your journal: herding, swarming, and hunting. There's a fourth." She wrote them: *Herding. Swarming. Hunting. Rooting.* "Herding is the reproductive strategy — fear-farming, the conversion cycle, patient and coordinated. Swarming is the density-collapse behavior — the threshold event, uncontrolled destruction. Hunting is the caloric strategy — food-driven, directed, problem-solving. Small groups, coordinated by a distinct acoustic signal."
+"You have three of these in your journal. I'm not going to walk you through your own observations." She tapped the fourth column and left it. "What I can give you is the part you couldn't see from a steeple."
 
-"'Uncontrolled destruction' is an understatement," I said. "I watched a house come apart in under a minute. A fortified house — boarded windows, barred doors, a man with guns and supplies and a plan. The swarm didn't breach the defenses. It erased them. The walls came in. The people inside —" I stopped. "If you put that in a bulletin and someone hears 'uncontrolled destruction' and thinks they can ride it out behind a barricade, they'll die. Everyone who fortified died. The swarming isn't a behavior. It's a demolition."
+"The bark," I said. "The short one. It's a hunting call — but it also fires when a Turned is attacked. We watched a woman make it when a cat scratched her."
 
-Moss looked at me for a long moment. Then she turned back to the board and crossed out *uncontrolled destruction* and wrote, in smaller letters: *total structural demolition — no fortification observed to survive.*
-
-"Better," I said.
-
-"The bark," I said. "Short, sharp. We heard it at the interchange. And at a church — a Turned killed a cat and made the sound and another Turned a block away oriented immediately."
-
-"That signal is a dedicated hunting call. It activates other Turned within auditory range as hunters — directed, aggressive, food-motivated. Critically —" She underlined something on the board. "— the hunting state is also triggered by attack. If a Turned is struck, threatened, physically engaged, it switches to hunting mode and produces the call. The implications for armed defense are significant. Every shot fired at a Turned potentially activates every Turned within earshot as hunters. The military checkpoints failed in part because the gunfire was triggering mass hunting activation on top of the density-threshold swarm."
-
-She paused.
-
-"Hunting is metabolically driven. As caloric resources deplete — and they are depleting — hunting becomes the dominant behavior. The emitter disrupts herding and swarming coordination effectively. It's less effective against hunting because hunting is metabolically motivated, not communicatively motivated. A hungry Turned at the perimeter is testing the frequency edge not because the collective is directing it but because its individual caloric need is overriding the discomfort."
+"Correct, and the implication is the one that killed the checkpoints. Every shot fired at a Turned converts every Turned in auditory range into a hunter, on top of whatever the density is already doing. The military didn't lose those positions to a swarm. They lost them to a swarm *and* a mass hunting activation they triggered themselves, simultaneously." She underlined it. "Hunting is metabolically driven, not communicatively driven — which is why the emitter is less effective against it. I can jam a signal. I can't jam a stomach."
 
 She drew another diagram — a cross-section of skin.
 
@@ -5695,7 +5653,7 @@ I looked at it. Moss saw me looking. She didn't explain.
 
 That night, in a dormitory room on the second floor with the frequency humming in the walls and a headache that would become permanent, I opened the notebook to the last empty page.
 
-**JOURNAL ENTRY #20:**
+**JOURNAL ENTRY #19:**
 
 *We made it.*
 
@@ -5709,7 +5667,7 @@ That night, in a dormitory room on the second floor with the frequency humming i
 ---
 
 
-# Chapter 28: The Archive
+# Chapter 30: The Archive
 
 ## ACT FOUR: INHERITANCE
 ### *"I survived. I wish that felt like enough."*
@@ -5788,7 +5746,7 @@ She read it. Thirty seconds.
 
 That evening, in the seminar room, I opened the journal to the entry about the fortified group on Highway 71 — the nine survivors in the gas station, the barbed wire between the pumps, the woman with the shotgun who wouldn't leave. I reread it. Then I turned to a fresh page — the last fresh page — and wrote:
 
-**JOURNAL ENTRY #21:**
+**JOURNAL ENTRY #20:**
 
 *Dr. Moss wants me to compile a guide. A manual for surviving a world that punishes courage and rewards caution. She says my journal is the model — the process, not the conclusions. How I figured out what I got wrong.*
 
@@ -5803,7 +5761,7 @@ That evening, in the seminar room, I opened the journal to the entry about the f
 *I'm scared of the microphone more than I was scared of the septic tank. At least the septic tank was private.*
 
 
-# Chapter 29: Inventory
+# Chapter 31: Inventory
 
 Day 45. I took inventory.
 
@@ -5988,7 +5946,7 @@ I looked at her. She looked at me. The hallway was empty and the emitter hummed 
 ---
 
 
-# Chapter 30: A Fearful Heart
+# Chapter 32: A Fearful Heart
 
 I told him on the Thursday, which was Day 48, standing in the corridor outside the lab while he had his hand on the door frame and was pretending that was a thing people do.
 
@@ -6237,7 +6195,7 @@ I did not give it a number. The numbered entries are a document; Moss is going t
 I don't know whether I am entitled to write that last word. I wrote it anyway. It is the only thing in six weeks I have put in that notebook that was not for anybody's survival, and I have read it more times than any page I have ever written.
 
 
-# Chapter 31: The Broadcast
+# Chapter 33: The Broadcast
 
 The radio room was on the third floor of the science building — a converted communications lab with a transmitter that Moss's engineering grad student had boosted to broadcast over fifty miles. Far enough to reach the river valley. Far enough to reach anyone still listening in the towns and homesteads and hiding places scattered across the Ozarks.
 
@@ -6313,7 +6271,7 @@ I picked up the microphone.
 ---
 
 
-# Chapter 32: The Journal
+# Chapter 34: The Journal
 
 Day 53.
 
@@ -6345,7 +6303,7 @@ I picked up the pen.
 
 ---
 
-**JOURNAL ENTRY #22:**
+**JOURNAL ENTRY #21:**
 
 *I survived. Not because I was brave or strong or smart. I survived because I was slow, and I was scared, and I paid attention. That's not a hero's story. The world doesn't need hero stories anymore. It needs notes.*
 

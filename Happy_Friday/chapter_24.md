@@ -1,83 +1,75 @@
-# Chapter 24: Sienna Stops
+# Chapter 24: Mom
 
-*Third-person interstitial.*
+Day 39. The highway was flat and empty and there was nothing to think about except the things I'd been refusing to think about for fifteen days.
+
+The mountains were behind us. The trail was behind us. The roadblock was behind us — the razor wire and the three hundred people I'd killed by borrowing a wolf-hunting technique. The fortified group was behind us — nine people in a gas station who wouldn't leave. All of it was behind us and we'd carry it for the rest of our lives.
+
+Highway 71 stretched north in a straight line, flat, featureless, the kind of road that gives the mind nothing to hold onto. No switchbacks. No creek crossings. No rocks to navigate or hills to climb. Just asphalt and sky and the rattle of shopping cart wheels and a steady rhythm of walking that required no thought. When the machinery has nothing to process, it idles. When it idles, the things it's been holding back seep through.
+
+I was tired. Not the productive tiredness of trail days. This was cumulative — built in layers like sediment: weeks of insufficient food on top of blisters that had healed and re-opened and healed again on top of a month of sleeping on the ground on top of three hundred people shredded on razor wire on top of everything else. Everything else being: a woman in blue scrubs in a hospital parking lot in Clarksville, standing with bare feet and nothing behind her eyes. My mother. I'd opened that sealed envelope in the truck with Marcus and had been carrying it open ever since — visible, unbearable, following me through sixty miles of trail and thirty miles of highway like a weight heavier than the pack.
+
+The analytical machinery had been carrying it — taking the unbearable thing and converting it into data, filing it, processing it into something manageable. Running nonstop since Clarksville. Since I saw her face and Marcus kept driving and I said "I see her" and the words were data and the container held.
+
+The container held through the first days on the trail, when the physical suffering was new enough to occupy the machinery's full capacity. Through the creek crossings and the gear discarding and the nightly inventory of blisters and the obsessive management of socks and the slow adaptation of a body that had never been asked to do anything like this. Through Dale's withdrawal peaking and breaking. Through the Rock House Shelter, where we'd slept dry and warm and I'd almost felt something like peace. Through the stray Turned hunter in the woods, nocking his invisible arrow, who reminded me that the organism took everyone — hunters and nurses, fathers and mothers, people who had been people. Through the roadblock, where I became the kind of person who engineers a wolf knife out of razor wire and walks through the results. Through the gas station, where I watched myself fail to save people for the third time and understood that the pattern would repeat forever.
+
+The container held because the machinery was running. And on Day 39, on a flat stretch of highway with nothing to think about, the machinery stopped.
+
+Not dramatically. Just a quiet failure, like a generator running out of fuel. One moment I was walking and processing and carrying the weight in its compartment. The next moment the compartment was open and the weight was everywhere — in my legs, in my lungs, in the flat grey light of a December afternoon, in the sound of my own breathing, in the empty highway that stretched in both directions like a sentence with no end.
+
+I stopped on the highway. The group moved on for a few steps. Sienna noticed first — she always noticed first.
+
+I was standing on the asphalt and I was not moving because there was nowhere to move to. Every direction was away from her. The distance that mattered was temporal, irreversible — between a kitchen where she poured coffee and a parking lot where she stood with bare feet. No amount of walking would close it.
+
+"Nate," Sienna said.
+
+I looked at her. She was tired — they all were, the highway's flatness and monotony grinding something that switchbacks and creek crossings at least distracted you from. She looked at me and she saw it. She always saw it.
+
+I didn't say anything. The highway said it for me — stretching in both directions, flat and empty and indifferent, and the emptiness was the truest thing about the world.
+
+Sienna took my hand.
+
+She had never done this before. In five weeks of proximity and argument and whatever we were becoming, she had touched my elbow twice and my arm once, each time brief and functional. This was different. Her fingers between my fingers. Her grip firm and warm. She was holding me in the world by the specific physical fact of her hand.
+
+We stood there. On the highway. Five minutes or five hours.
+
+Then we walked on. Because walking was the only verb left.
 
 ---
 
-Nate woke because the silence changed.
+I didn't write in the journal that night. I sat by the fire at the roadside camp and said nothing and ate nothing and everyone left me alone because they understood. Caleb brought me the wooden beagle and put it in my lap without a word and went back to Marcus's side.
 
-Not the ambient silence — the highway silence, the wind-through-dead-cars silence that had become the sound of sleep. This was a subtraction. Something that had been there was gone. He lay still for three seconds, cataloguing: fire (coals, low), wind (north, steady), breathing (six sources, not seven).
+Two days later I opened the notebook.
 
-Sienna's sleeping bag was empty.
+**JOURNAL ENTRY #16:**
 
-He sat up. Marcus was on watch — seated on the retaining wall, crossbow across his knees, scanning the dark. He saw Nate and tilted his head south. The direction Sienna had gone.
+*She would have been scared. At the end. She would have been so scared.*
 
-"Ten minutes," Marcus said. Quiet. "She's walking the shoulder. Didn't take anything."
+---
 
-Nate pulled on his shoes. He didn't take the binoculars or the hatchet or the notebook. He took nothing because what Sienna needed was not a tool.
+That night I dreamed she was fine.
 
-He found her a quarter mile south, sitting on the guardrail above the drainage ditch. Not walking — sitting. Her knees were pulled up and her arms were wrapped around them and she was staring south down the highway toward nothing, toward Oklahoma, toward the place her parents had been driving when the world changed.
+The real one. The kitchen in the trailer, 6 PM on a Thursday, still in her scrubs because she'd worked a double and hadn't changed. Making coffee she shouldn't have been drinking that late. The radio on the counter playing something country and terrible that she loved. The particular way she leaned her hip against the counter while the pot brewed — the posture of a woman who had been on her feet for sixteen hours and was going to be on them for eight more because I had a dentist appointment in the morning and she wanted to make sure I ate breakfast before we left.
 
-She heard him coming. She didn't turn.
+"Happy Friday, bud," she said.
 
-He sat on the guardrail beside her. Not close enough to crowd. Close enough to matter. He'd learned this from her — from the hours in the woods after the roadblock, from every time she'd walked near him on the trail without speaking, from the way she had sat down beside him on the center line of Highway 71 the night before, looked once at the hatchet across his knees, and then said nothing at all until he was ready to stand up. She had taught him what presence looked like. He was returning the lesson.
+And it was right. It was *her* — the voice, the cadence, the way the words carried the weight of a person who said them every week because the saying was a ritual and the ritual was love and the love was the thing she'd built our whole small life around. It was the realest thing I'd dreamed since the world ended. Not the nightmare versions — not the too-wide smile, not the Knock-voice bleeding through — just my mother, in our kitchen, saying the thing she always said.
 
-They sat. The highway stretched south in the starlight — a gray ribbon between dark mountains, the abandoned cars like sleeping animals, the guardrail cold under their hands. Somewhere far to the south and then west, across mountains and rivers and the ruined infrastructure of a civilization that had stopped functioning six weeks ago, was Oklahoma City. Was a grandmother's house. Were two parents who had kissed their daughter on the forehead and said *lock the door* and driven into a night that never ended.
+I said, "It's Thursday, Mom."
 
-"I can't do it anymore," Sienna said. Her voice was flat. Not angry, not tearful — flat. The voice of a runner who has hit the wall and knows it.
+"Close enough," she said, and smiled, and poured two cups, and the dream was so ordinary and so perfect that I would have lived in it forever.
 
-Nate waited.
+Then I was outside.
 
-"The lie. The one I told you about — that they're alive. That my parents are alive in Oklahoma and everything is fine and I just have to get to Fayetteville and then somehow get to them." She stared south. "I've been telling myself that every morning for six weeks. Every morning I wake up and I rebuild it and I carry it all day and at night I put it down and in the morning I pick it back up and it's heavier every time. And today —"
+Just outside, in the parking lot in Clarksville, at night, and the kitchen window was a hospital window three stories up and she was standing behind the glass. Still in scrubs. Still holding the coffee. But her face was wrong — smooth, blank, the expression I'd seen on two hundred Turned and had seen on her, across the parking lot, the day Marcus kept driving. Her mouth moved. No sound through the glass. She put her hand against the window, palm flat, fingers spread.
 
-She stopped. Her jaw was tight. She was holding something back with the same discipline she'd used to sprint through Turned to reach Caleb, the same controlled power that made her fast and sure and the person the group trusted to close the distance when the distance mattered.
+I put my hand against the glass. I couldn't not. The glass was warm.
 
-"Today I saw those hands on the wire," she said. "And I thought: those are someone's parents too. Every single one of them. Someone's mother, someone's father, someone who kissed their kid on the forehead and said *lock the door.* Three hundred of them. And I looked at the wire and I thought — what if they're in wire somewhere? What if the thing I've been telling myself is a lie and the truth is that my parents are in a ditch in Oklahoma or tangled in something or standing in a parking lot with bare feet and smiles that aren't theirs and I'm up here on a hillside watching a fifteen-year-old play Taylor Swift for a massacre?"
+I woke walking.
 
-Her voice cracked on the last word. Not loudly — Sienna didn't do loudly. The crack was small and controlled and devastating, the sound of a bridge cable snapping under load while the rest of the bridge held.
+I was ten feet from my sleeping bag, moving past the dying campfire toward the highway, and my heart was at 118 and I didn't know where I was or when I was or whether the glass had been real. My hand was still raised, palm out, reaching for a window that wasn't there.
 
-Nate said: "The lie is heavier when you carry it alone."
+I didn't go back to the sleeping bag. The dream was still in the air — the *good* part, the kitchen and the coffee and her voice — and going back to sleep meant either returning to it or losing it and I couldn't survive either one.
 
-She looked at him. First time. Her eyes were wet and furious — furious at herself for cracking, furious at the world for being a place where seventeen-year-olds sat on guardrails in the dark wondering if their parents were dead.
-
-"I've been carrying mine for a little over two weeks," he said. "My mother. The parking lot. The anger." He paused. "I put it down yesterday. Not the grief — the grief stays. You don't put down grief. But the lie I was telling myself — that the anger was useful, that it was fuel, that I could run on rage and never pay for it — that lie almost killed me. It killed three hundred people on a highway."
-
-Sienna wiped her face. Quick, angry, the same gesture she'd made on the hillside.
-
-"You don't have to decide tonight," Nate said. "Whether they're alive or dead. You don't have to decide at all. You can carry the not-knowing without turning it into a story. The story is what's heavy — the lie or the truth, either one. The not-knowing is lighter because it's honest."
-
-"Since when are you a therapist?"
-
-"Since Dale taught me HALT and Jim taught me patience and you taught me that sitting next to someone in the dark is more useful than solving the problem."
-
-She almost smiled. But instead turned away.
-
-They sat on the guardrail for a long time. The stars moved. The wind came through the cut in the mountains and carried the smell of cold rock and dead leaves and the faint, distant smell of the roadblock they'd left behind, the smell that would take weeks of rain to wash from the asphalt.
-
-"My mom's name is Denise," Sienna said. Quiet. "My dad's name is Michael. Jaylen is seven. He's afraid of dogs and he can do a backflip on the trampoline and he told me once that I was the fastest person in the world and I didn't correct him."
-
-"I think I need to let them go," Sienna said. "The way you let your mom go. I think I need to just — accept it. Stop carrying the maybe. Stop waking up every morning and rebuilding the story where they're fine and Jaylen is doing backflips in grandma's backyard and my dad is grilling and my mom is telling him the charcoal's too hot." She wiped her face again. "I think I need to just say they're gone and stop pretending."
-
-"No," Nate said. The word came out harder than he intended. She looked at him.
-
-"Don't do that," he said. "What I put down was the rage — the lie that being angry was the same as being strong. That's not the same as giving up on them. We can't walk to Oklahoma. Not now, not from here. But we're not the only survivors. There are people in that gas station behind us. There are people in Fayetteville. There are people in basements and churches and fire stations all over the country doing what we're doing — organizing, planning, figuring it out. Sooner or later those groups connect. They have to. Because that's the one thing we have that the organism doesn't." He paused. "It doesn't think. It spreads, but it doesn't strategize. It doesn't send scouts or draw maps or write things in notebooks. People do. That's our advantage — the only one that matters. And people will use it. We'll find out what's left. We'll find out who's still out there. Including Oklahoma."
-
-She was quiet for a long time. Then: "You sound like Jim."
-
-"Worse things to sound like."
-
-She leaned into him. Shoulder against shoulder, the guardrail cold beneath them, the stars turning overhead. Not a collapse — a leaning. The deliberate transfer of weight from one person to another, temporary and specific, the way you lean on a wall while you catch your breath before running again.
-
-He let her lean. He held still the way she'd held still in the woods after the roadblock — present, patient, refusing to fix what couldn't be fixed. Being there. That was all. Being there was the whole thing.
-
-Marcus found them an hour later. He stood over them — two kids on a guardrail, one leaning on the other — and his face did something that Marcus's face almost never did. It softened.
-
-"Time to come back?" he asked. Not an order. An invitation.
-
-They walked back together. Nate's hand on Sienna's elbow once, briefly, guiding her around a pothole in the dark. She didn't flinch. She didn't pull away. She only walked beside him.
-
-Nobody discussed it in the morning. But something had shifted — the way the group moved around the two of them, the specific quality of the silence that surrounded them. Ruth watched them with the expression of a woman who had been married for fifty years and recognized the geometry. Jim put his hand on Sienna's shoulder at breakfast and she let him.
-
-Nate wrote nothing in the journal about that night. Some things belonged to the dark and the guardrail and the stars and the girl who had taught him what carrying looked like.
+I took the binoculars and walked. Back up the highway. Back the way we'd come. Back toward Clarksville.
 
 ---

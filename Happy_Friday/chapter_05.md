@@ -40,13 +40,13 @@ The laundry building had a flat roof with a maintenance ladder on the back. From
 
 I watched the route for an hour. Two Turned visible, neither between me and the building. Clear path.
 
-What I did not account for: a hundred and eighty pounds on gravel is not quiet.
+What I did not account for: my weight on gravel is not quiet.
 
 Each step was a crunch. By twenty feet the Turned had oriented toward me. By thirty I saw a third one in the laundry building's shadow that I'd missed from the window. I should have turned back. I didn't, because I was fifteen and my ego was running my risk assessment.
 
 I made it to the ladder. I was breathing hard — not the distance but the weight. My heart was hammering in my ears and I was sweating despite the cold. Three Turned were walking toward me. That steady two miles an hour. And they were making a sound — a low vibrating drone, resonant in the chest. A summoning call. *Come here. Something's happening.*
 
-I ran. Gravel like gunshots under my feet. Knocked a propane tank — a clang like a bell. More of them appearing between trailers, drawn by the noise. I was a parade of panic, a hundred and eighty pounds of proof that the thing they respond to is exactly the thing I was producing.
+I ran. Gravel like gunshots under my feet. Knocked a propane tank — a clang like a bell. More of them appearing between trailers, drawn by the noise. I was a parade of panic, living proof that the thing they respond to is exactly the thing I was producing.
 
 I couldn't reach my trailer. Two between me and it. I veered toward Henderson's place, saw the gap between skirting and ground, and my body threw itself flat before my brain gave permission.
 

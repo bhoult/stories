@@ -36,7 +36,7 @@ The order of march: Marcus in front, because he'd crossed these ridgelines by ro
 
 Then me.
 
-I was last because I was slowest. Physics. A hundred and eighty pounds going uphill on legs that had never climbed anything steeper than the stairs to the school library, with thirty-two pounds of pack shifting on my back like a drunk passenger. The hip belt dug into the tops of my hip bones — a grinding pressure that started as discomfort and became pain within the first half mile. The shoulder straps pulled backward, hauling at my collarbones, making me lean forward on the uphills until my center of gravity was somewhere in front of my knees and every step felt like catching a fall.
+I was last because I was slowest. Physics. Going uphill on legs that had never climbed anything steeper than the stairs to the school library, with thirty-two pounds of pack shifting on my back like a drunk passenger. The hip belt dug into the tops of my hip bones — a grinding pressure that started as discomfort and became pain within the first half mile. The shoulder straps pulled backward, hauling at my collarbones, making me lean forward on the uphills until my center of gravity was somewhere in front of my knees and every step felt like catching a fall.
 
 Jim caught up with me on the second switchback. He was breathing hard — seventy-three years old, bad knees, carrying twenty pounds — but he was walking with the economy of a man who'd done this before. He had. Fort Benning, 1971. He'd never talked much about the Army, but the trail brought it out of him the way the church had brought out his faith: automatically, without thinking.
 
@@ -166,7 +166,7 @@ I almost told her. Almost said: *I'm angry all the time and the anger is the onl
 
 She studied me. Then she let it go — not because she believed me, but because she understood that pushing wouldn't work. Not tonight. She settled her head back against my shoulder and stayed.
 
-I am putting this in the journal because it should contain the truth: I was sitting on a rock in the Boston Mountains at eleven o'clock at night with a girl's head on my shoulder and the Milky Way overhead and I was happy. Briefly, illogically happy. The anger was still there underneath, patient and dense. The happiness passed. The anger didn't. Both things on the record.
+I was sitting on a rock in the Boston Mountains at eleven o'clock at night with a girl's head on my shoulder and the Milky Way overhead and I was happy. Briefly, illogically happy. The anger was still there underneath, patient and dense. The happiness passed. The anger didn't. Both things on the record.
 
 I wrote by firelight. The notebook was wrinkled from the septic tank and smelled faintly of things I wouldn't name. The pen was a ballpoint from Ruth's purse. The fire popped and the smoke rose and the stars were out and behind us the trail continued into the dark, climbing the next ridge, and the next, and the next.
 
