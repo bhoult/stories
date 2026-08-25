@@ -10,7 +10,7 @@ I don't know what happened in those hours. I know the sounds stopped eventually.
 
 That is all I will ever say about this. What happened is not for a journal or a story to be told. There was no lesson to learn. Those hours belong to nobody, and I wish I could forget them myself.
 
-We walked back at dusk. I don't remember the walk. I remember her hand on my elbow — once, brief, guiding me around a root — and I remember the group's faces when we emerged from the tree line. Marcus's face. Dale's face. Jim's face. I did not look at any of them. I could not look at anyone. The machinery was not running. The analytical brain was offline. Whatever remained was something older and simpler: a body that could walk and a pair of eyes that could see and a mouth that would not open.
+We walked back at dusk. I don't remember the walk. I remember her hand on my elbow — once, brief, guiding me around a root — and I remember the group's faces when we emerged from the tree line. Marcus's face. Dale's face. Jim's face. I did not look at any of them. I could not look at anyone. Nothing was running. The analytical brain was offline. Whatever remained was something older and simpler: a body that could walk and a pair of eyes that could see and a mouth that would not open.
 
 I did not speak. Not that evening, not that night. They built a fire and I sat apart from it. Someone brought me water and I didn't drink it. Someone brought me food and I didn't eat it. Caleb brought me the wooden beagle and put it in my lap and went back to Marcus without a word and the beagle sat there on my thigh, small and wooden and carved by steady hands, and I did not pick it up and I did not put it down.
 
@@ -18,7 +18,7 @@ They let me be. There was nothing else to do.
 
 ---
 
-The next morning I was functional. Not repaired. Functional. The machinery had restarted in the night, the way a generator restarts when the fuel line clears. I ate. I drank. I packed. I walked.
+The next morning I was functional. Not repaired. Functional. Something had restarted in the night, the way a generator restarts when the fuel line clears. I ate. I drank. I packed. I walked.
 
 Nobody mentioned it. Nobody asked. The silence around what had happened on the hillside was complete and permanent: a thing witnessed that did not need words because the words would have been smaller than the thing. Sienna walked near me but not beside me. She did not bring it up. She would never bring it up. We would never talk about it.
 
@@ -46,7 +46,7 @@ Jim would carry the prayer. I would carry the woman in the wire.
 
 That night, camped in a pulloff a mile north of the roadblock, I wrote by flashlight. The fire was too far from where I was sitting, and I was sitting apart because I didn't want to be near people and I didn't want to be alone. I'd washed the blood off my shoes in a creek but the smell was still there. In my clothes, in my hair, in the skin of my hands where the wire had cut me. The cuts on my palms were shallow but they stung and I didn't bandage them because the stinging felt correct.
 
-This was the first thing I'd written since the hillside. The machinery had been offline for most of a day: the breakdown, the woods, the silence, the walk through the blood. Now it was back, and the first thing the machinery did with its restored capacity was try to process what had happened by writing it down, because that's what the machinery does, because I am the machinery and the machinery is me and the writing is the only tool I have that works on the things that break me.
+This was the first thing I'd written since the hillside. I had been offline for most of a day: the breakdown, the woods, the silence, the walk through the blood. Now it was back, and the first thing the machinery did with its restored capacity was try to process what had happened by writing it down, because that's what the machinery does, because I am the machinery and the machinery is me and the writing is the only tool I have that works on the things that break me.
 
 **JOURNAL ENTRY #15:**
 
@@ -66,7 +66,7 @@ This was the first thing I'd written since the hillside. The machinery had been 
 
 *Here is what I'm afraid of: that I'll get used to it.*
 
-*Here is what I'm more afraid of: that I need to. And that clearly, I can't.**
+*Here is what I'm more afraid of: that I need to. And that clearly, I can't.*
 
 *Here is what I can't write and am writing anyway: part of me wanted it. The other thing. The thing with edges that I've been carrying since Clarksville. It wanted the roadblock. It wanted the wire to hold and the frenzy to build and the organism to feel, for once, what it felt like to be on the receiving end. The math provided the justification. The anger provided the willingness. And I don't know which one made the decision because they arrived at the same answer at the same time and the answer was: do it.*
 

@@ -2,7 +2,7 @@
 
 The trail taught by repetition. Every morning the body said *no* — the joints locked, the muscles seized, the sleeping bag felt like the only sane place in the universe. Ruth couldn't stand without Jim pulling her up. Dale's hands shook hard enough that he couldn't grip his zipper. Caleb was the only one who bounced up without complaint, because seven-year-olds are made of rubber and injustice.
 
-But the body lies in the morning. It says *you can't do this.* You do it anyway, and within a mile the joints loosen and the muscles warm and the lie becomes yesterday's pain rather than today's impossibility. By the fifth day I stopped believing the morning. By the seventh I stopped noticing it.
+But the body lies in the morning. It says *you can't do this.* You do it anyway, and within a mile the joints loosen and the muscles warm and the lie becomes yesterday's pain rather than today's impossibility. By the fifth day out I stopped believing the morning. By the seventh I stopped noticing it.
 
 ---
 
@@ -256,7 +256,7 @@ The pace built. Three miles the first day. Four on the second. By the ninth day 
 
 I lost weight. Not dramatically, maybe five pounds, maybe eight, but enough that my pants were looser and the pack felt lighter and the uphills were incrementally less catastrophic. The chafing faded as the jeans broke in and my thighs toughened. The shoulder bruises hardened into something that hurt less. The body was adapting. The body I'd been apologizing for was doing the thing I needed it to do, and the doing was changing it, and the changing was its own kind of answer to the question Sienna had asked in the church parking lot.
 
-By the tenth day, Dale's hands were steady. Not still, not completely, but the tremor had faded to something you'd only notice if you were looking for it, and I was always looking. The worst had passed. The sweating had stopped. The cramping had eased. His heart rate was down to 82. Still elevated, but manageable, safe. He carved the turtle with clean, controlled strokes, the hexagonal plates of the shell emerging with the precision his hands hadn't been capable of three days earlier.
+By the tenth day out, Dale's hands were steady. Not still, not completely, but the tremor had faded to something you'd only notice if you were looking for it, and I was always looking. The worst had passed. The sweating had stopped. The cramping had eased. His heart rate was down to 82. Still elevated, but manageable, safe. He carved the turtle with clean, controlled strokes, the hexagonal plates of the shell emerging with the precision his hands hadn't been capable of three days earlier.
 
 "How long?" I asked. Meaning: how long have your hands been still.
 

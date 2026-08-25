@@ -1,18 +1,18 @@
 # Chapter 24: Mom
 
-Day 39. The highway was flat and empty and there was nothing to think about except the things I'd been refusing to think about for fifteen days.
+Day 39, afternoon, the town six miles behind us. The highway was flat and empty and there was nothing to think about except the things I'd been refusing to think about for fifteen days.
 
 The mountains were behind us. The trail was behind us. The roadblock was behind us: the razor wire and the three hundred people I'd killed by borrowing a wolf-hunting technique. The fortified group was behind us. Nine people in a gas station who wouldn't leave. All of it was behind us and we'd carry it for the rest of our lives.
 
 Highway 71 stretched north in a straight line, flat, featureless, the kind of road that gives the mind nothing to hold onto. No switchbacks. No creek crossings. No rocks to navigate or hills to climb. Just asphalt and sky and the rattle of shopping cart wheels and a steady rhythm of walking that required no thought. When the machinery has nothing to process, it idles. When it idles, the things it's been holding back seep through.
 
-I was tired. Not the productive tiredness of trail days. This was cumulative. Built in layers like sediment: weeks of insufficient food on top of blisters that had healed and re-opened and healed again on top of a month of sleeping on the ground on top of three hundred people shredded on razor wire on top of everything else. Everything else being: a woman in blue scrubs in a hospital parking lot in Clarksville, standing with bare feet and nothing behind her eyes. My mother. I'd opened that sealed envelope in the truck with Marcus and had been carrying it open ever since. Visible, unbearable, following me through sixty miles of trail and thirty miles of highway like a weight heavier than the pack.
+I was tired. Not the productive tiredness of trail days. This was cumulative. Built in layers like sediment: weeks of insufficient food on top of blisters that had healed and re-opened and healed again on top of a month of sleeping on the ground on top of three hundred people shredded on razor wire on top of everything else. Everything else being: a woman in blue scrubs in a hospital parking lot in Clarksville, standing with bare feet and nothing behind her eyes. My mother. I'd opened that sealed envelope standing in an insurance office parking lot with fifty pounds of camping gear on my back, and had been carrying it open ever since. Visible, unbearable, following me through sixty miles of trail and thirty miles of highway like a weight heavier than the pack.
 
-The analytical machinery had been carrying it, taking the unbearable thing and converting it into data, filing it, processing it into something manageable. Running nonstop since Clarksville. Since I saw her face and Marcus kept driving and I said "I see her" and the words were data and the container held.
+The analytical part of me had been carrying it, taking the unbearable thing and converting it into data, filing it, processing it into something manageable. Running nonstop since Clarksville. Since I saw her face and Marcus put his hand on my shoulder and said *keep moving*, and my legs kept moving, and the words were data and the container held.
 
-The container held through the first days on the trail, when the physical suffering was new enough to occupy the machinery's full capacity. Through the creek crossings and the gear discarding and the nightly inventory of blisters and the obsessive management of socks and the slow adaptation of a body that had never been asked to do anything like this. Through Dale's withdrawal peaking and breaking. Through the Rock House Shelter, where we'd slept dry and warm and I'd almost felt something like peace. Through the stray Turned hunter in the woods, nocking his invisible arrow, who reminded me that the organism took everyone. Hunters and nurses, fathers and mothers, people who had been people. Through the roadblock, where I became the kind of person who engineers a wolf knife out of razor wire and walks through the results. Through the gas station, where I watched myself fail to save people for the third time and understood that the pattern would repeat forever.
+The container held through the first days on the trail, when the physical suffering was new enough to occupy it completely. Through the creek crossings and the gear discarding and the nightly inventory of blisters and the obsessive management of socks and the slow adaptation of a body that had never been asked to do anything like this. Through Dale's withdrawal peaking and breaking. Through the Rock House Shelter, where we'd slept dry and warm and I'd almost felt something like peace. Through the stray Turned hunter in the woods, nocking his invisible arrow, who reminded me that the organism took everyone. Hunters and nurses, fathers and mothers, people who had been people. Through the roadblock, where I became the kind of person who engineers a wolf knife out of razor wire and walks through the results. Through the gas station, where I watched myself fail to save people for the third time and understood that the pattern would repeat forever.
 
-The container held because the machinery was running. And on Day 39, on a flat stretch of highway with nothing to think about, the machinery stopped.
+The container held because the machinery was running. And on Day 39, on a flat stretch of highway with nothing to think about, it stopped.
 
 Not dramatically. Just a quiet failure, like a generator running out of fuel. One moment I was walking and processing and carrying the weight in its compartment. The next moment the compartment was open and the weight was everywhere. In my legs, in my lungs, in the flat grey light of a December afternoon, in the sound of my own breathing, in the empty highway that stretched in both directions like a sentence with no end.
 
@@ -46,7 +46,7 @@ Two days later I opened the notebook.
 
 ---
 
-That night I dreamed she was fine.
+That night — the night of the thirty-ninth day, before any of the rest of it — I dreamed she was fine.
 
 The real one. The kitchen in the trailer, 6 PM on a Thursday, still in her scrubs because she'd worked a double and hadn't changed. Making coffee she shouldn't have been drinking that late. The radio on the counter playing something country and terrible that she loved. The particular way she leaned her hip against the counter while the pot brewed: the posture of a woman who had been on her feet for sixteen hours and was going to be on them for eight more because I had a dentist appointment in the morning and she wanted to make sure I ate breakfast before we left.
 
@@ -60,7 +60,7 @@ I said, "It's Thursday, Mom."
 
 Then I was outside.
 
-Just outside, in the parking lot in Clarksville, at night, and the kitchen window was a hospital window three stories up and she was standing behind the glass. Still in scrubs. Still holding the coffee. But her face was wrong. Smooth, blank, the expression I'd seen on two hundred Turned and had seen on her, across the parking lot, the day Marcus kept driving. Her mouth moved. No sound through the glass. She put her hand against the window, palm flat, fingers spread.
+Just outside, in the parking lot in Clarksville, at night, and the kitchen window was a hospital window three stories up and she was standing behind the glass. Still in scrubs. Still holding the coffee. But her face was wrong. Smooth, blank, the expression I'd seen on two hundred Turned and had seen on her, across the parking lot, the day I kept walking. Her mouth moved. No sound through the glass. She put her hand against the window, palm flat, fingers spread.
 
 I put my hand against the glass. I couldn't not. The glass was warm.
 
@@ -69,7 +69,5 @@ I woke walking.
 I was ten feet from my sleeping bag, moving past the dying campfire toward the highway, and my heart was at 118 and I didn't know where I was or when I was or whether the glass had been real. My hand was still raised, palm out, reaching for a window that wasn't there.
 
 I didn't go back to the sleeping bag. The dream was still in the air — the *good* part, the kitchen and the coffee and her voice — and going back to sleep meant either returning to it or losing it and I couldn't survive either one.
-
-I took the binoculars and walked. Back up the highway. Back the way we'd come. Back toward Clarksville.
 
 ---

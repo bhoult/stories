@@ -10,7 +10,7 @@ I am going to describe it in detail because you need to see what I saw to unders
 
 Three weeks in. Day 21. The count around the Lyles' house had been climbing since Day 10 and I had been tracking it from the steeple with the obsessive precision of a kid who understands that numbers are the only language the universe respects.
 
-Day 10: 22. Day 13: 27. Day 15: 31. Day 18: 38. Day 20: 44.
+Day 10: 21. Day 13: 27. Day 15: 31. Day 18: 38. Day 20: 44.
 
 Day 21, 6 PM: 51.
 

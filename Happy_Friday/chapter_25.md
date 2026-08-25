@@ -26,7 +26,25 @@ I did neither thing. I put one foot in front of the other until the hospital was
 
 ---
 
+There is one more thing and I have not put it anywhere until now.
+
+On the second day, in the trailer, my phone showed a missed call from her at 12:51 in the morning. Four rings. No message. I decided it meant she'd had a minute and thought of me, because that was the version I could hold, and I held it for thirty-nine days without once taking it apart.
+
+I took it apart on that road, because taking things apart is what I do instead of feeling them, and it came apart like this. At 12:51 in the morning on the night the world ended, my mother was somewhere quiet enough to place a call. That means she was not in the department. That means she had got herself into a room and shut a door, which is the correct move and which almost nobody made. And then she let it ring four times and hung up before the tone.
+
+There is one reason a person hangs up before the tone. She did not want to leave me something frightening to listen to.
+
+She got a door shut. She got a minute. She spent the minute deciding not to scare me, and then she opened the door and went back out into it, because the department was full of people who were afraid and she was the one who was not, and some length of time after that she was standing in a lot.
+
+I do not know what happened in between. I have never known. I am not going to know. That gap is the actual shape of the thing I was carrying south, and I could not have told you that at the time; at the time I would have told you it was a hatchet and a lot and one swing.
+
+It is more than most people got. It is not enough. Both of those are true and neither one of them cancels the other, which by now is the only structural fact I am sure of.
+
+---
+
 I did not run the distance.
+
+Three days before this I had written in a numbered entry that I was putting her down. Not the memory — the rage. I wrote it carefully, in the half of the notebook that other people read, and I meant it the way you mean things at the bottom of something. It did not cross my mind once on that road. I have thought about it a great deal since, mostly about the fact that I write everything down and it does not appear to slow me up at all.
 
 I run everything. I had the numbers. I had walked every one of those miles with a pack on. And I started the sum somewhere around the first mile marker and then I put it down, like a letter whose contents you already know, and I kept walking.
 
@@ -104,7 +122,7 @@ She sat down on the center line next to me. She didn't say my name. She didn't t
 
 I don't know how long. The moon moved. The road stayed pale.
 
-I remember thinking, with the small part of the machinery still turning: *she isn't going to argue.* And underneath that: *she doesn't have an argument either.* And that was almost a relief, and the almost is the closest thing to a warning I got.
+I remember thinking, with the small part of me still turning: *she isn't going to argue.* And underneath that: *she doesn't have an argument either.* And that was almost a relief, and the almost is the closest thing to a warning I got.
 
 Then she shivered.
 
@@ -124,7 +142,7 @@ I stood up. My legs took a long time about it.
 
 She stood up when I stood up. She didn't ask. We walked north on the shoulder of Highway 71, and at some point my hand was on her elbow and I have no memory of putting it there, and neither of us said anything for two miles.
 
-I was doing sums the whole way. Not about her. About Ruth's atenolol, and how far the carts could go in a day, and what I was going to say to Moss when we got there. The machinery had come back on and gone straight back to work, and all of the work was about people who were still alive. It has never stopped being about them since. That is not the same as forgiveness and I have never pretended it was.
+I was doing sums the whole way. Not about her. About Ruth's atenolol, and how far the carts could go in a day, and what I was going to say to Moss when we got there. It had come back on and gone straight back to work, and all of the work was about people who were still alive. It has never stopped being about them since. That is not the same as forgiveness and I have never pretended it was.
 
 She never asked what the hatchet was for. She saw it and she did the arithmetic on it in a second and a half and she sat down next to me anyway. I have measured that against everything anyone has done for me since October and it holds. She did it at that temperature, in those shoes, without once mentioning that she was cold.
 

@@ -103,7 +103,7 @@ One key illustration per chapter. Character descriptions pulled from characters.
 
 ---
 
-## Chapter 12: Nate Tells the Lyles
+## Chapter 12: The Shoe on the Doorstep
 **Scene:** Nate standing on the Lyles' front porch, small and young against the fortified house. Craig Lyle towers over him, arms crossed, rifle slung, head shaking politely but firmly. The American flag above them. Behind Nate on the sidewalk, Jim and Marcus wait. Through the porch railing, Tammy watches Nate carefully from inside the screen door, a chrysanthemum in a clay pot beside her.
 **Characters:** Nate (15, 180lbs, fat, overweight, soft, round face, brown hair, white skin, earnest expression, small against the house), Craig Lyle (50s, 6'0", 200lbs, law enforcement build, white skin, sheriff's jacket, arms crossed, rifle slung, polite refusal), Jim (70s, tall 6'1"-6'3", gaunt, white military-short hair, flannel shirt, waiting on sidewalk), Marcus (42, 6'0"-6'2", 220lbs, big, jacket, waiting on sidewalk), Tammy (mid-40s, alert, capable, watching carefully from screen door, chrysanthemum in clay pot beside her)
 **Setting:** Lyles' front porch, fortified house, residential street

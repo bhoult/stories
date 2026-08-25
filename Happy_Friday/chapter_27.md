@@ -22,7 +22,7 @@ He looked up and caught me watching his hands.
 
 "You're back," he said. Not a question.
 
-"Partly." The honest answer. The machinery was running but it was running rough. I could hold a thought for minutes now, not seconds, but the parking lot was still there at the edges, waiting for any gap in concentration. "Enough to walk. Enough to listen."
+"Partly." The honest answer. It was running but it was running rough. I could hold a thought for minutes now, not seconds, but the parking lot was still there at the edges, waiting for any gap in concentration. "Enough to walk. Enough to listen."
 
 "That's enough," Dale said.
 

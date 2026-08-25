@@ -2,13 +2,13 @@
 
 The Ozark Highlands Trail does not believe in flat.
 
-We rode bicycles to the trailhead. Eight people on eight bikes, pedaling twenty miles of two-lane blacktop through the Ozark foothills, packs strapped to rear racks and handlebars and, in my case, balanced on my lap like a pregnant belly made of nylon and poor decisions. Ruth and Jim had the e-bikes. Ruth because her knees couldn't pedal twenty miles, Jim because he was seventy-three and nobody argued with Ruth about getting one so nobody could argue with Jim either. Caleb rode on Marcus's handlebars, gripping the crossbar with both hands, the wooden beagle in his jacket pocket bumping against the frame.
+We rode bicycles to the trailhead. Eight people on seven bikes, pedaling twenty miles of two-lane blacktop through the Ozark foothills, packs strapped to rear racks and handlebars and, in my case, balanced on my lap like a pregnant belly made of nylon and poor decisions. Ruth and Jim had the e-bikes. Ruth because her knees couldn't pedal twenty miles, Jim because he was seventy-three and nobody argued with Ruth about getting one so nobody could argue with Jim either. Caleb rode on Marcus's handlebars, gripping the crossbar with both hands, the wooden beagle in his jacket pocket bumping against the frame.
 
 The road was empty. Three weeks of no traffic and the pavement was already changing. Leaves in the gutters, a branch down in the right lane, the first cracks where tree roots were starting to reclaim what asphalt had borrowed. We passed houses. Some had Turned in the yards: the head-turns tracked us as we pedaled past, the smiles following, but bikes were fast enough that none of them transitioned beyond passive interest. We passed Clarksville's city limit sign and the Dollar General and the shuttered Sonic Drive-In and the world we were leaving behind.
 
 We reached the trailhead at midday: a gravel parking area off Forest Service Road 1003. The parking area was empty. No cars, no Turned. The first good sign in three weeks.
 
-We leaned the bikes against a split-rail fence at the edge of the lot. Eight bicycles, two of them still showing a charge on their battery indicators. Machines we'd never use again. Marcus looked at them for a moment — the particular look of a man who'd spent his life around vehicles, who understood the value of anything with wheels — and then turned away. We were leaving the world of wheels. Everything after this was feet.
+We leaned the bikes against a split-rail fence at the edge of the lot. Seven bicycles, two of them still showing a charge on their battery indicators. Machines we'd never use again. Marcus looked at them for a moment — the particular look of a man who'd spent his life around vehicles, who understood the value of anything with wheels — and then turned away. We were leaving the world of wheels. Everything after this was feet.
 
 The trailhead marker was a brown post with a white blaze: an aluminum diamond nailed to the wood, catching the November light. Beyond it, the trail entered the forest like a thread being pulled into fabric: a two-foot-wide path of packed earth and leaf litter, climbing immediately, switchbacking up a hardwood hollow toward a sandstone ridge that was invisible from below.
 
@@ -178,9 +178,9 @@ We all smelled like smoke and sweat. The fire provided warmth for whoever was on
 
 ---
 
-Day two was worse. Day three was worse than that. The trail did not believe in mercy and the trail did not believe in flat and the trail had an opinion about my cardiovascular fitness that it expressed through gradient.
+The second day out was worse. The third was worse than that. The trail did not believe in mercy and the trail did not believe in flat and the trail had an opinion about my cardiovascular fitness that it expressed through gradient.
 
-But on the afternoon of the second day, after climbing a ridge that seemed designed as a personal insult — switchback after switchback, the kind of hill that keeps promising a top and then revealing another false summit behind it — I reached the top. Actually reached it. The trail leveled and the trees thinned and the sky opened and I stopped walking because my body stopped walking for me.
+But on the afternoon of the second day out, after climbing a ridge that seemed designed as a personal insult — switchback after switchback, the kind of hill that keeps promising a top and then revealing another false summit behind it — I reached the top. Actually reached it. The trail leveled and the trees thinned and the sky opened and I stopped walking because my body stopped walking for me.
 
 Sienna was already there. She'd been there for five minutes, probably. She was sitting on a rock with her knees pulled up, looking west, not looking at me. Giving me the dignity of arriving without an audience.
 
@@ -198,7 +198,7 @@ I didn't say any of this. Neither did she. We stood there until Marcus called up
 
 ---
 
-On day three the trail crossed a forest service road: a gravel track cutting east-west through the ridgeline, the kind of road that existed for timber trucks and hunters and nobody else. The day was hot. Arkansas does this in November. Gives you frost at dawn and eighty degrees by noon, the kind of weather that can't decide what season it is and settles for all of them at once. We were sweating through our shirts by midmorning and the water filter was getting a workout at every creek crossing.
+On the third day out the trail crossed a forest service road: a gravel track cutting east-west through the ridgeline, the kind of road that existed for timber trucks and hunters and nobody else. The day was hot. Arkansas does this in November. Gives you frost at dawn and eighty degrees by noon, the kind of weather that can't decide what season it is and settles for all of them at once. We were sweating through our shirts by midmorning and the water filter was getting a workout at every creek crossing.
 
 Near the road crossing, set back in the trees: a cabin. Small, one-room, the kind of place a hunter or a forest service worker might use for a weekend. The windows were intact. The door was closed. No Turned. We checked the perimeter, checked the road in both directions, checked the tree line. Nothing. The cabin was alone the way some places in the Ozarks are alone. Genuinely, deeply, as if the rest of the world had simply decided not to include it.
 
