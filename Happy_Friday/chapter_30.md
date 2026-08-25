@@ -16,7 +16,7 @@ Jim didn't move his hand. He looked at me for a while with the steady, luminous 
 
 I had an answer ready and it was a good one and it was a lie, and I was standing in a hallway with a man who would be dead inside a week and I could not make myself say it.
 
-"Because saying it makes it mine."
+"Because saying it makes it mine. If I don't say it, I'm just the person who noticed."
 
 Jim nodded slowly. He took his hand off the door frame, which cost him something, and put it on my shoulder instead, which was not about balance.
 
