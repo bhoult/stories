@@ -24,7 +24,7 @@ Jim nodded slowly. He took his hand off the door frame, which cost him something
 
 ---
 
-He asked me not to tell Ruth. I said no. He looked at me a long moment, then laughed — short, surprised, real — and said, "Well. All right then."
+He asked me not to tell Ruth. I said no. He looked at me a long moment, then laughed, short, surprised, real, and said, "Well. All right then."
 
 He asked whether Moss had anything. She did not. She is a research biologist and not a cardiologist, and the nearest catheterization lab is seventy miles east in a hospital that has stood empty since October. Howard found nitroglycerin in the campus health center. Maria found aspirin. That is the entire arsenal the twenty-first century was able to bring to bear on Jim Whittaker's left anterior descending artery.
 
@@ -32,9 +32,9 @@ And then he asked whether I remembered what he'd said in the basement.
 
 I did.
 
-*I will not ask anyone in this room to end a life. Not mine. Not anyone's. If I turn — restrain me. Pray over me. Wait. And if there is no change, then put me in God's hands outside this building and let Him decide what mercy looks like.*
+*I will not ask anyone in this room to end a life. Not mine. Not anyone's. If I turn. Restrain me. Pray over me. Wait. And if there is no change, then put me in God's hands outside this building and let Him decide what mercy looks like.*
 
-"That still stands," he said. "All of it. And son — you're going to have to be the one who says it out loud, because they won't. Ruth won't. Marcus will think it and swallow it. You're the only one in this building who says the thing nobody wants to hear."
+"That still stands," he said. "All of it. And son. You're going to have to be the one who says it out loud, because they won't. Ruth won't. Marcus will think it and swallow it. You're the only one in this building who says the thing nobody wants to hear."
 
 "I know."
 
@@ -46,11 +46,11 @@ I did.
 
 It happened on the Saturday, Day 50, at about four in the afternoon.
 
-He was in the seminar room with Caleb, doing the breathing — four in, hold, six out — which had become a thing the two of them did in the afternoons whether Caleb needed it or not, and which I think by that point was mostly for Jim. Caleb came and got me. He didn't run. He walked very fast and very straight with his hands at his sides and he said, "Jim's on the floor and he says he's fine," and that is how a seven-year-old tells you.
+He was in the seminar room with Caleb, doing the breathing, four in, hold, six out, which had become a thing the two of them did in the afternoons whether Caleb needed it or not, and which I think by that point was mostly for Jim. Caleb came and got me. He didn't run. He walked very fast and very straight with his hands at his sides and he said, "Jim's on the floor and he says he's fine," and that is how a seven-year-old tells you.
 
 Jim was grey. He was sitting with his back against the leg of a seminar table with one hand flat on his sternum, and he was breathing in the four-count, and the four-count was the only thing about him that was working properly.
 
-Maria got the aspirin into him. Moss got a blood pressure cuff on him — the pink one, Sienna's, with the cartoon heart on the display, which is the detail I have never been able to get out of my head. Eighty-four over fifty. Then seventy-nine over forty-eight. Then the numbers stopped being useful.
+Maria got the aspirin into him. Moss got a blood pressure cuff on him: the pink one, Sienna's, with the cartoon heart on the display, which is the detail I have never been able to get out of my head. Eighty-four over fifty. Then seventy-nine over forty-eight. Then the numbers stopped being useful.
 
 And his heart rate was one hundred and thirty-one and climbing.
 
@@ -76,9 +76,9 @@ Then Dale went and got the paracord out of his pack.
 
 ---
 
-We did it as gently as it is possible to do a thing like that, which is not very. Marcus took his shoulders. Dale did the wrists — Dale, whose hands do not shake anymore, and who has been restrained himself, in a room in Fort Smith, twelve years ago, and who never said so and did not have to. We used the tarp straps and the paracord and we ran them under the seminar table, and we padded his wrists with a folded fleece because Ruth stood over us and made us, and I have never in my life been more grateful to be made to do something.
+We did it as gently as it is possible to do a thing like that, which is not very. Marcus took his shoulders. Dale did the wrists. Dale, whose hands do not shake anymore, and who has been restrained himself, in a room in Fort Smith, twelve years ago, and who never said so and did not have to. We used the tarp straps and the paracord and we ran them under the seminar table, and we padded his wrists with a folded fleece because Ruth stood over us and made us, and I have never in my life been more grateful to be made to do something.
 
-Jim was conscious for most of it. He knew exactly what was happening. At one point he tried to help — tried to move his arm into a better position for Dale — and Dale had to turn his face away for a second.
+Jim was conscious for most of it. He knew exactly what was happening. At one point he tried to help, tried to move his arm into a better position for Dale, and Dale had to turn his face away for a second.
 
 "Thank you," Jim said, when it was done.
 
@@ -104,11 +104,11 @@ Ruth said it was not the beta-blockade.
 
 I have gone at it from every direction I have and I keep arriving somewhere I did not expect, so I am going to put it down plainly and let it stand.
 
-The organism runs on one thing. Not pain, not proximity, not injury — I have watched a man walk on a leg bent the wrong way and I have watched a woman bleed out on a wire without her face changing. It runs on *fear*. Six weeks of observation and one broadcast from a research biologist and a nursing textbook all say the same sentence, which is that the thing gets in through the part of you that does not want to die.
+The organism runs on one thing. Not pain, not proximity, not injury. I have watched a man walk on a leg bent the wrong way and I have watched a woman bleed out on a wire without her face changing. It runs on *fear*. Six weeks of observation and one broadcast from a research biologist and a nursing textbook all say the same sentence, which is that the thing gets in through the part of you that does not want to die.
 
 Jim was not afraid of dying.
 
-That is not a figure of speech and it is not me being generous about a man I loved. I was in the room. I had a cuff on his arm and my fingers on his wrist and I have spent six weeks becoming the closest thing this campus has to an instrument for measuring exactly that, and I am telling you that the fear was not there. Not suppressed. Not managed. Not held under by fifty milligrams of anything. *Absent.* He was about to find out whether he had been right about the largest question a person can be wrong about, and what was on him was something closer to courtesy — the specific calm of a man who has an appointment and does not want to be late for it.
+That is not a figure of speech and it is not me being generous about a man I loved. I was in the room. I had a cuff on his arm and my fingers on his wrist and I have spent six weeks becoming the closest thing this campus has to an instrument for measuring exactly that, and I am telling you that the fear was not there. Not suppressed. Not managed. Not held under by fifty milligrams of anything. *Absent.* He was about to find out whether he had been right about the largest question a person can be wrong about, and what was on him was something closer to courtesy: the specific calm of a man who has an appointment and does not want to be late for it.
 
 The thing came in and found the room empty and had nowhere to put its hands.
 
@@ -132,7 +132,7 @@ He prayed for Sienna. He asked that she be given something to run toward.
 
 And then he prayed for me, out loud, in front of all of them, and he did not soften it.
 
-"Lord, this boy has done a thing that is going to be on him the rest of his life. He did it with his eyes open. He worked it out on a hillside and he carried it out and he has not once tried to tell me it was clean." He had to stop for breath in the middle of it and he came back and kept going in the same voice. "I'm not going to ask You to tell him he was right, because he won't hear it from You any more than he'd hear it from me. I'm asking You to carry the part of it he can't. He is fifteen years old and he is going to have to do it again. Be with him when he does. And Lord — don't let him get good at it."
+"Lord, this boy has done a thing that is going to be on him the rest of his life. He did it with his eyes open. He worked it out on a hillside and he carried it out and he has not once tried to tell me it was clean." He had to stop for breath in the middle of it and he came back and kept going in the same voice. "I'm not going to ask You to tell him he was right, because he won't hear it from You any more than he'd hear it from me. I'm asking You to carry the part of it he can't. He is fifteen years old and he is going to have to do it again. Be with him when he does. And Lord. Don't let him get good at it."
 
 There was a long silence in that room and it was not a comfortable one and nobody moved to end it.
 
@@ -194,7 +194,7 @@ We waited another forty minutes after he stopped breathing, because that was in 
 
 Nothing happened. Nothing was ever going to happen. He was dead and he was still Jim and the straps had been for nothing.
 
-The straps were not for nothing. We did not know. We could not have known — I have every observation from six weeks in a notebook and none of them told us what was going to happen in that room, and the cost of being wrong was Caleb. We did the correct thing and it turned out to be unnecessary, and those are not the same as each other, and I have to hold both or I will start making decisions based on how they will look afterward, which is how Craig Lyle died.
+The straps were not for nothing. We did not know. We could not have known. I have every observation from six weeks in a notebook and none of them told us what was going to happen in that room, and the cost of being wrong was Caleb. We did the correct thing and it turned out to be unnecessary, and those are not the same as each other, and I have to hold both or I will start making decisions based on how they will look afterward, which is how Craig Lyle died.
 
 Dale cut the paracord. He did it before anybody asked him to, and he did it fast.
 
@@ -236,7 +236,7 @@ I did not give it a number. The numbered entries are a document; Moss is going t
 
 *He asked You to carry the part I can't. I don't know whether You did. I know I got up the next morning. I know I have gotten up every morning since. I could not have told You in advance that I would.*
 
-*He wasn't afraid. That's the whole of what I have and I've turned it over more than anything else in this book. At the end, at a hundred and forty beats a minute, with every threshold I ever wrote behind him, the man was not afraid — and the thing that eats fear went through him and came out the other side with nothing. If that was You, then I have spent six weeks describing You in a notebook and calling it endocrinology, and I'd rather be wrong about the word than wrong about the mechanism.*
+*He wasn't afraid. That's the whole of what I have and I've turned it over more than anything else in this book. At the end, at a hundred and forty beats a minute, with every threshold I ever wrote behind him, the man was not afraid, and the thing that eats fear went through him and came out the other side with nothing. If that was You, then I have spent six weeks describing You in a notebook and calling it endocrinology, and I'd rather be wrong about the word than wrong about the mechanism.*
 
 *I'm not asking for anything. He'd have said that's the wrong way around and he'd have been kind about it.*
 

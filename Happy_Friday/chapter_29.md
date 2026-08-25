@@ -1,18 +1,18 @@
 # Chapter 29: The Frequency
 
-Dr. Eleanor Moss. Young, maybe thirty, short black hair, glasses, the lab coat over a flannel shirt and jeans. She was thin — too focused to eat properly for weeks, probably. Her eyes were sharp and tired and she had a permanent squint, the kind you get from living inside a noise that never stops.
+Dr. Eleanor Moss. Young, maybe thirty, short black hair, glasses, the lab coat over a flannel shirt and jeans. She was thin. Too focused to eat properly for weeks, probably. Her eyes were sharp and tired and she had a permanent squint, the kind you get from living inside a noise that never stops.
 
 She'd come out to us on the sidewalk, helped Ruth to her feet, and led us inside without ceremony. "The sound is better inside," she'd said. "The building attenuates it by about thirty percent. It never goes away entirely. You get used to it." She paused. "That's a lie. You don't get used to it. You just stop complaining about it."
 
 We went inside.
 
-The life sciences building was a functioning laboratory in a failing world. Emergency lighting, powered by the solar grid. Equipment humming — centrifuges, spectral analyzers, things I couldn't name. Three graduate students were working at stations — a woman labeling slides, a man at a computer terminal running on generator power, another man monitoring a bank of screens showing camera feeds of the campus perimeter. And a janitor — a heavy-set man in his sixties, mopping the floor of the lobby like it mattered. Like keeping the floor clean was his way of keeping the world from falling apart.
+The life sciences building was a functioning laboratory in a failing world. Emergency lighting, powered by the solar grid. Equipment humming. Centrifuges, spectral analyzers, things I couldn't name. Three graduate students were working at stations: a woman labeling slides, a man at a computer terminal running on generator power, another man monitoring a bank of screens showing camera feeds of the campus perimeter. And a janitor: a heavy-set man in his sixties, mopping the floor of the lobby like it mattered. Like keeping the floor clean was his way of keeping the world from falling apart.
 
 "Howard," Dr. Moss said, by way of introduction. "He runs the facility. I just do the science."
 
 "Someone's got to keep the lights on," Howard said, not looking up from his mopping.
 
-The woman labeling slides was Priya — the botany grad student who'd been maintaining the campus greenhouse and, behind it, a small flock of chickens she'd rescued from a farm supply store on College Avenue in the first week. When Caleb heard the clucking from behind the building, he was out the door before anyone could stop him. He came back twenty minutes later with a report: seven hens, one rooster, a coop built from lab pallets and chicken wire. He'd already introduced our three highway hens. He'd already assigned names. He'd already informed Priya that he was in charge now.
+The woman labeling slides was Priya: the botany grad student who'd been maintaining the campus greenhouse and, behind it, a small flock of chickens she'd rescued from a farm supply store on College Avenue in the first week. When Caleb heard the clucking from behind the building, he was out the door before anyone could stop him. He came back twenty minutes later with a report: seven hens, one rooster, a coop built from lab pallets and chicken wire. He'd already introduced our three highway hens. He'd already assigned names. He'd already informed Priya that he was in charge now.
 
 Priya looked at Moss. Moss looked at Howard. Howard said, "Great. More chickens. Just what we needed," and went back to mopping.
 
@@ -20,17 +20,17 @@ Priya looked at Moss. Moss looked at Howard. Howard said, "Great. More chickens.
 
 Moss gave us the science that night.
 
-We sat in a seminar room — the kind with tiered seating and a whiteboard and a projector that no longer worked. Moss stood at the whiteboard with a dry-erase marker and drew diagrams that I photographed with my eyes because my notebook was almost full and I was rationing pages.
+We sat in a seminar room: the kind with tiered seating and a whiteboard and a projector that no longer worked. Moss stood at the whiteboard with a dry-erase marker and drew diagrams that I photographed with my eyes because my notebook was almost full and I was rationing pages.
 
-"The organism is triggered by sustained elevation of catecholamines — epinephrine, norepinephrine — above a threshold of approximately three hundred picograms per milliliter for a sustained period of roughly two minutes," she said. "You've already figured out most of this. Your journal ," She looked at me. Marcus had radioed ahead. She'd been expecting us. ", your journal describes the mechanism with remarkable accuracy for someone working from a nursing textbook and direct observation."
+"The organism is triggered by sustained elevation of catecholamines, epinephrine, norepinephrine, above a threshold of approximately three hundred picograms per milliliter for a sustained period of roughly two minutes," she said. "You've already figured out most of this. Your journal," She looked at me. Marcus had radioed ahead. She'd been expecting us. ", your journal describes the mechanism with remarkable accuracy for someone working from a nursing textbook and direct observation."
 
 "I was wrong about some things."
 
 "You were wrong about a lot of things. You were also right about the things that mattered, and you documented the process of being wrong, which is more valuable than being right." She turned to the whiteboard. "Here's what you don't know."
 
-She drew a cell. Not a human cell — something else, with structures I didn't recognize.
+She drew a cell. Not a human cell, something else, with structures I didn't recognize.
 
-"The organism's protein structures do not match any known terrestrial phylogeny. Not bacterial, not archaeal, not viral, not fungal. The biochemistry is adjacent to Earth's — close enough to interact with human biology, to hijack the endocrine system, to use our cellular machinery for its own replication. But the base structures are foreign. The chirality of several key amino acid analogs is reversed. The membrane chemistry uses lipid structures that don't exist in any Earth ecosystem."
+"The organism's protein structures do not match any known terrestrial phylogeny. Not bacterial, not archaeal, not viral, not fungal. The biochemistry is adjacent to Earth's. Close enough to interact with human biology, to hijack the endocrine system, to use our cellular machinery for its own replication. But the base structures are foreign. The chirality of several key amino acid analogs is reversed. The membrane chemistry uses lipid structures that don't exist in any Earth ecosystem."
 
 She let this sit.
 
@@ -38,55 +38,55 @@ She let this sit.
 
 The room was quiet.
 
-"Not engineered," she continued. "Not a weapon. Not a mutation. The genome — if we can call it that — shows no signatures of intentional design. It shows the signatures of evolution. But evolution in an environment that is not this one."
+"Not engineered," she continued. "Not a weapon. Not a mutation. The genome, if we can call it that, shows no signatures of intentional design. It shows the signatures of evolution. But evolution in an environment that is not this one."
 
 Jim, from the back row: "Where?"
 
 "I don't know. I have a hypothesis I'm not willing to broadcast because the hypothesis is speculative and I've watched enough misinformation kill people in the last six weeks to last several lifetimes." She put the marker down. "What I can tell you is this: the organism communicates. The Turned coordinate because the organism synchronizes their behavior through a biochemical signaling network that functions like a distributed nervous system. The frequency —" She gestured upward, toward the emitter on the roof. "— disrupts that synchronization. It's the biological equivalent of jamming a radio signal. I reverse-engineered it from the organism's own communication patterns."
 
-She drew a new diagram — four columns — and wrote them out: *Herding. Swarming. Hunting. Rooting.*
+She drew a new diagram, four columns, and wrote them out: *Herding. Swarming. Hunting. Rooting.*
 
 "You have three of these in your journal. I'm not going to walk you through your own observations." She tapped the fourth column and left it. "What I can give you is the part you couldn't see from a steeple."
 
-"The bark," I said. "The short one. It's a hunting call — but it also fires when a Turned is attacked. We watched a woman make it when a cat scratched her."
+"The bark," I said. "The short one. It's a hunting call, but it also fires when a Turned is attacked. We watched a woman make it when a cat scratched her."
 
-"Correct, and the implication is the one that killed the checkpoints. Every shot fired at a Turned converts every Turned in auditory range into a hunter, on top of whatever the density is already doing. The military didn't lose those positions to a swarm. They lost them to a swarm *and* a mass hunting activation they triggered themselves, simultaneously." She underlined it. "Hunting is metabolically driven, not communicatively driven — which is why the emitter is less effective against it. I can jam a signal. I can't jam a stomach."
+"Correct, and the implication is the one that killed the checkpoints. Every shot fired at a Turned converts every Turned in auditory range into a hunter, on top of whatever the density is already doing. The military didn't lose those positions to a swarm. They lost them to a swarm *and* a mass hunting activation they triggered themselves, simultaneously." She underlined it. "Hunting is metabolically driven, not communicatively driven, which is why the emitter is less effective against it. I can jam a signal. I can't jam a stomach."
 
-She drew another diagram — a cross-section of skin.
+She drew another diagram: a cross-section of skin.
 
-"The photosynthesis. You noted the green discoloration — the sun-facing behavior, the skin changes. The organism is introducing chlorophyll analogs into the host's dermis. The skin is becoming a solar panel. This supplements caloric intake as conventional food sources deplete." She tapped the board. "The clothing removal you've been tracking — shoes first, then shirts, then everything — is the organism systematically eliminating anything that blocks photon absorption. The host's skin needs maximum sun exposure for the photosynthetic system to function. The removal is deliberate, ordered, and accelerates as caloric need increases."
+"The photosynthesis. You noted the green discoloration: the sun-facing behavior, the skin changes. The organism is introducing chlorophyll analogs into the host's dermis. The skin is becoming a solar panel. This supplements caloric intake as conventional food sources deplete." She tapped the board. "The clothing removal you've been tracking, shoes first, then shirts, then everything, is the organism systematically eliminating anything that blocks photon absorption. The host's skin needs maximum sun exposure for the photosynthetic system to function. The removal is deliberate, ordered, and accelerates as caloric need increases."
 
 "The oldest ones were nude," I said. "But they weren't just photosynthesizing. They were rooted. Feet in the ground. Connected by vine-like structures through the soil. We walked through a thousand of them on Dickson Street. Most rooted. Connected. A network."
 
-She turned back to the board and tapped the fourth column. "Rooting. The terminal behavioral state — at least, the terminal state we've observed so far. The photosynthetic adaptation is stage one. Stage two is sessile conversion. The organism anchors the host in soil, establishes root-like structures that connect to adjacent hosts, and transitions from mobile to stationary. The host becomes a node in a networked colonial organism." She drew lines between stick figures on the board — connections, a web. "The root structures aren't just anchors. They're dendrites. The human hosts are the neurons — the processing nodes. The roots are the connections between them, carrying signals, propagating patterns. The organism's distributed nervous system, which normally coordinates through airborne biochemical signals, now has a physical substrate. Hardwired connections. Faster. More reliable. The rooted clusters are functionally a single organism with multiple bodies."
+She turned back to the board and tapped the fourth column. "Rooting. The terminal behavioral state. At least, the terminal state we've observed so far. The photosynthetic adaptation is stage one. Stage two is sessile conversion. The organism anchors the host in soil, establishes root-like structures that connect to adjacent hosts, and transitions from mobile to stationary. The host becomes a node in a networked colonial organism." She drew lines between stick figures on the board. Connections, a web. "The root structures aren't just anchors. They're dendrites. The human hosts are the neurons: the processing nodes. The roots are the connections between them, carrying signals, propagating patterns. The organism's distributed nervous system, which normally coordinates through airborne biochemical signals, now has a physical substrate. Hardwired connections. Faster. More reliable. The rooted clusters are functionally a single organism with multiple bodies."
 
 "The hunters bring them food," I said. "Like offerings."
 
-"Like a colony of ants feeding the queen. The mobile Turned — the two percent still in hunting mode — are the workers. The rooted are the colony's core. The drifters maintain proximity. It's a division of labor that's emerging spontaneously as the organism matures." She paused. "The rooting is why the emitter's effectiveness is declining. The airborne frequency disrupts the wireless coordination — the biochemical signaling. But the root network is a wired connection. The frequency can't jam a physical cable. As more Turned root and the network grows, the organism's coordination becomes increasingly independent of the signals I'm disrupting."
+"Like a colony of ants feeding the queen. The mobile Turned, the two percent still in hunting mode, are the workers. The rooted are the colony's core. The drifters maintain proximity. It's a division of labor that's emerging spontaneously as the organism matures." She paused. "The rooting is why the emitter's effectiveness is declining. The airborne frequency disrupts the wireless coordination: the biochemical signaling. But the root network is a wired connection. The frequency can't jam a physical cable. As more Turned root and the network grows, the organism's coordination becomes increasingly independent of the signals I'm disrupting."
 
 "You said superintelligence," Sienna said quietly. She was looking at me. "On the hill. You said it looked like a superintelligence."
 
-Moss shook her head. "It looks like intelligence. That's the trap. We see coordination and we infer a mind behind it — a decision-maker, a strategist, something that *wants* things. But what I'm observing is much closer to a termite mound than a brain." She tapped the board. "Termites build structures more complex than anything human engineers could design at that scale. Ventilation systems. Temperature regulation. Fungus farms. No individual termite understands any of it. No committee of termites planned it. The complexity emerges from simple biological rules — if this chemical gradient, then this behavior. If this temperature, then that behavior. Millions of simple rules producing something that looks designed but isn't."
+Moss shook her head. "It looks like intelligence. That's the trap. We see coordination and we infer a mind behind it: a decision-maker, a strategist, something that *wants* things. But what I'm observing is much closer to a termite mound than a brain." She tapped the board. "Termites build structures more complex than anything human engineers could design at that scale. Ventilation systems. Temperature regulation. Fungus farms. No individual termite understands any of it. No committee of termites planned it. The complexity emerges from simple biological rules. If this chemical gradient, then this behavior. If this temperature, then that behavior. Millions of simple rules producing something that looks designed but isn't."
 
 She drew a series of arrows on the board. Simple loops. Input, response, feedback.
 
-"The organism operates the same way. Fear chemical above threshold — convert. Caloric deficit — hunt. Photosynthetic capacity reached — root. Host density sufficient — network. Each behavior is a biological imperative, not a decision. The herding, the swarming, the hunting, the rooting — none of it requires intelligence. It requires *rules.* And the rules are very good, because they've been refined by evolution on at least one other world, probably more. The organism doesn't need to be smart. It just needs to follow its program, and the program is optimized for exactly this — arriving on a new world, co-opting the dominant species, and terraforming the environment for its own biology."
+"The organism operates the same way. Fear chemical above threshold. Convert. Caloric deficit. Hunt. Photosynthetic capacity reached. Root. Host density sufficient. Network. Each behavior is a biological imperative, not a decision. The herding, the swarming, the hunting, the rooting. None of it requires intelligence. It requires *rules.* And the rules are very good, because they've been refined by evolution on at least one other world, probably more. The organism doesn't need to be smart. It just needs to follow its program, and the program is optimized for exactly this, arriving on a new world, co-opting the dominant species, and terraforming the environment for its own biology."
 
 "Terraforming," I said. The word landed in the room like a stone in still water.
 
-"The rooting isn't the end state. It's the beginning of a process. The organism is modifying its environment — converting mobile hosts to sessile ones, building root networks, establishing photosynthetic infrastructure. It's reshaping Earth's ecology to suit itself. Not consciously. Not strategically. The way kudzu reshapes a hillside — one biological imperative at a time, no plan, no intent, just growth following rules." She looked at the window, where the last light of the day was fading. "Where it ultimately leads, I don't know. We're six weeks into a process that may take years or decades to complete. We're watching the first chapter of a very long book, and we don't know the genre."
+"The rooting isn't the end state. It's the beginning of a process. The organism is modifying its environment, converting mobile hosts to sessile ones, building root networks, establishing photosynthetic infrastructure. It's reshaping Earth's ecology to suit itself. Not consciously. Not strategically. The way kudzu reshapes a hillside: one biological imperative at a time, no plan, no intent, just growth following rules." She looked at the window, where the last light of the day was fading. "Where it ultimately leads, I don't know. We're six weeks into a process that may take years or decades to complete. We're watching the first chapter of a very long book, and we don't know the genre."
 
 The room was quiet.
 
 "How long will it hold?" Marcus asked.
 
-Moss hesitated. First time I'd seen that — a crack in the composure, brief, quickly sealed.
+Moss hesitated. First time I'd seen that: a crack in the composure, brief, quickly sealed.
 
-"When I first activated the emitter three weeks ago, the Turned fled to a mile's distance. They're now at four hundred yards. Last Tuesday, I observed one standing at the perimeter for six hours, swaying, as if acclimating." She looked at Marcus. "The organism is adapting. Slowly — biological adaptation, not strategic — but measurably. I give the emitter weeks. Maybe a couple of months. Eventually they'll push through."
+"When I first activated the emitter three weeks ago, the Turned fled to a mile's distance. They're now at four hundred yards. Last Tuesday, I observed one standing at the perimeter for six hours, swaying, as if acclimating." She looked at Marcus. "The organism is adapting. Slowly, biological adaptation, not strategic, but measurably. I give the emitter weeks. Maybe a couple of months. Eventually they'll push through."
 
 "And then?"
 
-"And then we need a better solution. That's what I'm working on. That's why I've been broadcasting — to find people who can help. Researchers. Engineers. Anyone with expertise the three graduate students and I don't have." She looked at our group — a pastor, a trucker, a retired teacher, an office manager, a recovering addict, a track athlete, a seven-year-old, and a fifteen-year-old with a notebook. "I was hoping for a virologist. But I'll take what I can get."
+"And then we need a better solution. That's what I'm working on. That's why I've been broadcasting. To find people who can help. Researchers. Engineers. Anyone with expertise the three graduate students and I don't have." She looked at our group: a pastor, a trucker, a retired teacher, an office manager, a recovering addict, a track athlete, a seven-year-old, and a fifteen-year-old with a notebook. "I was hoping for a virologist. But I'll take what I can get."
 
 "You've got a plumber," Ruth said. "By marriage."
 
@@ -96,7 +96,7 @@ Moss almost smiled. It faded fast. She turned back to the whiteboard, where her 
 
 I looked at the whiteboard. At the diagrams. At the timeline showing the emitter's declining effectiveness in a descending curve.
 
-On the wall behind the whiteboard, partially obscured by a bookshelf, I noticed a printout. It showed orbital data — trajectories, dates, coordinates. At the top, a designation: Comet C/2026 Voss. Several dates were circled in red pen. A handwritten note in the margin, in Moss's small, precise handwriting: *incubation window?*
+On the wall behind the whiteboard, partially obscured by a bookshelf, I noticed a printout. It showed orbital data. Trajectories, dates, coordinates. At the top, a designation: Comet C/2026 Voss. Several dates were circled in red pen. A handwritten note in the margin, in Moss's small, precise handwriting: *incubation window?*
 
 I looked at it. Moss saw me looking. She didn't explain.
 
@@ -108,7 +108,7 @@ That night, in a dormitory room on the second floor with the frequency humming i
 
 *We made it.*
 
-*Not from here. Not engineered. Evolved — but not on this planet. Moss has data she won't speculate about publicly. I saw a printout about a comet on her wall. She saw me see it. She didn't say anything.*
+*Not from here. Not engineered. Evolved, but not on this planet. Moss has data she won't speculate about publicly. I saw a printout about a comet on her wall. She saw me see it. She didn't say anything.*
 
 *Everything works for a while. The organism learns. The question is whether we can learn faster.*
 

@@ -60,7 +60,7 @@ By midnight there are four more. By twelve-thirty the triage line is out the doo
 
 She does not know why she believes this. She will not get time to find out.
 
-The department goes wrong the way a wave goes over a wall — not all at once, but in one direction only, and faster than anyone standing there can revise their plan. Someone pulls a fire alarm. Someone else silences it. A woman in a Razorbacks sweatshirt stands up in the waiting room and starts to howl and does not stop, and two of the grinning ones turn their heads toward her together, and Delia is running before she has decided to.
+The department goes wrong the way a wave goes over a wall: not all at once, but in one direction only, and faster than anyone standing there can revise their plan. Someone pulls a fire alarm. Someone else silences it. A woman in a Razorbacks sweatshirt stands up in the waiting room and starts to howl and does not stop, and two of the grinning ones turn their heads toward her together, and Delia is running before she has decided to.
 
 She is a nurse. The room is full of frightened people. Somebody has to not be.
 
@@ -68,7 +68,7 @@ At twelve fifty-one she gets to a supply closet on the north corridor and pulls 
 
 It rings.
 
-She thinks, very clearly and in words, about the pasta in the refrigerator, and whether he will eat it, and about the fact that the Sprite is still sitting on the counter where she put it. She thinks about the bag with the broken zipper. She thinks that she should have said something else at the door — not something better, just something *more*, some second sentence to sit beside the first one, because *Happy Friday, bud* is not very much to have said to somebody.
+She thinks, very clearly and in words, about the pasta in the refrigerator, and whether he will eat it, and about the fact that the Sprite is still sitting on the counter where she put it. She thinks about the bag with the broken zipper. She thinks that she should have said something else at the door: not something better, just something *more*, some second sentence to sit beside the first one, because *Happy Friday, bud* is not very much to have said to somebody.
 
 It rings.
 

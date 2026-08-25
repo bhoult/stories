@@ -2,7 +2,7 @@
 
 The next day we found the town.
 
-It wasn't much — a bend in the highway where a gas station, a general store, and a barbecue restaurant clustered around an intersection like survivors huddling for warmth. The kind of place that had survived on weekend tourists: bikers on weekend rides, families stopping for pulled pork and sweet tea, college kids from Fayetteville driving up to see the fall leaves. A sign out front of the restaurant said WORLD FAMOUS SMOKED RIBS. The world that had made them famous was gone.
+It wasn't much: a bend in the highway where a gas station, a general store, and a barbecue restaurant clustered around an intersection like survivors huddling for warmth. The kind of place that had survived on weekend tourists: bikers on weekend rides, families stopping for pulled pork and sweet tea, college kids from Fayetteville driving up to see the fall leaves. A sign out front of the restaurant said WORLD FAMOUS SMOKED RIBS. The world that had made them famous was gone.
 
 Someone had fortified the gas station, and they had done it well. Plywood over the windows, screwed not nailed, reinforced with sheet metal off the restaurant roof. A pickup parked square across the entrance. And on the roof behind a low wall of sandbags, a man with a deer rifle, watching us come.
 
@@ -16,7 +16,7 @@ There was a pause while the man on the roof spoke to somebody below. Then the ba
 
 "Eight. One child, one elderly."
 
-The man with the clipboard was already writing. He looked up at us over the top of it — a soft, tired, entirely pleasant face, the face of somebody who has explained the return policy nine thousand times and has never once raised his voice about it.
+The man with the clipboard was already writing. He looked up at us over the top of it: a soft, tired, entirely pleasant face, the face of somebody who has explained the return policy nine thousand times and has never once raised his voice about it.
 
 "Any of you agitated?" he asked.
 
@@ -40,7 +40,7 @@ Marcus stopped.
 
 I looked at the chart, and then I looked past him at the gap in the plywood, and I did the arithmetic that I do, and it took about a second and a half.
 
-There were maybe a dozen of them inside. They were not doing anything. That was the thing my brain caught on first — in a room that size you expect motion, somebody adjusting something, somebody bored. These people were seated, mostly, in a dim room in the middle of the afternoon, and the ones who were upright moved through it like people wading. A woman sat against the drink cooler with her hands in her lap and her eyes open, and in the whole time we stood there she did not change position once.
+There were maybe a dozen of them inside. They were not doing anything. That was the thing my brain caught on first. In a room that size you expect motion, somebody adjusting something, somebody bored. These people were seated, mostly, in a dim room in the middle of the afternoon, and the ones who were upright moved through it like people wading. A woman sat against the drink cooler with her hands in her lap and her eyes open, and in the whole time we stood there she did not change position once.
 
 And at the counter, a boy about my age, watching us come. Same age, same nothing behind the face. I had been telling myself for two weeks that I recognized that expression because I saw it in every reflective surface I passed. I was wrong about that. What was on him wasn't exhaustion.
 
@@ -52,15 +52,15 @@ And at the counter, a boy about my age, watching us come. Same age, same nothing
 
 He explained it standing in the sun with his clipboard, and the worst thing about it was that he explained it well.
 
-"You already know the mechanism, or you wouldn't have made it this far. Fear turns you. Not proximity, not contact — fear. Everybody who ever told me to calm down was correct." He said it without any edge at all. "We lost eleven people in the first nine days. Every one of them panicked. Every one of them turned. I sat down afterward and I worked out that there is exactly one variable in this and it is not one you can leave to people's discretion, because people are not reliable about it. So I stopped leaving it to their discretion."
+"You already know the mechanism, or you wouldn't have made it this far. Fear turns you. Not proximity, not contact. Fear. Everybody who ever told me to calm down was correct." He said it without any edge at all. "We lost eleven people in the first nine days. Every one of them panicked. Every one of them turned. I sat down afterward and I worked out that there is exactly one variable in this and it is not one you can leave to people's discretion, because people are not reliable about it. So I stopped leaving it to their discretion."
 
 "You're drugging them," Sienna said.
 
-"I'm dosing them. There's a schedule." He tapped the chart. "It's in the water for the general population, because that's the only way to be consistent, and it's individual for the ones who need more. Some people need more. Grief especially — grief runs high for weeks and it doesn't respond to being talked to." He looked at the boy behind the counter, and something crossed his face that I could not read and did not want to. "That's my nephew. He lost his mother and his sister in the same night. He is alive. Sixteen days now."
+"I'm dosing them. There's a schedule." He tapped the chart. "It's in the water for the general population, because that's the only way to be consistent, and it's individual for the ones who need more. Some people need more. Grief especially. Grief runs high for weeks and it doesn't respond to being talked to." He looked at the boy behind the counter, and something crossed his face that I could not read and did not want to. "That's my nephew. He lost his mother and his sister in the same night. He is alive. Sixteen days now."
 
 "He's not there," Sienna said.
 
-"No," Phil agreed. "But he's alive, and the version of him that was there would not be. I've done that arithmetic more times than you have and it comes out the same way every time." He turned to me — I don't know why me; maybe because I hadn't said anything, and Phil was a man who noticed who wasn't talking. "You've done it too. I can tell by your face. Tell me where the error is and I'll change the system today."
+"No," Phil agreed. "But he's alive, and the version of him that was there would not be. I've done that arithmetic more times than you have and it comes out the same way every time." He turned to me. I don't know why me; maybe because I hadn't said anything, and Phil was a man who noticed who wasn't talking. "You've done it too. I can tell by your face. Tell me where the error is and I'll change the system today."
 
 I opened my mouth.
 
@@ -80,7 +80,7 @@ I could dress that up. Maria did the counting, and Maria is the one who says *kn
 
 I stood there and let it happen and did not say a word, and I knew exactly what I was doing, and I did it anyway. Add it to the pile.
 
-The boy behind the counter watched us load the carts. When we started north he raised his hand — not waving, just lifting it off the counter a few inches and putting it back down, and I have thought about that gesture more than I have thought about almost anything else on that highway, because I could not tell you whether it was a greeting or something trying to get out.
+The boy behind the counter watched us load the carts. When we started north he raised his hand: not waving, just lifting it off the counter a few inches and putting it back down, and I have thought about that gesture more than I have thought about almost anything else on that highway, because I could not tell you whether it was a greeting or something trying to get out.
 
 ---
 
@@ -96,13 +96,13 @@ Marcus, on my other side: "You want to go back and argue with him?"
 
 "No," I said.
 
-"Good. Because he'd win." He shifted the crossbow on his shoulder. "You can't save people who don't want to be saved. That's not a failure, that's a boundary. But I'll tell you the part that's going to keep me up — those folks would want to be saved. They just can't get to the wanting from where he's put them."
+"Good. Because he'd win." He shifted the crossbow on his shoulder. "You can't save people who don't want to be saved. That's not a failure, that's a boundary. But I'll tell you the part that's going to keep me up. Those folks would want to be saved. They just can't get to the wanting from where he's put them."
 
 I didn't answer. I was thinking about the four propranolol tablets in my jacket pocket, and about the sandwich bags I'd handed out in a church basement six weeks ago, one to each person, *break glass in case of catecholamine spike*. I'd been proud of that. I'd written it in the notebook.
 
 The distance between what I'd done and what Phil was doing was a matter of dosage and consent, and I had spent two days proving to myself that I am not a person who can be trusted with either one.
 
-A quarter mile past the gas station, a farmhouse sat back from the highway behind a collapsing fence. The house was empty — door open, curtains moving in the wind. But behind it, in a tilted coop with chicken wire peeling off the frame, something was alive and making sounds about it.
+A quarter mile past the gas station, a farmhouse sat back from the highway behind a collapsing fence. The house was empty. Door open, curtains moving in the wind. But behind it, in a tilted coop with chicken wire peeling off the frame, something was alive and making sounds about it.
 
 Three hens. Brown, fat, furious. Surviving on gravel and weeds and whatever insects had the misfortune of crossing their path. They'd outlasted the apocalypse through the only strategy chickens know: being too dumb and too angry to die.
 
@@ -124,13 +124,13 @@ Caleb, from the cart, deadly serious: "Her name is Steggy Two."
 
 The chickens squawked at every crack in the asphalt, every pebble, every shift in the cart's trajectory. They squawked at the wind. They squawked at each other. They squawked at the concept of forward motion.
 
-After ten minutes of this, I started calculating. Sound attenuation over distance — chicken vocalization averages sixty-five decibels at source, which meant roughly forty-five at a hundred yards, which was within the auditory detection range I'd estimated for the Turned's hunting mode. We needed to reduce output. I had Maria's pharmacy inventory memorized; we still had diazepam from the church supply, and if we crushed half a milligram into feed and factored for avian body mass — chickens average six pounds, metabolic rate roughly twice human per kilogram, so the dosing would need to —
+After ten minutes of this, I started calculating. Sound attenuation over distance. Chicken vocalization averages sixty-five decibels at source, which meant roughly forty-five at a hundred yards, which was within the auditory detection range I'd estimated for the Turned's hunting mode. We needed to reduce output. I had Maria's pharmacy inventory memorized; we still had diazepam from the church supply, and if we crushed half a milligram into feed and factored for avian body mass — chickens average six pounds, metabolic rate roughly twice human per kilogram, so the dosing would need to —
 
 "Nate," Ruth said.
 
 "— account for hepatic clearance, which in gallinaceous birds is —"
 
-Ruth took the towel out of the cart — the one Maria had lined it with — and draped it over the hens.
+Ruth took the towel out of the cart, the one Maria had lined it with, and draped it over the hens.
 
 Silence. Immediate, total. The chickens stopped moving, stopped squawking, stopped existing as a tactical problem. Three birds, convinced it was nighttime, tucked their heads and went to sleep in a shopping cart on Highway 71.
 

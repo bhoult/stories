@@ -2,27 +2,27 @@
 
 I came back slowly. From a state where you stop being the person who processes and become the person who is processed. I'd been there for two days and I don't remember much of it except Sienna's hand and Jim's shoulder and Caleb putting the beagle in my lap.
 
-I remember the guardrail. That night I have whole and in order, every word of it, which makes no sense against the rest — two days of fog with one night cut clean out of the middle of it. I've stopped trying to account for that. Something needed doing for somebody who wasn't me, and whatever had gone out in me apparently still answered to that.
+I remember the guardrail. That night I have whole and in order, every word of it, which makes no sense against the rest: two days of fog with one night cut clean out of the middle of it. I've stopped trying to account for that. Something needed doing for somebody who wasn't me, and whatever had gone out in me apparently still answered to that.
 
 On the morning of Day 41 I tried to think. I lay in my sleeping bag and reached for the analytical machinery — the part of me that observes, categorizes, plans — and it flopped like a beached fish — a wet, desperate lurch toward the water. Caught for a second. Lost it. I tried to count the group, a basic inventory, and got to four before the count dissolved into the parking lot, the bare feet, the distance I couldn't close. I pulled back. Tried again. Got to six. Held it. Lost it again.
 
-The third time, the machinery caught and held — gasping, skipping, the fish finding the shallows but not the current. I could think in short bursts. A sentence at a time. I could observe if I didn't observe too hard. Planning was beyond me. But I could sit up. I could accept a cup of tea. I could let the morning be slow without the slowness swallowing me.
+The third time, the machinery caught and held, gasping, skipping, the fish finding the shallows but not the current. I could think in short bursts. A sentence at a time. I could observe if I didn't observe too hard. Planning was beyond me. But I could sit up. I could accept a cup of tea. I could let the morning be slow without the slowness swallowing me.
 
-The morning was slow. Ruth made me tea from a packet she'd been hoarding — chamomile, the paper tag still attached, the string hanging over the side of a dented camp cup. She didn't say anything while she made it. She didn't say anything when she handed it to me. She sat on a log across from mine and read her romance novel and the only sound was pages turning and the tea cooling and the specific silence of a person who is keeping you company without requiring you to be anything.
+The morning was slow. Ruth made me tea from a packet she'd been hoarding. Chamomile, the paper tag still attached, the string hanging over the side of a dented camp cup. She didn't say anything while she made it. She didn't say anything when she handed it to me. She sat on a log across from mine and read her romance novel and the only sound was pages turning and the tea cooling and the specific silence of a person who is keeping you company without requiring you to be anything.
 
-Jim came through with Caleb. Caleb sat beside me and leaned against my arm and showed me a rock he'd found — quartz, milky, with a vein of something glittery running through it. "Marcus says it's worth a million dollars," he said. "He's lying but I'm keeping it." Then he climbed up and went to find more rocks, and the whole interaction lasted forty-five seconds and cost nothing.
+Jim came through with Caleb. Caleb sat beside me and leaned against my arm and showed me a rock he'd found. Quartz, milky, with a vein of something glittery running through it. "Marcus says it's worth a million dollars," he said. "He's lying but I'm keeping it." Then he climbed up and went to find more rocks, and the whole interaction lasted forty-five seconds and cost nothing.
 
 What Caleb doesn't know is that he cries in his sleep. Every night. Small, hitching sounds. He never remembers in the morning. Jim holds him through it, one hand on Caleb's back, not waking him, because waking him would mean explaining and explaining would mean making it real. The mercy, for now, is that Caleb's grief lives only in his sleep where he can't see it. None of us mention it. We lie in our sleeping bags and listen to a seven-year-old cry for parents he hasn't talked about since Week Two and we say nothing.
 
 These are the moments that don't make the journal entries. The tea. The rock. The sound of Ruth turning pages. They happened between the crises the way grass grows between stones. The version of this story that only contains fear and strategy and running is not the true version. The true version has chamomile tea in it. The true version has a seven-year-old showing you a rock.
 
-Dale was sitting across from me at the fire, carving. The turtle was nearly finished — the hexagonal plates of the shell emerging with clean, precise strokes. His hands were steady. They'd been steady for days now, the withdrawal broken back around the tenth day on the trail, but I was only now seeing it properly because I'd been inside my own weather system and had stopped noticing anything outside it.
+Dale was sitting across from me at the fire, carving. The turtle was nearly finished: the hexagonal plates of the shell emerging with clean, precise strokes. His hands were steady. They'd been steady for days now, the withdrawal broken back around the tenth day on the trail, but I was only now seeing it properly because I'd been inside my own weather system and had stopped noticing anything outside it.
 
 He looked up and caught me watching his hands.
 
 "You're back," he said. Not a question.
 
-"Partly." The honest answer. The machinery was running but it was running rough — I could hold a thought for minutes now, not seconds, but the parking lot was still there at the edges, waiting for any gap in concentration. "Enough to walk. Enough to listen."
+"Partly." The honest answer. The machinery was running but it was running rough. I could hold a thought for minutes now, not seconds, but the parking lot was still there at the edges, waiting for any gap in concentration. "Enough to walk. Enough to listen."
 
 "That's enough," Dale said.
 
@@ -34,13 +34,13 @@ Marcus was already packing. Rolling tarps, cinching straps, checking the shoppin
 
 So Dale taught while we walked.
 
-We broke camp and continued north on the highway, the terrain opening as the mountains fell behind us. The first lesson came on the first grade — not steep, but enough that my breathing deepened and I felt the old pattern stirring, the anger looking for something to push against.
+We broke camp and continued north on the highway, the terrain opening as the mountains fell behind us. The first lesson came on the first grade: not steep, but enough that my breathing deepened and I felt the old pattern stirring, the anger looking for something to push against.
 
-"Radical acceptance," Dale said, walking beside me, pushing a shopping cart over cracked asphalt. "The name is terrible. It sounds like a bumper sticker. But it's the most useful thing I ever learned." He was breathing hard — the grade — but his voice was steady. "The situation is what it is. Your feelings about the situation are not the situation. You can feel like this hill is going to kill you and still be walking up it. The feeling is weather. The hill is geography. You navigate the geography. You endure the weather."
+"Radical acceptance," Dale said, walking beside me, pushing a shopping cart over cracked asphalt. "The name is terrible. It sounds like a bumper sticker. But it's the most useful thing I ever learned." He was breathing hard, the grade, but his voice was steady. "The situation is what it is. Your feelings about the situation are not the situation. You can feel like this hill is going to kill you and still be walking up it. The feeling is weather. The hill is geography. You navigate the geography. You endure the weather."
 
 Ruth, from behind us: "That's remarkably coherent for someone who learned it in a rehabilitation clinic."
 
-"Rehab was the most educational experience of my life. More than high school. Six years of active addiction was its own education, but the curriculum was pain and the degree was worthless." He almost smiled. "What I learned there is that the brain lies. Not maliciously — the way a GPS lies when the map is outdated. It gives you directions based on old data. Turn left to feel better. Use this to stop the pain. Run from the thing that scares you. The directions were correct in the old world. In this world, the directions will kill you."
+"Rehab was the most educational experience of my life. More than high school. Six years of active addiction was its own education, but the curriculum was pain and the degree was worthless." He almost smiled. "What I learned there is that the brain lies. Not maliciously: the way a GPS lies when the map is outdated. It gives you directions based on old data. Turn left to feel better. Use this to stop the pain. Run from the thing that scares you. The directions were correct in the old world. In this world, the directions will kill you."
 
 We stopped for water at a pull-off where the highway widened. Caleb sat on the guardrail, arranging his wooden animals in a line — beagle, cardinal, fox, turtle, chicken, chicken, chicken — and the line looked like a parade going somewhere hopeful.
 
@@ -66,23 +66,23 @@ Dale looked at Jim. Two men who had spent their lives in folding chairs — one 
 
 *My damage is my skillset too. But not the way I've been telling it.*
 
-*I've been telling the story where I'm a fat kid who happened to be good at pattern recognition. The body is the limitation, the brain is the asset, and the gap between them is the joke — the running gag (emphasis on running, which I can't do) that gets me through the day. Everybody laughs. Nobody expects me to change.*
+*I've been telling the story where I'm a fat kid who happened to be good at pattern recognition. The body is the limitation, the brain is the asset, and the gap between them is the joke: the running gag (emphasis on running, which I can't do) that gets me through the day. Everybody laughs. Nobody expects me to change.*
 
 *Sienna told me to stop. She said I was building the case for my own powerlessness. She said the old world could afford comfortable lies and passive withdrawal and this world can't. She said that in the best case scenario, everything that goes wrong is my fault, because that means I can fix it.*
 
 *I hated her for saying it. I hate her less now. I hate her less every day, which is a trajectory that points toward something I don't have a word for yet.*
 
-*Here is what I'm trying to learn: the body is a starting point. I weigh less than I did on Day One — not much, but some, because five weeks of rationing and walking will do that. I carried twenty-five pounds up a mountain. I walked through a septic tank. I will walk through whatever comes next because I'm choosing to be that person, today, and tomorrow I'll choose again. The notebook is not a substitute for the walk. The walk is the thing.*
+*Here is what I'm trying to learn: the body is a starting point. I weigh less than I did on Day One: not much, but some, because five weeks of rationing and walking will do that. I carried twenty-five pounds up a mountain. I walked through a septic tank. I will walk through whatever comes next because I'm choosing to be that person, today, and tomorrow I'll choose again. The notebook is not a substitute for the walk. The walk is the thing.*
 
 *I'm not going to stop being funny about it. The humor is mine. But I'm going to stop using it as a door I hide behind. Sienna opened that door. I'm walking through.*
 
-*I'm scared. My resting heart rate is 72. The gap is smaller than it used to be. I'm using Dale's techniques — noticing the fear, not fighting it, not riding it, just noticing. The fear is weather. The city is geography. I navigate the geography.*
+*I'm scared. My resting heart rate is 72. The gap is smaller than it used to be. I'm using Dale's techniques, noticing the fear, not fighting it, not riding it, just noticing. The fear is weather. The city is geography. I navigate the geography.*
 
 *I navigate the geography.*
 
 ---
 
-After the stop, Dale walked near the front, pushing one of the shopping carts. His pace was steady — the walk of a man who had come through the worst of it and was standing on the other side. The road descended through the last of the switchbacks toward the broad plateau where Fayetteville sat. Maria walked behind him, and I noticed that she wasn't walking behind him to support him. He was setting the pace and she was following it. The dynamic between them had shifted from "managing the addict" to "walking with the man," and neither of them acknowledged it.
+After the stop, Dale walked near the front, pushing one of the shopping carts. His pace was steady: the walk of a man who had come through the worst of it and was standing on the other side. The road descended through the last of the switchbacks toward the broad plateau where Fayetteville sat. Maria walked behind him, and I noticed that she wasn't walking behind him to support him. He was setting the pace and she was following it. The dynamic between them had shifted from "managing the addict" to "walking with the man," and neither of them acknowledged it.
 
 Marcus, walking beside me, said quietly: "He's tougher than he looks."
 
@@ -94,11 +94,11 @@ Marcus, walking beside me, said quietly: "He's tougher than he looks."
 
 "Don't tell me that either. I have a reputation."
 
-We walked. The highway curved through the last of the hills. Through the trees I could see the terrain flattening ahead — the outskirts of something, the edge of a city, buildings and fields and the built-up sprawl of a college town.
+We walked. The highway curved through the last of the hills. Through the trees I could see the terrain flattening ahead: the outskirts of something, the edge of a city, buildings and fields and the built-up sprawl of a college town.
 
 "Fayetteville," Marcus said, reading a road sign. "Ten miles."
 
-I nodded. Ten miles. The last stretch. But between us and the university — whatever was gathered on the outskirts of a city that had once held almost one hundred thousand people. The Turned would be concentrated there. Drawn to the population center, the infrastructure, the gravitational pull of human settlement.
+I nodded. Ten miles. The last stretch. But between us and the university. Whatever was gathered on the outskirts of a city that had once held almost one hundred thousand people. The Turned would be concentrated there. Drawn to the population center, the infrastructure, the gravitational pull of human settlement.
 
 "Then we'll need everything Dale just taught us."
 

@@ -4,7 +4,7 @@ I was not in distress.
 
 Nobody believed that afterward. I wasn't crying. I wasn't spiraling. I got out of my sleeping bag at an hour I didn't check, and I took the binoculars, and I took the hatchet off the top of my pack where it lived, and I walked south down the shoulder of Highway 71.
 
-Dale had the watch. He was sitting on an overturned bucket with his back to the fire, facing north — because north is where we were going, and north is where a threat comes from. South is the direction you've already survived. Nobody watches the ground behind you. It's the only flaw I ever found in a protocol I wrote myself, and I found it by exploiting it.
+Dale had the watch. He was sitting on an overturned bucket with his back to the fire, facing north. Because north is where we were going, and north is where a threat comes from. South is the direction you've already survived. Nobody watches the ground behind you. It's the only flaw I ever found in a protocol I wrote myself, and I found it by exploiting it.
 
 ---
 
@@ -30,7 +30,7 @@ I did not run the distance.
 
 I run everything. I had the numbers. I had walked every one of those miles with a pack on. And I started the sum somewhere around the first mile marker and then I put it down, the way you put down a letter you already know the contents of, and I kept walking.
 
-What I let myself have instead was the end of it. The lot, and one swing, and after the swing the bark — the short sharp call that turns every herder in earshot into a hunter. I'd written that down myself after Marcus killed Gary Sutton in a church parking lot with the same hatchet. *Every kill broadcasts your location.*
+What I let myself have instead was the end of it. The lot, and one swing, and after the swing the bark: the short sharp call that turns every herder in earshot into a hunter. I'd written that down myself after Marcus killed Gary Sutton in a church parking lot with the same hatchet. *Every kill broadcasts your location.*
 
 One swing, and no arithmetic after that. It did not feel like a decision to die. It felt like the first errand in six weeks with a definite end.
 
@@ -52,7 +52,7 @@ I counted it again. Fifty-eight is what Jim runs on fifty milligrams of metoprol
 
 That was the part that stopped me. Not that they let me pass. That I hadn't needed them to.
 
-Marcus told us about this in the basement on his first day, holding a flask. *They'd look. Tilt their heads. Then go back to whatever they were doing. I wasn't calm — I was empty.* I'd written it down as a data point. I'd called it a dominant strategy and been pleased with myself for the phrase.
+Marcus told us about this in the basement on his first day, holding a flask. *They'd look. Tilt their heads. Then go back to whatever they were doing. I wasn't calm. I was empty.* I'd written it down as a data point. I'd called it a dominant strategy and been pleased with myself for the phrase.
 
 I was standing in the middle of Highway 71 having become the data point.
 
@@ -64,13 +64,13 @@ There was a road, and I was on it, and sitting seemed like the accurate response
 
 And then, with nothing else in front of me, the machinery produced the number I'd refused to produce for two miles.
 
-Fifteen miles of highway to Lake Fort Smith. Sixty miles of Ozark Highlands Trail — the ridgelines, the creek crossings, the rock scramble it took both Marcus and Jim to get Ruth up in the rain. Twenty miles of county road after that. Ninety-five miles, backward, alone, in December, with a hatchet and a water bottle and whatever was in my jacket. The roads don't go there; Marcus settled that in a church basement on his first day. The only way back to my mother was the trail, and the trail had taken eight of us eleven days with tents and stoves and a man who knew where the water was.
+Fifteen miles of highway to Lake Fort Smith. Sixty miles of Ozark Highlands Trail: the ridgelines, the creek crossings, the rock scramble it took both Marcus and Jim to get Ruth up in the rain. Twenty miles of county road after that. Ninety-five miles, backward, alone, in December, with a hatchet and a water bottle and whatever was in my jacket. The roads don't go there; Marcus settled that in a church basement on his first day. The only way back to my mother was the trail, and the trail had taken eight of us eleven days with tents and stoves and a man who knew where the water was.
 
 I was not going to arrive. There was no arrangement of the numbers in which I arrived.
 
 And it changed nothing.
 
-That is the part. I sat on a highway with the correct answer in my hands and it did not move me an inch. Being right had stopped doing anything at all — and being right was the whole of what I had, the only thing I'd ever brought to any of it, and it turned out to be a tool that only worked on other people's problems.
+That is the part. I sat on a highway with the correct answer in my hands and it did not move me an inch. Being right had stopped doing anything at all, and being right was the whole of what I had, the only thing I'd ever brought to any of it, and it turned out to be a tool that only worked on other people's problems.
 
 There was a second number underneath it. Whatever I did or failed to do, she was going to go on standing in that lot. It was not a problem. It was a debt I had no currency for.
 
@@ -86,7 +86,7 @@ Same mechanism. Both times it made me invisible. The difference was that the fir
 
 And then the warmth came, and I was not surprised to feel it.
 
-It started in my chest, the way it had in the tank. Spreading, unhurried, not unpleasant. Something unclenching that I hadn't known was clenched. My jaw let go. The edges of me got soft — the name, the weight, the scar on my palm, the hatchet lying across my knees. All of it started to feel like things I was holding rather than things I was, and there was a surface somewhere out in the dark where I could set them down.
+It started in my chest, the way it had in the tank. Spreading, unhurried, not unpleasant. Something unclenching that I hadn't known was clenched. My jaw let go. The edges of me got soft: the name, the weight, the scar on my palm, the hatchet lying across my knees. All of it started to feel like things I was holding rather than things I was, and there was a surface somewhere out in the dark where I could set them down.
 
 In the septic tank I put my hands into human waste and breathed it in to break this.
 
@@ -98,7 +98,7 @@ The organism was offering to stop being me. It was the first offer anyone had ma
 
 I heard her before I saw her.
 
-She wasn't running. Sienna could have covered those two miles in eleven minutes and didn't, because she had spent five weeks unlearning exactly that, and because — I found this out later — she had watched me go and given me a head start on purpose. She said it was so I'd get far enough to be honest. I have never known whether to believe that.
+She wasn't running. Sienna could have covered those two miles in eleven minutes and didn't, because she had spent five weeks unlearning exactly that, and because, I found this out later, she had watched me go and given me a head start on purpose. She said it was so I'd get far enough to be honest. I have never known whether to believe that.
 
 She sat down on the center line next to me. She didn't say my name. She didn't take my arm or check my pulse or ask what I thought I was doing. She looked at the hatchet across my knees for about a second and a half. Then she looked south down the highway at the same nothing I was looking at, and she stayed there.
 
@@ -112,7 +112,7 @@ It went through her all at once, shoulders to hands, the involuntary kind, and s
 
 And the machinery came on.
 
-Not gently. It came on the way an engine catches — a lurch, a catch, and then it was running, and it started doing math. Ambient temperature somewhere near thirty-four. Track pants, a hoodie, canvas sneakers from a church donation box. One hundred thirty-five pounds and almost no body fat, because she was a distance runner who'd been eating freeze-dried rations for two weeks. Wind out of the north at the speed that was moving the leaves in the ditch. She had been sitting still for however long I had been sitting still.
+Not gently. It came on the way an engine catches: a lurch, a catch, and then it was running, and it started doing math. Ambient temperature somewhere near thirty-four. Track pants, a hoodie, canvas sneakers from a church donation box. One hundred thirty-five pounds and almost no body fat, because she was a distance runner who'd been eating freeze-dried rations for two weeks. Wind out of the north at the speed that was moving the leaves in the ditch. She had been sitting still for however long I had been sitting still.
 
 She was going to get hypothermic well before I did. She had less to burn.
 
@@ -128,7 +128,7 @@ I was doing sums the whole way. Not about her. About Ruth's atenolol, and how fa
 
 She never asked what the hatchet was for. She saw it and she did the arithmetic on it in a second and a half and she sat down next to me anyway. Not asking was the largest thing anyone has ever done for me, and she did it at that temperature, in those shoes, without once mentioning that she was cold.
 
-I have gone over what I could have done differently, and the answer is not the one I went looking for. It isn't the parking lot. By the parking lot it was already decided. It goes back to a kitchen window on the second day, watching Lisa Anderson run out of exits and doing the arithmetic on whether I could reach her, and getting the right answer — I couldn't — and discovering that a right answer will hold a door shut for you as long as you need it to.
+I have gone over what I could have done differently, and the answer is not the one I went looking for. It isn't the parking lot. By the parking lot it was already decided. It goes back to a kitchen window on the second day, watching Lisa Anderson run out of exits and doing the arithmetic on whether I could reach her, and getting the right answer, I couldn't, and discovering that a right answer will hold a door shut for you as long as you need it to.
 
 I have been getting right answers ever since.
 
