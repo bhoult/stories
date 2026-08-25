@@ -1,59 +1,98 @@
-# Chapter 30: The Journal
+# Chapter 30: The Archive
 
-Day 45.
-
-I sat on the roof of the science building at dusk. The frequency emitter hummed behind me — its speakers and antenna array mounted on the parapet, the sound so constant it had become the texture of the air. You didn't get used to it. You learned to carry it.
-
-The campus spread below me in the last light. The quad, the dormitories, the track, the maintenance bay. The buildings were brick and limestone and they glowed in the dusk the way old buildings glow — warm, patient, as if they'd been waiting for someone to use them again.
-
-Below, in the quad, Sienna was running laps. Controlled. Steady. Her breathing measured, her stride long, the mechanics of a body reclaiming itself from the thing that had tried to take it. She ran toward the edge and turned back. Toward and back. Each lap she pushed closer to the edge and came back, and the margin in her favor was growing.
-
-Caleb was on the steps of the education building with Jim. They were counting breaths. Four in. Hold. Six out. Caleb's small chest rising and falling with the careful concentration of a child who trusted the man beside him. Jim's hand was on the boy's shoulder. His other hand was on the railing, supporting weight he used to carry unassisted. He didn't let Caleb see this. Caleb saw anyway. Children see everything. They just don't always say.
-
-Marcus was under the hood of the truck. The wrench was steady, rhythmic. For the first time in years, he was building something instead of enduring something. The truck might run someday. It might not. 
-
-Ruth was in the library. I couldn't see her from the roof but I knew she was there because the library lights were on and Ruth's schedule was as predictable as her grammar: mornings for reading, afternoons for the project she wouldn't describe, evenings for telling everyone their syntax was deteriorating. The standards persisted. Civilization was negotiable. Subject-verb agreement was not.
-
-Dale was on the bench outside the science building, carving. The zoo had grown — beagle, cardinal, fox, turtle, owl, and now something new, something I couldn't identify from the roof but which Dale would later tell me was a dome. A geodesic dome, like the ones Buckminster Fuller designed. "Strongest structure in nature," he said. "All the force distributed evenly. Nothing carries more than its share." He'd carved it for Caleb. Caleb put it in the center of the zoo and called it the animals' house.
-
-Maria was at the whiteboard in the cafeteria, updating the supply calendar. She would always be at the whiteboard. The counting was her prayer, the way Jim's prayer was his practice, the way Dale's carving was his meeting. Same discipline, different doors.
-
-Beyond the perimeter, four hundred yards out, the rooted held their line. A dark forest of grey-green figures at the edge of the frequency's reach, motionless, connected, the root network threading between them like the wiring of a vast and patient brain. Not swaying anymore — growing. The colony watched the campus with the patience of something that was already everywhere and had nothing but time.
-
-The rooted were there. We were here. The hum between us was the world as it was. Four hundred yards and shrinking — that was the space where everything that mattered would happen.
-
-I opened the notebook to the last page. I'd found a new one — a composition book from the campus bookstore, black and white marbled cover, the kind I'd used in school a lifetime ago. The old notebook sat beside me, wrinkled and stained, its pages full. The new one was blank. Both of them were mine.
-
-I picked up the pen.
+## ACT FOUR: INHERITANCE
+### *"I survived. I wish that felt like enough."*
 
 ---
 
-**JOURNAL ENTRY #21:**
+On Day 44, I gave Dr. Moss my journal.
 
-*I survived. Not because I was brave or strong or smart. I survived because I was slow, and I was scared, and I paid attention. That's not a hero's story. The world doesn't need hero stories anymore. It needs notes.*
+I hadn't planned to. The notebook was mine. Private, wrinkled, stained with septic residue that no amount of airing could fully remove. It contained my mistakes in chronological order, and the thought of a scientist reading my fifteen-year-old's approximations of biochemistry felt like handing a crayon drawing to a museum curator.
 
-*Here are my notes.*
+But Moss asked. She'd heard Marcus describe the journal on the CB. She wanted primary source data. Eyewitness observations from the first six weeks, documented in real time, uncorrected by hindsight. "Everyone who comes in tells me what they remember," she said. "Memory is reconstruction. Memory edits. What I need is what someone wrote down while it was happening, including the parts they got wrong."
 
-*I'm going to keep writing them until I run out of things to learn or until I turn, and I don't plan on doing either.*
+I handed it over. She sat in her office: a small room off the main lab, cluttered with printouts and specimen jars and a poster of the periodic table that someone had annotated with hand-drawn sad faces over the elements whose lab stocks were exhausted. The comet printout was on the wall behind her. I did not ask about it. She read.
 
-*Tomorrow we're going to try to reach the group south of here — the twelve survivors who responded to the broadcast. Dr. Moss says there might be a whole network. Sienna says she's coming. Marcus is fixing the truck. Jim says he'll pray for us, which I think means his heart is getting worse and he's not telling anyone, and I think means he knows I know, and I think means we're both carrying that knowledge and neither of us is ready to set it down.*
+She read for two hours. I sat in a chair across from her and watched her read and tried not to spiral, because the journal was the most honest thing I'd ever produced and I had no control over what she'd make of it.
 
-*Dale is teaching recovery workshops to people who never thought they'd need recovery skills. Ruth is building something in the library that she won't describe. Maria is counting, always counting, because counting is how she loves us. Caleb has a wooden geodesic dome for his animal zoo and he says the animals live there because it's the safest shape. He's seven and he's right.*
+She turned pages. She made notes on a separate pad. Occasionally she looked up: not at me, at the wall, processing something. I used to do that on the ceiling of the trailer. Then back to the journal. Entry by entry. Mistake by mistake.
 
-*I miss my mom. I'm going to miss her for the rest of my life. However long that is.*
+When she finished, she set the notebook on the desk and looked at me.
 
-*She used to say "Happy Friday" every week when she left for her shift. I used to barely look up from my screen. I'd give anything to not look up from my screen one more time.*
+"Your biochemistry is wrong in several places," she said. "Your HPA axis description is simplified to the point of inaccuracy. You have the adrenal cascade running in the wrong order in entry one and you never go back and correct it. Your threshold numbers are inconsistent. And 'the vagal brake' is a real thing but it does not do what you say it does in entry six."
 
-*But I'm still here. We're still here. And tomorrow we walk again.*
+"I know. I was working from a nursing textbook and Wikipedia articles I'd read before the internet went down."
+
+"I know you know. That's why the journal is valuable." She tapped the notebook. "This isn't a scientific document. It's a learning document. Every entry shows what you thought, what happened, and what you figured out next. The errors are the most important part. They show the process of revision. They show a mind encountering data that contradicts its model and updating the model instead of defending it."
+
+She leaned back.
+
+"I've had eleven survivor groups reach this campus. Most of them have stories. Some have observations. A few have strategies. None of them documented the process the way you did. None of them wrote down what they got wrong."
+
+Eleven groups. Every one of them with a theory about why they were still breathing, and every theory built out of the same broken material: the people who could contradict it aren't available.
+
+I have been doing it for six weeks. I watched Jim walk across a parking lot and concluded that calm works. I never once got to interview a calm man who died anyway, and there is no reason on this earth to think there weren't hundreds of them, in Tulsa and Little Rock and Lagos, doing everything I did and getting nothing for it.
+
+That doesn't make the notebook wrong. It makes it a record of what survived long enough to get written down, which is a smaller and more embarrassing thing than what I thought I was making.
+
+"Most people don't enjoy writing down their failures."
+
+"Most people don't survive long enough to benefit from them." She paused. "I want you to keep writing. Not for yourself. For other survivors. The broadcasts I've been making are scientific. Mechanism, pharmacology, the emitter. What I can't broadcast is this." She tapped the journal again. "The human part. The part that tells people how to *live* with the knowledge. How to stay calm when the mechanism is telling your body to panic. How to make decisions when the decisions are terrible. How to be fifteen and responsible for seven people and scared every minute and still functional."
+
+"I don't know how I did that."
+
+"That's fine. You wrote it down while you were doing it. That's better than knowing, knowing is retrospective, and retrospective gets edited, and edited is useless. People need the unedited version."
+
+She picked up the journal and held it out.
+
+"I want to compile a guide. A manual. How to stay human in a world that punishes humanity's best instincts. Your journal is the model: not because it's correct, but because it shows the process of becoming correct. The failures are the curriculum."
+
+I took the journal back. It felt different in my hands. Heavier, or maybe I was lighter. Same pages, same entries, same wrinkled record of six weeks of being wrong and revising and surviving. But it wasn't just mine anymore. It was data. A survival guide written by accident.
+
+"There's a private entry," I said. "One I didn't show anyone. About the roadblock. About —" I stopped. "About the thing I'm capable of."
+
+"I know. Marcus mentioned it."
+
+"Do you want to read it?"
+
+She looked at me. The squint, the permanent squint from the frequency, made her expression hard to read, but her eyes were clear behind it.
+
+"Do you want me to?"
+
+I hesitated. The private entry was different from what else I carried. Not a failure or a mistake: a capacity. I could look at human beings and engineer a wolf knife out of razor wire and their own frenzy. I could make that plan and execute it and walk through the blood and past the woman tangled in the wire and keep walking. Jim wouldn't look at that part of me. Sienna looked at it too much. I was afraid of it because it worked.
+
+I handed her the notebook with a slight tremor in my hand, open to the private entry.
+
+She read it. Thirty seconds.
+
+"You're afraid of this part of yourself," she said.
+
+"Yes."
+
+"You should be. It'll keep people alive and it'll cost you things you can't calculate yet. Both true. Neither cancels the other." She closed the notebook. "People need an enemy. They need someone to blame, someone to beat. If I told the public that this organism isn't a weapon, isn't engineered, isn't anyone's fault — that this is just contact, an accident, an ecology encountering another ecology — I don't think people can hear that right now. They need the story to have a villain."
+
+"Does it have a villain?"
+
+"It has an organism doing what organisms do. It found a niche, the human fear response, and it's exploiting it. That's not evil. It's biology." She looked at the comet printout on the wall. Looked away. "The villain, if there is one, is the gap between what the world is and what people believe it is. Your whole journal is about that gap. Craig Lyle, the gas station group, the soldiers at the blockade. They all died because their model of the world was wrong and they couldn't revise it fast enough."
+
+"And the people who survived?"
+
+"Revised. That's the only difference. The people who survive this won't be the strongest or the bravest. They'll be the ones who write down what they got wrong."
 
 ---
 
-I closed the journal. The new notebook, first entry, the ink still drying.
+That evening, in the seminar room, I opened the journal to the entry about the fortified group on Highway 71: the nine survivors in the gas station, the barbed wire between the pumps, the woman with the shotgun who wouldn't leave. I reread it. Then I turned to a fresh page, the last fresh page, and wrote:
 
-Below, Sienna finished her laps. She looked up at the roof. I looked down. Four stories and six weeks and everything that had happened between us.
+**JOURNAL ENTRY #20:**
 
-She waved.
+*Dr. Moss wants me to compile a guide. A manual for surviving a world that punishes courage and rewards caution. She says my journal is the model: the process, not the conclusions. How I figured out what I got wrong.*
 
-I waved back.
+*I don't know how to write a survival guide. I know how to write what happened and what I learned and where the learning cost someone something they can't get back. I know how to document the gap between the model and the world. I know how to be wrong on paper.*
 
-Then I went downstairs to help Marcus with the truck. I didn't know anything about trucks. I'd learn.
+*Maybe that's enough. Maybe a survival guide for the end of the world is just a record of someone being wrong, over and over, and not dying of it.*
+
+*Tomorrow I'm going to try something. Moss has a broadcast transmitter: more powerful than the CB, campus radio equipment, range of fifty miles or more. She's been using it for scientific bulletins. She's going to let me use it for something else.*
+
+*I'm going to talk. Into a microphone. To whoever is out there. I'm going to tell them what I know and what I've learned, and I'm going to start with the thing nobody wants to hear: the thing that's killing you isn't the monsters. It's the fear. And the fear is manageable. Not easy. But manageable.*
+
+*I'm scared of the microphone more than I was scared of the septic tank. At least the septic tank was private.*

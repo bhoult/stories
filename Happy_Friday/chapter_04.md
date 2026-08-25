@@ -1,12 +1,18 @@
 # Chapter 4: The Knock
 
-I spent the afternoon reading my mom's nursing textbook.
+I had spent that afternoon reading my mom's nursing textbook.
 
 My mom kept two textbooks from her associate's degree on a shelf above the washer-dryer unit: *Fundamentals of Nursing* and *Brunner & Suddarth's Medical-Surgical Nursing*, which is the size and weight of a cinder block. She'd never gotten rid of them because, she said, "Nursing school was the hardest thing I ever did and those books are my trophies." I'd never opened them.
 
-By Day 2 my phone was dead, the laptop was dead, the TV was off, I'd read every magazine in the house, and the textbooks were there. I pulled *Brunner & Suddarth* off the shelf and started reading about the autonomic nervous system because the alternative was sitting in the dark replaying the sound of Lisa Anderson screaming.
+The phone was down to nothing, the laptop was dead, the TV was off, I'd read every magazine in the house, and the textbooks were there. I pulled *Brunner & Suddarth* off the shelf and started reading about the autonomic nervous system because the alternative was sitting in the dark replaying the sound of Lisa Anderson screaming.
 
-I didn't understand half of it. I understood enough. The sympathetic nervous system ran on chemicals: epinephrine, norepinephrine, cortisol. Produced by the adrenal glands in response to perceived threat. The system was involuntary — you didn't choose to activate it any more than you chose to digest food. I read about beta-blockers. I read about the feedback loop between the amygdala and the hypothalamus — the cycle where fear triggers chemicals that trigger more fear.
+I didn't understand half of it. I understood enough. The sympathetic nervous system ran on chemicals: epinephrine, norepinephrine, cortisol. Produced by the adrenal glands in response to perceived threat. The system was involuntary. You didn't choose to activate it any more than you chose to digest food. I read about beta-blockers. I read about the feedback loop between the amygdala and the hypothalamus: the cycle where fear triggers chemicals that trigger more fear.
+
+Epinephrine, norepinephrine, cortisol. I wrote all three in the notebook and then I sat there looking at them and thought, I am not writing those out every time. I am fifteen. So I crossed them out and wrote **stress juice**, which is not a medical term and which I have used in my own head ever since, and if a doctor ever reads this journal I would ask them to consider the circumstances.
+
+The other thing needed a name too, and it was harder, because the other thing didn't have a word yet. Not the chemicals. The part where the chemicals get you. Lisa Anderson stood on her own concrete step in her own front yard on a Sunday morning and the ground held her right up until it didn't. That is not a mechanism. A mechanism is a thing you can see. This was underneath, and it was under all of us, and every single person alive was standing on it and didn't know.
+
+**The trapdoor.** That's what I wrote. That's what I've called it since.
 
 ---
 
@@ -18,11 +24,11 @@ The knock came at 10:47 PM. Three knocks. Front door. Polite.
 
 "Nate? Honey? Your mama asked me to check on you."
 
-Lisa Anderson's exact voice — the nasal quality, the stretched vowel in "mama." I had watched her turn six hours ago. Whatever was on the porch was using her voice the way you'd use a key against a lock.
+Lisa Anderson's exact voice: the nasal quality, the stretched vowel in "mama." I had watched her turn thirteen hours ago. Whatever was on the porch was using her voice like a key against a lock.
 
 "Nate, are you in there? I brought you some dinner."
 
-Lisa knew my mom worked at the hospital. Lisa had actually brought us food before. The organism had access to her memories and was rummaging through them like a drawer full of keys, trying each one, not understanding which lock it was standing in front of. It happened to pull two that fit — checking on the neighbor's kid, bringing food. Familiar voices activate the brain's reward pathways before the cortex can evaluate them. It wasn't trying to fool my thinking brain. It was reaching for the layer underneath.
+Lisa knew my mom worked at the hospital. Lisa had actually brought us food before. The organism had access to her memories and was rummaging through them like a drawer full of keys, trying each one, not understanding which lock it was standing in front of. It happened to pull two that fit, checking on the neighbor's kid, bringing food. Familiar voices activate the brain's reward pathways before the cortex can evaluate them. It wasn't trying to fool my thinking brain. It was reaching for the layer underneath.
 
 Knowing this did not help.
 
@@ -42,7 +48,11 @@ It was perfect. The warmth. The tiredness underneath. The pause before "bud."
 
 "I brought Chick-fil-A. Come on, open up."
 
-She doesn't bring Chick-fil-A. She brings Whataburger. Mom turns left out of the Johnson Regional Medical Center parking lot, passes the Taco Bell, and a mile down hits the Whataburger. Patty melt with jalapeños and a Dr Pepper. Every time. The closest Chick-fil-A is twenty-five minutes away in Russellville — Lisa Anderson's commute, not Mom's. Lisa drove to Russellville for work. The organism was using Lisa's neural architecture to puppet Mom's voice, and Lisa's brain associated "bringing dinner home" with the Chick-fil-A she passed every day on 64. The organism didn't know the difference. It grabbed the strongest food-plus-homecoming association it could find and it grabbed the wrong woman's.
+She doesn't bring Chick-fil-A. She brings Whataburger. Mom turns left out of the Johnson Regional Medical Center parking lot, passes the Taco Bell, and a mile down hits the Whataburger. Patty melt with jalapeños and a Dr Pepper. Every time. The closest Chick-fil-A is twenty-five minutes away in Russellville. Lisa Anderson's commute, not Mom's. Lisa drove to Russellville for work. The organism was using Lisa's neural architecture to puppet Mom's voice, and Lisa's brain associated "bringing dinner home" with the Chick-fil-A she passed every day on 64. The organism didn't know the difference. It grabbed the strongest food-plus-homecoming association it could find and it grabbed the wrong woman's.
+
+Everything about it confirmed. The voice, the tiredness underneath, the pause before "bud." Nine pieces of evidence pointing one direction and one pointing the other way, and the nine were the ones I wanted.
+
+A brain is a machine for finding the pattern it already expects. Mine went straight to work on the Chick-fil-A, looking for reasons it didn't matter, and it found several, and they were all reasonable. Maybe she stopped somewhere different. Maybe the Whataburger was closed. That is the whole of what the thing on the porch was counting on. It did not need to be convincing. It needed me to do the rest of the work myself, and I was already doing it.
 
 The only reason I didn't open the door was a fast food restaurant. The margin between surviving and not was the difference between a Whataburger and a Chick-fil-A. I am alive because an alien organism used the wrong woman's memory of a drive-through.
 
@@ -50,30 +60,38 @@ The only reason I didn't open the door was a fast food restaurant. The margin be
 
 Her exact voice. The inflection that rises on "Friday" and falls on "bud." I cried without making a sound. The thing on the porch said it again — "Happy Friday, bud" — and again — like a record skipping. It didn't understand that the reason the key fit was the same reason the door would never open.
 
-Then Lisa's voice came back — the same warm tone, the same cadence, but the words were wrong.
+Then Lisa's voice came back: the same warm tone, the same cadence, but the words were wrong.
 
 "Honey, did you remember to call Dr. Patel about the referral?"
 
-It said it exactly the way you'd say it standing in a kitchen doorway, car keys still in your hand, picking up a conversation from that morning. Lisa's voice. Lisa's inflection. But it wasn't for me. It was for her husband. It was a sentence from a Tuesday in September, or a Thursday in August — some ordinary night when Lisa came home and asked about something that mattered to their life and nobody else's. The organism had reached into the drawer again and grabbed something that felt like *coming home and talking to someone on the other side of a door*, and it didn't know the difference between a husband and a fifteen-year-old stranger.
+It said it exactly the way you'd say it standing in a kitchen doorway, car keys still in your hand, picking up a conversation from that morning. Lisa's voice. Lisa's inflection. But it wasn't for me. It was for her husband. It was a sentence from a Tuesday in September, or a Thursday in August: some ordinary night when Lisa came home and asked about something that mattered to their life and nobody else's. The organism had reached into the drawer again and grabbed something that felt like *coming home and talking to someone on the other side of a door*, and it didn't know the difference between a husband and a fifteen-year-old stranger.
 
 "The co-pay's going to be ridiculous if he's out of network."
 
-I almost laughed. The worst night of my life (so far), a dead woman's voice on my porch, and the organism was worried about insurance co-pays. It kept going — same tone, same warmth, each sentence a perfect little fossil of a life that didn't exist anymore, delivered to a door that had nothing to do with any of it.
+I almost laughed. The worst night of my life (so far), a dead woman's voice on my porch, and the organism was worried about insurance co-pays. It kept going. Same tone, same warmth, each sentence a perfect little fossil of a life that didn't exist anymore, delivered to a door that had nothing to do with any of it.
 
 Forty-five minutes. 10:47 to 11:32.
 
-I sat for another hour. Then I washed my hand. The bite was deep — human mouths are bacterial ecosystems, infection rate above 10%. *Brunner & Suddarth*, chapter on wound management. My mom would have cleaned it properly. She would have said "Nate, honestly" in that exasperated voice, and fixed it.
+I sat for another hour. Then I washed my hand. The bite was deep. Human mouths are bacterial ecosystems, infection rate above 10%. *Brunner & Suddarth*, chapter on wound management. My mom would have cleaned it properly. She would have said "Nate, honestly" in that exasperated voice, and fixed it.
 
 I wrote in the notebook:
 
-*She used Mom's voice. They access memories. The mimicry isn't targeted — it's a handful of keys thrown at a lock. Some fit. Most don't. The insurance co-pay didn't fit. "Happy Friday, bud" fit so well it almost killed me. They find the thing you miss most by accident, mixed in with someone else's grocery list and dental appointments, and they put it on the other side of a door.*
+*She used Mom's voice. They access memories. The mimicry isn't targeted. It's a handful of keys thrown at a lock. Some fit. Most don't. The insurance co-pay didn't fit. "Happy Friday, bud" fit so well it almost killed me. They find the thing you miss most by accident, mixed in with someone else's grocery list and dental appointments, and they put it on the other side of a door.*
 
 *I miss her so much I can't breathe and the thing that used her voice knows that.*
 
 I did not sleep. My brain had the Knock on a loop and the loop had no off switch. Forty-five minutes of audio playing behind my eyes every time I closed them. Lisa's voice. Then Mom's voice. "Happy Friday, bud." Over and over. I tried to think about something else and my mind returned to the loop the way a compass needle returns to north.
 
-Around 3 AM I realized the loop itself was dangerous. Each replay spiked cortisol — chronic stress activation. The organism didn't need to scare me all at once. It could do it in installments. The Knock wasn't just an attempt to get me to open the door. It was a seed planted in a brain that couldn't stop replaying. My brain was doing its work for it, for free, in the dark.
+Around 3 AM I realized the loop itself was dangerous. Each replay dumped a little more stress juice into me. Chronic activation. The organism didn't need to scare me all at once. It could do it in installments. The Knock wasn't just an attempt to get me to open the door. It was a seed planted in a brain that couldn't stop replaying. My brain was doing its work for it, for free, in the dark.
 
-I pressed my palms against my eyes and counted backward from a hundred by sevens. A cognitive interrupt — the kind of task that forces the prefrontal cortex to override the amygdala. It worked, partly. The loop dimmed to background noise. It didn't stop.
+I pressed my palms against my eyes and counted backward from a hundred by sevens. A cognitive interrupt: the kind of task that forces the prefrontal cortex to override the amygdala. It worked, partly. The loop dimmed to background noise. It didn't stop.
+
+Sometime before dawn I went under anyway, and I was in the hospital. Not visiting. Working. I was wearing my mom's scrubs and they fit, which was wrong, and I was walking the hallway toward the ER and the fluorescents were buzzing the way fluorescents do and everything was fine. Mom was at the nurses' station. She looked up and said "Happy Friday, bud" and I said "It's Sunday" and she said "No, honey, it's always Friday now" and smiled, and the smile was too wide, and I was awake.
+
+My heart was slamming. I could feel it in my throat, in my wrists, behind my eyes. I pressed my hand flat against my chest and counted: not breaths, heartbeats. One hundred and twelve, one hundred and eight, one hundred and four. I counted them down the way you'd count down a launch sequence, because somewhere in the part of my brain that was still working I understood that my heart rate was the thing that could kill me now, that the fear wasn't just fear anymore, it was the trapdoor, and the trapdoor was open, and I had to close it manually because the automatic systems had stopped being trustworthy.
+
+Ninety-six. Eighty-eight. Eighty-two.
+
+I sat there with my hand on my chest until the number felt safe, whatever safe meant, and I did not let myself close my eyes again.
 
 ---

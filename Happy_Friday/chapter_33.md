@@ -1,0 +1,78 @@
+# Chapter 33: The Broadcast
+
+The radio room was on the third floor of the science building: a converted communications lab with a transmitter that Moss's engineering grad student had boosted to broadcast over fifty miles. Far enough to reach the river valley. Far enough to reach anyone still listening in the towns and homesteads and hiding places scattered across the Ozarks.
+
+The microphone was a desktop model, silver, old. The kind they used for campus radio before the campus radio stopped. It sat on the desk in front of me like a small, attentive animal, waiting.
+
+I had meant to do this a week earlier. Then Thursday happened, and Saturday, and Sunday morning between the science building and the education building with Howard and Marcus taking turns on a shovel neither would give up. Moss asked me twice whether I wanted to wait longer. I said no both times, and the second time I told her why: there were people out there who had somebody in the room with them who was going grey and quiet, and every day I sat on this was a day one of them didn't know what I knew.
+
+Moss was in the doorway. "The transmitter is live. You'll be on the frequency I've been using for the scientific bulletins. Anyone with a CB or shortwave will hear you."
+
+"How many people is that?"
+
+"I don't know. I've had contact with eleven survivor groups in the past three weeks. There could be more who listen and don't respond." She paused. "Say what you need to say. Don't worry about being right. Worry about being useful."
+
+She left. The door closed. I was alone with the microphone and the notebook and the low hum of the emitter vibrating through the floor.
+
+I opened the notebook. The pages were wrinkled and stained and the handwriting was mine: the handwriting of a person who'd started in a trailer and was finishing in a laboratory. Not the same person at both ends. I turned to the fresh page where I'd written what I wanted to say. I'd revised it four times. The fourth version was still wrong. That was the point.
+
+I pressed the transmit button.
+
+---
+
+"This is Nate Carver. I'm fifteen years old. I'm broadcasting from the University of Arkansas in Fayetteville. I don't know what I'm doing. I want to start with that."
+
+And then, because it was true and because I had decided on the stairs coming up here that I was not going to do this the tidy way:
+
+"We buried a man yesterday. His name was Jim Whittaker and he was a pastor in Clarksville and he is the reason any of the rest of us are alive. He did not turn. His heart gave out and he stayed himself the whole way down, and I am going to come back to why, because it is the most useful thing I have to tell you."
+
+I said "catecholamines" once, into the microphone, because that is the actual word. Then I said "stress juice," because that is what it is, and because a man sitting in a stockroom in Ozark with a shortwave and a dying flashlight does not need the actual word. He needs the thing the word is for.
+
+I have thought about that a lot since. It is a small thing to be proud of. I am proud of it anyway.
+
+I told them. All of it. The rules: the trapdoor, the threshold, the beta-blockers, the voices, the density, the frenzy. The things I'd learned by watching people die because they didn't have the information. I told them about fortification and why it kills you. I told them about the Turned getting smarter. I told them that the damage they carried, the addiction, the depression, the grief, was their skillset now, that managing a craving was the same mechanism as managing fear. I told them to write it down.
+
+I read from the notebook. The entries I'd written in a trailer, in a church, on a trail, in a pulloff on a highway covered in blood. The wrong parts and the right parts and the parts I still couldn't classify. The journal was the survival tool: an honest record of the past, failures included, and the only map any of us had.
+
+Halfway through the entry about the roadblock, I stopped. Not a decision: the machinery seized. The words were on the page and my mouth wouldn't form them because my mouth knew what the words contained and the distance between reading a thing and saying it into a microphone for strangers was the distance between carrying a weight and handing it to someone else and I couldn't. I released the transmit button. Sat there. The hum of the emitter. The empty room. My pulse climbing, 88, 94, 99, and the old discipline kicking in, four in, hold, six out, the breathing that Dale taught and Jim taught and Sienna taught by holding still in a forest and not running.
+
+Ninety-two. Eighty-six. Eighty.
+
+I pressed the button again.
+
+"Sorry," I said. "I had to stop for a second. That's going to happen. That's part of it too: the stopping. If you're out there and you're managing your fear and it's working and then one day it stops working, that's not failure. That's the bill coming due. You stop. You breathe. You start again. I'm starting again."
+
+I told them about Jim where I said I would. The metoprolol, fifty milligrams twice a day for eleven years. The thirty years of practice at not being afraid, which I cannot measure and will not discount. A cardiac event dumps every stress hormone the body has and it does not stop dumping, and he went four hours past every threshold in my notebook and the organism never got a hand on him. I told them I don't know which of the two did it. I told them that a man I trusted held both of those answers at once for six weeks and never made anyone choose, and that if they were sitting somewhere with a rosary in one hand and a pill bottle in the other, they should keep both.
+
+I told them the hardest thing last.
+
+"I'm not going to tell you to come to Fayetteville. We have an emitter here that keeps the Turned back, but it won't last. The organism adapts. The range is already shrinking. What we have here isn't a fortress. It's a lab. A place where people are learning. And the learning is the thing that matters, not the walls or the frequency.
+
+"So I'm going to keep broadcasting. Dr. Moss has data. Medication protocols, frequency specifications, everything she's learned. I have the human part: the mistakes, the lessons that don't fit in a lab report. Between us, we'll give you what we can. What you do with it is yours.
+
+"Stay calm. Stay small. Stay quiet. Write it down. Say the thing nobody in the room wants to hear, and then don't start enjoying it.
+
+"This is Nate Carver. I'm fifteen. I survived. Not because I was brave. Because I was slow, and scared, and I paid attention.
+
+"I'll be here tomorrow. Same frequency. Same time.
+
+"Stay alive."
+
+---
+
+I released the transmit button. The microphone sat on the desk, silver and quiet. The hum of the emitter filled the room.
+
+I sat there for a while. My hands were shaking: not fear this time. The kind that comes after you've done something irreversible and the adrenaline is turning into something between relief and terror.
+
+Through the window, the campus was quiet in the early evening light. The track, empty. Sienna had finished her laps. Caleb's drawings taped to a bulletin board on the quad. Marcus's wrench audible even from the third floor.
+
+The CB on the desk crackled. Static. Then a voice. Distant, broken, a man's voice from somewhere south, maybe thirty miles out, maybe more:
+
+"— heard you. We heard you. There are twelve of us. We have a pharmacy. We didn't know about the beta-blockers. We're —"
+
+Static swallowed the rest. But the voice had been there. Someone had heard.
+
+I picked up the microphone.
+
+"This is Nate Carver. I hear you. Tell me your location. Tell me what you need. I'm listening."
+---

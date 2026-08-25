@@ -2,9 +2,9 @@
 
 On Day 12, Dr. Moss gave us a longer broadcast.
 
-Marcus had been working the CB every evening, scanning Channel 21, catching fragments. Most were static. Some were repetitions of things we'd already heard — the endocrine mechanism, the beta-blocker protocol. But on this evening, the atmospheric conditions aligned or her transmitter was running better or whatever variables govern radio propagation decided to cooperate, and we got twelve unbroken minutes.
+Marcus had been working the CB every evening, scanning Channel 21, catching fragments. Most were static. Some were repetitions of things we'd already heard: the endocrine mechanism, the beta-blocker protocol. But on this evening, the atmospheric conditions aligned or her transmitter was running better or whatever variables govern radio propagation decided to cooperate, and we got twelve unbroken minutes.
 
-Everyone gathered in the basement. Jim in his chair. Ruth on a folding chair with her novel closed on her lap. Dale carving — he'd finished the beagle and was starting something new, a bird of some kind, though it was too early to tell what species. Maria standing by the pantry closet with her arms crossed. Sienna sitting on the floor with her back against the wall, legs extended, the posture of an athlete at rest — which still looked more alert than most people standing up. And me, at the table, with the notebook open and a pen in my hand, writing as fast as I could.
+Everyone gathered in the basement. Jim in his chair. Ruth on a folding chair with her novel closed on her lap. Dale carving. He'd finished the beagle and was starting something new, a bird of some kind, though it was too early to tell what species. Maria standing by the pantry closet with her arms crossed. Sienna sitting on the floor with her back against the wall, legs extended, the posture of an athlete at rest, which still looked more alert than most people standing up. And me, at the table, with the notebook open and a pen in my hand, writing as fast as I could.
 
 The static thinned and Dr. Moss's voice came through, clearer than we'd ever heard it.
 
@@ -12,19 +12,19 @@ The static thinned and Dr. Moss's voice came through, clearer than we'd ever hea
 
 She paused. I could hear her turning a page.
 
-"I want to address a misconception that may be costing lives. Many survivor groups have adopted a fortification strategy — boarding windows, arming perimeters, concentrating in defensible positions. This strategy is counterproductive. The organism's collective behavior is drawn to human activity. Noise, light, electromagnetic output, and particularly the biochemical signatures of stress — all of these attract the Turned. Fortification concentrates these signals. Every defended position I have observed or received reports about has followed the same trajectory: the defenses attract Turned, the Turned accumulate, and when the local density exceeds a critical threshold — what I'm calling the density threshold — the collective behavior destabilizes."
+"I want to address a misconception that may be costing lives. Many survivor groups have adopted a fortification strategy, boarding windows, arming perimeters, concentrating in defensible positions. This strategy is counterproductive. The organism's collective behavior is drawn to human activity. Noise, light, electromagnetic output, and particularly the biochemical signatures of stress: all of these attract the Turned. Fortification concentrates these signals. Every defended position I have observed or received reports about has followed the same trajectory: the defenses attract Turned, the Turned accumulate, and when the local density exceeds a critical threshold, what I'm calling the density threshold, the collective behavior destabilizes."
 
-She said this the way you'd describe a chemical reaction — factual, measured, the voice of a scientist reading from data.
+She said it the way a scientist reads from data. Measured, and entirely without opinion.
 
-"Below the threshold, the Turned exhibit patient herding behavior. Targeted social manipulation. Voice mimicry. They are coordinated, strategic, and nonviolent. Above the threshold, the coordination collapses into undirected destruction. The patient predator becomes a demolition event. The threshold varies — I do not yet have reliable numbers, and I want to stress that I do not have reliable numbers, because giving you a number that's wrong could get you killed. What I can tell you is that the threshold appears to depend on spatial density, not raw count. Thirty Turned spread across a square mile are below threshold. Thirty in a parking lot may not be."
+"Below the threshold, the Turned exhibit patient herding behavior. Targeted social manipulation. Voice mimicry. They are coordinated, strategic, and nonviolent. Above the threshold, the coordination collapses into undirected destruction. The patient predator becomes a demolition event. The threshold varies. I do not yet have reliable numbers, and I want to stress that I do not have reliable numbers, because giving you a number that's wrong could get you killed. What I can tell you is that the threshold appears to depend on spatial density, not raw count. Thirty Turned spread across a square mile are below threshold. Thirty in a parking lot may not be."
 
 I was writing as fast as I could. Sienna was watching me write. Marcus had his hand on the radio as if physical contact could hold the signal steady.
 
 "The implications for survival are these: stay small. Stay quiet. Do not concentrate. Do not rely on fortification to save you. Do not engage. If you are receiving this and you are alive, it is because your biochemistry is below the activation threshold. Do not do anything that raises it. Every fortress is a countdown. Every act of defense is an invitation."
 
-Static intruded for a few seconds. Then she came back, and her voice had shifted — less clinical, more human, as if she'd looked up from her notes and was speaking directly to whoever was listening.
+Static intruded for a few seconds. Then she came back, and her voice had shifted: less clinical, more human, as if she'd looked up from her notes and was speaking directly to whoever was listening.
 
-"There is more to communicate. The organism's adaptation rate is accelerating. The Turned I observe on campus are more coordinated, more efficient, and more physically resilient than the Turned from week one. This is not a static threat. It is improving. I have data on this — spectrographic analysis, behavioral timelines — that I cannot transmit by radio. If you can reach this facility, I can share what I know. And what I know may — I want to be careful about promising — may include countermeasures."
+"There is more to communicate. The organism's adaptation rate is accelerating. The Turned I observe on campus are more coordinated, more efficient, and more physically resilient than the Turned from week one. This is not a static threat. It is improving. I have data on this, spectrographic analysis, behavioral timelines, that I cannot transmit by radio. If you can reach this facility, I can share what I know. And what I know may, I want to be careful about promising, may include countermeasures."
 
 A pause.
 
@@ -40,7 +40,7 @@ Jim broke it. "She didn't mention God."
 
 "She's a scientist," I said.
 
-"I noticed." He wasn't offended. He was noting a gap — something missing from her framework, the way a builder checks for a foundation. "Scientists describe what's happening. They don't always describe what it means."
+"I noticed." Not offended — noting a gap, something missing from her framework, the way a builder checks for a foundation. "Scientists describe what's happening. They don't always describe what it means."
 
 "Maybe what it means is what's happening. Maybe there isn't a layer underneath."
 
@@ -48,13 +48,27 @@ Jim broke it. "She didn't mention God."
 
 Marcus capped his flask. "The density threshold. She said it varies. She doesn't have numbers."
 
-"I've been counting," I said. "The Walmart cluster hit twenty-five and I saw behavioral changes — twitchiness, agitation. The Lyles have maybe twenty in their perimeter and the count is growing." I wrote the number in the notebook and circled it. The most important number was the one nobody could give us.
+*Density threshold.* I wrote it down because it was hers and it was precise and I wanted it in the record in her words. Then I wrote underneath it, in my own words, what I actually understood, which was this: **when you cram enough of them into one place they stop being patient and start being a mosh pit.** I went to exactly one show in my life, in Fort Smith, with Braden Cooke's older brother driving, and I stood at the back and watched the middle of the floor go from people-standing-near-each-other to a single stupid animal in about forty seconds, and a girl came out of it with a broken collarbone and no memory of how.
+
+Nobody decided that. Nobody in that pit wanted it. It was just what happens when the number gets high enough in a space that small.
+
+That is not what Dr. Moss said. It is what she meant, and I understood it faster in my own words than I had in hers, and I am recording that because I spent six weeks assuming her vocabulary was better than mine at the thing her vocabulary was for.
+
+"I've been counting," I said. "The Walmart cluster hit twenty-five and I saw behavioral changes. Twitchiness, agitation. The Lyles have maybe twenty in their perimeter and the count is growing." I wrote the number in the notebook and circled it. The most important number was the one nobody could give us.
+
+**JOURNAL ENTRY #6:**
+
+*The old model said: stay calm and you're safe. The new model says: stay calm, stay below the density threshold, stay fed, stay medicated, and outrun an organism that's adapting faster than you are. "Safe" was always temporary.*
+
+*I'm starting to think the whole concept of "rules for survival" is a comfort blanket. The rules keep changing. The organism keeps learning. The only real rule is: pay attention. Revise. Don't get attached to being right.*
+
+*Moss said "every fortress is a countdown." She's right. But what she didn't say is that every model is a countdown too.*
 
 ---
 
 Dale's knife had stopped moving.
 
-This was notable because Dale's knife never stopped moving. In the ten days I'd known him, his hands had been in constant motion — carving, whittling, shaping. The beagle. The bird. Small abstract things he didn't name. The motion kept his brain from spinning into the places it went when it was idle.
+This was notable because Dale's knife never stopped moving. In the week I'd known him, his hands had been in constant motion, carving, whittling, shaping. The beagle. The bird. Small abstract things he didn't name. The motion kept his brain from spinning into the places it went when it was idle.
 
 The knife was still.
 
@@ -62,9 +76,9 @@ The knife was still.
 
 "Yes."
 
-"Does that mean it adapts to medication? Does it — does it learn to work around the Suboxone?"
+"Does that mean it adapts to medication? Does it. Does it learn to work around the Suboxone?"
 
-The question hung in the air. I looked at Dale and saw terror behind it — the specific terror of a man whose survival depends on a molecule and who has just been told that the thing he's surviving against is learning.
+The question hung in the air. I looked at Dale and saw terror behind it: the specific terror of a man whose survival depends on a molecule and who has just been told that the thing he's surviving against is learning.
 
 "I don't know," I said. This was the truth. "She didn't say that specifically. She said the Turned's behavior is adapting. That could mean the organism is getting better at operating human bodies. It doesn't necessarily mean it's overcoming pharmaceutical suppression."
 
@@ -82,9 +96,9 @@ Maria, from the pantry closet, said: "How much Suboxone do we have?"
 
 That evening nobody wanted to be alone and nobody wanted to talk about what Moss had said, so we didn't. Jim made coffee — the last of the good grounds, not the instant — and didn't apologize for the extravagance. Ruth read aloud from her romance novel, not because anyone asked but because the silence needed filling, and she chose to fill it with a scene involving a Scottish duke and an heiress and a misunderstanding about a horse, and it was so absurdly, magnificently irrelevant that we all just listened. Maria corrected a plot point. Dale said the horse breed was wrong. Marcus said he'd driven through Scotland once and the roads were terrible. These observations had nothing to do with anything and that was the entire point.
 
-Sienna was sitting on the floor near the stairs, stretching — a habit from her old life that she maintained the way Dale maintained his carving, a way of telling her body it still existed for a reason. At one point she caught my eye and made a face — a small, private expression that meant *this is ridiculous and I'm grateful for it* — and I made a face back that meant approximately the same thing, and the exchange lasted half a second and contained more communication than anything I'd written in the notebook all week.
+Sienna was sitting on the floor near the stairs, stretching: a habit from her old life that she maintained the way Dale maintained his carving, a way of telling her body it still existed for a reason. At one point she caught my eye and made a face — a small, private expression that meant *this is ridiculous and I'm grateful for it* — and I made a face back that meant approximately the same thing, and the exchange lasted half a second and contained more communication than anything I'd written in the notebook all week.
 
-We didn't solve anything that evening. We didn't plan or strategize or calculate. We just occupied the same room and let the room be enough. I am recording this because the journal is supposed to be a survival document, and this was survival — the kind where you remind yourself that the people around you are people and not just assets on a board.
+We didn't solve anything that evening. We didn't plan or strategize or calculate. We just occupied the same room and let the room be enough. I am recording this because the journal is supposed to be a survival document, and this was survival: the kind where you remind yourself that the people around you are people and not just assets on a board.
 
 Marcus broke the quiet. He was sitting on his pew, back against the wall, flask between his knees.
 
@@ -104,21 +118,21 @@ Nobody had an answer. The question hung in the basement like smoke. Nobody answe
 
 That night Marcus woke the basement.
 
-It wasn't a scream — it was a name, pulled out of him like something physical. "Ava!" — sharp, desperate, a man reaching for something in the dark and finding nothing. By the time I was fully awake he was sitting up on his pew, hands on his knees, breathing hard. The room was quiet. Ruth had her eyes open. Dale, on the nearest pew, hadn't moved, but his voice came through the dark, low and even.
+It wasn't a scream. It was a name, pulled out of him like something physical. "Ava!" — sharp, desperate, a man reaching for something in the dark and finding nothing. By the time I was fully awake he was sitting up on his pew, hands on his knees, breathing hard. The room was quiet. Ruth had her eyes open. Dale, on the nearest pew, hadn't moved, but his voice came through the dark, low and even.
 
 "I dream about the highway too," Dale said.
 
 Marcus said nothing. After a minute his breathing slowed. He lay back down. The dark settled over us again.
 
-In the morning nobody mentioned it. But the silence was different — the silence of people who'd all been awake in the dark thinking the same thing and waiting for someone else to say it.
+In the morning nobody mentioned it. But the silence was different: the silence of people who'd all been awake in the dark thinking the same thing and waiting for someone else to say it.
 
-I said it. Over breakfast — the cold oatmeal, Ruth's insistence — I said: "What happens if someone turns from a nightmare?"
+I said it. Over breakfast, the cold oatmeal, Ruth's insistence, I said: "What happens if someone turns from a nightmare?"
 
 The oatmeal got very quiet.
 
 "The mechanism is fear," I said. "Adrenaline, cortisol, sustained sympathetic activation. Nightmares produce all of those. We're sleeping six feet apart in a basement. If someone crosses the threshold in their sleep —"
 
-"They wake up Turned," Dale said. His voice was flat. He wasn't speculating. He was running the scenario the way a man in recovery runs relapse scenarios — not *if* but *when.*
+"They wake up Turned," Dale said. His voice was flat. He had already run the scenario, the way a man in recovery runs relapse scenarios: not *if* but *when.*
 
 "Would we know?" Ruth asked. Her hands were steady on her coffee mug but her knuckles were white. "If someone turned in their sleep. Would we know immediately, or would they — would the organism —"
 
@@ -134,13 +148,13 @@ Maria spoke first. "We post a watch. One person awake, all night, watching the o
 
 "One cuff for seven people. And the person wearing it is the one you're monitoring, not the six you aren't."
 
-Jim had been listening with his hands folded, organizing something in his head before releasing it. "We post a watch," he said. "Not to monitor. To *be there.* One person awake, watching the sleepers. Not because we can prevent a turning — we probably can't. But because if it happens, someone is awake to respond. To wake the others. To get people out."
+Jim had been listening with his hands folded, organizing something in his head before releasing it. "We post a watch," he said. "Not to monitor. To *be there.* One person awake, watching the sleepers. Not because we can prevent a turning. We probably can't. But because if it happens, someone is awake to respond. To wake the others. To get people out."
 
 Ruth set her mug down. "You're asking us to watch each other the way we watch *them.*"
 
 "I'm asking us to love each other enough to stay awake."
 
-Dale's knife was moving — fast, sharp strokes. "I'll sleep separated. Upstairs. Away from the group."
+Dale's knife was moving. Fast, sharp strokes. "I'll sleep separated. Upstairs. Away from the group."
 
 "Dale —"
 
@@ -154,9 +168,9 @@ Nobody answered. The word *kill* sat on the table like something physical.
 
 "We should say it now," Maria said. She put down the can she was holding. "Each of us. What we want done if it happens to us. On the record. So nobody has to guess, and nobody has to carry the guilt of choosing for someone else."
 
-The room went very quiet. Jim opened his mouth — I could see him reaching for a way to steer us away from this — but Maria was already looking at him.
+The room went very quiet. Jim opened his mouth, I could see him reaching for a way to steer us away from this, but Maria was already looking at him.
 
-"I'll go first," she said. "If I turn, you restrain me. Tie me to something solid. Wait twenty-four hours. If nothing changes — if I'm not coming back — you put me outside and you walk away. You do not waste food or water keeping something alive that isn't me anymore."
+"I'll go first," she said. "If I turn, you restrain me. Tie me to something solid. Wait twenty-four hours. If nothing changes, if I'm not coming back, you put me outside and you walk away. You do not waste food or water keeping something alive that isn't me anymore."
 
 Dale's knife stopped. "Same," he said. "But don't wait twenty-four hours. I've been close enough to the edge to know when someone's gone. If the watcher says I've turned, I've turned. Tie me, take me outside, leave."
 
@@ -166,7 +180,7 @@ Jim's jaw tightened. He didn't argue with her. He didn't agree either.
 
 Marcus spoke from his corner. "Kill me." Two words. Flat. "Don't tie me up. Don't wait. Don't put me outside to wander around using Ava's name on somebody else's door. If I turn, I want it to stop. That's my answer."
 
-Sienna was sitting with her knees drawn up. "Restrain me. Wait. I don't know how long — a day, two days. I want to know that someone tried." She looked at me. "If there's no coming back, then exile. Not —" She stopped. "I don't want anyone here to have to do the other thing because of me."
+Sienna was sitting with her knees drawn up. "Restrain me. Wait. I don't know how long: a day, two days. I want to know that someone tried." She looked at me. "If there's no coming back, then exile. Not —" She stopped. "I don't want anyone here to have to do the other thing because of me."
 
 Everyone looked at me.
 
@@ -174,25 +188,27 @@ Everyone looked at me.
 
 Jim had his hands folded. His knuckles were white.
 
-"I will not ask anyone in this room to end a life," he said. "Not mine. Not anyone's. If I turn — restrain me. Pray over me. Wait. And if there is no change, then put me in God's hands outside this building and let Him decide what mercy looks like." He looked around the room. "But I will not judge any person here for the choice they've stated. I've heard you. I respect you. And I will honor what you've asked."
+"I will not ask anyone in this room to end a life," he said. "Not mine. Not anyone's. If I turn. Restrain me. Pray over me. Wait. And if there is no change, then put me in God's hands outside this building and let Him decide what mercy looks like." He looked around the room. "But I will not judge any person here for the choice they've stated. I've heard you. I respect you. And I will honor what you've asked."
 
 Maria nodded. "Good. It's said. Nobody has to wonder."
 
 She picked up her can and went back to counting.
 
-Jim let the silence settle. Then, quieter: "Now we solve the first part. Watch rotation. Two-hour shifts. One person awake, watching the room. If someone spikes — thrashing, the sounds we know — the watcher wakes me. We assess together."
+There's a name for what we had just done. A commitment device: you make a promise now, out loud, in front of witnesses, precisely because you know the version of you that turns up later is going to want something different and is not going to be entitled to it. Odysseus has himself lashed to the mast before the singing starts, because Odysseus-in-ten-minutes is not a person whose judgment Odysseus-now trusts. The whole thing only works if the people holding the rope are willing to ignore him when he screams.
 
-We set up the rotation that morning. Two-hour shifts, midnight to six. Jim took the first slot. Marcus took second. I took third. Dale insisted on fourth — the pre-dawn hours, his worst window, arguing that if he was going to be awake sweating through cortisol spikes anyway, he might as well be useful.
+Everyone in that basement had just described the circumstances under which they wanted to be killed. It did not seem like the moment for terminology, so I wrote it in the notebook instead.
+
+Jim let the silence settle. Then, quieter: "Now we solve the first part. Watch rotation. Two-hour shifts. One person awake, watching the room. If someone spikes, thrashing, the sounds we know, the watcher wakes me. We assess together."
+
+We set up the rotation that morning. Two-hour shifts, midnight to six. Jim took the first slot. Marcus took second. I took third. Dale insisted on fourth: the pre-dawn hours, his worst window, arguing that if he was going to be awake sweating through stress-juice spikes anyway, he might as well be useful.
 
 I wrote it in the notebook: *We are now watching ourselves the way we watch the Turned. The perimeter is inside the room.*
 
-And separately: *Marcus dreams about Ava. The phone screen going dark. Three days in the cab with nothing but bourbon and a dead phone and the sound of Turned walking past the windows. He carries the dream the way he carries the phone — something broken he won't put down.*
+And separately: *Marcus dreams about Ava. The phone screen going dark. Three days in the cab with nothing but bourbon and a dead phone and the sound of Turned walking past the windows. He carries the dream the way he carries the phone, something broken he won't put down.*
 
----
+I went up to the steeple after the broadcast. I needed to think, and thinking happened better with the binoculars and the long view: the park, the road, the Lyles' compound to the north, the Walmart across the interstate to the south. The November sun was low, casting long shadows across the parking lot. The Turned stood in their positions, faces angled toward the light.
 
-I went up to the steeple after the broadcast. I needed to think, and thinking happened better with the binoculars and the long view — the park, the road, the Lyles' compound to the north, the Walmart across the interstate to the south. The October sun was low, casting long shadows across the parking lot. The Turned stood in their positions, faces angled toward the light.
-
-Jim came up the stairs about twenty minutes later. He didn't say anything at first — just stood at the louvers, looking out at the parking lot with the expression of a man conducting a service for people who couldn't hear him.
+Jim came up the stairs about twenty minutes later. He didn't say anything at first: just stood at the louvers, looking out at the parking lot with the expression of a man conducting a service for people who couldn't hear him.
 
 "Tom Hadley," he said, pointing. "Third from the left. The one by the utility pole."
 
@@ -200,17 +216,17 @@ I found him through the binoculars. A heavyset man in a flannel shirt, face tilt
 
 "He directed the choir," Jim said. "Twenty-two years. Every Sunday, Wednesday rehearsal, Christmas cantata. He had this thing he did" — Jim raised his right hand, fingers together, making a small scooping motion — "when the sopranos came in. Like he was pulling the sound out of the air."
 
-I looked again. Tom Hadley's hands were at his sides. Then — so subtle I would have missed it without the binoculars — his right hand moved. Fingers together, a small scooping motion, the ghost of a cue to singers who would never sing again. The motion lasted two seconds. Then his hand dropped and he was still.
+I looked again. Tom Hadley's hands were at his sides. Then, so subtle I would have missed it without the binoculars, his right hand moved. Fingers together, a small scooping motion, the ghost of a cue to singers who would never sing again. The motion lasted two seconds. Then his hand dropped and he was still.
 
 "That's not the organism," Jim said. "The organism doesn't know how to conduct a choir. That's Tom."
 
-I lowered the binoculars. Jim was watching Hadley the way a father watches a sleeping child — with tenderness and with the specific grief of seeing someone present and unreachable at the same time.
+I lowered the binoculars. Jim was watching Hadley the way a father watches a sleeping child. With tenderness and with the specific grief of seeing someone present and unreachable at the same time.
 
 "Marcus asked if we could kill them," I said.
 
 "I heard."
 
-"If Tom's still in there — if the person persists inside the host — then killing the Turned isn't pest control. It's something else."
+"If Tom's still in there, if the person persists inside the host, then killing the Turned isn't pest control. It's something else."
 
 "It's murder," Jim said. Simply. Not arguing. Naming.
 
@@ -220,33 +236,16 @@ I lowered the binoculars. Jim was watching Hadley the way a father watches a sle
 
 "We don't act."
 
-"We don't act *yet.*" He looked at me. "I'm not saying never. I'm saying not from ignorance. Not from convenience. If we ever do that — if we ever cross that line — it has to be because we understand what we're ending. Not because it's easier than understanding."
+"We don't act *yet.*" He looked at me. "I'm not saying never. I'm saying not from ignorance. Not from convenience. If we ever do that, if we ever cross that line, it has to be because we understand what we're ending. Not because it's easier than understanding."
 
-He went back downstairs. I stayed in the steeple and watched Tom Hadley conduct his empty choir, and I didn't know which possibility unsettled me more — that he was still in there, or that he wasn't and the organism was borrowing his hands for a purpose I couldn't fathom.
+He went back downstairs. I stayed in the steeple and watched Tom Hadley conduct his empty choir, and I didn't know which possibility unsettled me more. That he was still in there, or that he wasn't and the organism was borrowing his hands for a purpose I couldn't fathom.
 
-I was revising assumptions. You observe. You form a model. The model predicts behavior. When the behavior deviates, you revise. You don't get attached to the model. You let it be wrong and you build a better one.
+I was revising assumptions. You observe. You form a model. The model predicts behavior. When the behavior deviates, you revise. You don't get attached to the model.
 
-My first model: the Turned are dangerous because they herd you and scare you and the fear turns you. This was true but incomplete.
+What Moss had done was add a floor under the thing I already suspected and a ceiling I hadn't imagined. The herding I understood. The density threshold I had felt coming and had no name for. The hunger was new, and it was the one that scared me, because the first two require us to do something wrong and the third one only requires them to be hungry.
 
-My second model: the danger is biochemical, not behavioral. Keep your adrenaline down and you're invisible. Also true. Also incomplete.
+Ruth would have called it the Red Queen hypothesis. She had a Lewis Carroll reference for everything, thirty-nine years of teaching lodged in her brain like sediment. "It takes all the running you can do, to keep in the same place." In evolutionary biology, the idea is simple: in an arms race, you have to keep adapting just to maintain your position. The organism adapts, so you adapt, so it adapts again, and the race never ends.
 
-The new model, after Moss's broadcast and Sienna's report from the blockade: the danger is *layered.* Layer one is the herding — the fear-farming, the conversion cycle. We'd learned to counter that. Layer two is the density threshold — the swarm behavior that makes them destructive. We couldn't counter that; we could only avoid it. Layer three — the one that scared me most — was the hunger. Sienna had seen them eating the dead at the interchange. When the easy food ran out, the Turned would expand their search. They wouldn't need to scare you to kill you. They'd just need to find you.
+We were in a Red Queen race and we were losing. Not because we weren't adapting. We were. But our adaptation was cognitive, social, slow. The organism's adaptation was biological, collective, fast. We were playing chess against something that was rewriting the rules between moves.
 
-And underneath all three layers was the thing Moss had described without dwelling on: the organism was adapting. Getting better. The Turned from week one were clumsy, degrading, barely functional. The Turned from week two were coordinated, strategic, increasingly efficient. If the trajectory continued — and why wouldn't it — the Turned from week four or six or eight would be something we hadn't seen yet and couldn't predict.
-
-Every model I built had a shelf life. Every answer was temporary. The organism was iterating faster than my understanding.
-
-Ruth would have called it the Red Queen hypothesis — she had a Lewis Carroll reference for everything, thirty-nine years of teaching lodged in her brain like sediment. "It takes all the running you can do, to keep in the same place." In evolutionary biology, the idea is simple: in an arms race, you have to keep adapting just to maintain your position. The organism adapts, so you adapt, so it adapts again, and the race never ends.
-
-We were in a Red Queen race and we were losing. Not because we weren't adapting — we were. But our adaptation was cognitive, social, slow. The organism's adaptation was biological, collective, fast. We were playing chess against something that was rewriting the rules between moves.
-
-The sun went down. The Turned shifted. Sixteen faces turned toward the last of the light. Pembrook's skin, in the steeple binoculars, was visibly green now — not the grey-green of week one but a darker, almost vegetal shade, concentrated on his face and forearms. The sun-exposed surfaces. I wrote it in the notebook and drew an arrow connecting it to the sunflower observation from week one and didn't write what I thought it meant because I wasn't ready.
-
-**JOURNAL ENTRY #6:**
-
-*The old model said: stay calm and you're safe. The new model says: stay calm, stay below the density threshold, stay fed, stay medicated, and outrun an organism that's adapting faster than you are. "Safe" was always temporary.*
-
-*I'm starting to think the whole concept of "rules for survival" is a comfort blanket. The rules keep changing. The organism keeps learning. The only real rule is: pay attention. Revise. Don't get attached to being right.*
-
-*Moss said "every fortress is a countdown." She's right. But what she didn't say is that every model is a countdown too.*
----
+The sun went down. The Turned shifted. Sixteen faces turned toward the last of the light. Pembrook's skin, in the steeple binoculars, was visibly green now: not the grey-green of week one but a darker, almost vegetal shade, concentrated on his face and forearms. The sun-exposed surfaces. I wrote it in the notebook and drew an arrow connecting it to the sunflower observation from week one and didn't write what I thought it meant because I wasn't ready.

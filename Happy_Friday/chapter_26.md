@@ -1,128 +1,83 @@
-# Chapter 26: The Frequency
+# Chapter 26: Sienna Stops
 
-Dr. Eleanor Moss. Young, maybe thirty, short black hair, glasses, the lab coat over a flannel shirt and jeans. She was thin — too focused to eat properly for weeks, probably. Her eyes were sharp and tired and she had a permanent squint, the kind you get from living inside a noise that never stops.
-
-She'd come out to us on the sidewalk, helped Ruth to her feet, and led us inside without ceremony. "The sound is better inside," she'd said. "The building attenuates it by about thirty percent. It never goes away entirely. You get used to it." She paused. "That's a lie. You don't get used to it. You just stop complaining about it."
-
-We went inside.
-
-The life sciences building was a functioning laboratory in a failing world. Emergency lighting, powered by the solar grid. Equipment humming — centrifuges, spectral analyzers, things I couldn't name. Three graduate students were working at stations — a woman labeling slides, a man at a computer terminal running on generator power, another man monitoring a bank of screens showing camera feeds of the campus perimeter. And a janitor — a heavy-set man in his sixties, mopping the floor of the lobby like it mattered. Like keeping the floor clean was his way of keeping the world from falling apart.
-
-"Howard," Dr. Moss said, by way of introduction. "He runs the facility. I just do the science."
-
-"Someone's got to keep the lights on," Howard said, not looking up from his mopping.
-
-The woman labeling slides was Priya — the botany grad student who'd been maintaining the campus greenhouse and, behind it, a small flock of chickens she'd rescued from a farm supply store on College Avenue in the first week. When Caleb heard the clucking from behind the building, he was out the door before anyone could stop him. He came back twenty minutes later with a report: seven hens, one rooster, a coop built from lab pallets and chicken wire. He'd already introduced our three highway hens. He'd already assigned names. He'd already informed Priya that he was in charge now.
-
-Priya looked at Moss. Moss looked at Howard. Howard said, "Great. More chickens. Just what we needed," and went back to mopping.
+*Third-person interstitial.*
 
 ---
 
-Moss gave us the science that night.
+Nate woke because the silence changed.
 
-We sat in a seminar room — the kind with tiered seating and a whiteboard and a projector that no longer worked. Moss stood at the whiteboard with a dry-erase marker and drew diagrams that I photographed with my eyes because my notebook was almost full and I was rationing pages.
+Not the ambient silence: the highway silence, the wind-through-dead-cars silence that had become the sound of sleep. This was a subtraction. Something that had been there was gone. He lay still for three seconds, cataloguing: fire (coals, low), wind (north, steady), breathing (six sources, not seven).
 
-"The organism is triggered by sustained elevation of catecholamines — epinephrine, norepinephrine — above a threshold of approximately three hundred picograms per milliliter for a sustained period of roughly two minutes," she said. "You've already figured out most of this. Your journal —" She looked at me. Marcus had radioed ahead. She'd been expecting us. "— your journal describes the mechanism with remarkable accuracy for someone working from a nursing textbook and direct observation."
+Sienna's sleeping bag was empty.
 
-"I was wrong about some things."
+He sat up. Marcus was on watch. Seated on the retaining wall, crossbow across his knees, scanning the dark. He saw Nate and tilted his head south. The direction Sienna had gone.
 
-"You were wrong about a lot of things. You were also right about the things that mattered, and you documented the process of being wrong, which is more valuable than being right." She turned to the whiteboard. "Here's what you don't know."
+"Ten minutes," Marcus said. Quiet. "She's walking the shoulder. Didn't take anything."
 
-She drew a cell. Not a human cell — something else, with structures I didn't recognize.
+Nate pulled on his shoes. He didn't take the binoculars or the hatchet or the notebook. He took nothing because what Sienna needed was not a tool.
 
-"The organism's protein structures do not match any known terrestrial phylogeny. Not bacterial, not archaeal, not viral, not fungal. The biochemistry is adjacent to Earth's — close enough to interact with human biology, to hijack the endocrine system, to use our cellular machinery for its own replication. But the base structures are foreign. The chirality of several key amino acid analogs is reversed. The membrane chemistry uses lipid structures that don't exist in any Earth ecosystem."
+He found her a quarter mile south, sitting on the guardrail above the drainage ditch. Not walking. Sitting. Her knees were pulled up and her arms were wrapped around them and she was staring south down the highway toward nothing, toward Oklahoma, toward the place her parents had been driving when the world changed.
 
-She let this sit.
+She heard him coming. She didn't turn.
 
-"It's not from here," she said. Simply. No drama. The way you'd report a lab result.
+He sat on the guardrail beside her. Not close enough to crowd. Close enough to matter. He'd learned this from her. From the hours in the woods after the roadblock, from every time she'd walked near him on the trail without speaking, from as she had sat down beside him on the center line of Highway 71 the night before, looked once at the hatchet across his knees, and then said nothing at all until he was ready to stand up. She had taught him what presence looked like. He was returning the lesson.
 
-The room was quiet.
+They sat. The highway stretched south in the starlight: a gray ribbon between dark mountains, the abandoned cars like sleeping animals, the guardrail cold under their hands. Somewhere far to the south and then west, across mountains and rivers and the ruined infrastructure of a civilization that had stopped functioning six weeks ago, was Oklahoma City. Was a grandmother's house. Were two parents who had kissed their daughter on the forehead and said *lock the door* and driven into a night that never ended.
 
-"Not engineered," she continued. "Not a weapon. Not a mutation. The genome — if we can call it that — shows no signatures of intentional design. It shows the signatures of evolution. But evolution in an environment that is not this one."
+"I can't do it anymore," Sienna said. Her voice was flat. Not angry, not tearful. Flat. The voice of a runner who has hit the wall and knows it.
 
-Jim, from the back row: "Where?"
+Nate waited.
 
-"I don't know. I have a hypothesis I'm not willing to broadcast because the hypothesis is speculative and I've watched enough misinformation kill people in the last six weeks to last several lifetimes." She put the marker down. "What I can tell you is this: the organism communicates. The Turned coordinate because the organism synchronizes their behavior through a biochemical signaling network that functions like a distributed nervous system. The frequency —" She gestured upward, toward the emitter on the roof. "— disrupts that synchronization. It's the biological equivalent of jamming a radio signal. I reverse-engineered it from the organism's own communication patterns."
+"The lie. The one I told you about. That they're alive. That my parents are alive in Oklahoma and everything is fine and I just have to get to Fayetteville and then somehow get to them." She stared south. "I've been telling myself that every morning for six weeks. Every morning I wake up and I rebuild it and I carry it all day and at night I put it down and in the morning I pick it back up and it's heavier every time. And today —"
 
-She drew a new diagram — four columns, labeled.
+She stopped. Her jaw was tight. She was holding something back with the same discipline she'd used to sprint through Turned to reach Caleb, the same controlled power that made her fast and sure and the person the group trusted to close the distance when the distance mattered.
 
-"Behavioral states. You've identified three in your journal: herding, swarming, and hunting. There's a fourth." She wrote them: *Herding. Swarming. Hunting. Rooting.* "Herding is the reproductive strategy — fear-farming, the conversion cycle, patient and coordinated. Swarming is the density-collapse behavior — the threshold event, uncontrolled destruction. Hunting is the caloric strategy — food-driven, directed, problem-solving. Small groups, coordinated by a distinct acoustic signal."
+"Today I saw those hands on the wire," she said. "And I thought: those are someone's parents too. Every single one of them. Someone's mother, someone's father, someone who kissed their kid on the forehead and said *lock the door.* Three hundred of them. And I looked at the wire and I thought. What if they're in wire somewhere? What if the thing I've been telling myself is a lie and the truth is that my parents are in a ditch in Oklahoma or tangled in something or standing in a parking lot with bare feet and smiles that aren't theirs and I'm up here on a hillside watching a fifteen-year-old play Taylor Swift for a massacre?"
 
-"'Uncontrolled destruction' is an understatement," I said. "I watched a house come apart in under a minute. A fortified house — boarded windows, barred doors, a man with guns and supplies and a plan. The swarm didn't breach the defenses. It erased them. The walls came in. The people inside —" I stopped. "If you put that in a bulletin and someone hears 'uncontrolled destruction' and thinks they can ride it out behind a barricade, they'll die. Everyone who fortified died. The swarming isn't a behavior. It's a demolition."
+Her voice cracked on the last word. Not loudly. Sienna didn't do loudly. The crack was small and controlled and devastating, the sound of a bridge cable snapping under load while the rest of the bridge held.
 
-Moss looked at me for a long moment. Then she turned back to the board and crossed out *uncontrolled destruction* and wrote, in smaller letters: *total structural demolition — no fortification observed to survive.*
+Nate said: "The lie is heavier when you carry it alone."
 
-"Better," I said.
+She looked at him. First time. Her eyes were wet and furious. Furious at herself for cracking, furious at the world for being a place where seventeen-year-olds sat on guardrails in the dark wondering if their parents were dead.
 
-"The bark," I said. "Short, sharp. We heard it at the interchange. And at a church — a Turned killed a cat and made the sound and another Turned a block away oriented immediately."
+"I've been carrying mine for a little over two weeks," he said. "My mother. The parking lot. The anger." He paused. "I put it down yesterday. Not the grief: the grief stays. You don't put down grief. But the lie I was telling myself — that the anger was useful, that it was fuel, that I could run on rage and never pay for it — that lie almost killed me. It killed three hundred people on a highway."
 
-"That signal is a dedicated hunting call. It activates other Turned within auditory range as hunters — directed, aggressive, food-motivated. Critically —" She underlined something on the board. "— the hunting state is also triggered by attack. If a Turned is struck, threatened, physically engaged, it switches to hunting mode and produces the call. The implications for armed defense are significant. Every shot fired at a Turned potentially activates every Turned within earshot as hunters. The military checkpoints failed in part because the gunfire was triggering mass hunting activation on top of the density-threshold swarm."
+Sienna wiped her face. Quick, angry, the same gesture she'd made on the hillside.
 
-She paused.
+"You don't have to decide tonight," Nate said. "Whether they're alive or dead. You don't have to decide at all. You can carry the not-knowing without turning it into a story. The story is what's heavy: the lie or the truth, either one. The not-knowing is lighter because it's honest."
 
-"Hunting is metabolically driven. As caloric resources deplete — and they are depleting — hunting becomes the dominant behavior. The emitter disrupts herding and swarming coordination effectively. It's less effective against hunting because hunting is metabolically motivated, not communicatively motivated. A hungry Turned at the perimeter is testing the frequency edge not because the collective is directing it but because its individual caloric need is overriding the discomfort."
+"Since when are you a therapist?"
 
-She drew another diagram — a cross-section of skin.
+"Since Dale taught me HALT and Jim taught me patience and you taught me that sitting next to someone in the dark is more useful than solving the problem."
 
-"The photosynthesis. You noted the green discoloration — the sun-facing behavior, the skin changes. The organism is introducing chlorophyll analogs into the host's dermis. The skin is becoming a solar panel. This supplements caloric intake as conventional food sources deplete." She tapped the board. "The clothing removal you've been tracking — shoes first, then shirts, then everything — is the organism systematically eliminating anything that blocks photon absorption. The host's skin needs maximum sun exposure for the photosynthetic system to function. The removal is deliberate, ordered, and accelerates as caloric need increases."
+She almost smiled. But instead turned away.
 
-"The oldest ones were nude," I said. "But they weren't just photosynthesizing. They were rooted. Feet in the ground. Connected by vine-like structures through the soil. We walked through a thousand of them on Dickson Street. Most rooted. Connected. A network."
+They sat on the guardrail for a long time. The stars moved. The wind came through the cut in the mountains and carried the smell of cold rock and dead leaves and the faint, distant smell of the roadblock they'd left behind, the smell that would take weeks of rain to wash from the asphalt.
 
-She turned back to the board and tapped the fourth column. "Rooting. The terminal behavioral state — at least, the terminal state we've observed so far. The photosynthetic adaptation is stage one. Stage two is sessile conversion. The organism anchors the host in soil, establishes root-like structures that connect to adjacent hosts, and transitions from mobile to stationary. The host becomes a node in a networked colonial organism." She drew lines between stick figures on the board — connections, a web. "The root structures aren't just anchors. They're dendrites. The human hosts are the neurons — the processing nodes. The roots are the connections between them, carrying signals, propagating patterns. The organism's distributed nervous system, which normally coordinates through airborne biochemical signals, now has a physical substrate. Hardwired connections. Faster. More reliable. The rooted clusters are functionally a single organism with multiple bodies."
+"My mom's name is Denise," Sienna said. Quiet. "My dad's name is Michael. Jaylen is seven. He's afraid of dogs and he can do a backflip on the trampoline and he told me once that I was the fastest person in the world and I didn't correct him."
 
-"The hunters bring them food," I said. "Like offerings."
+"I think I need to let them go," Sienna said. "The way you let your mom go. I think I need to just. Accept it. Stop carrying the maybe. Stop waking up every morning and rebuilding the story where they're fine and Jaylen is doing backflips in grandma's backyard and my dad is grilling and my mom is telling him the charcoal's too hot." She wiped her face again. "I think I need to just say they're gone and stop pretending."
 
-"Like a colony of ants feeding the queen. The mobile Turned — the two percent still in hunting mode — are the workers. The rooted are the colony's core. The drifters maintain proximity. It's a division of labor that's emerging spontaneously as the organism matures." She paused. "The rooting is why the emitter's effectiveness is declining. The airborne frequency disrupts the wireless coordination — the biochemical signaling. But the root network is a wired connection. The frequency can't jam a physical cable. As more Turned root and the network grows, the organism's coordination becomes increasingly independent of the signals I'm disrupting."
+"No," Nate said. The word came out harder than he intended. She looked at him.
 
-"You said superintelligence," Sienna said quietly. She was looking at me. "On the hill. You said it looked like a superintelligence."
+"Don't do that," he said. "What I put down was the rage: the lie that being angry was the same as being strong. That's not the same as giving up on them. We can't walk to Oklahoma. Not now, not from here. But we're not the only survivors. There are people in that gas station behind us. There are people in Fayetteville. There are people in basements and churches and fire stations all over the country doing what we're doing, organizing, planning, figuring it out. Sooner or later those groups connect. They have to. Because that's the one thing we have that the organism doesn't." He paused. "It doesn't think. It spreads, but it doesn't strategize. It doesn't send scouts or draw maps or write things in notebooks. People do. That's our advantage: the only one that matters. And people will use it. We'll find out what's left. We'll find out who's still out there. Including Oklahoma."
 
-Moss shook her head. "It looks like intelligence. That's the trap. We see coordination and we infer a mind behind it — a decision-maker, a strategist, something that *wants* things. But what I'm observing is much closer to a termite mound than a brain." She tapped the board. "Termites build structures more complex than anything human engineers could design at that scale. Ventilation systems. Temperature regulation. Fungus farms. No individual termite understands any of it. No committee of termites planned it. The complexity emerges from simple biological rules — if this chemical gradient, then this behavior. If this temperature, then that behavior. Millions of simple rules producing something that looks designed but isn't."
+She was quiet for a long time. Then: "You sound like Jim."
 
-She drew a series of arrows on the board. Simple loops. Input, response, feedback.
+"Worse things to sound like."
 
-"The organism operates the same way. Fear chemical above threshold — convert. Caloric deficit — hunt. Photosynthetic capacity reached — root. Host density sufficient — network. Each behavior is a biological imperative, not a decision. The herding, the swarming, the hunting, the rooting — none of it requires intelligence. It requires *rules.* And the rules are very good, because they've been refined by evolution on at least one other world, probably more. The organism doesn't need to be smart. It just needs to follow its program, and the program is optimized for exactly this — arriving on a new world, co-opting the dominant species, and terraforming the environment for its own biology."
+She leaned into him. Shoulder against shoulder, the guardrail cold beneath them, the stars turning overhead. Not a collapse: a leaning. The deliberate transfer of weight from one person to another, temporary and specific, a lean against a wall while you catch your breath before running again.
 
-"Terraforming," I said. The word landed in the room like a stone in still water.
+He let her lean. He held still the way she'd held still in the woods after the roadblock. Present, patient, refusing to fix what couldn't be fixed. Being there. That was all. Being there was the whole thing.
 
-"The rooting isn't the end state. It's the beginning of a process. The organism is modifying its environment — converting mobile hosts to sessile ones, building root networks, establishing photosynthetic infrastructure. It's reshaping Earth's ecology to suit itself. Not consciously. Not strategically. The way kudzu reshapes a hillside — one biological imperative at a time, no plan, no intent, just growth following rules." She looked at the window, where the last light of the day was fading. "Where it ultimately leads, I don't know. We're six weeks into a process that may take years or decades to complete. We're watching the first chapter of a very long book, and we don't know the genre."
+Marcus found them an hour later. He stood over them — two kids on a guardrail, one leaning on the other — and his face did something that Marcus's face almost never did. It softened.
 
-The room was quiet.
+"Time to come back?" he asked. Not an order. An invitation.
 
-"How long will it hold?" Marcus asked.
+They walked back together. Nate's hand on Sienna's elbow once, briefly, guiding her around a pothole in the dark. She didn't flinch. She didn't pull away. She only walked beside him.
 
-Moss hesitated. First time I'd seen that — a crack in the composure, brief, quickly sealed.
+Nobody discussed it in the morning. But something had shifted: the way the group moved around the two of them, the specific quality of the silence that surrounded them. Ruth watched them with the expression of a woman who had been married for fifty years and recognized the geometry. Jim put his hand on Sienna's shoulder at breakfast and she let him.
 
-"When I first activated the emitter three weeks ago, the Turned fled to a mile's distance. They're now at four hundred yards. Last Tuesday, I observed one standing at the perimeter for six hours, swaying, as if acclimating." She looked at Marcus. "The organism is adapting. Slowly — biological adaptation, not strategic — but measurably. I give the emitter weeks. Maybe a couple of months. Eventually they'll push through."
+Nate wrote nothing in the journal about that night. Some things belonged to the dark and the guardrail and the stars and the girl who had taught him what carrying looked like.
 
-"And then?"
-
-"And then we need a better solution. That's what I'm working on. That's why I've been broadcasting — to find people who can help. Researchers. Engineers. Anyone with expertise the three graduate students and I don't have." She looked at our group — a pastor, a trucker, a retired teacher, an office manager, a recovering addict, a track athlete, a seven-year-old, and a fifteen-year-old with a notebook. "I was hoping for a virologist. But I'll take what I can get."
-
-"You've got a plumber," Ruth said. "By marriage."
-
-Moss almost smiled. It faded fast. She turned back to the whiteboard, where her diagrams of the organism's cell structure occupied the left half and her timeline of behavioral adaptation occupied the right.
-
-"The organism adapts," she said. "That's the fundamental problem. Everything we build — the emitter, the beta-blockers, the behavioral techniques — works for a while and then the organism learns to work around it. We're in an arms race with something that iterates faster than we do. The emitter buys time. The medication buys time. The question is whether we can use that time to find something permanent."
-
-I looked at the whiteboard. At the diagrams. At the timeline showing the emitter's declining effectiveness in a descending curve.
-
-On the wall behind the whiteboard, partially obscured by a bookshelf, I noticed a printout. It showed orbital data — trajectories, dates, coordinates. At the top, a designation: Comet C/2026 Voss. Several dates were circled in red pen. A handwritten note in the margin, in Moss's small, precise handwriting: *incubation window?*
-
-I looked at it. Moss saw me looking. She didn't explain.
-
----
-
-That night, in a dormitory room on the second floor with the frequency humming in the walls and a headache that would become permanent, I opened the notebook to the last empty page.
-
-**JOURNAL ENTRY #20:**
-
-*We made it.*
-
-*Not from here. Not engineered. Evolved — but not on this planet. Moss has data she won't speculate about publicly. I saw a printout about a comet on her wall. She saw me see it. She didn't say anything.*
-
-*Everything works for a while. The organism learns. The question is whether we can learn faster.*
-
-*Dale doesn't need Suboxone anymore. Marcus hasn't had a drink in three weeks. Caleb is drawing dinosaurs with crayons he found in a classroom. Sienna is looking at the campus track through the window and her feet are moving.*
-
-*We're safe. For now. That's all anyone ever has. We just know it.*
 ---
