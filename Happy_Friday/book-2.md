@@ -125,17 +125,50 @@ They hand her the machine. Nobody makes a bad decision doing it.
 
 **Sienna is the first to distrust her**, and not by reasoning — in her body, before she can argue it. She is the one person there who knows exactly what a person's ceiling costs, because she has spent Book One running laps to find her own. Delia doesn't have one. Sienna cannot articulate this in a way that survives contact with Nate's analysis, and it looks like grief, or jealousy, or a runner resenting someone faster. Nobody believes her. **In Book One Sienna pushed Nate to act and was right; here she is right again and he has the better argument.**
 
-### The tell — a repaired imperfection
+### The first tell: she is smarter than she was
 
-The organism's Book One blind spot, evolved but not removed. In Ch4 it got everything right except one detail because it had no model of which details matter. Now it doesn't grab the wrong detail — it *smooths* one.
+**Intelligence is what Nate notices first**, and he is the only person on that campus positioned to notice it.
 
-**She no longer stumbles on "Carver."**
+Book One is precise about Delia's intellectual self-image. She kept two nursing textbooks on a shelf *"like trophies"* because *"nursing school was the hardest thing I ever did."* She was not a stupid woman and she was not an intellectual one, and she knew exactly where she stood.
 
-Ch2 establishes it: she recorded the voicemail six months after taking her name back, and the name was still new in her mouth. Nate: *"I've heard this voicemail probably three hundred times. **I never mentioned the stumble.**"*
+The woman who comes back follows Moss's biochemistry the first time through. She completes Nate's reasoning before he finishes it. She reads a drug chart once. She spots a second-order implication in the supply calendar that Maria has been staring at for a week.
 
-It exists in no memory the organism can read. It was never spoken aloud. It is a flaw, and a species with no concept of flaw-as-identity repairs flaws. **The improvement is the proof**, and only one living person can see it.
+And Nate cannot say any of this out loud, for two reasons. The first is that it is an *improvement*, and there is no sentence in English for accusing your mother of being too quick. The second is worse: he spent his whole life being the smartest person in rooms where nobody noticed, and now his mother can keep up with him, and **he wants it to be real more than he has ever wanted anything.** He is the least reliable possible instrument, and he knows it, which is the only thing that saves him.
 
-That is the shape of Nate's grief and the reason he cannot make anyone else hear it: **every difference he can name is an improvement.** The woman who came back is better in every measurable respect and is not his mother, and the only evidence he has is a list of things that got better.
+### The experiments
+
+So he does what he has always done. He starts running tests — quietly, one at a time, each one deniable, the way he ran them on Pembrook through binoculars on Day 2 and on the Turned from a steeple for six weeks.
+
+He is cataloguing his mother. He knows exactly what he is doing and cannot stop.
+
+A workable sequence, escalating and each one individually explainable:
+
+1. **Recall.** Mention something in passing, ask about it a week later. She reproduces it verbatim. *Inconclusive* — people have good memories.
+2. **Novel inference.** Give her a problem she cannot have memorised, one that requires modelling rather than retrieval. She solves it in front of him. *Inconclusive* — but the speed is wrong.
+3. **The imperfection test.** Find something she used to be bad at and ask her to do it. The organism repairs; it cannot help itself. *This is the first result that frightens him.*
+4. **Disgust.** From Ch14 — disgust is older than fear and is not part of the catecholamine cascade. If the stress response was deleted, was revulsion deleted with it? Watch her handle something genuinely foul. *She does not flinch, and there is no good reason for that.*
+5. **The cuff.** The pink one with the cartoon heart, Sienna's, the one that has been in the story since Day 4. He gets it on her wrist. **48, and flat, and it does not move.**
+6. **The stumble.** Last, because it is the one that ends it. He engineers a reason for her to say her own full name aloud.
+
+**She says "Delia Carver" cleanly.**
+
+### Why the stumble is the proof
+
+Ch2: she recorded that voicemail six months after taking her name back, and the name was still new in her mouth. *"I've heard this voicemail probably three hundred times. **I never mentioned the stumble.**"*
+
+It exists in no memory the organism can read. It was never spoken aloud, never written down, never told to anyone. It is a flaw, and a species with no concept of flaw-as-identity repairs flaws. **The improvement is the proof**, and exactly one living person can see it.
+
+That is also the shape of his grief and the reason he cannot make anyone else hear it: **every difference he can name is an improvement.** The woman who came back is better in every measurable respect and is not his mother, and the only evidence he has is a list of things that got better.
+
+### The cost of the experiments — two of them
+
+**She catches him.** Of course she does; she is faster than him now. And she is *hurt*, and the hurt is completely genuine, because she does not know what she is. He is testing his mother for personhood and she can feel it and cannot understand it, and he cannot explain without telling her a thing that — if the remnant permits her to hear it at all — would be the cruellest sentence ever spoken to her.
+
+**And the organism is watching through the remnant.**
+
+Every experiment Nate runs is a demonstration of what the tells are. He is debugging the Emissary. The next one will not have total recall it doesn't remark on. The next one will have a stumble, or something like one, in a name.
+
+*He does not realise this until after, and when he does it is the second time he has taught the organism something it could not have learned on its own.*
 
 ### The epistemology collapse
 
@@ -194,6 +227,10 @@ He has the method. He wrote it. And it is now pointed at the single most comfort
 | Ch28/29 — the permanent headache; nightmares that come *because* it's safe | her clinical evidence, and it is real |
 | Ch32 — Jim goes past every threshold and the organism "found the room empty" | Delia's room was emptied on purpose, so it could move in — same absence, opposite cause |
 | Ch32 — Jim: "carry the part of it he can't" | now has a second occupant |
-| Ch6/Ch15 — the pink BP cuff, and Sienna's "everything I'm good at is trying to kill me" | Delia reads 48 and flat under any stimulus; the cuff is the scene where Nate finally knows |
+| Ch6/Ch15 — the pink BP cuff with the cartoon heart | experiment 5; she reads 48 and flat and it does not move |
+| Ch14 — disgust is older than fear and sits outside the cascade | experiment 4; if the stress response was deleted, was revulsion deleted with it |
+| Ch2/Ch3 — Nate cataloguing Pembrook through binoculars, filing anomalies | he does it to his mother, knows it, and cannot stop |
+| Ch12 — the shoe test, the rooftop conversation test, the hymnal drop | the template for how he runs the experiments |
+| Ch1 — the two nursing textbooks kept "like trophies" | establishes her intellectual self-image, which is what the first tell violates |
 | Ch31 — Sienna running laps to map her own threshold | she is first to distrust Delia, in her body, and cannot make it survive Nate's analysis |
 
