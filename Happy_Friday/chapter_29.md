@@ -68,6 +68,14 @@ She turned back to the board and tapped the fourth column. "Rooting. The termina
 
 Moss shook her head. "It looks like intelligence. That's the trap. We see coordination and we infer a mind behind it: a decision-maker, a strategist, something that *wants* things. But what I'm observing is much closer to a termite mound than a brain." She tapped the board. "Termites build structures more complex than anything human engineers could design at that scale. Ventilation systems. Temperature regulation. Fungus farms. No individual termite understands any of it. No committee of termites planned it. The complexity emerges from simple biological rules. If this chemical gradient, then this behavior. If this temperature, then that behavior. Millions of simple rules producing something that looks designed but isn't."
 
+That was not a relief.
+
+I had been playing against something. That was the assumption underneath every page of the notebook, underneath the counting and the position logs and the six weeks of watching from a steeple: that there was an opponent. That it had a strategy. That if I watched long enough I would work out what it was trying to do, because things that behave like that are trying to do something.
+
+There is no opponent. There are rules, and there is a payoff structure, and there is nobody sitting on the other side of the board.
+
+I wrote *the organism has thought about this longer than we have* in a church basement on Day Sixteen and I was frightened when I wrote it. It was wrong in the most humiliating available direction. It has not thought about it at all.
+
 She drew a series of arrows on the board. Simple loops. Input, response, feedback.
 
 "The organism operates the same way. Fear chemical above threshold. Convert. Caloric deficit. Hunt. Photosynthetic capacity reached. Root. Host density sufficient. Network. Each behavior is a biological imperative, not a decision. The herding, the swarming, the hunting, the rooting. None of it requires intelligence. It requires *rules.* And the rules are very good, because they've been refined by evolution on at least one other world, probably more. The organism doesn't need to be smart. It just needs to follow its program, and the program is optimized for exactly this, arriving on a new world, co-opting the dominant species, and terraforming the environment for its own biology."

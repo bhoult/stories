@@ -85,6 +85,18 @@ Fixed by moving four journals (Ch9, Ch10, Ch11, Ch19) earlier in their chapters 
 
 Ch11's journal was relocated twice: the first placement left it immediately after another notebook fragment, two italic passages back to back.
 
+### 8.6 Game theory as Nate's reasoning tool
+
+Better established than it looked: the prisoner's dilemma in Ch5, Sienna as "first cooperator" in Ch6, dominant strategy for Marcus in Ch9, Craig and Tammy's marriage as "their version of the prisoner's dilemma" in Ch12, plus two later callbacks. But like the Civ frame, it belongs to Acts One and Two and then drops out.
+
+Two returns added, deliberately paired — the first gives him a tool that works on people, the second takes away his belief that any tool works on the organism:
+
+**Ch11, after the advance-directive scene.** The scene was already a textbook commitment device and the book never named it. Now: *"you make a promise now, out loud, in front of witnesses, precisely because you know the version of you that turns up later is going to want something different and is not going to be entitled to it. Odysseus has himself lashed to the mast… The whole thing only works if the people holding the rope are willing to ignore him when he screams."* Undercut immediately — *"It did not seem like the moment for terminology, so I wrote it in the notebook instead."* Sets up Ch32, where they hold the rope while Jim is dying.
+
+**Ch29, after Moss's termite-mound speech.** Retracts the assumption underneath the entire notebook: *"I had been playing against something… There is no opponent. There are rules, and there is a payoff structure, and there is nobody sitting on the other side of the board."* And explicitly withdraws a Ch13 journal line — *"I wrote 'the organism has thought about this longer than we have' in a church basement on Day Sixteen and I was frightened when I wrote it. It was wrong in the most humiliating available direction. It has not thought about it at all."*
+
+**Still open:** the Civ frame in Ch12/17/27 — the last item on this report.
+
 ### 8.5 Superlatives — Nate qualifies, he doesn't exaggerate
 
 Precision is the character. He reaches for a superlative only when he could actually check it, and he says so when he can't — *"the worst nightmare of my life"* in Ch31 self-corrects one clause later (*"Not the defining one, that had already broken me on the road"*), and Ch16's *"the most horrifying thing I'd seen"* is bounded by *"since the world ended."* That instinct is native to the book and should be protected.

@@ -194,6 +194,10 @@ Maria nodded. "Good. It's said. Nobody has to wonder."
 
 She picked up her can and went back to counting.
 
+There's a name for what we had just done. A commitment device: you make a promise now, out loud, in front of witnesses, precisely because you know the version of you that turns up later is going to want something different and is not going to be entitled to it. Odysseus has himself lashed to the mast before the singing starts, because Odysseus-in-ten-minutes is not a person whose judgment Odysseus-now trusts. The whole thing only works if the people holding the rope are willing to ignore him when he screams.
+
+Everyone in that basement had just described the circumstances under which they wanted to be killed. It did not seem like the moment for terminology, so I wrote it in the notebook instead.
+
 Jim let the silence settle. Then, quieter: "Now we solve the first part. Watch rotation. Two-hour shifts. One person awake, watching the room. If someone spikes, thrashing, the sounds we know, the watcher wakes me. We assess together."
 
 We set up the rotation that morning. Two-hour shifts, midnight to six. Jim took the first slot. Marcus took second. I took third. Dale insisted on fourth: the pre-dawn hours, his worst window, arguing that if he was going to be awake sweating through stress-juice spikes anyway, he might as well be useful.

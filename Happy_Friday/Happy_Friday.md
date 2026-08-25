@@ -1836,6 +1836,10 @@ Maria nodded. "Good. It's said. Nobody has to wonder."
 
 She picked up her can and went back to counting.
 
+There's a name for what we had just done. A commitment device: you make a promise now, out loud, in front of witnesses, precisely because you know the version of you that turns up later is going to want something different and is not going to be entitled to it. Odysseus has himself lashed to the mast before the singing starts, because Odysseus-in-ten-minutes is not a person whose judgment Odysseus-now trusts. The whole thing only works if the people holding the rope are willing to ignore him when he screams.
+
+Everyone in that basement had just described the circumstances under which they wanted to be killed. It did not seem like the moment for terminology, so I wrote it in the notebook instead.
+
 Jim let the silence settle. Then, quieter: "Now we solve the first part. Watch rotation. Two-hour shifts. One person awake, watching the room. If someone spikes, thrashing, the sounds we know, the watcher wakes me. We assess together."
 
 We set up the rotation that morning. Two-hour shifts, midnight to six. Jim took the first slot. Marcus took second. I took third. Dale insisted on fourth: the pre-dawn hours, his worst window, arguing that if he was going to be awake sweating through stress-juice spikes anyway, he might as well be useful.
@@ -5630,6 +5634,14 @@ She turned back to the board and tapped the fourth column. "Rooting. The termina
 "You said superintelligence," Sienna said quietly. She was looking at me. "On the hill. You said it looked like a superintelligence."
 
 Moss shook her head. "It looks like intelligence. That's the trap. We see coordination and we infer a mind behind it: a decision-maker, a strategist, something that *wants* things. But what I'm observing is much closer to a termite mound than a brain." She tapped the board. "Termites build structures more complex than anything human engineers could design at that scale. Ventilation systems. Temperature regulation. Fungus farms. No individual termite understands any of it. No committee of termites planned it. The complexity emerges from simple biological rules. If this chemical gradient, then this behavior. If this temperature, then that behavior. Millions of simple rules producing something that looks designed but isn't."
+
+That was not a relief.
+
+I had been playing against something. That was the assumption underneath every page of the notebook, underneath the counting and the position logs and the six weeks of watching from a steeple: that there was an opponent. That it had a strategy. That if I watched long enough I would work out what it was trying to do, because things that behave like that are trying to do something.
+
+There is no opponent. There are rules, and there is a payoff structure, and there is nobody sitting on the other side of the board.
+
+I wrote *the organism has thought about this longer than we have* in a church basement on Day Sixteen and I was frightened when I wrote it. It was wrong in the most humiliating available direction. It has not thought about it at all.
 
 She drew a series of arrows on the board. Simple loops. Input, response, feedback.
 
