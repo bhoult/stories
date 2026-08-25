@@ -1,83 +1,153 @@
-# Chapter 23: Sienna Stops
+# Chapter 23: Nate Walks
 
-*Third-person interstitial.*
+I was not in distress.
+
+Nobody believed that afterward. I wasn't crying. I wasn't spiraling. I got out of my sleeping bag at an hour I didn't check, and I took the binoculars, and I took the hatchet off the top of my pack where it lived, and I walked south down the shoulder of Highway 71.
+
+Dale had the watch. He was sitting on an overturned bucket with his back to the fire, facing north — because north is where we were going, and north is where a threat comes from. South is the direction you've already survived. Nobody watches the ground behind you. It's the only flaw I ever found in a protocol I wrote myself, and I found it by exploiting it.
+
+---
+
+In the church basement, on Day Twelve, we went around the room and each said what we wanted done if we turned. Maria said restrain her, wait a day, then put her outside. Marcus said kill me, don't wait. Ruth said don't waste a single resource, and if someone was willing to make it quick she would consider that a kindness.
+
+I said: restrain, wait as long as is practical, then kill me. I said I didn't want to be standing outside somebody's door using my mother's voice. I said — and everyone was listening, and Jim's knuckles were white on the table — *I know what not knowing feels like. I won't do that to anyone else.*
+
+Then on Day Twenty-Four I stood in an insurance office parking lot six blocks from Johnson Regional and looked across the road at a woman in blue scrubs with bare feet and a ponytail, and Marcus put his hand on my shoulder and said *I see her. Keep moving.*
+
+And I kept moving.
+
+She is not alive. She is not dead. She is standing in a lot in the sun with her face tilted up, and she will keep standing there, and the thing in her will use her mouth when it needs to, and there is no end to it that arrives on its own. I wrote the rule. I said it out loud to seven people. I made every one of them promise it for each other.
+
+I could have done it myself. I had the hatchet. I had done it to a man in a tree stand nine days earlier and it took three swings and afterward I climbed up and took his bow.
+
+I could have asked. Marcus's hand was on my shoulder. Marcus would have said yes, and Marcus would not have asked me why.
+
+I did neither thing. I put one foot in front of the other until the hospital was behind me, and I told myself it was the group, and Ruth's medication, and the mileage. Every one of those was true. None of them was the reason.
 
 ---
 
-Nate woke because the silence changed.
+I did not run the distance.
 
-Not the ambient silence — the highway silence, the wind-through-dead-cars silence that had become the sound of sleep. This was a subtraction. Something that had been there was gone. He lay still for three seconds, cataloguing: fire (coals, low), wind (north, steady), breathing (six sources, not seven).
+I run everything. I had the numbers. I had walked every one of those miles with a pack on. And I started the sum somewhere around the first mile marker and then I put it down, the way you put down a letter you already know the contents of, and I kept walking.
 
-Sienna's sleeping bag was empty.
+What I let myself have instead was the end of it. The lot, and one swing, and after the swing the bark — the short sharp call that turns every herder in earshot into a hunter. I'd written that down myself after Marcus killed Gary Sutton in a church parking lot with the same hatchet. *Every kill broadcasts your location.*
 
-He sat up. Marcus was on watch — seated on the retaining wall, crossbow across his knees, scanning the dark. He saw Nate and tilted his head south. The direction Sienna had gone.
+One swing, and no arithmetic after that. It did not feel like a decision to die. It felt like the first errand in six weeks with a definite end.
 
-"Ten minutes," Marcus said. Quiet. "She's walking the shoulder. Didn't take anything."
+The highway at night was not dark the way I expected. The white lines held light better than anything else, so the road read as two pale stripes running away into nothing. I walked between them. The cold was in my face and the backs of my hands and nowhere else yet.
 
-Nate pulled on his shoes. He didn't take the binoculars or the hatchet or the notebook. He took nothing because what Sienna needed was not a tool.
+I passed three of them at the second mile.
 
-He found her a quarter mile south, sitting on the guardrail above the drainage ditch. Not walking — sitting. Her knees were pulled up and her arms were wrapped around them and she was staring south down the highway toward nothing, toward Oklahoma, toward the place her parents had been driving when the world changed.
+They were standing near a sedan with its doors open, in the loose triangle they always make, and their heads came around when my shoes changed pitch on a patch of gravel. All three at once. The tracking turn, the smooth one, the one I'd catalogued from a kitchen window on Day Two.
 
-She heard him coming. She didn't turn.
+I stopped. Not tactically. My legs stopped.
 
-He sat on the guardrail beside her. Not close enough to crowd. Close enough to matter. He'd learned this from her — from the hours in the woods after the roadblock, from every time she'd walked near him on the trail without speaking, from the way she'd put her hand over his mouth on the highway and held him and said *quiet, quiet, I know.* She had taught him what presence looked like. He was returning the lesson.
+They looked at me for maybe four seconds. Then the nearest one's head drifted back toward the east, and the other two followed, and that was it.
 
-They sat. The highway stretched south in the starlight — a gray ribbon between dark mountains, the abandoned cars like sleeping animals, the guardrail cold under their hands. Somewhere far to the south and then west, across mountains and rivers and the ruined infrastructure of a civilization that had stopped functioning six weeks ago, was Oklahoma City. Was a grandmother's house. Were two parents who had kissed their daughter on the forehead and said *lock the door* and driven into a night that never ended.
+I put my thumb against my wrist and counted.
 
-"I can't do it anymore," Sienna said. Her voice was flat. Not angry, not tearful — flat. The voice of a runner who has hit the wall and knows it.
+Fifty-eight.
 
-Nate waited.
+I counted it again. Fifty-eight is what Jim runs on fifty milligrams of metoprolol twice a day. Fifty-eight is a sleeping man. I was two miles into a walk to go and kill my mother with a hand axe, and my body had produced nothing. No spike. No cascade. None of the chemistry I'd spent six weeks learning to suppress, because there was nothing there to suppress.
 
-"The lie. The one I told you about — that they're alive. That my parents are alive in Oklahoma and everything is fine and I just have to get to Fayetteville and then somehow get to them." She stared south. "I've been telling myself that every morning for six weeks. Every morning I wake up and I rebuild it and I carry it all day and at night I put it down and in the morning I pick it back up and it's heavier every time. And today —"
+That was the part that stopped me. Not that they let me pass. That I hadn't needed them to.
 
-She stopped. Her jaw was tight. She was holding something back with the same discipline she'd used to sprint through Turned to reach Caleb, the same controlled power that made her fast and sure and the person the group trusted to close the distance when the distance mattered.
+Marcus told us about this in the basement on his first day, holding a flask. *They'd look. Tilt their heads. Then go back to whatever they were doing. I wasn't calm — I was empty.* I'd written it down as a data point. I'd called it a dominant strategy and been pleased with myself for the phrase.
 
-"Today I saw those hands on the wire," she said. "And I thought: those are someone's parents too. Every single one of them. Someone's mother, someone's father, someone who kissed their kid on the forehead and said *lock the door.* Three hundred of them. And I looked at the wire and I thought — what if they're in wire somewhere? What if the thing I've been telling myself is a lie and the truth is that my parents are in a ditch in Oklahoma or tangled in something or standing in a parking lot with bare feet and smiles that aren't theirs and I'm up here on a hillside watching a fifteen-year-old play Taylor Swift for a massacre?"
-
-Her voice cracked on the last word. Not loudly — Sienna didn't do loudly. The crack was small and controlled and devastating, the sound of a bridge cable snapping under load while the rest of the bridge held.
-
-Nate said: "The lie is heavier when you carry it alone."
-
-She looked at him. First time. Her eyes were wet and furious — furious at herself for cracking, furious at the world for being a place where seventeen-year-olds sat on guardrails in the dark wondering if their parents were dead.
-
-"I've been carrying mine for five weeks," he said. "My mother. The parking lot. The anger." He paused. "I put it down yesterday. Not the grief — the grief stays. You don't put down grief. But the lie I was telling myself — that the anger was useful, that it was fuel, that I could run on rage and never pay for it — that lie almost killed me. It killed three hundred people on a highway."
-
-Sienna wiped her face. Quick, angry, the same gesture she'd made on the hillside.
-
-"You don't have to decide tonight," Nate said. "Whether they're alive or dead. You don't have to decide at all. You can carry the not-knowing without turning it into a story. The story is what's heavy — the lie or the truth, either one. The not-knowing is lighter because it's honest."
-
-"Since when are you a therapist?"
-
-"Since Dale taught me HALT and Jim taught me patience and you taught me that sitting next to someone in the dark is more useful than solving the problem."
-
-She almost smiled. But instead turned away.
-
-They sat on the guardrail for a long time. The stars moved. The wind came through the cut in the mountains and carried the smell of cold rock and dead leaves and the faint, distant smell of the roadblock they'd left behind, the smell that would take weeks of rain to wash from the asphalt.
-
-"My mom's name is Denise," Sienna said. Quiet. "My dad's name is Michael. Jaylen is nine. He's afraid of dogs and he can do a backflip on the trampoline and he told me once that I was the fastest person in the world and I didn't correct him."
-
-"I think I need to let them go," Sienna said. "The way you let your mom go. I think I need to just — accept it. Stop carrying the maybe. Stop waking up every morning and rebuilding the story where they're fine and Jaylen is doing backflips in grandma's backyard and my dad is grilling and my mom is telling him the charcoal's too hot." She wiped her face again. "I think I need to just say they're gone and stop pretending."
-
-"No," Nate said. The word came out harder than he intended. She looked at him.
-
-"Don't do that," he said. "What I put down was the rage — the lie that being angry was the same as being strong. That's not the same as giving up on them. We can't walk to Oklahoma. Not now, not from here. But we're not the only survivors. There are people in that gas station behind us. There are people in Fayetteville. There are people in basements and churches and fire stations all over the country doing what we're doing — organizing, planning, figuring it out. Sooner or later those groups connect. They have to. Because that's the one thing we have that the organism doesn't." He paused. "It doesn't think. It spreads, but it doesn't strategize. It doesn't send scouts or draw maps or write things in notebooks. People do. That's our advantage — the only one that matters. And people will use it. We'll find out what's left. We'll find out who's still out there. Including Oklahoma."
-
-She was quiet for a long time. Then: "You sound like Jim."
-
-"Worse things to sound like."
-
-She leaned into him. Shoulder against shoulder, the guardrail cold beneath them, the stars turning overhead. Not a collapse — a leaning. The deliberate transfer of weight from one person to another, temporary and specific, the way you lean on a wall while you catch your breath before running again.
-
-He let her lean. He held still the way she'd held still in the woods after the roadblock — present, patient, refusing to fix what couldn't be fixed. Being there. That was all. Being there was the whole thing.
-
-Marcus found them an hour later. He stood over them — two kids on a guardrail, one leaning on the other — and his face did something that Marcus's face almost never did. It softened.
-
-"Time to come back?" he asked. Not an order. An invitation.
-
-They walked back together. Nate's hand on Sienna's elbow once, briefly, guiding her around a pothole in the dark. She didn't flinch. She didn't pull away. She only walked beside him.
-
-Nobody discussed it in the morning. But something had shifted — the way the group moved around the two of them, the specific quality of the silence that surrounded them. Ruth watched them with the expression of a woman who had been married for fifty years and recognized the geometry. Jim put his hand on Sienna's shoulder at breakfast and she let him.
-
-Nate wrote nothing in the journal about that night. Some things belonged to the dark and the guardrail and the stars and the girl who had taught him what carrying looked like.
+I was standing in the middle of Highway 71 having become the data point.
 
 ---
+
+I sat down on the center line.
+
+There was a road, and I was on it, and sitting seemed like the accurate response to that. The asphalt was colder than the air.
+
+And then, with nothing else in front of me, the machinery produced the number I'd refused to produce for two miles.
+
+Fifteen miles of highway to Lake Fort Smith. Sixty miles of Ozark Highlands Trail — the ridgelines, the creek crossings, the rock scramble it took both Marcus and Jim to get Ruth up in the rain. Twenty miles of county road after that. Ninety-five miles, backward, alone, in December, with a hatchet and a water bottle and whatever was in my jacket. The roads don't go there; Marcus settled that in a church basement on his first day. The only way back to my mother was the trail, and the trail had taken eight of us eleven days with tents and stoves and a man who knew where the water was.
+
+I was not going to arrive. There was no arrangement of the numbers in which I arrived.
+
+And it changed nothing.
+
+That is the part. I sat on a highway with the correct answer in my hands and it did not move me an inch. Being right had stopped doing anything at all — and being right was the whole of what I had, the only thing I'd ever brought to any of it, and it turned out to be a tool that only worked on other people's problems.
+
+There was a second number underneath it. Whatever I did or failed to do, she was going to go on standing in that lot. It was not a problem. It was a debt I had no currency for.
+
+So I stayed where I was. And nothing came.
+
+I could sit on the center line of a dead highway at fifty-eight beats a minute and every one of them would walk past me until morning, the way they walked past Marcus for three days, because there was nothing left in me worth harvesting.
+
+It was the safest I'd been since October.
+
+The cold got into my hands around the third quarter hour. I know the sequence. I learned it under Mr. Henderson's trailer on Day Three, lying in mud and my own vomit with eighteen inches of clearance over my back. Hypothermia suppresses the HPA axis. Fear and cold compete for the same fuel and cold wins. That night it had saved my life. The textbook calls it the cold-induced sympatholytic effect.
+
+Same mechanism. Both times it made me invisible. The difference was that the first time I crawled out.
+
+And then the warmth came, and I was not surprised to feel it.
+
+It started in my chest, the way it had in the tank. Spreading, unhurried, not unpleasant. Something unclenching that I hadn't known was clenched. My jaw let go. The edges of me got soft — the name, the weight, the scar on my palm, the hatchet lying across my knees. All of it started to feel like things I was holding rather than things I was, and there was a surface somewhere out in the dark where I could set them down.
+
+In the septic tank I put my hands into human waste and breathed it in to break this.
+
+On the highway I sat still and let it come. There is no version of this that flatters me: I could not construct an argument against it. I tried. The machinery turned over and produced nothing. Every reason I'd ever written down for staying was a reason for staying *useful*, and I had just spent a hillside proving what I was useful for, and I had walked two miles toward proving it again on the only person who ever called me bud.
+
+The organism was offering to stop being me. It was the first offer anyone had made in six weeks that didn't come with arithmetic.
+
+---
+
+I heard her before I saw her.
+
+She wasn't running. Sienna could have covered those two miles in eleven minutes and didn't, because she had spent five weeks unlearning exactly that, and because — I found this out later — she had watched me go and given me a head start on purpose. She said it was so I'd get far enough to be honest. I have never known whether to believe that.
+
+She sat down on the center line next to me. She didn't say my name. She didn't take my arm or check my pulse or ask what I thought I was doing. She looked at the hatchet across my knees for about a second and a half. Then she looked south down the highway at the same nothing I was looking at, and she stayed there.
+
+I don't know how long. The moon moved. The road stayed pale.
+
+I remember thinking, with the small part of the machinery still turning: *she isn't going to argue.* And underneath that: *she doesn't have an argument either.* And that was almost a relief, and the almost is the closest thing to a warning I got.
+
+Then she shivered.
+
+It went through her all at once, shoulders to hands, the involuntary kind, and she clamped down on it, and it came again forty seconds later and she clamped down on that one too.
+
+And the machinery came on.
+
+Not gently. It came on the way an engine catches — a lurch, a catch, and then it was running, and it started doing math. Ambient temperature somewhere near thirty-four. Track pants, a hoodie, canvas sneakers from a church donation box. One hundred thirty-five pounds and almost no body fat, because she was a distance runner who'd been eating freeze-dried rations for two weeks. Wind out of the north at the speed that was moving the leaves in the ditch. She had been sitting still for however long I had been sitting still.
+
+She was going to get hypothermic well before I did. She had less to burn.
+
+Ninety-five miles hadn't moved me. Thirty-four degrees and a hundred and thirty-five pounds did.
+
+And she was not going to leave first. That was not a variable. I could hold that number up against every other number I had and it did not move.
+
+I stood up. My legs took a long time about it.
+
+She stood up when I stood up. She didn't ask. We walked north on the shoulder of Highway 71, and at some point my hand was on her elbow and I have no memory of putting it there, and neither of us said anything for two miles.
+
+I was doing sums the whole way. Not about her. About Ruth's atenolol, and how far the carts could go in a day, and what I was going to say to Moss when we got there. The machinery had come back on and gone straight back to work, and all of the work was about people who were still alive. It has never stopped being about them since. That is not the same as forgiveness and I have never pretended it was.
+
+She never asked what the hatchet was for. She saw it and she did the arithmetic on it in a second and a half and she sat down next to me anyway. Not asking was the largest thing anyone has ever done for me, and she did it at that temperature, in those shoes, without once mentioning that she was cold.
+
+I have gone over what I could have done differently, and the answer is not the one I went looking for. It isn't the parking lot. By the parking lot it was already decided. It goes back to a kitchen window on the second day, watching Lisa Anderson run out of exits and doing the arithmetic on whether I could reach her, and getting the right answer — I couldn't — and discovering that a right answer will hold a door shut for you as long as you need it to.
+
+I have been getting right answers ever since.
+
+Sienna told me in a steeple that I was building a case for why nothing was ever going to be my responsibility, and that it was going to get someone killed. She had the verb wrong. It didn't get someone killed. It left someone standing.
+
+There is no repair available. I am not going to get back there, and knowing precisely why I didn't act is worth nothing to the woman in the lot, because understanding is not a currency she can spend. This is not a thing I resolve. It's a thing I carry, badly, for as long as I go on.
+
+What's left is narrow, and it is the only part I actually get a say in. Not her. The next one.
+
+---
+
+Dale was still facing north when we came back into the pulloff.
+
+He saw us. He didn't stand and he didn't speak. He moved over on the bucket, and I sat down next to him, and he took the knife and the block of cedar out of his coat and started to carve, at three in the morning, in the cold, with nothing to see by.
+
+I put the hatchet back on the top of my pack. It is still there. I never went back for her, and I have never once stopped intending to.
+
+The sound of the blade going into the wood is the last thing I remember with any confidence.
+
+After that the days come apart. I've tried to reassemble them and I can't. The pieces I have are enough to know what they were: Sienna's hand. Jim's shoulder under my arm on a grade I don't remember climbing. Caleb putting the wooden beagle in my lap without a word and going back to Marcus.
+
+Two days. Somebody kept me walking. I wasn't the one doing it.

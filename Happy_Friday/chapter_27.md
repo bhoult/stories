@@ -1,92 +1,128 @@
-# Chapter 27: The Archive
+# Chapter 27: The Frequency
 
-## ACT FOUR: INHERITANCE
-### *"I survived. I wish that felt like enough."*
+Dr. Eleanor Moss. Young, maybe thirty, short black hair, glasses, the lab coat over a flannel shirt and jeans. She was thin — too focused to eat properly for weeks, probably. Her eyes were sharp and tired and she had a permanent squint, the kind you get from living inside a noise that never stops.
 
----
+She'd come out to us on the sidewalk, helped Ruth to her feet, and led us inside without ceremony. "The sound is better inside," she'd said. "The building attenuates it by about thirty percent. It never goes away entirely. You get used to it." She paused. "That's a lie. You don't get used to it. You just stop complaining about it."
 
-On Day 44, I gave Dr. Moss my journal.
+We went inside.
 
-I hadn't planned to. The notebook was mine — private, wrinkled, stained with septic residue that no amount of airing could fully remove. It contained my mistakes in chronological order, and the thought of a scientist reading my fifteen-year-old's approximations of biochemistry felt like handing a crayon drawing to a museum curator.
+The life sciences building was a functioning laboratory in a failing world. Emergency lighting, powered by the solar grid. Equipment humming — centrifuges, spectral analyzers, things I couldn't name. Three graduate students were working at stations — a woman labeling slides, a man at a computer terminal running on generator power, another man monitoring a bank of screens showing camera feeds of the campus perimeter. And a janitor — a heavy-set man in his sixties, mopping the floor of the lobby like it mattered. Like keeping the floor clean was his way of keeping the world from falling apart.
 
-But Moss asked. She'd heard Marcus describe the journal on the CB. She wanted primary source data — eyewitness observations from the first six weeks, documented in real time, uncorrected by hindsight. "Everyone who comes in tells me what they remember," she said. "Memory is reconstruction. Memory edits. What I need is what someone wrote down while it was happening, including the parts they got wrong."
+"Howard," Dr. Moss said, by way of introduction. "He runs the facility. I just do the science."
 
-I handed it over. She sat in her office — a small room off the main lab, cluttered with printouts and specimen jars and a poster of the periodic table that someone had annotated with hand-drawn sad faces over the elements whose lab stocks were exhausted. The comet printout was on the wall behind her. I did not ask about it. She read.
+"Someone's got to keep the lights on," Howard said, not looking up from his mopping.
 
-She read for two hours. I sat in a chair across from her and watched her read and tried not to spiral, because the journal was the most honest thing I'd ever produced and I had no control over what she'd make of it.
+The woman labeling slides was Priya — the botany grad student who'd been maintaining the campus greenhouse and, behind it, a small flock of chickens she'd rescued from a farm supply store on College Avenue in the first week. When Caleb heard the clucking from behind the building, he was out the door before anyone could stop him. He came back twenty minutes later with a report: seven hens, one rooster, a coop built from lab pallets and chicken wire. He'd already introduced our three highway hens. He'd already assigned names. He'd already informed Priya that he was in charge now.
 
-She turned pages. She made notes on a separate pad. Occasionally she looked up — not at me, at the wall, processing something, the way I processed things by staring at the ceiling of the trailer. Then back to the journal. Entry by entry. Mistake by mistake.
-
-When she finished, she set the notebook on the desk and looked at me.
-
-"Your biochemistry is wrong in several places," she said. "The HPA axis description in entry two is simplified to the point of inaccuracy. Your threshold numbers are inconsistent. You misidentify the parasympathetic response as 'vagal override' in entry five, which isn't a real term."
-
-"I know. I was working from a nursing textbook and Wikipedia articles I'd read before the internet went down."
-
-"I know you know. That's why the journal is valuable." She tapped the notebook. "This isn't a scientific document. It's a learning document. Every entry shows what you thought, what happened, and what you figured out next. The errors are the most important part — they show the process of revision. They show a mind encountering data that contradicts its model and updating the model instead of defending it."
-
-She leaned back.
-
-"I've had seventeen survivor groups reach this campus. Most of them have stories. Some have observations. A few have strategies. None of them documented the process the way you did. None of them wrote down what they got wrong."
-
-"Most people don't enjoy writing down their failures."
-
-"Most people don't survive long enough to benefit from them." She paused. "I want you to keep writing. Not for yourself — for other survivors. The broadcasts I've been making are scientific — mechanism, pharmacology, the emitter. What I can't broadcast is this." She tapped the journal again. "The human part. The part that tells people how to *live* with the knowledge. How to stay calm when the mechanism is telling your body to panic. How to make decisions when the decisions are terrible. How to be fifteen and responsible for seven people and scared every minute and still functional."
-
-"I don't know how I did that."
-
-"That's fine. You wrote it down while you were doing it. That's better than knowing — knowing is retrospective, and retrospective gets edited, and edited is useless. People need the unedited version."
-
-She picked up the journal and held it out.
-
-"I want to compile a guide. A manual. How to stay human in a world that punishes humanity's best instincts. Your journal is the model — not because it's correct, but because it shows the process of becoming correct. The failures are the curriculum."
-
-I took the journal back. It felt different in my hands — heavier, or maybe I was lighter. Same pages, same entries, same wrinkled record of six weeks of being wrong and revising and surviving. But it wasn't just mine anymore. It was data. A survival guide written by accident.
-
-"There's a private entry," I said. "One I didn't show anyone. About the roadblock. About —" I stopped. "About the thing I'm capable of."
-
-"I know. Marcus mentioned it."
-
-"Do you want to read it?"
-
-She looked at me. The squint — the permanent squint from the frequency — made her expression hard to read, but her eyes were clear behind it.
-
-"Do you want me to?"
-
-I hesitated. The private entry was different from what else I carried. Not a failure or a mistake — a capacity. I could look at human beings and engineer a wolf knife out of razor wire and their own frenzy. I could make that plan and execute it and walk through the blood and past the woman tangled in the wire and keep walking. Jim wouldn't look at that part of me. Sienna looked at it too much. I was afraid of it because it worked.
-
-I handed her the notebook with a slight tremor in my hand, open to the private entry.
-
-She read it. Thirty seconds.
-
-"You're afraid of this part of yourself," she said.
-
-"Yes."
-
-"You should be. It'll keep people alive and it'll cost you things you can't calculate yet. Both true. Neither cancels the other." She closed the notebook. "People need an enemy. They need someone to blame, someone to beat. If I told the public that this organism isn't a weapon, isn't engineered, isn't anyone's fault — that this is just contact, an accident, an ecology encountering another ecology — I don't think people can hear that right now. They need the story to have a villain."
-
-"Does it have a villain?"
-
-"It has an organism doing what organisms do. It found a niche — the human fear response — and it's exploiting it. That's not evil. It's biology." She looked at the comet printout on the wall. Looked away. "The villain, if there is one, is the gap between what the world is and what people believe it is. Your whole journal is about that gap. Craig Lyle, the gas station group, the soldiers at the blockade — they all died because their model of the world was wrong and they couldn't revise it fast enough."
-
-"And the people who survived?"
-
-"Revised. That's the only difference. The people who survive this won't be the strongest or the bravest. They'll be the ones who write down what they got wrong."
+Priya looked at Moss. Moss looked at Howard. Howard said, "Great. More chickens. Just what we needed," and went back to mopping.
 
 ---
 
-That evening, in the seminar room, I opened the journal to the entry about the fortified group on Highway 71 — the nine survivors in the gas station, the barbed wire between the pumps, the woman with the shotgun who wouldn't leave. I reread it. Then I turned to a fresh page — the last fresh page — and wrote:
+Moss gave us the science that night.
 
-**JOURNAL ENTRY #21:**
+We sat in a seminar room — the kind with tiered seating and a whiteboard and a projector that no longer worked. Moss stood at the whiteboard with a dry-erase marker and drew diagrams that I photographed with my eyes because my notebook was almost full and I was rationing pages.
 
-*Dr. Moss wants me to compile a guide. A manual for surviving a world that punishes courage and rewards caution. She says my journal is the model — the process, not the conclusions. How I figured out what I got wrong.*
+"The organism is triggered by sustained elevation of catecholamines — epinephrine, norepinephrine — above a threshold of approximately three hundred picograms per milliliter for a sustained period of roughly two minutes," she said. "You've already figured out most of this. Your journal —" She looked at me. Marcus had radioed ahead. She'd been expecting us. "— your journal describes the mechanism with remarkable accuracy for someone working from a nursing textbook and direct observation."
 
-*I don't know how to write a survival guide. I know how to write what happened and what I learned and where the learning cost someone something they can't get back. I know how to document the gap between the model and the world. I know how to be wrong on paper.*
+"I was wrong about some things."
 
-*Maybe that's enough. Maybe a survival guide for the end of the world is just a record of someone being wrong, over and over, and not dying of it.*
+"You were wrong about a lot of things. You were also right about the things that mattered, and you documented the process of being wrong, which is more valuable than being right." She turned to the whiteboard. "Here's what you don't know."
 
-*Tomorrow I'm going to try something. Moss has a broadcast transmitter — more powerful than the CB, campus radio equipment, range of fifty miles or more. She's been using it for scientific bulletins. She's going to let me use it for something else.*
+She drew a cell. Not a human cell — something else, with structures I didn't recognize.
 
-*I'm going to talk. Into a microphone. To whoever is out there. I'm going to tell them what I know and what I've learned, and I'm going to start with the thing nobody wants to hear: the thing that's killing you isn't the monsters. It's the fear. And the fear is manageable. Not easy. But manageable.*
+"The organism's protein structures do not match any known terrestrial phylogeny. Not bacterial, not archaeal, not viral, not fungal. The biochemistry is adjacent to Earth's — close enough to interact with human biology, to hijack the endocrine system, to use our cellular machinery for its own replication. But the base structures are foreign. The chirality of several key amino acid analogs is reversed. The membrane chemistry uses lipid structures that don't exist in any Earth ecosystem."
 
-*I'm scared of the microphone more than I was scared of the septic tank. At least the septic tank was private.*
+She let this sit.
+
+"It's not from here," she said. Simply. No drama. The way you'd report a lab result.
+
+The room was quiet.
+
+"Not engineered," she continued. "Not a weapon. Not a mutation. The genome — if we can call it that — shows no signatures of intentional design. It shows the signatures of evolution. But evolution in an environment that is not this one."
+
+Jim, from the back row: "Where?"
+
+"I don't know. I have a hypothesis I'm not willing to broadcast because the hypothesis is speculative and I've watched enough misinformation kill people in the last six weeks to last several lifetimes." She put the marker down. "What I can tell you is this: the organism communicates. The Turned coordinate because the organism synchronizes their behavior through a biochemical signaling network that functions like a distributed nervous system. The frequency —" She gestured upward, toward the emitter on the roof. "— disrupts that synchronization. It's the biological equivalent of jamming a radio signal. I reverse-engineered it from the organism's own communication patterns."
+
+She drew a new diagram — four columns, labeled.
+
+"Behavioral states. You've identified three in your journal: herding, swarming, and hunting. There's a fourth." She wrote them: *Herding. Swarming. Hunting. Rooting.* "Herding is the reproductive strategy — fear-farming, the conversion cycle, patient and coordinated. Swarming is the density-collapse behavior — the threshold event, uncontrolled destruction. Hunting is the caloric strategy — food-driven, directed, problem-solving. Small groups, coordinated by a distinct acoustic signal."
+
+"'Uncontrolled destruction' is an understatement," I said. "I watched a house come apart in under a minute. A fortified house — boarded windows, barred doors, a man with guns and supplies and a plan. The swarm didn't breach the defenses. It erased them. The walls came in. The people inside —" I stopped. "If you put that in a bulletin and someone hears 'uncontrolled destruction' and thinks they can ride it out behind a barricade, they'll die. Everyone who fortified died. The swarming isn't a behavior. It's a demolition."
+
+Moss looked at me for a long moment. Then she turned back to the board and crossed out *uncontrolled destruction* and wrote, in smaller letters: *total structural demolition — no fortification observed to survive.*
+
+"Better," I said.
+
+"The bark," I said. "Short, sharp. We heard it at the interchange. And at a church — a Turned killed a cat and made the sound and another Turned a block away oriented immediately."
+
+"That signal is a dedicated hunting call. It activates other Turned within auditory range as hunters — directed, aggressive, food-motivated. Critically —" She underlined something on the board. "— the hunting state is also triggered by attack. If a Turned is struck, threatened, physically engaged, it switches to hunting mode and produces the call. The implications for armed defense are significant. Every shot fired at a Turned potentially activates every Turned within earshot as hunters. The military checkpoints failed in part because the gunfire was triggering mass hunting activation on top of the density-threshold swarm."
+
+She paused.
+
+"Hunting is metabolically driven. As caloric resources deplete — and they are depleting — hunting becomes the dominant behavior. The emitter disrupts herding and swarming coordination effectively. It's less effective against hunting because hunting is metabolically motivated, not communicatively motivated. A hungry Turned at the perimeter is testing the frequency edge not because the collective is directing it but because its individual caloric need is overriding the discomfort."
+
+She drew another diagram — a cross-section of skin.
+
+"The photosynthesis. You noted the green discoloration — the sun-facing behavior, the skin changes. The organism is introducing chlorophyll analogs into the host's dermis. The skin is becoming a solar panel. This supplements caloric intake as conventional food sources deplete." She tapped the board. "The clothing removal you've been tracking — shoes first, then shirts, then everything — is the organism systematically eliminating anything that blocks photon absorption. The host's skin needs maximum sun exposure for the photosynthetic system to function. The removal is deliberate, ordered, and accelerates as caloric need increases."
+
+"The oldest ones were nude," I said. "But they weren't just photosynthesizing. They were rooted. Feet in the ground. Connected by vine-like structures through the soil. We walked through a thousand of them on Dickson Street. Most rooted. Connected. A network."
+
+She turned back to the board and tapped the fourth column. "Rooting. The terminal behavioral state — at least, the terminal state we've observed so far. The photosynthetic adaptation is stage one. Stage two is sessile conversion. The organism anchors the host in soil, establishes root-like structures that connect to adjacent hosts, and transitions from mobile to stationary. The host becomes a node in a networked colonial organism." She drew lines between stick figures on the board — connections, a web. "The root structures aren't just anchors. They're dendrites. The human hosts are the neurons — the processing nodes. The roots are the connections between them, carrying signals, propagating patterns. The organism's distributed nervous system, which normally coordinates through airborne biochemical signals, now has a physical substrate. Hardwired connections. Faster. More reliable. The rooted clusters are functionally a single organism with multiple bodies."
+
+"The hunters bring them food," I said. "Like offerings."
+
+"Like a colony of ants feeding the queen. The mobile Turned — the two percent still in hunting mode — are the workers. The rooted are the colony's core. The drifters maintain proximity. It's a division of labor that's emerging spontaneously as the organism matures." She paused. "The rooting is why the emitter's effectiveness is declining. The airborne frequency disrupts the wireless coordination — the biochemical signaling. But the root network is a wired connection. The frequency can't jam a physical cable. As more Turned root and the network grows, the organism's coordination becomes increasingly independent of the signals I'm disrupting."
+
+"You said superintelligence," Sienna said quietly. She was looking at me. "On the hill. You said it looked like a superintelligence."
+
+Moss shook her head. "It looks like intelligence. That's the trap. We see coordination and we infer a mind behind it — a decision-maker, a strategist, something that *wants* things. But what I'm observing is much closer to a termite mound than a brain." She tapped the board. "Termites build structures more complex than anything human engineers could design at that scale. Ventilation systems. Temperature regulation. Fungus farms. No individual termite understands any of it. No committee of termites planned it. The complexity emerges from simple biological rules — if this chemical gradient, then this behavior. If this temperature, then that behavior. Millions of simple rules producing something that looks designed but isn't."
+
+She drew a series of arrows on the board. Simple loops. Input, response, feedback.
+
+"The organism operates the same way. Fear chemical above threshold — convert. Caloric deficit — hunt. Photosynthetic capacity reached — root. Host density sufficient — network. Each behavior is a biological imperative, not a decision. The herding, the swarming, the hunting, the rooting — none of it requires intelligence. It requires *rules.* And the rules are very good, because they've been refined by evolution on at least one other world, probably more. The organism doesn't need to be smart. It just needs to follow its program, and the program is optimized for exactly this — arriving on a new world, co-opting the dominant species, and terraforming the environment for its own biology."
+
+"Terraforming," I said. The word landed in the room like a stone in still water.
+
+"The rooting isn't the end state. It's the beginning of a process. The organism is modifying its environment — converting mobile hosts to sessile ones, building root networks, establishing photosynthetic infrastructure. It's reshaping Earth's ecology to suit itself. Not consciously. Not strategically. The way kudzu reshapes a hillside — one biological imperative at a time, no plan, no intent, just growth following rules." She looked at the window, where the last light of the day was fading. "Where it ultimately leads, I don't know. We're six weeks into a process that may take years or decades to complete. We're watching the first chapter of a very long book, and we don't know the genre."
+
+The room was quiet.
+
+"How long will it hold?" Marcus asked.
+
+Moss hesitated. First time I'd seen that — a crack in the composure, brief, quickly sealed.
+
+"When I first activated the emitter three weeks ago, the Turned fled to a mile's distance. They're now at four hundred yards. Last Tuesday, I observed one standing at the perimeter for six hours, swaying, as if acclimating." She looked at Marcus. "The organism is adapting. Slowly — biological adaptation, not strategic — but measurably. I give the emitter weeks. Maybe a couple of months. Eventually they'll push through."
+
+"And then?"
+
+"And then we need a better solution. That's what I'm working on. That's why I've been broadcasting — to find people who can help. Researchers. Engineers. Anyone with expertise the three graduate students and I don't have." She looked at our group — a pastor, a trucker, a retired teacher, an office manager, a recovering addict, a track athlete, a seven-year-old, and a fifteen-year-old with a notebook. "I was hoping for a virologist. But I'll take what I can get."
+
+"You've got a plumber," Ruth said. "By marriage."
+
+Moss almost smiled. It faded fast. She turned back to the whiteboard, where her diagrams of the organism's cell structure occupied the left half and her timeline of behavioral adaptation occupied the right.
+
+"The organism adapts," she said. "That's the fundamental problem. Everything we build — the emitter, the beta-blockers, the behavioral techniques — works for a while and then the organism learns to work around it. We're in an arms race with something that iterates faster than we do. The emitter buys time. The medication buys time. The question is whether we can use that time to find something permanent."
+
+I looked at the whiteboard. At the diagrams. At the timeline showing the emitter's declining effectiveness in a descending curve.
+
+On the wall behind the whiteboard, partially obscured by a bookshelf, I noticed a printout. It showed orbital data — trajectories, dates, coordinates. At the top, a designation: Comet C/2026 Voss. Several dates were circled in red pen. A handwritten note in the margin, in Moss's small, precise handwriting: *incubation window?*
+
+I looked at it. Moss saw me looking. She didn't explain.
+
+---
+
+That night, in a dormitory room on the second floor with the frequency humming in the walls and a headache that would become permanent, I opened the notebook to the last empty page.
+
+**JOURNAL ENTRY #20:**
+
+*We made it.*
+
+*Not from here. Not engineered. Evolved — but not on this planet. Moss has data she won't speculate about publicly. I saw a printout about a comet on her wall. She saw me see it. She didn't say anything.*
+
+*Everything works for a while. The organism learns. The question is whether we can learn faster.*
+
+*Dale doesn't need Suboxone anymore. Marcus hasn't had a drink in three weeks. Caleb is drawing dinosaurs with crayons he found in a classroom. Sienna is looking at the campus track through the window and her feet are moving.*
+
+*We're safe. For now. That's all anyone ever has. We just know it.*
+---

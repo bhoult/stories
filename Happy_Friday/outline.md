@@ -14,6 +14,30 @@ The series is structured around a central irony: the traits that made Nate a "lo
 
 ---
 
+---
+
+## REVISION STATUS — as of this pass
+
+**Chapter count:** 31, restored. Ch23 "Nate Walks" is back and reframed (see its entry); "Sienna Stops," written during drafting and absent from this outline, is now Ch24. The planned Ch27 "Arrival" was folded into Ch26–27 during drafting. Net count unchanged.
+
+**Where the manuscript diverges from this outline:**
+
+| Outline | Manuscript | Status |
+|---|---|---|
+| Ch7 "The Pattern" incl. **Journal #2** | 682-word stub, no journal entry | **Restore.** Journal #2's full text survives only here — its loss is why the manuscript's journal numbering skips from #1 to #3. |
+| Ch20 "The Other Group" (Phil's Walmart — forced sedation) | replaced by "The Trail" | **Not drafted.** Phil is the only encounter that attacks Nate's *own* doctrine rather than repeating the Lyles'; the Highway 71 gas station currently fills the slot and duplicates the Lyles. Restoration recommended. |
+| Ch21 "The Overpass" (collapsing structure) | "The Wolf Knife" (concertina wire, Eskimo wolf-knife principle) | Drafted differently; same function. Outline title updated. |
+| Four third-person interstitials — Delia's last shift, the Lyles' final hours, Marcus's three days in the cab, Moss's early research | **none written** | The book never once leaves Nate's knowledge. "Delia's Shift" is the highest-value single addition available; without it every later payoff asks the reader to grieve a character they met for four paragraphs. |
+| Pastor Jim **Ousley**, 67 | Jim **Whittaker**; "seventy," "late sixties," and "seventy-three" | Surname settled to Whittaker. **Age unsettled — pick one.** |
+| Dr. **Anya** Moss | Dr. **Eleanor** Moss | Settled to Eleanor. Note Jim's late wife is also Eleanor ("Not the same Eleanor") — deliberate. |
+| Delia Carver, 38 | 40s in `characters.md` | Unsettled; minor. |
+
+**Date anchor (pending decision):** the manuscript opens on "Friday, October 24th," but Moss's printout reads **Comet C/2026 Voss**, and October 24 2026 is a Saturday. Recommended fix is **October 23, 2026**, which is a Friday and preserves the comet designation, the September tail passage, and the Day 3 = Monday anchor. Consequence to track: the calendar crosses into **December at Day 39**, and the manuscript currently says "November" eight times at Day 37 or later.
+
+**Open forward obligation:** Ch23 ends on *"not her — the next one."* That is a promise. The nearest candidate for collecting it is Jim's declining heart, set up in Act Four and never paid.
+
+---
+
 # DIRECTIVES
 - Be cautious with "This is not X, it is Y" phrasing.
 - The story should be internally consistent. Like in software: past events relate to the current state, future events flow from the current state.
@@ -214,7 +238,7 @@ Delia is competent but not a leader. She knows medical triage, wound care, and h
 
 **Her fate is the novel's central gut-punch.** (See Act Three.) To earn that punch, the book needs specific domestic beats before things break — a third-person interstitial showing Delia's last normal evening: packing her lunch, reminding Nate to eat something besides Doritos, checking her phone for a text from her ex that didn't come, saying "Happy Friday, bud" on her way out the door. Small, forgettable, irreplaceable details. The reader should miss her the way Nate does: not as a character who died, but as a person who used to be in the next room.
 
-### Pastor Jim Ousley — 67
+### Pastor Jim Whittaker — age unsettled (see revision status)
 
 The pastor of a small church three blocks from Nate's house. Vietnam veteran, though he never talks about it. He's been on beta-blockers for twenty years. He's the first adult in Nate's orbit to figure out the adrenaline connection — not through science, but through theology. He notices that the people who survive are the ones who are "at peace," and his first interpretation is religious. He's wrong about the mechanism but right about the pattern, and his wrongness is still more useful than most people's ignorance.
 
@@ -256,7 +280,7 @@ Their fate — which Nate witnesses — is where Nate learns the book's most imp
 
 The novel is divided into **four acts** across approximately **31 chapters**. The primary narrative is **first person, Nate's voice** — immediate, digressive, darkly funny, smarter than it should be and more vulnerable than it wants to admit. Nate narrates the way he thinks: in run-on observations, strategic assessments, and self-deprecating asides that occasionally crack open into something raw.
 
-Intercut with Nate's chapters are **third-person interstitial sections** that show events Nate can't witness: Delia's last shift at the hospital, the Lyles' final hours from inside their house, Marcus's three days alone in his truck cab, Dr. Moss's early research as the university empties around her. These sections are shorter, tighter, and tonally distinct — they lack Nate's humor and self-awareness, which makes the events in them land harder. The reader knows things Nate doesn't, and the gap between his understanding and theirs creates a specific kind of dread.
+Intercut with Nate's chapters are **third-person interstitial sections** that show events Nate can't witness *(planned; **none of the four have been written** — see Revision Status. The only third-person chapter in the manuscript is Ch24 "Sienna Stops," which follows Nate rather than another character, so the book as drafted never leaves his knowledge)*: Delia's last shift at the hospital, the Lyles' final hours from inside their house, Marcus's three days alone in his truck cab, Dr. Moss's early research as the university empties around her. These sections are shorter, tighter, and tonally distinct — they lack Nate's humor and self-awareness, which makes the events in them land harder. The reader knows things Nate doesn't, and the gap between his understanding and theirs creates a specific kind of dread.
 
 Additionally, **Nate's journal entries** appear throughout, set apart from the main text. These serve as the book's structural spine — Nate recording what he's observed, what went wrong, what he thinks the rules are. The journal entries are always slightly wrong. Each one gets corrected by subsequent events. They are the book's thesis in miniature: knowledge is iterative, built on a legacy of documented failure.
 
@@ -612,7 +636,7 @@ The question doesn't go away. It resurfaces every time Ruth stumbles, every time
 
 *Establishes the pace and texture of the trail section: physically brutal but psychologically safer than the lowlands. The horror shifts from immediate threat to the slow grind of endurance, the knowledge that the world below is lost, and the question of whether what's ahead is any better. Ruth's physical limits become the walk's defining constraint and its moral compass — the group moves at the speed of its most vulnerable member, and that choice costs them time they may not have.*
 
-### Chapter 20: "The Other Group"
+### Chapter 20: "The Other Group" *(NOT DRAFTED — see revision status)*
 The group's medication is running low. The trail is remote — that's its virtue and its limitation. After five days in the wilderness, they descend along a forest service road to a small highway town to resupply. The town is mostly dead, but a Walmart on the outskirts is occupied — lights in the windows, vehicles arranged as barricades, figures moving on the roof.
 
 They encounter this survivor group cautiously. What they find is not the Lyles redux — not armed bravado and wrong-headed courage. Phil's group has figured out the adrenaline mechanism. They know calm keeps you alive. And they've drawn a monstrous conclusion from it.
@@ -629,7 +653,7 @@ The church group doesn't stay. They trade some of their excess medication for fo
 
 **JOURNAL ENTRY #12:** *"The Lyles were wrong about everything. Phil is wrong about one thing — the most important thing — and right about all the rest, and that's worse. He knows it's adrenaline. He knows calm saves you. He just decided that the fastest way to calm is a needle, and once you accept that, the rest follows like math. I keep thinking about where the line is. We teach breathing exercises. We practice meditation. Jim gives sermons about peace. How is that different from what Phil does? I think the answer is consent. I think the answer is that our people choose to be calm and Phil's people have calm done to them. But I'm not sure that distinction will hold up when someone in our group can't stop screaming at 3 AM and the Turned are outside. I'm not sure about anything anymore."*
 
-### Chapter 21: "The Overpass"
+### Chapter 21: "The Wolf Knife" *(drafted as; outlined as "The Overpass")*
 **The chapter where Nate crosses a line.**
 
 Day 30. The OHT descends from the Boston Mountains to cross a state highway — one of the places where the trail drops from wilderness into the real world before climbing back up the other side. These road crossings are the group's most vulnerable moments: they have to leave the forest, cross open lowland, and get back up into cover.
@@ -686,27 +710,56 @@ He doesn't write in the journal that night. The next entry, two days later, is a
 **JOURNAL ENTRY #14:** *"She would have been scared. At the end. She would have been so scared."*
 
 ### Chapter 23: "Nate Walks"
-**Third-person interstitial. Not from Nate's perspective — from Sienna's.**
+**First person, Nate. Restored and reframed — see revision note at the end of this entry.**
 
-Two nights after the hospital. The group is camped in an abandoned church (a smaller one, not theirs). Sienna wakes at 3 AM and Nate's sleeping bag is empty.
+Night of Day 39, a pulloff on Highway 71. Nate gets up during Dale's watch, takes the binoculars, takes the hatchet off the top of his pack, and walks south. Dale is facing north, because north is where the group is going and north is where a threat comes from. Nobody watches the ground behind you — the one flaw in a protocol Nate wrote himself, exploited by its author.
 
-She finds him outside, walking. Not toward anything tactical. Toward the hospital. Back the way they came. He's a quarter mile from the church already, moving without a light, without a plan, without any of the discipline he's spent four weeks teaching himself and everyone else. He's just walking toward his mother.
+**The reason is not grief and it is not confusion.** On Day 12, in the church basement, Nate stated his own advance directive aloud to seven people: restrain, wait as long as is practical, then kill me — *"I don't want to be standing outside somebody's door using my mother's voice. I know what not knowing feels like. I won't do that to anyone else."* On Day 24 he stood in a parking lot six blocks from Johnson Regional and looked at a woman in blue scrubs with bare feet, and Marcus put a hand on his shoulder and said *I see her. Keep moving*, and he kept moving. She is not alive and she is not dead and there is no end to it that arrives on its own. He wrote the rule. He did not apply it to her, and he did not ask Marcus to, and Marcus would have said yes and would not have asked why.
 
-Sienna catches up to him. He doesn't acknowledge her. She walks alongside him for a while — not touching him, not talking, just being there — and then she says, "Nate, she's not there."
+He deliberately does not run the return distance — the one sum he refuses, because the answer would stop him.
 
-And Nate, who has been composed through every crisis in this book, who held his own pulse steady in a septic tank and calculated the load-bearing capacity of an overpass while proposing a mass casualty event, says: "I know." And keeps walking.
+Two miles out, three Turned track him and lose interest. He checks his pulse: **fifty-eight**. His body has produced nothing. He is walking to kill his mother with a hand axe and he is below threshold — he has become the data point he catalogued about Marcus in week one. *"Not that they let me pass. That I hadn't needed them to."*
 
-Sienna doesn't argue. She doesn't grab him. She does something smarter and harder: she starts talking about her own parents. How she doesn't know if they're alive or Turned or dead on a highway in Oklahoma. How she decided three weeks ago that they're alive because the alternative is a thought she can't afford to have, and she knows that's not the same as them being alive, and she carries that knowledge every day.
+He sits down on the center line, and the machinery finally produces the number: fifteen miles of highway, sixty miles of Ozark Highlands Trail, twenty of county road. Ninety-five miles, backward, alone, in December. The roads don't go there — Marcus settled that on his first day. The only route home is the trail that took eight of them eleven days with tents and stoves.
 
-Nate stops walking. Not because she convinced him. Because his legs give out. He sits down on the road in the dark and Sienna sits next to him and he cries — for the first time in the book, ugly and loud and completely uncontrolled, which is the most dangerous thing you can do in this world, and he can't stop, and Sienna puts her hand over his mouth (not gently, this isn't tender, this is survival) and says "Quiet. Quiet. I know. But quiet."
+**He will not arrive — and the correct answer does not move him.** That is the surrender: not a breakdown, a stopping. Being right has stopped doing anything, and being right was the whole of what he ever brought. Below threshold, nothing comes for him; he could sit there until morning in perfect safety. The organism's warmth arrives and he cannot construct an argument against it.
 
-Marcus finds them twenty minutes later. He doesn't ask what happened. He picks Nate up — physically picks him up, which is not easy, Nate is not small — and carries him back to the church. Jim is waiting at the door and says nothing and puts a blanket around Nate and nobody discusses it in the morning.
+Sienna finds him. She gave him a head start on purpose. She looks at the hatchet across his knees for about a second and a half, says nothing, and sits down on the center line beside him.
 
-*This is the chapter that keeps Nate human. Every other mistake in the book is analytical — overconfidence, bad recon, insufficient data. This mistake is grief. Pure, stupid, pointless grief that could have killed him and Sienna both, and he did it because he's fifteen and his mom is dead and every rule he's written in his journal means nothing at 3 AM when the only thing he wants in the world is to walk backward in time. It's the crack in the composure. Without it, he's a logic engine. With it, he's a kid.*
+Then she shivers — and the machinery reboots, doing the only thing it knows, which is arithmetic, pointed at her: thirty-four degrees, track pants and canvas sneakers, a hundred and thirty-five pounds with nothing left to burn. She will go hypothermic first. And she will not leave first. **Ninety-five miles hadn't moved him. Thirty-four degrees and a hundred and thirty-five pounds did.** The abstract responsibility fails exactly where the specific one succeeds — the book's argument in one move.
 
-*It's also the chapter that changes Sienna and Nate's relationship permanently. She saved his life by being the one who doesn't look away, the same way he's done for the group over and over. They are now, for better and worse, the people who carry each other's worst moments.*
+They walk north. She never asks what the hatchet was for.
 
-### Chapter 24: "What Dale Learned"
+**The recognition, on the road back.** The failure is not the parking lot; by the parking lot it was already decided. It goes back to a kitchen window on Day 2 — watching Lisa Anderson run out of exits, doing the arithmetic on whether he could reach her, getting the right answer, and discovering that a right answer will hold a door shut for you as long as you need it to. He has been getting right answers ever since. Sienna warned him in a steeple that this would get someone killed; she had the verb wrong. **It left someone standing.** There is no repair available. Understanding is not a currency the woman in the lot can spend. It is not resolved — it is carried, badly, indefinitely. What is left is narrow: **not her. The next one.**
+
+He puts the hatchet back on his pack. It is still there. Then two days he cannot reconstruct.
+
+*Revision note: this chapter replaces the original outline version, which was third person from Sienna's POV and had Nate sobbing uncontrollably, Sienna clamping a hand over his mouth, and Marcus physically carrying him back. That version was cut as melodramatic, as a repeat of Nate's collapse on the hillside in Ch21, and because it violates the book's own physics — sustained loud sobbing in the open at 3 AM is precisely the catecholamine-plus-noise profile that turns people. Reframing it as surrender rather than breakdown makes his lowest moment a relapse into the passivity of Act One ("Inertia") instead of a second hysterical episode, and gives the "in-between state" debt a place to live.*
+
+*Downstream requirements: Ch22's closing paragraph now resolves as written. Ch24 ("Sienna Stops") must drop the reference to Sienna putting "her hand over his mouth… quiet, quiet, I know" — no such scene exists in the reframe. Ch25 ("What Dale Learned") must drop "Marcus carrying me."*
+
+*Forward obligation: "not her, the next one" is a promise the book has to keep. Nearest available candidate is Jim's declining heart in Act Four, currently set up and never collected.*
+
+---
+
+### Chapter 24: "Sienna Stops"
+**Third person, following Nate.**
+
+Two nights later. Nate wakes because the silence changed — six sleepers breathing instead of seven. Marcus, on watch, tilts his head south: ten minutes, walking the shoulder, took nothing.
+
+He finds Sienna sitting on the guardrail above the drainage ditch, looking south toward Oklahoma. She has been rebuilding the same lie every morning for six weeks — that her parents and Jaylen are alive at her grandmother's in Oklahoma City — and after the roadblock she can't carry it. *"I looked at the wire and I thought: those are someone's parents too. Every single one of them."*
+
+He does for her what she did for him on the center line: sits down, doesn't argue, doesn't solve it. What he offers instead is permission not to decide — *"You can carry the not-knowing without turning it into a story. The story is what's heavy — the lie or the truth, either one. The not-knowing is lighter because it's honest."*
+
+When she says she needs to let them go the way he let his mother go, he refuses the parallel, hard. What he put down was the rage, not the people. And he makes the argument that becomes the book's forward motion: survivor groups will find each other, because the organism spreads but does not strategize, does not scout, does not draw maps or write things in notebooks. People do. That is the only advantage humanity has left, and it is enough to eventually reach Oklahoma.
+
+She leans on his shoulder. Marcus finds them an hour later and his face does something it almost never does.
+
+*This is the reciprocal half of the Ch23 diptych: he sat on a road and she stayed; she sits on a guardrail and he stays. Neither chapter solves anything. Both are about presence being the whole of what's available.*
+
+---
+
+### Chapter 25: "What Dale Learned"
 Dale Soto — the recovering addict — has a breakthrough. He realizes that his years of addiction recovery have given him an unusual skill set: he knows how to manage cravings, which are biochemically similar to panic responses. He knows about triggers, about sitting with discomfort, about not reacting to the first impulse.
 
 He begins teaching the group recovery techniques reframed as survival skills: the HALT method (don't make decisions when Hungry, Angry, Lonely, or Tired), urge surfing, radical acceptance.
@@ -715,7 +768,7 @@ The irony — and Dale laughs about it, bitterly — is that his addiction was t
 
 *This chapter embodies the novel's philosophy: the lessons that save you are learned from failure, often someone else's failure, and they rarely look like strengths until the context changes.*
 
-### Chapter 25: "The Herd"
+### Chapter 26: "The Herd"
 The group's most dangerous encounter. The trail descends from a ridgeline into a broad river valley — one of the places where the OHT drops a thousand feet to cross the water before climbing back up the other side. Marcus warned them about valleys and water. They approach carefully, Nate glassing the valley floor from a bluff overlook.
 
 The valley is full of Turned. Hundreds, maybe thousands. A city's worth of people, standing in the bottomland along the river like cattle at a watering hole, swaying slightly, oriented toward nothing. The water drew them here — the same instinct that made people settle river valleys for ten thousand years brought the Turned to this one. The flat terrain and open floodplain allowed the herding behavior to operate at a scale the forest ridgelines never could.
@@ -744,7 +797,7 @@ They make it through. Ruth has to be carried the last hundred yards — not beca
 
 **JOURNAL ENTRY (unnumbered — Nate writes it with shaking hands that night):** *"Everything I thought I knew about the threshold was wrong. Or maybe not wrong — maybe just small. Thirty of them in a parking lot go berserk. A thousand of them in a valley go quiet. I've been thinking about this like a volume knob that only goes up, but it's not that. It's more like — you turn it past ten and it distorts, but you turn it past a hundred and it becomes something else entirely. A frequency so high it's not sound anymore. They weren't frenzied. They were* aware. *I don't know what that means yet and I don't want to find out and I think I'm going to have to."*
 
-### Chapter 26: "The Frequency"
+### Chapter 27: "The Frequency"
 Approaching the university, the group encounters something new: a sound. Low, rhythmic, almost subliminal — coming from the direction of the campus. The Turned seem agitated by it. They avoid it. For the first time, something is repelling them rather than attracting them.
 
 The sound, they will learn, is the radio woman's work — a frequency she reverse-engineered from the organism's own communication patterns. It disrupts the collective coordination of the Turned, breaking them back down to confused individuals. She found it by studying the organism's structure — which, she noted, responds to acoustic and electromagnetic stimuli in ways no terrestrial biology does.
@@ -757,24 +810,7 @@ This is the first hint that the pathogen is not from here. Not from a lab, not f
 
 The deeper implication, planted lightly for the series: if the organism communicates, if it coordinates, if it has something like a language — then it has something like an ecology. And ecologies can be understood. Maybe even negotiated with. But the emitter is a stopgap, not a solution, and the clock is already running. That's not a Book One question — but the ticking is audible.
 
-### Chapter 27: "Arrival"
-The group reaches the university. The radio woman — **Dr. Anya Moss** — is younger than they expected, maybe thirty, an epidemiologist who stayed when everyone else evacuated and has been running a skeleton research operation with three grad students and a janitor named Howard who refuses to leave because "someone's got to keep the lights on."
-
-Howard deserves more than a mention. He's the one who keeps the solar panels clean, patches the plumbing, fixes the speaker array when it blows a connection at 3 AM. He's in his sixties, speaks mostly in grunts and practical observations, and has the particular competence of a man who has spent thirty years maintaining a building and knows where every pipe runs and which breaker controls what. He and Marcus recognize each other instantly — two men who fix things, who find peace in the solving of mechanical problems, who would rather be useful than interesting. Howard becomes Marcus's immediate ally on campus, and their quiet partnership (fixing the truck, reinforcing the perimeter, rigging a rainwater collection system) is one of the few purely functional relationships in the book — no drama, no philosophy, just two guys who know which end of a wrench to hold. Howard also has a dry, devastating wit that surfaces without warning: when Dr. Moss explains the organism's extraterrestrial origin, Howard says, "Well, that explains the landscaping." He should recur in Book Two.
-
-The campus is a fragile haven: powered by solar panels (mostly consumed by the frequency emitter), protected by a perimeter that's shrinking week by week, stocked with medication that won't last forever. Dr. Moss has mapped the organism's genome (if you can call it that; the structure is only analogous to DNA) and nothing in it corresponds to any kingdom of terrestrial life. Not bacteria, not archaea, not viral. It's built on a biochemistry that's *adjacent* to Earth's — close enough to interact with human biology, different enough to be clearly foreign.
-
-"It's not from here," she tells Nate. Simply. No drama.
-
-Where it's from, she won't say — or can't. She has a theory, but she tells Nate she's not willing to broadcast speculation. "I know what it isn't," she says. "It isn't engineered, it isn't a weapon, and it isn't from any ecosystem on this planet. Beyond that, I'm still working."
-
-She hasn't shared even this conclusion publicly. "People need an enemy," she tells Nate. "They need someone to blame. Someone to beat. If I tell them there's no one — that this is just... contact? An accident? I don't think that's a thing most people can hear right now."
-
-Nate, who has spent the whole book watching people die because they couldn't accept how the world actually works, understands this better than she expects.
-
-(For the attentive reader: Dr. Moss has a printout pinned to her office wall showing orbital data for Comet C/2026 Voss, with dates circled and a handwritten note that reads "incubation window?" It's visible in a third-person interstitial scene but never explained. The comet connection is confirmed in Book Two.)
-
-The group is safe. For now.
+*Note: the planned Chapter 27 "Arrival" was folded into Ch26 ("The Herd") and Ch27 ("The Frequency") during drafting — the group crosses the rooted field, Moss meets them on the sidewalk, and the exposition happens in the seminar room the same night. Howard, Priya, the solar array, the shrinking perimeter and the pinned comet printout all survive the merge. The Howard/Marcus wrench-partnership described in the original entry did not get written and is still available.*
 
 ---
 
