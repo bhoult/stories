@@ -6096,7 +6096,61 @@ Ruth said it was not the beta-blockade.
 
 I have thought about it more than I have thought about almost anything, and here is where I have landed: they are both right and it does not matter which mechanism you name, because Jim held both of them in one hand for six weeks and never once asked me to choose, and it would be a poor way to remember him if I started choosing now.
 
-He talked, on and off. Not much and not always to us. He asked Ruth whether she'd finished the book with the Scottish duke in it and she said she had and it was terrible and he said good. He told Marcus to fix the truck. He said "Eleanor" once, twice, and then a third time in a completely different voice, and Ruth put her hand on his forehead and said "Not yet, Jim," and he said "No. All right."
+Mostly he prayed.
+
+I should have expected that and I did not, which tells you something about how much attention I had been paying for six weeks. He was a pastor for thirty years and a dying man for two hours and ten minutes, and he spent almost all of the second thing doing the first thing. He asked us to pray with him and then he did the praying himself, because he did not trust any of us to do it properly, and he was correct not to.
+
+Ruth prayed. Dale prayed, which I did not know he did. Caleb said amen at what he judged to be the right moments, which was most of them. Maria held Dale's hand and did not say anything and did not let go. Marcus stayed in the doorway with his arms at his sides and his head down, which I have decided is a kind of praying. Moss came in partway through and stopped just inside the door and stood there for the rest of it, and Howard came in behind her with his hat off.
+
+I did not pray. Jim knew I didn't. He never once asked me to and he never once made a face about it, in six weeks, which is more grace than I have been shown by people who wanted much less from me.
+
+Almost none of it was about himself.
+
+He prayed for Ruth, that the next part would be lighter than she was expecting. He prayed for Dale's hands and for Maria's arithmetic and for Marcus, by name, and for a nine-year-old girl in Tulsa he had never met — *and if she is there, Lord, let her be there* — and Marcus put his hand flat on the door frame and left it there.
+
+He prayed for Caleb, who was holding two of his fingers. He asked that the boy be allowed to be a child for some part of what was coming, and that whatever he had already seen be set down somewhere he could not reach it, and that somebody teach him what a father would have taught him. He did not say who. Everyone in that room heard the assignment.
+
+He prayed for Sienna. He asked that she be given something to run toward.
+
+And then he prayed for me, out loud, in front of all of them, and he did not soften it.
+
+"Lord, this boy has done a thing that is going to be on him the rest of his life. He did it with his eyes open. He worked it out on a hillside and he carried it out and he has not once tried to tell me it was clean." He had to stop for breath in the middle of it and he came back and kept going in the same voice. "I'm not going to ask You to tell him he was right, because he won't hear it from You any more than he'd hear it from me. I'm asking You to carry the part of it he can't. He is fifteen years old and he is going to have to do it again. Be with him when he does. And Lord — don't let him get good at it."
+
+There was a long silence in that room and it was not a comfortable one and nobody moved to end it.
+
+Then he said, "And forgive me. I sat on a hillside two hundred yards off and I prayed for the dead while other men did the thing that saved my life, and I have let myself believe those were two different acts." A pause. "They were not two different acts. They were never two different acts. I walked up that road on the ground they cleared for me."
+
+Ruth said, "Jim."
+
+"It's all right, Ruth. It's the last honest thing I've got and I'd like to spend it."
+
+---
+
+He quoted from memory, in pieces, the way you do when it has been in you for fifty years and you no longer need the book.
+
+*Peace I leave with you; my peace I give unto you. Let not your heart be troubled, neither let it be afraid.*
+
+He got to *neither let it be afraid* and stopped, and looked at me sideways, and said, "You'll notice." I said I noticed. He said, "Two thousand years, son. It's the same instruction. Everybody's been giving out the same instruction the whole time and it took an organism from a comet to make anybody listen."
+
+Later, when it was harder for him to talk: *For now we see through a glass, darkly; but then face to face: now I know in part.*
+
+He said that one to me directly, and I understood exactly what it was and exactly why he had chosen it, and I have thought about it every time I have opened the notebook since. He spent his last afternoon telling a boy who builds models that being wrong in part is the ordinary condition of a person, and that it is not a disqualification, and that you go on building anyway.
+
+And near the end, Ecclesiastes, which he had read to us in a church basement on the night before we left and which he clearly had opinions about: *a time to kill, and a time to heal; a time to break down, and a time to build up.*
+
+"I never liked that passage," he said. "Thirty years. I preached around it. I'd take the verses on either side of it." He was quiet for a while. "It's true, though. That's the trouble with it."
+
+---
+
+The rest was ordinary and I am glad of it.
+
+He asked Ruth whether she'd finished the book with the Scottish duke in it, and she said she had and it was terrible, and he said good. He told Marcus to fix the truck. He said something to Howard about a breaker panel that I did not follow and that Howard apparently did, because Howard nodded once and said, "I got it, preacher."
+
+He said "Eleanor" once, twice, and then a third time in a completely different voice, and Ruth put her hand on his forehead and said, "Not yet, Jim," and he said, "No. All right."
+
+Then, to the room, or to whatever was past the room:
+
+"It's going to come back. Not for us. Somebody's going to plant something and somebody's going to eat it and there'll be a fool arguing about a fence line inside of ten years." His eyes were closed by then. "Put that in the notebook. Not as a comfort. As a *forecast*."
 
 Near the end he said my name.
 
