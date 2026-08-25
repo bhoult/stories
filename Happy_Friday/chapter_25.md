@@ -28,13 +28,13 @@ I did neither thing. I put one foot in front of the other until the hospital was
 
 I did not run the distance.
 
-I run everything. I had the numbers. I had walked every one of those miles with a pack on. And I started the sum somewhere around the first mile marker and then I put it down, the way you put down a letter you already know the contents of, and I kept walking.
+I run everything. I had the numbers. I had walked every one of those miles with a pack on. And I started the sum somewhere around the first mile marker and then I put it down, like a letter whose contents you already know, and I kept walking.
 
 What I let myself have instead was the end of it. The lot, and one swing, and after the swing the bark: the short sharp call that turns every herder in earshot into a hunter. I'd written that down myself after Marcus killed Gary Sutton in a church parking lot with the same hatchet. *Every kill broadcasts your location.*
 
 One swing, and no arithmetic after that. It did not feel like a decision to die. It felt like the first errand in six weeks with a definite end.
 
-The highway at night was not dark the way I expected. The white lines held light better than anything else, so the road read as two pale stripes running away into nothing. I walked between them. The cold was in my face and the backs of my hands and nowhere else yet.
+The highway at night was not dark as I expected. The white lines held light better than anything else, so the road read as two pale stripes running away into nothing. I walked between them. The cold was in my face and the backs of my hands and nowhere else yet.
 
 I passed three of them at the second mile.
 
@@ -76,7 +76,7 @@ There was a second number underneath it. Whatever I did or failed to do, she was
 
 So I stayed where I was. And nothing came.
 
-I could sit on the center line of a dead highway at fifty-eight beats a minute and every one of them would walk past me until morning, the way they walked past Marcus for three days, because there was nothing left in me worth harvesting.
+I could sit on the center line of a dead highway at fifty-eight beats a minute and every one of them would walk past me until morning, as they had walked past Marcus for three days, because there was nothing left in me worth harvesting.
 
 It was the safest I'd been since October.
 
@@ -86,7 +86,7 @@ Same mechanism. Both times it made me invisible. The difference was that the fir
 
 And then the warmth came, and I was not surprised to feel it.
 
-It started in my chest, the way it had in the tank. Spreading, unhurried, not unpleasant. Something unclenching that I hadn't known was clenched. My jaw let go. The edges of me got soft: the name, the weight, the scar on my palm, the hatchet lying across my knees. All of it started to feel like things I was holding rather than things I was, and there was a surface somewhere out in the dark where I could set them down.
+It started in my chest, as it had in the tank. Spreading, unhurried, not unpleasant. Something unclenching that I hadn't known was clenched. My jaw let go. The edges of me got soft: the name, the weight, the scar on my palm, the hatchet lying across my knees. All of it started to feel like things I was holding rather than things I was, and there was a surface somewhere out in the dark where I could set them down.
 
 In the septic tank I put my hands into human waste and breathed it in to break this.
 

@@ -78,7 +78,7 @@ The north side was the same. More cars, more doors, more evidence. The roadblock
 
 And among the cars, around the compound, on both sides of the roadblock: the Turned.
 
-I counted from the hillside through the binoculars. The south side: approximately fifty, milling among the backed-up cars, drifting between open doors, sitting on hoods, standing at the guardrail looking at nothing. The north side: approximately fifty more, the same aimless drift, the same patient gravitational circling. Inside the compound itself: maybe thirty, wandering among the Humvees and the collapsed tent and the sandbag positions, drawn to the military infrastructure the way they were drawn to all human-built things.
+I counted from the hillside through the binoculars. The south side: approximately fifty, milling among the backed-up cars, drifting between open doors, sitting on hoods, standing at the guardrail looking at nothing. The north side: approximately fifty more, the same aimless drift, the same patient gravitational circling. Inside the compound itself: maybe thirty, wandering among the Humvees and the collapsed tent and the sandbag positions, drawn to the military infrastructure as they were drawn to all human-built things.
 
 A hundred and thirty. Maybe more. Three groups separated by the jersey barriers and the wire, each below frenzy threshold, each drifting in its own orbit. The terrain funneled them: the steep hillside on the right made climbing impractical, especially with shopping carts. The fifty-foot drop on the left, with the twisted guardrail and the semi wreckage, made that side impassable. The roadblock controlled the only viable passage.
 
@@ -227,9 +227,9 @@ I glanced at Sienna.
 
 She was already looking at me. Not the way she'd looked at me on the trail: the sidelong glances, the concern, the trying-to-read-him focus of a girl who cared about someone she couldn't quite reach. This was different. Her eyes were wide and wet and her mouth was open slightly and the expression on her face was one I will carry longer than the woman in the wire or the sound of bodies on rocks or anything else that happened on that hillside.
 
-Horror. And shame. Not her shame. Mine. She was looking at me the way you look at something you helped build and then watched become monstrous. She had argued against it and lost and stayed and watched because she wouldn't leave, and now she was seeing what the plan meant and what I meant: the fifteen-year-old who had borrowed a wolf-hunting technique and applied it to three hundred human beings and watched it work and felt something that was not horror.
+Horror. And shame. Not her shame. Mine. She was looking at me like something she'd helped build and then watched become monstrous. She had argued against it and lost and stayed and watched because she wouldn't leave, and now she was seeing what the plan meant and what I meant: the fifteen-year-old who had borrowed a wolf-hunting technique and applied it to three hundred human beings and watched it work and felt something that was not horror.
 
-She saw me notice. She turned away. Fast, deliberate, the way you turn from a car accident you've already seen too much of. She wiped her face with the back of her hand — quick, angry, the tears dealt with like an inconvenience — and she did not look at me again.
+She saw me notice. She turned away. Fast, deliberate, the turn you make from a car accident you've already seen too much of. She wiped her face with the back of her hand — quick, angry, the tears dealt with like an inconvenience — and she did not look at me again.
 
 Something broke.
 

@@ -15,7 +15,7 @@ I handed it over. She sat in her office: a small room off the main lab, cluttere
 
 She read for two hours. I sat in a chair across from her and watched her read and tried not to spiral, because the journal was the most honest thing I'd ever produced and I had no control over what she'd make of it.
 
-She turned pages. She made notes on a separate pad. Occasionally she looked up: not at me, at the wall, processing something, the way I processed things by staring at the ceiling of the trailer. Then back to the journal. Entry by entry. Mistake by mistake.
+She turned pages. She made notes on a separate pad. Occasionally she looked up: not at me, at the wall, processing something. I used to do that on the ceiling of the trailer. Then back to the journal. Entry by entry. Mistake by mistake.
 
 When she finished, she set the notebook on the desk and looked at me.
 

@@ -20,7 +20,7 @@ He found her a quarter mile south, sitting on the guardrail above the drainage d
 
 She heard him coming. She didn't turn.
 
-He sat on the guardrail beside her. Not close enough to crowd. Close enough to matter. He'd learned this from her. From the hours in the woods after the roadblock, from every time she'd walked near him on the trail without speaking, from the way she had sat down beside him on the center line of Highway 71 the night before, looked once at the hatchet across his knees, and then said nothing at all until he was ready to stand up. She had taught him what presence looked like. He was returning the lesson.
+He sat on the guardrail beside her. Not close enough to crowd. Close enough to matter. He'd learned this from her. From the hours in the woods after the roadblock, from every time she'd walked near him on the trail without speaking, from as she had sat down beside him on the center line of Highway 71 the night before, looked once at the hatchet across his knees, and then said nothing at all until he was ready to stand up. She had taught him what presence looked like. He was returning the lesson.
 
 They sat. The highway stretched south in the starlight: a gray ribbon between dark mountains, the abandoned cars like sleeping animals, the guardrail cold under their hands. Somewhere far to the south and then west, across mountains and rivers and the ruined infrastructure of a civilization that had stopped functioning six weeks ago, was Oklahoma City. Was a grandmother's house. Were two parents who had kissed their daughter on the forehead and said *lock the door* and driven into a night that never ended.
 
@@ -66,7 +66,7 @@ She was quiet for a long time. Then: "You sound like Jim."
 
 "Worse things to sound like."
 
-She leaned into him. Shoulder against shoulder, the guardrail cold beneath them, the stars turning overhead. Not a collapse: a leaning. The deliberate transfer of weight from one person to another, temporary and specific, the way you lean on a wall while you catch your breath before running again.
+She leaned into him. Shoulder against shoulder, the guardrail cold beneath them, the stars turning overhead. Not a collapse: a leaning. The deliberate transfer of weight from one person to another, temporary and specific, a lean against a wall while you catch your breath before running again.
 
 He let her lean. He held still the way she'd held still in the woods after the roadblock. Present, patient, refusing to fix what couldn't be fixed. Being there. That was all. Being there was the whole thing.
 

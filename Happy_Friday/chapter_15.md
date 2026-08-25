@@ -98,7 +98,7 @@ It pulled one more away. Three still on her.
 
 She ran.
 
-She ran the way she was built to run. Long stride, balanced, the biomechanics of a girl who'd trained for the 400-meter since she was twelve. Even carrying a child, even with the wrong shoes and the cracked asphalt and the block of residential street between her and safety, she was fast.
+She ran as she was built to run. Long stride, balanced, the biomechanics of a girl who'd trained for the 400-meter since she was twelve. Even carrying a child, even with the wrong shoes and the cracked asphalt and the block of residential street between her and safety, she was fast.
 
 Through the binoculars I watched her face. Her mouth was open. Her chest was heaving. And her expression was the thing I'd been afraid of, something beyond fear, her body doing exactly what the organism needed. I could see the flush climbing her neck and her jawline, the exertion and the adrenaline merging into a single biochemical signal, and the Turned behind her were closing: more of them now, emerging from between houses, drawn by the crying and the scent of terror, five, six, seven. The distraction had bought her time but the child's screaming was louder than anything Marcus and Dale could make, and every Turned in a two-block radius was orienting toward it.
 
@@ -134,7 +134,7 @@ I came downstairs.
 
 Sienna was on the basement floor. Ruth had a blanket over her. The child — later we'd learn his name was Caleb, Caleb Reeves, seven years old, from the yellow house on Birch, parents gone since Day 2 — was in Maria's arms, not Jim's. That was the first thing I noticed. The second thing was the bruise.
 
-It was on Sienna's left jaw, below the ear. Fresh: the skin darkening from red to purple, the swelling just starting. The kind of bruise that comes from a closed fist, not a fall. I looked at it and then I looked at Jim and Jim was sitting in a pew with his hands between his knees, staring at the floor, and his right hand was wrapped in a wet cloth and he was holding it the way you hold something that has betrayed you.
+It was on Sienna's left jaw, below the ear. Fresh: the skin darkening from red to purple, the swelling just starting. The kind of bruise that comes from a closed fist, not a fall. I looked at it and then I looked at Jim and Jim was sitting in a pew with his hands between his knees, staring at the floor, and his right hand was wrapped in a wet cloth and he was holding it like something that had betrayed him.
 
 Dale told me later. In pieces, the way Dale told everything. Carved out slowly, the details emerging one at a time.
 
@@ -158,7 +158,7 @@ She'd looked at him for a long time. Then she'd said, "Good."
 
 That was it. Good. The word of a person who understood exactly what had almost happened and who was grateful to be conscious and bruised and alive and still herself, and who knew that Jim had done the hardest thing anyone had done since the world ended: not the punch, which was mechanics, but the decision.
 
-Jim was still in the pew. He didn't look up. Ruth was beside him but not touching him. Present, not intruding. The group had rearranged itself around the event the way water rearranges around a stone: Dale carving, Maria counting, Ruth attending, Jim sitting with the weight of what saving someone cost when saving them looked like violence.
+Jim was still in the pew. He didn't look up. Ruth was beside him but not touching him. Present, not intruding. The group had rearranged itself around the event as water rearranges around a stone: Dale carving, Maria counting, Ruth attending, Jim sitting with the weight of what saving someone cost when saving them looked like violence.
 
 Sienna's hands were shaking. Not the small tremor Marcus had shown during the pharmacy run: a full-body vibration, deep, the kind that starts in the core and radiates outward. She was wrapped in the blanket and shaking inside it and her eyes were closed and her face was wet and the bruise on her jaw was a dark purple now, vivid against her brown skin, and she was breathing in the pattern Jim had taught, four in, hold, six out, but the pattern was ragged, broken by the shaking, the breathing of a person who was holding herself together with technique because everything else had failed.
 
@@ -254,7 +254,7 @@ The next morning Ruth brought me tea. Chamomile, from a box she'd found in the c
 
 She sipped her tea.
 
-"The worst part isn't seeing him. The worst part is that I'm *relieved* he's already dead." She said this calmly, the way she said everything. With the precision of a woman who'd spent thirty-nine years choosing words for a living. "He died in 2019. Heart attack on a job site. And every night I dream that he's turned, and every night I wake up relieved that the heart attack got him first, and the relief is. It's obscene, Nate. Being grateful that your husband died before the world ended. Being grateful that he's in a cemetery and not standing in a parking lot with a smooth face."
+"The worst part isn't seeing him. The worst part is that I'm *relieved* he's already dead." She said it with the precision of a woman who'd spent thirty-nine years choosing words for a living. "He died in 2019. Heart attack on a job site. And every night I dream that he's turned, and every night I wake up relieved that the heart attack got him first, and the relief is. It's obscene, Nate. Being grateful that your husband died before the world ended. Being grateful that he's in a cemetery and not standing in a parking lot with a smooth face."
 
 She set her cup down.
 

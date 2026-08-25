@@ -68,9 +68,14 @@ None of this requires re-conceiving anything. Estimated work: a hard continuity 
 
 **Tier 5: partially done.** The four back-half justifying clauses are cut (§8.2b), and the decay curve now reads **2.1 / 0.4 / 0.0 / 0.0** per 10k across the four acts — the shape the voice needed.
 
+**§8.2 item 35 — done manually.** My earlier counts were wrong: the simile frame ran **228 times**, not 62, and the not-X-but-Y construction **20 times**, not 12. Worked through instance by instance:
+
+- **Simile frame 228 → 173 (−24%).** Cut outright where the construction was circular (*"crouched the way you'd crouch"*), generic (*"the way you feel a storm"*), or duplicated another instance (Maria and Moss both "said this the way you'd read/describe a…, Factual"). Converted backward-references to *as* (*"the way it had in the tank"* → *"as it had"*), since those were never similes. **Most of the remainder are good similes, so the fix was to vary the frame rather than delete the image** — *"using her voice the way you'd use a key against a lock"* → *"like a key against a lock."* Every image survives; the frame carrying them no longer does all the work.
+- **Not-X-but-Y 20 → 14 (−30%).** The line through them: it earns its place describing the world (*"They weren't statues. They were organisms with needs"*; *"She is not alive. She is not dead. She is standing"*) and goes formulaic explaining a character's interior (*"He wasn't offended. He was noting a gap"*). Varied only the latter.
+
 **Tier 5 items NOT done, deliberately:**
 - **Em-dash reduction.** Attempted programmatically and reverted. The transformation replaced dashes with commas and left the spacing, producing `items , jerky, nuts ... dried fruit , were` — and even where it worked mechanically, converting an em-dash parenthetical to commas inside a sentence that already has commas made the prose worse, not tighter. Rate stands at 15.7/1k. **This is a human line-edit, not a find-and-replace.**
-- **"It wasn't X. It was Y."** (12 remaining) and **"the way a/you…"** (62). Each needs to be judged in place; several are load-bearing.
+- ~~**"It wasn't X. It was Y."** and **"the way a/you…"**~~ **Done — see below.**
 - **Chapter-ending cadence** and **pushing the voice toward the Civ-VI register.** Not mechanizable.
 
 **Deferred from Tier 2, needs a decision:** §2.2 (Ch2 narrating Ch3's green-tomato woman and laundry-building strangers before they appear) and §2.3 (Ch3 and Ch4 both narrating the night of Day 2). Both are prose restructuring rather than mechanical fixes and were left alone. Note that §1.2's month sweep is now the largest remaining continuity item, and the date anchor change locks it in — with Day 0 on Oct 23, the book crosses into **December at Day 39**.

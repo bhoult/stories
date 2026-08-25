@@ -228,7 +228,7 @@ I saw the shift.
 
 It happened in the Turned's eyes first: a snap, like a lens focusing. The vacant drift locked onto Marcus with a precision that hadn't been there a second ago. Then the body changed. Blue Polo dropped into a crouch so fast it looked like his strings had been cut, but it wasn't a collapse. It was a coil. Low, weight on the balls of his feet, knees bent, and his hands came up. Fingers spread. Curled. Not fists. Claws, the fingers hooked and rigid, the posture of something that had hunted before on worlds that weren't this one.
 
-The smile was gone. What replaced it was *hunger.* A focused, predatory stare that tracked Marcus the way a cat tracks a bird through glass. The face wasn't vacant anymore. It was *intent* — every muscle taut, the jaw slightly open, the eyes locked and unblinking and radiating something older than human expression had words for.
+The smile was gone. What replaced it was *hunger.* A focused, predatory stare that tracked Marcus like a cat tracking a bird through glass. The face wasn't vacant anymore. It was *intent* — every muscle taut, the jaw slightly open, the eyes locked and unblinking and radiating something older than human expression had words for.
 
 Blue Polo rose onto his toes. And he began to move.
 

@@ -94,7 +94,7 @@ I need to explain what this meant because "decided to go" sounds small and it wa
 
 And every time someone suggested I do more, I had the same ready answer: *I'm fifteen. I weigh a hundred and eighty pounds. I'm the strategy kid, not the action kid.* It came out as humor. It sounded like self-awareness. It was the most comfortable lie I owned: the one that said my limitations were fixed properties, like height or eye color, rather than choices I was making every day.
 
-The Moss broadcast changed things. She'd confirmed the density threshold. She'd said fortification was a countdown. The Lyles' perimeter was at twenty-seven Turned, I'd counted that morning, and the behavior was changing. More restless. More circling. The patient herding was giving way to something tighter, more compressed, and I could feel the threshold approaching the way you feel a storm.
+The Moss broadcast changed things. She'd confirmed the density threshold. She'd said fortification was a countdown. The Lyles' perimeter was at twenty-seven Turned, I'd counted that morning, and the behavior was changing. More restless. More circling. The patient herding was giving way to something tighter, more compressed, and I could feel the threshold approaching.
 
 Jim had tried and failed. Marcus had tried and failed. They'd tried as adults, with authority and diplomacy, and Craig had listened respectfully and dismissed them because his mental model was stronger than their words. But Jim and Marcus didn't have the data. They had a principle, stay calm, and a principle without evidence is just an opinion, and Craig Lyle had plenty of opinions of his own.
 
@@ -170,7 +170,7 @@ Turned were visible. I counted nine in the yard and the road directly out front,
 
 I knocked on the door. The plywood vibrated.
 
-The door opened six inches, chain still on. A face appeared: a woman, mid-forties, alert eyes. Tammy Lyle. She looked at me the way you'd look at a stray dog on your porch: not hostile, but confused.
+The door opened six inches, chain still on. A face appeared: a woman, mid-forties, alert eyes. Tammy Lyle. She looked at me like a stray dog on her porch: not hostile, but confused.
 
 "Who are you?"
 
@@ -254,7 +254,7 @@ Craig's jaw tightened. He turned to me fully.
 
 "And if it doesn't drop? If they stay? If more come anyway? Then I've given up my power and my light and my ability to defend my family and I'm sitting in the dark with nothing. Is that what you're recommending?"
 
-Brett racked the shotgun's slide: not loading it, just cycling the action, the mechanical sound of a statement being made. "This is the kid from the trailer park. The one who plays video games." He said "video games" the way you'd say "finger-painting." "He's here to tell us how to survive? Dad, come on."
+Brett racked the shotgun's slide: not loading it, just cycling the action, the mechanical sound of a statement being made. "This is the kid from the trailer park. The one who plays video games." He said "video games" as one says "finger-painting." "He's here to tell us how to survive? Dad, come on."
 
 I looked at Brett. He was everything the apocalypse was supposed to reward: strong, brave, young, capable. He could run faster than me, fight harder, lift more, endure more. In every survival scenario except this one, Brett Lyle would outlive me by decades. In this one, his strengths were the mechanism of his destruction.
 

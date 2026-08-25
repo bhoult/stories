@@ -60,7 +60,7 @@ The lot across from his: empty. The Garcias' truck was gone. They'd left, or the
 
 I stood at the window and catalogued all of this without knowing I was cataloguing it. In *Civ*, the beginning of every playthrough is the same: you have one settler, one warrior, and a circle of visible terrain surrounded by fog of war. Everything outside that circle is unknown. The first thing you do — always, before you build, before you commit to anything — is remove the fog. You explore. You figure out what's around you. Because committing before you understand the map is how you lose the game in fifty turns.
 
-I wasn't consciously applying this. I was eating cereal and looking out a window. But part of me was already doing it: noting anomalies, filing them, building a picture from fragments the way I always do when I'm paying attention. The fog was pulling back, and what was underneath was very wrong, and I was the only one looking.
+I wasn't consciously applying this. I was eating cereal and looking out a window. But part of me was already doing it: noting anomalies, filing them, building a picture from fragments. The fog was pulling back, and what was underneath was very wrong, and I was the only one looking.
 
 My lower back was killing me. I'd been standing at the window for over an hour, which doesn't sound like much except that I weigh a hundred and eighty pounds and my body is not designed for sustained anything: not standing, not walking, not sitting in one position. I shifted. I leaned against the counter.
 
@@ -84,7 +84,7 @@ And there was the thought I wasn't letting myself think. The one that sat at the
 
 She was probably one of them. The math said so. An ER nurse on the night it started, in the building that was already on diversion before midnight. Probably.
 
-But probably isn't certainly. And I held onto that gap — the space between "probably" and "definitely" — the way you hold onto a ledge when you can feel your fingers slipping. She could have gotten out. She could have locked herself in a supply closet. She was smart and she was calm and she'd spent four years managing emergencies in that building and she knew every exit and every closet and every room with a lock. She could have made it. I didn't believe she had. But I hadn't seen her turn, and until I saw it, the door stayed open. A crack. Enough to breathe through.
+But probably isn't certainly. And I held onto that gap — the space between "probably" and "definitely" — like a ledge with my fingers slipping off it. She could have gotten out. She could have locked herself in a supply closet. She was smart and she was calm and she'd spent four years managing emergencies in that building and she knew every exit and every closet and every room with a lock. She could have made it. I didn't believe she had. But I hadn't seen her turn, and until I saw it, the door stayed open. A crack. Enough to breathe through.
 
 I tried her one more time. Voicemail.
 

@@ -14,7 +14,7 @@ She paused. I could hear her turning a page.
 
 "I want to address a misconception that may be costing lives. Many survivor groups have adopted a fortification strategy, boarding windows, arming perimeters, concentrating in defensible positions. This strategy is counterproductive. The organism's collective behavior is drawn to human activity. Noise, light, electromagnetic output, and particularly the biochemical signatures of stress: all of these attract the Turned. Fortification concentrates these signals. Every defended position I have observed or received reports about has followed the same trajectory: the defenses attract Turned, the Turned accumulate, and when the local density exceeds a critical threshold, what I'm calling the density threshold, the collective behavior destabilizes."
 
-She said this the way you'd describe a chemical reaction. Factual, measured, the voice of a scientist reading from data.
+She said it the way a scientist reads from data. Measured, and entirely without opinion.
 
 "Below the threshold, the Turned exhibit patient herding behavior. Targeted social manipulation. Voice mimicry. They are coordinated, strategic, and nonviolent. Above the threshold, the coordination collapses into undirected destruction. The patient predator becomes a demolition event. The threshold varies. I do not yet have reliable numbers, and I want to stress that I do not have reliable numbers, because giving you a number that's wrong could get you killed. What I can tell you is that the threshold appears to depend on spatial density, not raw count. Thirty Turned spread across a square mile are below threshold. Thirty in a parking lot may not be."
 
@@ -40,7 +40,7 @@ Jim broke it. "She didn't mention God."
 
 "She's a scientist," I said.
 
-"I noticed." He wasn't offended. He was noting a gap, something missing from her framework, the way a builder checks for a foundation. "Scientists describe what's happening. They don't always describe what it means."
+"I noticed." Not offended — noting a gap, something missing from her framework, the way a builder checks for a foundation. "Scientists describe what's happening. They don't always describe what it means."
 
 "Maybe what it means is what's happening. Maybe there isn't a layer underneath."
 
@@ -118,7 +118,7 @@ The oatmeal got very quiet.
 
 "The mechanism is fear," I said. "Adrenaline, cortisol, sustained sympathetic activation. Nightmares produce all of those. We're sleeping six feet apart in a basement. If someone crosses the threshold in their sleep —"
 
-"They wake up Turned," Dale said. His voice was flat. He wasn't speculating. He was running the scenario the way a man in recovery runs relapse scenarios: not *if* but *when.*
+"They wake up Turned," Dale said. His voice was flat. He had already run the scenario, the way a man in recovery runs relapse scenarios: not *if* but *when.*
 
 "Would we know?" Ruth asked. Her hands were steady on her coffee mug but her knuckles were white. "If someone turned in their sleep. Would we know immediately, or would they — would the organism —"
 

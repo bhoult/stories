@@ -24,7 +24,7 @@ We reached Highway 21. Asphalt empty in both directions. Crossed. Past the churc
 
 **KEEP CALM. COME INSIDE. DON'T RUN.**
 
-Jim had placed it to be visible from the road. He'd thought about the angle, the letter size, the window height. Placed it the way you place a lighthouse, to catch people at the moment they most need direction. I don't know how many people that sign saved. I know it saved us, and I hadn't even consciously registered reading it from the trailer park until this moment, standing in the parking lot, seeing it from the intended distance.
+Jim had placed it to be visible from the road. He'd thought about the angle, the letter size, the window height. Placed it like a lighthouse, to catch people at the moment they most need direction. I don't know how many people that sign saved. I know it saved us, and I hadn't even consciously registered reading it from the trailer park until this moment, standing in the parking lot, seeing it from the intended distance.
 
 The side door opened before we reached it. Jim Whittaker — big man gone thin, seventy-three, white hair cropped military-short, flannel and khakis — held the door open and didn't speak until we were inside and the bolt was thrown.
 

@@ -123,7 +123,7 @@ Maria finished the closet. I noticed she'd arranged it so the heavy items — ca
 
 "How long will this last?" I asked. Meaning the food.
 
-"Sixteen days at current rationing. Twenty if we cut portions. Less if more people arrive." She said this the way you'd read a weather forecast. Factual, without opinion.
+"Sixteen days at current rationing. Twenty if we cut portions. Less if more people arrive." She said it like a weather forecast. Factual, without opinion.
 
 "More people will arrive."
 

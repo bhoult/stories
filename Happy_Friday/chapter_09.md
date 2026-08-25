@@ -30,7 +30,7 @@ Dale, carving in his corner, said nothing. But I saw his jaw tighten.
 
 ---
 
-The CB radio was a Cobra 29 in a carrying case with an external antenna. Marcus set it on a folding table and powered it on and the static filled the room: the white noise of a spectrum that used to carry a thousand conversations. We gathered around it the way people in another century would have gathered around a fire.
+The CB radio was a Cobra 29 in a carrying case with an external antenna. Marcus set it on a folding table and powered it on and the static filled the room: the white noise of a spectrum that used to carry a thousand conversations. We gathered around it as people in another century gathered around a fire.
 
 Marcus scanned. Most channels dead. Channel 9, emergency, carried a faint automated loop:
 
@@ -227,7 +227,7 @@ Jim said nothing for a long time. When he spoke, it wasn't agreement.
 
 "Or we stay," he said. "We know this building. We know the area. The church has walls, a basement, a steeple for observation. We could plant in the spring. There's a garden plot behind the fellowship hall, good soil. We could scavenge further out as the Turned thin. Hunt. There's deer in those woods, turkey, squirrel. We could find a more defensible position if we need to: the old bank on Main Street has a vault, concrete walls, one entrance. We could build a fence. A real perimeter."
 
-He wasn't being naive. He was being a pastor: a man whose identity was rooted in a place and a purpose, being asked to abandon both. The church was his. The sign in the window was his. Every person in this basement was alive because Jim Whittaker had put a sign in a window, and now a voice on a radio was telling him the window didn't matter.
+It wasn't naivety. Jim was a pastor, a man whose identity was rooted in a place and a purpose, being asked to abandon both. The church was his. The sign in the window was his. Every person in this basement was alive because Jim Whittaker had put a sign in a window, and now a voice on a radio was telling him the window didn't matter.
 
 "Jim," I said. "The density is climbing. Whatever Moss is warning us about —"
 

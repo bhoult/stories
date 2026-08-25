@@ -20,7 +20,7 @@ I ate cereal. I went to the window.
 
 Mr. Pembrook was in the same spot. I don't mean he'd gone inside and come back out. I mean he had been standing in the gravel between his unit and the next one, in his open bathrobe, in the same position, for what was now approaching twenty hours. A human being does not stand in one place for twenty hours. I knew this. My brain tagged it and filed it in the box where I was keeping things that didn't make sense yet.
 
-The park had changed overnight. Two more figures had appeared. Strangers, nobody I recognized, standing near the laundry building at the park entrance. Same posture as Pembrook: still, hands at sides, facing inward. They'd come from Highway 21, maybe, drawn to the park the way water is drawn to low ground. Three of them now, spaced across the park in a triangle that I didn't recognize as geometry yet but that some part of my brain was already noting.
+The park had changed overnight. Two more figures had appeared. Strangers, nobody I recognized, standing near the laundry building at the park entrance. Same posture as Pembrook: still, hands at sides, facing inward. They'd come from Highway 21, maybe, drawn to the park as water is drawn to low ground. Three of them now, spaced across the park in a triangle that I didn't recognize as geometry yet but that some part of my brain was already noting.
 
 I had my mom's bird-watching binoculars. She'd bought them three years ago during a brief and unsuccessful attempt to develop a hobby that wasn't work. They were good binoculars — 10x42, the kind that pull in a lot of light — and through them I could see details.
 
@@ -36,7 +36,7 @@ I was removing the fog of war. I didn't like what was underneath.
 
 I panned the binoculars across the park. Slow. Methodical. Taking inventory.
 
-One of the strangers by the laundry building had moved. Not far. She'd drifted maybe twenty feet toward the Garcias' empty trailer, and she was crouched. Not sitting. Crouched, the way you'd crouch to look at something on the ground. I focused.
+One of the strangers by the laundry building had moved. Not far. She'd drifted maybe twenty feet toward the Garcias' empty trailer, and she was crouched. Not sitting. Crouched low over something on the ground. I focused.
 
 She was eating.
 
@@ -142,7 +142,7 @@ And then the grin.
 
 It spread across Lisa Anderson's face the same way it had spread across Pembrook's. Too wide, too many teeth. It lasted maybe thirty seconds. Her eyes wide and fixed, her mouth stretched into something that looked like ecstasy if you'd never seen ecstasy. Then it faded. The grin receded to a flat line, then past it, to nothing.
 
-Lisa Anderson straightened up. As I watched, her hand drifted to the collar of her pajama top and tugged: a small, absent gesture, the way you'd loosen a tie that was too tight. The top slid off one shoulder. She didn't fix it. She walked, calmly, steadily, barefoot on the gravel, and left small red prints behind her. Her feet were cut from the running, torn on the rocks and broken glass she'd crossed at full sprint thirty seconds ago. She didn't notice. She didn't limp. The blood was just a fact about the gravel now, and she walked to where the nearest group of Turned was standing. She joined them. They reoriented. They faced the drive. After a minute the others drifted back to their positions, and the park was still again, and Lisa Anderson was standing in a lot in pajama pants and bare feet and the phone she'd dropped was still lying in the gravel by her front door, screen cracked.
+Lisa Anderson straightened up. As I watched, her hand drifted to the collar of her pajama top and tugged: a small, absent gesture, like loosening a tie that was too tight. The top slid off one shoulder. She didn't fix it. She walked, calmly, steadily, barefoot on the gravel, and left small red prints behind her. Her feet were cut from the running, torn on the rocks and broken glass she'd crossed at full sprint thirty seconds ago. She didn't notice. She didn't limp. The blood was just a fact about the gravel now, and she walked to where the nearest group of Turned was standing. She joined them. They reoriented. They faced the drive. After a minute the others drifted back to their positions, and the park was still again, and Lisa Anderson was standing in a lot in pajama pants and bare feet and the phone she'd dropped was still lying in the gravel by her front door, screen cracked.
 
 It rang.
 

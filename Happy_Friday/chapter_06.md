@@ -112,7 +112,7 @@ She told me about the soldiers. I wanted to hear this. Part of me, the part stil
 
 "Six Humvees, two trucks. They set up at the interchange. Floodlights, barriers. Maybe forty soldiers."
 
-Her hands were on the counter. I noticed they were shaking. This wasn't analysis anymore. This was memory costing her something.
+Her hands were on the counter. I noticed they were shaking. She had stopped analyzing. This was memory, and it was costing her.
 
 "They engaged. Short bursts, disciplined. The Turned kept coming. You can hit one and it flinches and keeps walking. But the shooting was turning the soldiers. One dropped his weapon and stood there. Then another. Then three more. The combat was spiking their stress past whatever the line is, and the more they fought, the faster they crossed it. Twenty minutes. Forty soldiers. Gone."
 

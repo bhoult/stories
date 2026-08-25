@@ -188,7 +188,7 @@ Near the end he said my name.
 
 Which is, I am fairly sure, the funniest thing anyone has ever said to me, and I laughed, in that room, on that afternoon, with my hand on a dying man's arm, and Ruth laughed, and Marcus made a sound in the doorway, and Jim looked pleased with himself in a way I will keep.
 
-He went at six-eleven in the evening. Quietly, the way you'd hope. Ruth had his hand and Caleb had his fingers and Dale was standing behind Ruth with his hands on her shoulders and Marcus had not moved from the doorway in two hours.
+He went at six-eleven in the evening, quietly. Ruth had his hand and Caleb had his fingers and Dale was standing behind Ruth with his hands on her shoulders and Marcus had not moved from the doorway in two hours.
 
 We waited another forty minutes after he stopped breathing, because that was in the instructions too. *Wait.*
 
@@ -214,7 +214,7 @@ Maria did not count anything for two days, which frightened me more than the fun
 
 ---
 
-I had the last watch that night, sitting on the steps of the science building where Jim used to sit with Caleb, and I did not write anything, and the emitter hummed in the walls behind me the way it always does.
+I had the last watch that night, sitting on the steps of the science building where Jim used to sit with Caleb, and I did not write anything, and the emitter hummed in the walls behind me, as always.
 
 Six weeks ago a man put a piece of cardboard in a church window that said KEEP CALM. COME INSIDE. DON'T RUN, and set it at the angle where a driver on Highway 21 would catch it, and made coffee for everyone who came through the door so he could watch their hands. Everything I have — Sienna, Ruth, Marcus, Dale, Maria, Caleb, the notebook, the whole of it — comes down through that sign. I did not build any of this. I inherited it from a seventy-three-year-old pastor with a bad heart who was wrong about the mechanism from the first day to the last and right about every single thing that mattered.
 

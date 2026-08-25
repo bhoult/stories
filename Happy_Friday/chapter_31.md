@@ -60,11 +60,11 @@ Sienna and I looked at each other. Not sadness, something closer to jealousy. Hi
 
 Running laps around the campus track: the university's outdoor oval, four hundred meters, visible from the science building's second floor. I watched her from the window. She ran in the mornings, alone, controlled, her breathing measured. She ran the way she'd trained before. Stride long, arms pumping, the biomechanics of a state-qualifier in the 400-meter. But different. Slower. More deliberate. She was testing her limits, finding the line between exertion and activation, reclaiming the thing the organism had tried to take from her.
 
-I watched her run laps and I thought about the edge: the dissolving she'd described, the warmth, the invitation to stop being yourself. She was running toward it now, then turning back, then toward it again. Each lap a calibration, each recovery a data point. She was building a map of her own threshold the way I'd built a map of the Turned's behavior. By observation, by iteration, by the willingness to approach the dangerous thing and document what you found.
+I watched her run laps and I thought about the edge: the dissolving she'd described, the warmth, the invitation to stop being yourself. She was running toward it now, then turning back, then toward it again. Each lap a calibration, each recovery a data point. She was building a map of her own threshold as I'd built one of the Turned's behavior. By observation, by iteration, by the willingness to approach the dangerous thing and document what you found.
 
 She caught me watching once. Looked up at the window. I didn't look away. She didn't wave. The not-waving said enough. That the watching and the running were connected, that we were both working on the same thing: staying human in a world that was making it more expensive every day.
 
-**Me.** I was different and I didn't know how. I'd lost weight. Fifteen pounds, maybe, the walk stripping the excess the way water strips loose soil. My face looked different in the bathroom mirror of the dormitory. Sharper, older, the softness replaced by something that wasn't hardness exactly but was adjacent to it. I was talking more. Deciding more. Standing in rooms where people looked at me as if I had answers, and sometimes I did and sometimes I didn't and the gap between those two states was closing.
+**Me.** I was different and I didn't know how. I'd lost weight. Fifteen pounds, maybe, the walk stripping the excess as water strips loose soil. My face looked different in the bathroom mirror of the dormitory. Sharper, older, the softness replaced by something that wasn't hardness exactly but was adjacent to it. I was talking more. Deciding more. Standing in rooms where people looked at me as if I had answers, and sometimes I did and sometimes I didn't and the gap between those two states was closing.
 
 I was not a hero. I was a fifteen-year-old with a responsibility I didn't want and a grief I couldn't process, dealing with both the only way I knew how: writing them down and trying to figure out what they meant.
 
@@ -90,7 +90,7 @@ On the third night, the machinery stopped again. The emitter kept the Turned at 
 
 I was in the dormitory bathroom brushing my teeth and I looked up and saw my mother's jaw in my jaw and the machinery just. Stopped. Like someone had pulled a plug. I stood there with the toothbrush in my mouth and I couldn't move and I couldn't think and the fluorescent light buzzed and I was gone for. I don't know. Minutes. Long enough for the water to run cold.
 
-I came back. The machinery restarted, rough, the way it had restarted on Day 41. I spat. I rinsed. I went to bed and lay in the dark with the blood pressure cuff on my wrist and counted the ceiling tiles and didn't sleep.
+I came back. The machinery restarted, rough, as it had restarted on Day 41. I spat. I rinsed. I went to bed and lay in the dark with the blood pressure cuff on my wrist and counted the ceiling tiles and didn't sleep.
 
 In the morning I was functional. Not recovered. I don't think that word applies anymore. Functional the way a cracked engine block is functional: it runs, it moves the vehicle, and somewhere inside it a fracture is propagating slowly and you drive anyway because the alternative is standing still. I was learning that recovery isn't a line trending upward. It's a line that drops without warning, recovers most of what it lost, drops again, recovers slightly less. The trajectory is upward if you stand far enough back. From inside, it feels like falling with pauses.
 
@@ -176,7 +176,7 @@ She leaned her head against the wall. We sat in the hallway and didn't talk for 
 
 "Because the people listening are alone. They've been alone for weeks. They're in their houses and their trailers and their basements and they haven't talked to anyone and they're running out of food and hope and they need to know that it's possible to sit in a kitchen with another person and drink something terrible and talk about your family and have it be. Enough. Not a solution. Not a strategy. Just enough."
 
-I looked at her. She looked at me. The hallway was empty and the emitter hummed and downstairs Caleb laughed again and Sienna's eyes were steady and certain and she was right, the way she was always right about the things that mattered, which were never the things I thought mattered.
+I looked at her. She looked at me. The hallway was empty and the emitter hummed and downstairs Caleb laughed again and Sienna's eyes were steady and certain and she was right, as she always was about the things that mattered, which were never the things I thought mattered.
 
 "Okay," I said. "I'll tell them about the Nesquik."
 

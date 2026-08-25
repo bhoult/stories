@@ -88,7 +88,7 @@ He assigned them personalities. Steggy was scared of heights. Rex was brave but 
 
 Dale, walking beside him, shaking, withdrawing, carving a fox from cedar with hands that wouldn't stay still. Dale listened to every word and didn't say anything because he understood that the boy was doing the same thing he was doing with the knife. Holding something. Making it matter. Keeping his hands busy so the rest of him could survive the walk.
 
-Dale's hands were shaking. Not the cold: the Suboxone. He'd taken his last dose that morning. The withdrawal wouldn't hit fully for another twelve to twenty-four hours, but the edge of it was there: a tremor in the fingers, a tightness in the jaw. He carved as he walked, and the carving was a little rougher than usual, the strokes a little less controlled, and I watched him the way I watched everything: from behind, measuring, cataloguing, unable to help.
+Dale's hands were shaking. Not the cold: the Suboxone. He'd taken his last dose that morning. The withdrawal wouldn't hit fully for another twelve to twenty-four hours, but the edge of it was there: a tremor in the fingers, a tightness in the jaw. He carved as he walked, and the carving was a little rougher than usual, the strokes a little less controlled, and I watched him from behind, measuring, cataloguing, unable to help.
 
 ---
 
@@ -102,7 +102,7 @@ We made the ridgeline by late afternoon. Seven hours for three miles. In the old
 
 The ridgeline opened up. The trail ran along the spine of the ridge, sandstone outcrops on both sides, the forest canopy thinning to let the sky through. And the sky was. I don't have the word. I'd been looking at sky through steeple louvers and kitchen windows for three weeks. This was sky without a frame. Huge and blue and cold, the late-autumn clarity that comes to the Ozarks in November when the humidity dies and the air turns to glass.
 
-To the east, the river valley spread out below us. Thirty miles of lowland, the river a silver thread, the towns invisible at this distance but present as smudges of grey where the roads converged. Down there, the world was ending. From up here, you couldn't tell. The valley looked the way it had looked for ten thousand years: patient, indifferent, the land not caring what happened on its surface.
+To the east, the river valley spread out below us. Thirty miles of lowland, the river a silver thread, the towns invisible at this distance but present as smudges of grey where the roads converged. Down there, the world was ending. From up here, you couldn't tell. The valley looked as it had looked for ten thousand years: patient, indifferent, the land not caring what happened on its surface.
 
 To the west, more ridgelines. Rolling, forested, extending to the horizon in diminishing blue layers like a painting of itself. The OHT ran along those ridgelines. We could see the next rise, and the one after that, and the one after that, each one a day's walk, each one a promise and a threat.
 

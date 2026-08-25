@@ -18,7 +18,7 @@ And me. At the end of the table with the notebook and a pen and the binoculars h
 
 Jim's jaw tightened. 
 
-I opened the notebook. I'd prepared for this. Drawn a diagram, assembled the observations, organized the argument the way you'd organize a presentation. Persuading people to leave the only safe place they'd known for three weeks required data.
+I opened the notebook. I'd prepared for this. Drawn a diagram, assembled the observations, organized the argument like a presentation. Persuading people to leave the only safe place they'd known for three weeks required data.
 
 "Four things have changed since the Lyles fell."
 
@@ -150,7 +150,7 @@ Jim's face went still. The expression of a man who has been told a true thing he
 
 Jim sat very still. The basement was silent. Ruth's hand was on the table near his, not touching, present.
 
-"I know," Jim said. And the two words cost him something I could see: a sagging, the weight of a concession that contradicted thirty years of pastoral conviction. He wasn't surrendering his faith. He was surrendering the part that said staying was the same as caring.
+"I know," Jim said. And the two words cost him something I could see: a sagging, the weight of a concession that contradicted thirty years of pastoral conviction. He hadn't surrendered his faith, only the part of it that said staying was the same as caring.
 
 "When?" he said.
 

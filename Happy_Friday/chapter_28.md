@@ -14,7 +14,7 @@ I tracked the roots. They were everywhere, threading through the grass, crossing
 
 I lowered the binoculars. My hands were not shaking.
 
-"What is it?" Sienna asked. She was beside me on the hilltop, the whole group arrayed along the shoulder of the highway, looking down at the approach the way you'd look down at the surface of another planet.
+"What is it?" Sienna asked. She was beside me on the hilltop, the whole group arrayed along the shoulder of the highway, looking down at the approach as though at the surface of another planet.
 
 "They're not moving," I said. "Most of them. They're. Rooted. Standing in the soil. Connected to each other by some kind of vine or root structure. Like they've become plants."
 
@@ -94,11 +94,11 @@ Not all silent. The voices came from them: not the targeted mimicry but somethin
 
 The fragments didn't resolve. They hovered at the edge of meaning. Close enough to activate recognition, too far to complete. This was worse than the targeted mimicry, which was specific, defeatable. The ambient version was fog. Every voice you'd ever known, broken into pieces and reassembled wrong, and your brain kept trying to make them cohere and they kept almost cohering, the effort was its own kind of assault.
 
-The drifters were on the street. The eight percent: the passive Turned, the familiar behavior from the trail. They wandered among the rooted like attendants at a ward, aimless, swaying, navigating the root network on the pavement with an unconscious ease that suggested they knew the layout the way a nurse knows a hospital floor. Jim parted them as he walked: his humming, the tuneless melody that was just the sound Jim made when he was being Jim, cleared a narrow path. The drifters shifted. An inch here, a step there. Not the Red Sea. Just a small gap that moved with Jim and closed behind him.
+The drifters were on the street. The eight percent: the passive Turned, the familiar behavior from the trail. They wandered among the rooted like attendants at a ward, aimless, swaying, navigating the root network on the pavement with an unconscious ease that suggested they knew the layout as a nurse knows a hospital floor. Jim parted them as he walked: his humming, the tuneless melody that was just the sound Jim made when he was being Jim, cleared a narrow path. The drifters shifted. An inch here, a step there. Not the Red Sea. Just a small gap that moved with Jim and closed behind him.
 
 The hunters were different.
 
-I saw the first one on a side street, moving with purpose, fast, carrying something in its arms. It crossed Dickson Street forty yards ahead, threading between two parked cars, and disappeared into a yard on the far side where a cluster of rooted stood in a circle. It placed its burden at their feet, dark, shapeless, organic, and then stood there for a moment, motionless, before turning and moving back the way it had come with the same directed stride.
+I saw the first one on a side street, moving with purpose, fast, carrying something in its arms. It crossed Dickson Street forty yards ahead, threading between two parked cars, and disappeared into a yard on the far side where a cluster of rooted stood in a circle. It placed its burden at their feet, dark, shapeless, organic, and then stood there for a moment, motionless, before turning and moving back as it had come with the same directed stride.
 
 "Freeze," I whispered. The word ran up the line.
 
