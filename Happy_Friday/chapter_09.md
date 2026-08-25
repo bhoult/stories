@@ -207,6 +207,16 @@ I didn't know what to say. Marcus wasn't asking for comfort. He was putting some
 
 "You'll fit in. Jim's are worse."
 
+**JOURNAL ENTRY #4:**
+
+*Day 8. Seven people. Fifteen Turned. Counting up.*
+
+*Sixty miles through the worst terrain in the state. Moss has answers. We have canned corn and a countdown. Jim has a garden plot and a bank vault and a faith that walls mean something.*
+
+*He's not wrong to want to stay. He built this. Every person in this basement is alive because he put a sign in a window. But the numbers only go one direction, and the food only goes the other, and those two lines cross whether Jim believes in the intersection or not.*
+
+*I can't make him leave. He has to see it for himself. I just hope what shows him isn't the thing that kills us.*
+
 ---
 
 On Thursday evening, Marcus caught another fragment from Dr. Moss. Clearer this time. She'd adjusted her antenna or the atmospheric conditions had shifted.
@@ -238,13 +248,3 @@ He would see. The Lyles would show him exactly how bad it got. But that was week
 Sienna, in the steeple, called down: "Another one just arrived in the parking lot. Fifteen now."
 
 The number was growing. The clocks were running. And somewhere on the other side of the Boston Mountains, a woman with a radio and a lab was broadcasting into the dark, and we were the only ones listening.
-
-**JOURNAL ENTRY #4:**
-
-*Day 8. Seven people. Fifteen Turned. Counting up.*
-
-*Sixty miles through the worst terrain in the state. Moss has answers. We have canned corn and a countdown. Jim has a garden plot and a bank vault and a faith that walls mean something.*
-
-*He's not wrong to want to stay. He built this. Every person in this basement is alive because he put a sign in a window. But the numbers only go one direction, and the food only goes the other, and those two lines cross whether Jim believes in the intersection or not.*
-
-*I can't make him leave. He has to see it for himself. I just hope what shows him isn't the thing that kills us.*

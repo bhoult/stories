@@ -218,12 +218,6 @@ We stayed at the greenhouse longer than we should have. We ate everything that w
 
 We left the greenhouse standing. Took what we needed. Left the rest to keep growing for whoever came next, if anyone did.
 
----
-
-That night I dreamed I was in the trailer. Everything was right: the paneling, the counter, the burn mark. But the trailer was moving. Not on wheels, being dragged, the whole structure shuddering, the floor tilting, and through the kitchen window the trees were not the park's trees but the OHT forest, oaks and hickories scrolling past as the trailer was pulled through terrain it was never built for. I could hear the skirting tearing underneath, the vinyl shredding against rock, and I ran to the back door and opened it and the drop was not the gravel lot but a ravine, a hundred feet of empty air, and the trailer was sliding toward the edge and I couldn't stop it because you can't stop a house.
-
-I woke to the sound of wind in the canopy and for three heartbeats I didn't know which world was real, the forest or the trailer, and my hand found my wrist and counted and the count was high, one-ten, one-oh-six, and I lay still and watched the fire embers and breathed until the numbers came down and the trailer dissolved and I was on a rock in the Boston Mountains and the stars were the only things that hadn't changed. The bite scar on my palm pressed against my wrist as I counted: the crescent of tooth marks, white now, a souvenir from the night I learned to be quiet.
-
 **JOURNAL ENTRY #13:**
 
 *I started to write this entry as a joke about throwing up on the switchback. Caught myself. The self-deprecating deflection. Sienna called it building the case for my own helplessness and she was right. I'm still doing it automatically, the way you bite your nails. So: I threw up and then I kept walking. The throwing up was what happened. The not-stopping was what I did. Those are different things. I'm trying to learn the difference.*
@@ -233,3 +227,7 @@ I woke to the sound of wind in the canopy and for three heartbeats I didn't know
 *Fifty-seven miles to go, then thirty-five on the highway. At three miles a day, Ruth's medication runs out before we get there. The math never quite works. We walk anyway.*
 
 ---
+
+That night I dreamed I was in the trailer. Everything was right: the paneling, the counter, the burn mark. But the trailer was moving. Not on wheels, being dragged, the whole structure shuddering, the floor tilting, and through the kitchen window the trees were not the park's trees but the OHT forest, oaks and hickories scrolling past as the trailer was pulled through terrain it was never built for. I could hear the skirting tearing underneath, the vinyl shredding against rock, and I ran to the back door and opened it and the drop was not the gravel lot but a ravine, a hundred feet of empty air, and the trailer was sliding toward the edge and I couldn't stop it because you can't stop a house.
+
+I woke to the sound of wind in the canopy and for three heartbeats I didn't know which world was real, the forest or the trailer, and my hand found my wrist and counted and the count was high, one-ten, one-oh-six, and I lay still and watched the fire embers and breathed until the numbers came down and the trailer dissolved and I was on a rock in the Boston Mountains and the stars were the only things that hadn't changed. The bite scar on my palm pressed against my wrist as I counted: the crescent of tooth marks, white now, a souvenir from the night I learned to be quiet.

@@ -1438,6 +1438,16 @@ I didn't know what to say. Marcus wasn't asking for comfort. He was putting some
 
 "You'll fit in. Jim's are worse."
 
+**JOURNAL ENTRY #4:**
+
+*Day 8. Seven people. Fifteen Turned. Counting up.*
+
+*Sixty miles through the worst terrain in the state. Moss has answers. We have canned corn and a countdown. Jim has a garden plot and a bank vault and a faith that walls mean something.*
+
+*He's not wrong to want to stay. He built this. Every person in this basement is alive because he put a sign in a window. But the numbers only go one direction, and the food only goes the other, and those two lines cross whether Jim believes in the intersection or not.*
+
+*I can't make him leave. He has to see it for himself. I just hope what shows him isn't the thing that kills us.*
+
 ---
 
 On Thursday evening, Marcus caught another fragment from Dr. Moss. Clearer this time. She'd adjusted her antenna or the atmospheric conditions had shifted.
@@ -1469,16 +1479,6 @@ He would see. The Lyles would show him exactly how bad it got. But that was week
 Sienna, in the steeple, called down: "Another one just arrived in the parking lot. Fifteen now."
 
 The number was growing. The clocks were running. And somewhere on the other side of the Boston Mountains, a woman with a radio and a lab was broadcasting into the dark, and we were the only ones listening.
-
-**JOURNAL ENTRY #4:**
-
-*Day 8. Seven people. Fifteen Turned. Counting up.*
-
-*Sixty miles through the worst terrain in the state. Moss has answers. We have canned corn and a countdown. Jim has a garden plot and a bank vault and a faith that walls mean something.*
-
-*He's not wrong to want to stay. He built this. Every person in this basement is alive because he put a sign in a window. But the numbers only go one direction, and the food only goes the other, and those two lines cross whether Jim believes in the intersection or not.*
-
-*I can't make him leave. He has to see it for himself. I just hope what shows him isn't the thing that kills us.*
 
 
 # Chapter 10: The Lyles
@@ -1595,6 +1595,16 @@ I updated my mental model of Ruth Fenn: a woman who'd spent forty years alongsid
 
 The assumptions you don't question are the ones that kill you. I'd written that in the notebook about the Lyles. It applied closer to home than I'd realized.
 
+**JOURNAL ENTRY #5:**
+
+*Day 10. Two modes confirmed. Herding is coordinated strategy. The food-driven behavior is coordinated predation. I suspect there's a third, something that happens when enough of them gather in one place. I don't have evidence yet. I have a feeling, and feelings aren't data.*
+
+*The clothing pattern connects to the green skin and the light orientation. Bare feet first, then shirts. The oldest Turned are the most exposed. The organism is systematically removing anything that covers the skin. I'm circling something I'm not ready to name.*
+
+*Maria is already planning what to do with the Lyles' supplies when they fall. I think she always sees the cost. I think the cost is what she's calculating when the rest of us think she's just counting cans.*
+
+*Ruth called Craig's situation cognitive dissonance. She might be describing mine too. I understand the mechanism and still can't act on it. Knowing and doing are separated by a gap I haven't figured out how to cross. The textbook doesn't have a chapter for that.*
+
 ---
 
 That evening, Maria and I had a conversation that I didn't expect and didn't like.
@@ -1622,17 +1632,6 @@ She was right. I hated that she was right. I hated more that the thought hadn't 
 "Yes." She put the last can on the shelf and closed the closet door. "So is January. We'll need the calories."
 
 She went to bed. I sat at the table and stared at my map and thought about whether there was a real line between being cold and being right, or whether we drew it after the fact to feel better about decisions we'd already made.
-
-**JOURNAL ENTRY #5:**
-
-*Day 10. Two modes confirmed. Herding is coordinated strategy. The food-driven behavior is coordinated predation. I suspect there's a third, something that happens when enough of them gather in one place. I don't have evidence yet. I have a feeling, and feelings aren't data.*
-
-*The clothing pattern connects to the green skin and the light orientation. Bare feet first, then shirts. The oldest Turned are the most exposed. The organism is systematically removing anything that covers the skin. I'm circling something I'm not ready to name.*
-
-*Maria is already planning what to do with the Lyles' supplies when they fall. I think she always sees the cost. I think the cost is what she's calculating when the rest of us think she's just counting cans.*
-
-*Ruth called Craig's situation cognitive dissonance. She might be describing mine too. I understand the mechanism and still can't act on it. Knowing and doing are separated by a gap I haven't figured out how to cross. The textbook doesn't have a chapter for that.*
----
 
 
 # Chapter 11: What the Radio Said
@@ -1686,6 +1685,14 @@ Jim broke it. "She didn't mention God."
 Marcus capped his flask. "The density threshold. She said it varies. She doesn't have numbers."
 
 "I've been counting," I said. "The Walmart cluster hit twenty-five and I saw behavioral changes. Twitchiness, agitation. The Lyles have maybe twenty in their perimeter and the count is growing." I wrote the number in the notebook and circled it. The most important number was the one nobody could give us.
+
+**JOURNAL ENTRY #6:**
+
+*The old model said: stay calm and you're safe. The new model says: stay calm, stay below the density threshold, stay fed, stay medicated, and outrun an organism that's adapting faster than you are. "Safe" was always temporary.*
+
+*I'm starting to think the whole concept of "rules for survival" is a comfort blanket. The rules keep changing. The organism keeps learning. The only real rule is: pay attention. Revise. Don't get attached to being right.*
+
+*Moss said "every fortress is a countdown." She's right. But what she didn't say is that every model is a countdown too.*
 
 ---
 
@@ -1825,8 +1832,6 @@ I wrote it in the notebook: *We are now watching ourselves the way we watch the 
 
 And separately: *Marcus dreams about Ava. The phone screen going dark. Three days in the cab with nothing but bourbon and a dead phone and the sound of Turned walking past the windows. He carries the dream the way he carries the phone, something broken he won't put down.*
 
----
-
 I went up to the steeple after the broadcast. I needed to think, and thinking happened better with the binoculars and the long view: the park, the road, the Lyles' compound to the north, the Walmart across the interstate to the south. The November sun was low, casting long shadows across the parking lot. The Turned stood in their positions, faces angled toward the light.
 
 Jim came up the stairs about twenty minutes later. He didn't say anything at first: just stood at the louvers, looking out at the parking lot with the expression of a man conducting a service for people who couldn't hear him.
@@ -1870,15 +1875,6 @@ Ruth would have called it the Red Queen hypothesis. She had a Lewis Carroll refe
 We were in a Red Queen race and we were losing. Not because we weren't adapting. We were. But our adaptation was cognitive, social, slow. The organism's adaptation was biological, collective, fast. We were playing chess against something that was rewriting the rules between moves.
 
 The sun went down. The Turned shifted. Sixteen faces turned toward the last of the light. Pembrook's skin, in the steeple binoculars, was visibly green now: not the grey-green of week one but a darker, almost vegetal shade, concentrated on his face and forearms. The sun-exposed surfaces. I wrote it in the notebook and drew an arrow connecting it to the sunflower observation from week one and didn't write what I thought it meant because I wasn't ready.
-
-**JOURNAL ENTRY #6:**
-
-*The old model said: stay calm and you're safe. The new model says: stay calm, stay below the density threshold, stay fed, stay medicated, and outrun an organism that's adapting faster than you are. "Safe" was always temporary.*
-
-*I'm starting to think the whole concept of "rules for survival" is a comfort blanket. The rules keep changing. The organism keeps learning. The only real rule is: pay attention. Revise. Don't get attached to being right.*
-
-*Moss said "every fortress is a countdown." She's right. But what she didn't say is that every model is a countdown too.*
----
 
 
 # Chapter 12: Nate Tells the Lyles
@@ -4059,12 +4055,6 @@ We stayed at the greenhouse longer than we should have. We ate everything that w
 
 We left the greenhouse standing. Took what we needed. Left the rest to keep growing for whoever came next, if anyone did.
 
----
-
-That night I dreamed I was in the trailer. Everything was right: the paneling, the counter, the burn mark. But the trailer was moving. Not on wheels, being dragged, the whole structure shuddering, the floor tilting, and through the kitchen window the trees were not the park's trees but the OHT forest, oaks and hickories scrolling past as the trailer was pulled through terrain it was never built for. I could hear the skirting tearing underneath, the vinyl shredding against rock, and I ran to the back door and opened it and the drop was not the gravel lot but a ravine, a hundred feet of empty air, and the trailer was sliding toward the edge and I couldn't stop it because you can't stop a house.
-
-I woke to the sound of wind in the canopy and for three heartbeats I didn't know which world was real, the forest or the trailer, and my hand found my wrist and counted and the count was high, one-ten, one-oh-six, and I lay still and watched the fire embers and breathed until the numbers came down and the trailer dissolved and I was on a rock in the Boston Mountains and the stars were the only things that hadn't changed. The bite scar on my palm pressed against my wrist as I counted: the crescent of tooth marks, white now, a souvenir from the night I learned to be quiet.
-
 **JOURNAL ENTRY #13:**
 
 *I started to write this entry as a joke about throwing up on the switchback. Caught myself. The self-deprecating deflection. Sienna called it building the case for my own helplessness and she was right. I'm still doing it automatically, the way you bite your nails. So: I threw up and then I kept walking. The throwing up was what happened. The not-stopping was what I did. Those are different things. I'm trying to learn the difference.*
@@ -4074,6 +4064,10 @@ I woke to the sound of wind in the canopy and for three heartbeats I didn't know
 *Fifty-seven miles to go, then thirty-five on the highway. At three miles a day, Ruth's medication runs out before we get there. The math never quite works. We walk anyway.*
 
 ---
+
+That night I dreamed I was in the trailer. Everything was right: the paneling, the counter, the burn mark. But the trailer was moving. Not on wheels, being dragged, the whole structure shuddering, the floor tilting, and through the kitchen window the trees were not the park's trees but the OHT forest, oaks and hickories scrolling past as the trailer was pulled through terrain it was never built for. I could hear the skirting tearing underneath, the vinyl shredding against rock, and I ran to the back door and opened it and the drop was not the gravel lot but a ravine, a hundred feet of empty air, and the trailer was sliding toward the edge and I couldn't stop it because you can't stop a house.
+
+I woke to the sound of wind in the canopy and for three heartbeats I didn't know which world was real, the forest or the trailer, and my hand found my wrist and counted and the count was high, one-ten, one-oh-six, and I lay still and watched the fire embers and breathed until the numbers came down and the trailer dissolved and I was on a rock in the Boston Mountains and the stars were the only things that hadn't changed. The bite scar on my palm pressed against my wrist as I counted: the crescent of tooth marks, white now, a souvenir from the night I learned to be quiet.
 
 
 # Chapter 20: The Trail

@@ -50,6 +50,14 @@ Marcus capped his flask. "The density threshold. She said it varies. She doesn't
 
 "I've been counting," I said. "The Walmart cluster hit twenty-five and I saw behavioral changes. Twitchiness, agitation. The Lyles have maybe twenty in their perimeter and the count is growing." I wrote the number in the notebook and circled it. The most important number was the one nobody could give us.
 
+**JOURNAL ENTRY #6:**
+
+*The old model said: stay calm and you're safe. The new model says: stay calm, stay below the density threshold, stay fed, stay medicated, and outrun an organism that's adapting faster than you are. "Safe" was always temporary.*
+
+*I'm starting to think the whole concept of "rules for survival" is a comfort blanket. The rules keep changing. The organism keeps learning. The only real rule is: pay attention. Revise. Don't get attached to being right.*
+
+*Moss said "every fortress is a countdown." She's right. But what she didn't say is that every model is a countdown too.*
+
 ---
 
 Dale's knife had stopped moving.
@@ -188,8 +196,6 @@ I wrote it in the notebook: *We are now watching ourselves the way we watch the 
 
 And separately: *Marcus dreams about Ava. The phone screen going dark. Three days in the cab with nothing but bourbon and a dead phone and the sound of Turned walking past the windows. He carries the dream the way he carries the phone, something broken he won't put down.*
 
----
-
 I went up to the steeple after the broadcast. I needed to think, and thinking happened better with the binoculars and the long view: the park, the road, the Lyles' compound to the north, the Walmart across the interstate to the south. The November sun was low, casting long shadows across the parking lot. The Turned stood in their positions, faces angled toward the light.
 
 Jim came up the stairs about twenty minutes later. He didn't say anything at first: just stood at the louvers, looking out at the parking lot with the expression of a man conducting a service for people who couldn't hear him.
@@ -233,12 +239,3 @@ Ruth would have called it the Red Queen hypothesis. She had a Lewis Carroll refe
 We were in a Red Queen race and we were losing. Not because we weren't adapting. We were. But our adaptation was cognitive, social, slow. The organism's adaptation was biological, collective, fast. We were playing chess against something that was rewriting the rules between moves.
 
 The sun went down. The Turned shifted. Sixteen faces turned toward the last of the light. Pembrook's skin, in the steeple binoculars, was visibly green now: not the grey-green of week one but a darker, almost vegetal shade, concentrated on his face and forearms. The sun-exposed surfaces. I wrote it in the notebook and drew an arrow connecting it to the sunflower observation from week one and didn't write what I thought it meant because I wasn't ready.
-
-**JOURNAL ENTRY #6:**
-
-*The old model said: stay calm and you're safe. The new model says: stay calm, stay below the density threshold, stay fed, stay medicated, and outrun an organism that's adapting faster than you are. "Safe" was always temporary.*
-
-*I'm starting to think the whole concept of "rules for survival" is a comfort blanket. The rules keep changing. The organism keeps learning. The only real rule is: pay attention. Revise. Don't get attached to being right.*
-
-*Moss said "every fortress is a countdown." She's right. But what she didn't say is that every model is a countdown too.*
----

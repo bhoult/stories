@@ -112,6 +112,16 @@ I updated my mental model of Ruth Fenn: a woman who'd spent forty years alongsid
 
 The assumptions you don't question are the ones that kill you. I'd written that in the notebook about the Lyles. It applied closer to home than I'd realized.
 
+**JOURNAL ENTRY #5:**
+
+*Day 10. Two modes confirmed. Herding is coordinated strategy. The food-driven behavior is coordinated predation. I suspect there's a third, something that happens when enough of them gather in one place. I don't have evidence yet. I have a feeling, and feelings aren't data.*
+
+*The clothing pattern connects to the green skin and the light orientation. Bare feet first, then shirts. The oldest Turned are the most exposed. The organism is systematically removing anything that covers the skin. I'm circling something I'm not ready to name.*
+
+*Maria is already planning what to do with the Lyles' supplies when they fall. I think she always sees the cost. I think the cost is what she's calculating when the rest of us think she's just counting cans.*
+
+*Ruth called Craig's situation cognitive dissonance. She might be describing mine too. I understand the mechanism and still can't act on it. Knowing and doing are separated by a gap I haven't figured out how to cross. The textbook doesn't have a chapter for that.*
+
 ---
 
 That evening, Maria and I had a conversation that I didn't expect and didn't like.
@@ -139,14 +149,3 @@ She was right. I hated that she was right. I hated more that the thought hadn't 
 "Yes." She put the last can on the shelf and closed the closet door. "So is January. We'll need the calories."
 
 She went to bed. I sat at the table and stared at my map and thought about whether there was a real line between being cold and being right, or whether we drew it after the fact to feel better about decisions we'd already made.
-
-**JOURNAL ENTRY #5:**
-
-*Day 10. Two modes confirmed. Herding is coordinated strategy. The food-driven behavior is coordinated predation. I suspect there's a third, something that happens when enough of them gather in one place. I don't have evidence yet. I have a feeling, and feelings aren't data.*
-
-*The clothing pattern connects to the green skin and the light orientation. Bare feet first, then shirts. The oldest Turned are the most exposed. The organism is systematically removing anything that covers the skin. I'm circling something I'm not ready to name.*
-
-*Maria is already planning what to do with the Lyles' supplies when they fall. I think she always sees the cost. I think the cost is what she's calculating when the rest of us think she's just counting cans.*
-
-*Ruth called Craig's situation cognitive dissonance. She might be describing mine too. I understand the mechanism and still can't act on it. Knowing and doing are separated by a gap I haven't figured out how to cross. The textbook doesn't have a chapter for that.*
----
