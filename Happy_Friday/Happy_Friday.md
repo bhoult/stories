@@ -581,6 +581,10 @@ It was perfect. The warmth. The tiredness underneath. The pause before "bud."
 
 She doesn't bring Chick-fil-A. She brings Whataburger. Mom turns left out of the Johnson Regional Medical Center parking lot, passes the Taco Bell, and a mile down hits the Whataburger. Patty melt with jalapeños and a Dr Pepper. Every time. The closest Chick-fil-A is twenty-five minutes away in Russellville. Lisa Anderson's commute, not Mom's. Lisa drove to Russellville for work. The organism was using Lisa's neural architecture to puppet Mom's voice, and Lisa's brain associated "bringing dinner home" with the Chick-fil-A she passed every day on 64. The organism didn't know the difference. It grabbed the strongest food-plus-homecoming association it could find and it grabbed the wrong woman's.
 
+Everything about it confirmed. The voice, the tiredness underneath, the pause before "bud." Nine pieces of evidence pointing one direction and one pointing the other way, and the nine were the ones I wanted.
+
+A brain is a machine for finding the pattern it already expects. Mine went straight to work on the Chick-fil-A, looking for reasons it didn't matter, and it found several, and they were all reasonable. Maybe she stopped somewhere different. Maybe the Whataburger was closed. That is the whole of what the thing on the porch was counting on. It did not need to be convincing. It needed me to do the rest of the work myself, and I was already doing it.
+
 The only reason I didn't open the door was a fast food restaurant. The margin between surviving and not was the difference between a Whataburger and a Chick-fil-A. I am alive because an alien organism used the wrong woman's memory of a drive-through.
 
 "Happy Friday, bud."
@@ -4839,6 +4843,12 @@ I didn't answer. I was thinking about the four propranolol tablets in my jacket 
 
 The distance between what I'd done and what Phil was doing was a matter of dosage and consent, and I had spent two days proving to myself that I am not a person who can be trusted with either one.
 
+I found the error later. Not there, standing in front of him, where it would have been worth something. Later.
+
+He lost eleven people in nine days and nobody in the four weeks since, and he had set those two numbers beside each other and drawn a line between them. But the world between those two numbers is not the same world. The Turned near him rooted. The density moved. The easy food ran out and the herding fell off with it. Phil had one group, no control, and half a dozen variables he could not hold still, and he had built a permanent regime on top of the difference.
+
+It would not have changed his mind. I have gone over that too, and it wouldn't; he had a chart and four weeks and a nephew who was breathing. But I could have said it. I didn't, and the reason I didn't is that he asked me in a way that assumed I would have nothing, and I obliged him.
+
 A quarter mile past the gas station, a farmhouse sat back from the highway behind a collapsing fence. The house was empty. Door open, curtains moving in the wind. But behind it, in a tilted coop with chicken wire peeling off the frame, something was alive and making sounds about it.
 
 Three hens. Brown, fat, furious. Surviving on gravel and weeds and whatever insects had the misfortune of crossing their path. They'd outlasted the apocalypse through the only strategy chickens know: being too dumb and too angry to die.
@@ -5727,6 +5737,12 @@ When she finished, she set the notebook on the desk and looked at me.
 She leaned back.
 
 "I've had eleven survivor groups reach this campus. Most of them have stories. Some have observations. A few have strategies. None of them documented the process the way you did. None of them wrote down what they got wrong."
+
+Eleven groups. Every one of them with a theory about why they were still breathing, and every theory built out of the same broken material: the people who could contradict it aren't available.
+
+I have been doing it for six weeks. I watched Jim walk across a parking lot and concluded that calm works. I never once got to interview a calm man who died anyway, and there is no reason on this earth to think there weren't hundreds of them, in Tulsa and Little Rock and Lagos, doing everything I did and getting nothing for it.
+
+That doesn't make the notebook wrong. It makes it a record of what survived long enough to get written down, which is a smaller and more embarrassing thing than what I thought I was making.
 
 "Most people don't enjoy writing down their failures."
 

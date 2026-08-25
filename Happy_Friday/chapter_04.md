@@ -50,6 +50,10 @@ It was perfect. The warmth. The tiredness underneath. The pause before "bud."
 
 She doesn't bring Chick-fil-A. She brings Whataburger. Mom turns left out of the Johnson Regional Medical Center parking lot, passes the Taco Bell, and a mile down hits the Whataburger. Patty melt with jalapeños and a Dr Pepper. Every time. The closest Chick-fil-A is twenty-five minutes away in Russellville. Lisa Anderson's commute, not Mom's. Lisa drove to Russellville for work. The organism was using Lisa's neural architecture to puppet Mom's voice, and Lisa's brain associated "bringing dinner home" with the Chick-fil-A she passed every day on 64. The organism didn't know the difference. It grabbed the strongest food-plus-homecoming association it could find and it grabbed the wrong woman's.
 
+Everything about it confirmed. The voice, the tiredness underneath, the pause before "bud." Nine pieces of evidence pointing one direction and one pointing the other way, and the nine were the ones I wanted.
+
+A brain is a machine for finding the pattern it already expects. Mine went straight to work on the Chick-fil-A, looking for reasons it didn't matter, and it found several, and they were all reasonable. Maybe she stopped somewhere different. Maybe the Whataburger was closed. That is the whole of what the thing on the porch was counting on. It did not need to be convincing. It needed me to do the rest of the work myself, and I was already doing it.
+
 The only reason I didn't open the door was a fast food restaurant. The margin between surviving and not was the difference between a Whataburger and a Chick-fil-A. I am alive because an alien organism used the wrong woman's memory of a drive-through.
 
 "Happy Friday, bud."

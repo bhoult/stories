@@ -85,6 +85,16 @@ Fixed by moving four journals (Ch9, Ch10, Ch11, Ch19) earlier in their chapters 
 
 Ch11's journal was relocated twice: the first placement left it immediately after another notebook fragment, two italic passages back to back.
 
+### 8.7 Logical fallacies — named where they were decisive
+
+The book named only **cognitive dissonance** (Ruth about Craig, Ch10; Nate turning it on himself, Ch12). Three other moments where a fallacy or its avoidance determined the outcome were fully dramatised and never labelled. All three now are, and they form a progression.
+
+**Ch4 — confirmation bias, avoided, and it is why he is alive.** The thing on the porch had his mother's voice, cadence, warmth and exact phrase. Nine pieces of confirming evidence and one disconfirming detail, and he weighted the one correctly. Now named: *"A brain is a machine for finding the pattern it already expects. Mine went straight to work on the Chick-fil-A, looking for reasons it didn't matter, and it found several, and they were all reasonable… It did not need to be convincing. It needed me to do the rest of the work myself, and I was already doing it."*
+
+**Ch23 — Phil has no control group, and Nate finds it too late.** Phil asks *"Tell me where the error is and I'll change the system today"* and Nate says *"I don't have one."* There is one: eleven dead in nine days, none in four weeks, two numbers set beside each other as though nothing else changed — while the Turned rooted, the density moved and the herding fell off. He works it out on the road north, and the delay is the point: *"Not there, standing in front of him, where it would have been worth something. Later."*
+
+**Ch30 — survivorship bias, in his own method.** The largest of the three, because it indicts the notebook: *"I watched Jim walk across a parking lot and concluded that calm works. I never once got to interview a calm man who died anyway, and there is no reason on this earth to think there weren't hundreds of them… That doesn't make the notebook wrong. It makes it a record of what survived long enough to get written down, which is a smaller and more embarrassing thing than what I thought I was making."* This completes Moss's *"the failures are the curriculum"* by putting the journal's own limits inside the journal.
+
 ### 8.6 Game theory as Nate's reasoning tool
 
 Better established than it looked: the prisoner's dilemma in Ch5, Sienna as "first cooperator" in Ch6, dominant strategy for Marcus in Ch9, Craig and Tammy's marriage as "their version of the prisoner's dilemma" in Ch12, plus two later callbacks. But like the Civ frame, it belongs to Acts One and Two and then drops out.

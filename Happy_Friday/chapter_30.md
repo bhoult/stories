@@ -29,6 +29,12 @@ She leaned back.
 
 "I've had eleven survivor groups reach this campus. Most of them have stories. Some have observations. A few have strategies. None of them documented the process the way you did. None of them wrote down what they got wrong."
 
+Eleven groups. Every one of them with a theory about why they were still breathing, and every theory built out of the same broken material: the people who could contradict it aren't available.
+
+I have been doing it for six weeks. I watched Jim walk across a parking lot and concluded that calm works. I never once got to interview a calm man who died anyway, and there is no reason on this earth to think there weren't hundreds of them, in Tulsa and Little Rock and Lagos, doing everything I did and getting nothing for it.
+
+That doesn't make the notebook wrong. It makes it a record of what survived long enough to get written down, which is a smaller and more embarrassing thing than what I thought I was making.
+
 "Most people don't enjoy writing down their failures."
 
 "Most people don't survive long enough to benefit from them." She paused. "I want you to keep writing. Not for yourself. For other survivors. The broadcasts I've been making are scientific. Mechanism, pharmacology, the emitter. What I can't broadcast is this." She tapped the journal again. "The human part. The part that tells people how to *live* with the knowledge. How to stay calm when the mechanism is telling your body to panic. How to make decisions when the decisions are terrible. How to be fifteen and responsible for seven people and scared every minute and still functional."

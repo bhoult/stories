@@ -102,6 +102,12 @@ I didn't answer. I was thinking about the four propranolol tablets in my jacket 
 
 The distance between what I'd done and what Phil was doing was a matter of dosage and consent, and I had spent two days proving to myself that I am not a person who can be trusted with either one.
 
+I found the error later. Not there, standing in front of him, where it would have been worth something. Later.
+
+He lost eleven people in nine days and nobody in the four weeks since, and he had set those two numbers beside each other and drawn a line between them. But the world between those two numbers is not the same world. The Turned near him rooted. The density moved. The easy food ran out and the herding fell off with it. Phil had one group, no control, and half a dozen variables he could not hold still, and he had built a permanent regime on top of the difference.
+
+It would not have changed his mind. I have gone over that too, and it wouldn't; he had a chart and four weeks and a nephew who was breathing. But I could have said it. I didn't, and the reason I didn't is that he asked me in a way that assumed I would have nothing, and I obliged him.
+
 A quarter mile past the gas station, a farmhouse sat back from the highway behind a collapsing fence. The house was empty. Door open, curtains moving in the wind. But behind it, in a tilted coop with chicken wire peeling off the frame, something was alive and making sounds about it.
 
 Three hens. Brown, fat, furious. Surviving on gravel and weeds and whatever insects had the misfortune of crossing their path. They'd outlasted the apocalypse through the only strategy chickens know: being too dumb and too angry to die.
