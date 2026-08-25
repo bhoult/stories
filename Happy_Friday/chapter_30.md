@@ -4,39 +4,37 @@ I told him on the Thursday, which was Day 48, standing in the corridor outside t
 
 "Your heart's failing."
 
-Jim didn't move his hand. He looked at me for a while with the steady, luminous look, the one that had gotten seven people across a highway and sixty miles of mountain and never once raised its voice, and then he said, "I know, son."
+Jim didn't move his hand. He looked at me for a while with the steady, luminous look, the one that had gotten seven people across sixty miles of mountain and never once raised its voice, and then he said, "I know, son."
 
-"I've known for six days. I counted your steps between the dormitory and the lab and it's gone from ninety-one to a hundred and thirty-four because you stop twice now. Your color's wrong. You sat down at breakfast before you got to the table, which means your legs went first and you decided to make it look like a decision."
+"I've known for six days. Your steps between the dormitory and the lab have gone from ninety-one to a hundred and thirty-four, because you stop twice now. You sat down at breakfast before you got to the table, which means your legs went first and you decided to make it look like a decision."
 
 "That's very thorough."
 
-"It's what I do." I heard it come out and I let it stand, because for once it wasn't a place to hide. "I should have said it a week ago."
+"It's what I do." I heard it come out and let it stand, because for once it wasn't a place to hide. "I should have said it a week ago."
 
 "Why didn't you?"
 
-I had an answer ready. It was a good one, it was about not wanting to take something from him in front of the others, and it was a lie, and I was standing in a hallway with a man who was going to be dead inside a week and I found I could not make myself say it.
+I had an answer ready and it was a good one and it was a lie, and I was standing in a hallway with a man who would be dead inside a week and I could not make myself say it.
 
-"Because saying it makes it mine," I said.
+"Because saying it makes it mine."
 
-Jim nodded slowly. He took his hand off the door frame, which cost him something, and he put it on my shoulder instead, which I understood was not about balance.
+Jim nodded slowly. He took his hand off the door frame, which cost him something, and put it on my shoulder instead, which was not about balance.
 
 "That's the truest thing anybody's said to me on this campus," he said.
 
 ---
 
-I want to put down what he asked for, because he asked carefully, and because a man's last instructions deserve better than my memory of them.
+He asked me not to tell Ruth. I said no. He looked at me a long moment, then laughed — short, surprised, real — and said, "Well. All right then."
 
-He asked me not to tell Ruth. I said no. He looked at me for a long moment and then he laughed — a real one, short, surprised — and said, "Well. All right then."
+He asked whether Moss had anything. She did not. She is a research biologist and not a cardiologist, and the nearest catheterization lab is seventy miles east in a hospital that has stood empty since October. Howard found nitroglycerin in the campus health center. Maria found aspirin. That is the entire arsenal the twenty-first century was able to bring to bear on Jim Whittaker's left anterior descending artery.
 
-He asked whether Moss had anything. She did not. She has a laboratory full of spectrometers and a walk-in cold room and eleven varieties of pipette, and she is a research biologist and not a cardiologist, and the nearest catheterization lab is in a hospital seventy miles east that has been standing empty since October. Howard found nitroglycerin in the campus health center. Maria found aspirin. That is the entire arsenal that the twenty-first century was able to bring to bear on Jim Whittaker's left anterior descending artery.
-
-And he asked me — this is the part — he asked me whether I remembered what he'd said in the basement.
+And then he asked whether I remembered what he'd said in the basement.
 
 I did.
 
 *I will not ask anyone in this room to end a life. Not mine. Not anyone's. If I turn — restrain me. Pray over me. Wait. And if there is no change, then put me in God's hands outside this building and let Him decide what mercy looks like.*
 
-"That still stands," Jim said. "All of it. And son — you're going to have to be the one who says it out loud, because they won't. Ruth won't. Marcus will think it and swallow it. You're the only one in this building who says the thing nobody wants to hear."
+"That still stands," he said. "All of it. And son — you're going to have to be the one who says it out loud, because they won't. Ruth won't. Marcus will think it and swallow it. You're the only one in this building who says the thing nobody wants to hear."
 
 "I know."
 
