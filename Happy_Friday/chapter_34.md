@@ -18,7 +18,7 @@ Ruth was in the library. I couldn't see her from the roof but I knew she was the
 
 Dale was on the bench outside the science building, carving. The zoo had grown. Beagle, cardinal, fox, turtle, owl, and now something new, something I couldn't identify from the roof but which Dale would later tell me was a dome. A geodesic dome, like the ones Buckminster Fuller designed. "Strongest structure in nature," he said. "All the force distributed evenly. Nothing carries more than its share." He'd carved it for Caleb. Caleb put it in the center of the zoo and called it the animals' house.
 
-Maria was at the whiteboard in the cafeteria, updating the supply calendar. She would always be at the whiteboard. The counting was her prayer, the way Jim's prayer had been his practice, the way Dale's carving is his meeting. Same discipline, different doors. She started again on the third day. Nobody said anything about the two days she didn't.
+Maria was at the whiteboard in the cafeteria, updating the supply calendar. She will be at that whiteboard for as long as there is anything left to count. The counting was her prayer, the way Jim's prayer had been his practice, the way Dale's carving is his meeting. Same discipline, different doors. She started again on the third day. Nobody said anything about the two days she didn't.
 
 Beyond the perimeter, four hundred yards out, the rooted held their line. A dark forest of grey-green figures at the edge of the frequency's reach, motionless, connected, the root network threading between them like the wiring of a vast and patient brain. Not swaying anymore. Growing. The colony watched the campus with the patience of something that was already everywhere and had nothing but time.
 

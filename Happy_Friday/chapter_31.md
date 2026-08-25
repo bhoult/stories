@@ -176,7 +176,7 @@ She leaned her head against the wall. We sat in the hallway and didn't talk for 
 
 "Because the people listening are alone. They've been alone for weeks. They're in their houses and their trailers and their basements and they haven't talked to anyone and they're running out of food and hope and they need to know that it's possible to sit in a kitchen with another person and drink something terrible and talk about your family and have it be. Enough. Not a solution. Not a strategy. Just enough."
 
-I looked at her. She looked at me. The hallway was empty and the emitter hummed and downstairs Caleb laughed again and Sienna's eyes were steady and certain and she was right, as she always was about the things that mattered, which were never the things I thought mattered.
+I looked at her. She looked at me. The hallway was empty and the emitter hummed and downstairs Caleb laughed again and Sienna's eyes were steady and certain and she was right, as she was about most of the things that mattered, which were rarely the things I thought mattered.
 
 "Okay," I said. "I'll tell them about the Nesquik."
 

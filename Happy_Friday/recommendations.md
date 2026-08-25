@@ -102,6 +102,22 @@ A scan turned up 32 superlative constructions. Twenty-six are earned — physica
 | *I have never in my life been more grateful* (Ch32) | *I cannot think of a time I have been more grateful* |
 | *more than anything else in this book* (Ch32) | *more than almost anything else in this book* |
 
+**Full-manuscript scan (binary framing + absolutes), by act, per 10,000 words:**
+
+| | One | Two | Three | Four |
+|---|---|---|---|---|
+| binary framing | **1.6** | 0.6 | 0.8 | 0.8 |
+| absolutes (every/all/no) | 16.5 | 9.0 | 8.8 | 13.9 |
+| always / never | 13.8 | 10.7 | 16.6 | **22.0** |
+| intensifiers | 3.2 | 2.1 | 3.1 | 1.6 |
+
+**Binary framing behaves correctly** — it peaks in Act One and drops by more than half. Early Nate thinks in binaries; that's the flaw the book cures. Both surviving Act Three/Four instances are legitimate: Sienna's *"the third turn was where you either committed or died"* (true of a 400m) and Nate's *"either prayer or inventory"* (him admitting he can't tell, which is the opposite of the problem).
+
+**Always/never looked alarming and mostly wasn't.** The Act Four rate is 60% above Act One, but reading all 20 instances in narration, **18 are precise** — factual claims (*"Jim had never heard any of it"*, load-bearing for the dream's impossibility) or explicitly bounded (*"he never once asked me to… in six weeks"*). The rate metric over-flagged; the instances hold. Two were genuinely imprecise and are corrected:
+
+- *"she was right, as she always was about the things that mattered, which were never the things I thought mattered"* → **most** / **rarely**. Sienna was not always right — she was wrong about the interchange in Ch8 and nearly turned running for Caleb in Ch15, and Nate has both counterexamples.
+- *"She would always be at the whiteboard"* → *"She will be at that whiteboard for as long as there is anything left to count."* The original was a prediction about the future he can't make.
+
 **Guardrail for new material:** when Nate makes a comparative claim he either bounds it (*since October*, *since the world ended*), states that he checked (*I have measured that against*), or admits the limit of his memory (*I cannot think of a time*). An unqualified "best/worst/only ever" is a tell that the sentence was written by someone else.
 
 **Tier 5 items NOT done, deliberately:**
