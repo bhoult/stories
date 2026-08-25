@@ -1,59 +1,74 @@
-# Chapter 31: The Journal
+# Chapter 31: The Broadcast
 
-Day 45.
+The radio room was on the third floor of the science building — a converted communications lab with a transmitter that Moss's engineering grad student had boosted to broadcast over fifty miles. Far enough to reach the river valley. Far enough to reach anyone still listening in the towns and homesteads and hiding places scattered across the Ozarks.
 
-I sat on the roof of the science building at dusk. The frequency emitter hummed behind me — its speakers and antenna array mounted on the parapet, the sound so constant it had become the texture of the air. You didn't get used to it. You learned to carry it.
+The microphone was a desktop model, silver, old. The kind they used for campus radio before the campus radio stopped. It sat on the desk in front of me like a small, attentive animal, waiting.
 
-The campus spread below me in the last light. The quad, the dormitories, the track, the maintenance bay. The buildings were brick and limestone and they glowed in the dusk the way old buildings glow — warm, patient, as if they'd been waiting for someone to use them again.
+I had meant to do this a week earlier. Then Thursday happened, and Saturday, and Sunday morning between the science building and the education building with Howard and Marcus taking turns on a shovel neither would give up. Moss asked me twice whether I wanted to wait longer. I said no both times, and the second time I told her why: there were people out there who had somebody in the room with them who was going grey and quiet, and every day I sat on this was a day one of them didn't know what I knew.
 
-Below, in the quad, Sienna was running laps. Controlled. Steady. Her breathing measured, her stride long, the mechanics of a body reclaiming itself from the thing that had tried to take it. She ran toward the edge and turned back. Toward and back. Each lap she pushed closer to the edge and came back, and the margin in her favor was growing.
+Moss was in the doorway. "The transmitter is live. You'll be on the frequency I've been using for the scientific bulletins. Anyone with a CB or shortwave will hear you."
 
-Caleb was on the steps of the education building with Jim. They were counting breaths. Four in. Hold. Six out. Caleb's small chest rising and falling with the careful concentration of a child who trusted the man beside him. Jim's hand was on the boy's shoulder. His other hand was on the railing, supporting weight he used to carry unassisted. He didn't let Caleb see this. Caleb saw anyway. Children see everything. They just don't always say.
+"How many people is that?"
 
-Marcus was under the hood of the truck. The wrench was steady, rhythmic. For the first time in years, he was building something instead of enduring something. The truck might run someday. It might not. 
+"I don't know. I've had contact with eleven survivor groups in the past three weeks. There could be more who listen and don't respond." She paused. "Say what you need to say. Don't worry about being right. Worry about being useful."
 
-Ruth was in the library. I couldn't see her from the roof but I knew she was there because the library lights were on and Ruth's schedule was as predictable as her grammar: mornings for reading, afternoons for the project she wouldn't describe, evenings for telling everyone their syntax was deteriorating. The standards persisted. Civilization was negotiable. Subject-verb agreement was not.
+She left. The door closed. I was alone with the microphone and the notebook and the low hum of the emitter vibrating through the floor.
 
-Dale was on the bench outside the science building, carving. The zoo had grown — beagle, cardinal, fox, turtle, owl, and now something new, something I couldn't identify from the roof but which Dale would later tell me was a dome. A geodesic dome, like the ones Buckminster Fuller designed. "Strongest structure in nature," he said. "All the force distributed evenly. Nothing carries more than its share." He'd carved it for Caleb. Caleb put it in the center of the zoo and called it the animals' house.
+I opened the notebook. The pages were wrinkled and stained and the handwriting was mine — the handwriting of a person who'd started in a trailer and was finishing in a laboratory. Not the same person at both ends. I turned to the fresh page where I'd written what I wanted to say. I'd revised it four times. The fourth version was still wrong. That was the point.
 
-Maria was at the whiteboard in the cafeteria, updating the supply calendar. She would always be at the whiteboard. The counting was her prayer, the way Jim's prayer was his practice, the way Dale's carving was his meeting. Same discipline, different doors.
-
-Beyond the perimeter, four hundred yards out, the rooted held their line. A dark forest of grey-green figures at the edge of the frequency's reach, motionless, connected, the root network threading between them like the wiring of a vast and patient brain. Not swaying anymore — growing. The colony watched the campus with the patience of something that was already everywhere and had nothing but time.
-
-The rooted were there. We were here. The hum between us was the world as it was. Four hundred yards and shrinking — that was the space where everything that mattered would happen.
-
-I opened the notebook to the last page. I'd found a new one — a composition book from the campus bookstore, black and white marbled cover, the kind I'd used in school a lifetime ago. The old notebook sat beside me, wrinkled and stained, its pages full. The new one was blank. Both of them were mine.
-
-I picked up the pen.
+I pressed the transmit button.
 
 ---
 
-**JOURNAL ENTRY #22:**
+"This is Nate Carver. I'm fifteen years old. I'm broadcasting from the University of Arkansas in Fayetteville. I don't know what I'm doing. I want to start with that."
 
-*I survived. Not because I was brave or strong or smart. I survived because I was slow, and I was scared, and I paid attention. That's not a hero's story. The world doesn't need hero stories anymore. It needs notes.*
+And then, because it was true and because I had decided on the stairs coming up here that I was not going to do this the tidy way:
 
-*Here are my notes.*
+"We buried a man yesterday. His name was Jim Whittaker and he was a pastor in Clarksville and he is the reason any of the rest of us are alive. He did not turn. His heart gave out and he stayed himself the whole way down, and I am going to come back to why, because it is the most useful thing I have ever had to tell anybody."
 
-*I'm going to keep writing them until I run out of things to learn or until I turn, and I don't plan on doing either.*
+I told them. All of it. The rules — the mechanism, the threshold, the beta-blockers, the voices, the density, the frenzy. The things I'd learned by watching people die because they didn't have the information. I told them about fortification and why it kills you. I told them about the Turned getting smarter. I told them that the damage they carried — the addiction, the depression, the grief — was their skillset now, that managing a craving was the same mechanism as managing fear. I told them to write it down.
 
-*Tomorrow we're going to try to reach the group south of here — the twelve survivors who responded to the broadcast. Dr. Moss says there might be a whole network. Sienna says she's coming. Marcus is fixing the truck. Jim says he'll pray for us, which I think means his heart is getting worse and he's not telling anyone, and I think means he knows I know, and I think means we're both carrying that knowledge and neither of us is ready to set it down.*
+I read from the notebook. The entries I'd written in a trailer, in a church, on a trail, in a pulloff on a highway covered in blood. The wrong parts and the right parts and the parts I still couldn't classify. The journal was the survival tool — an honest record of the past, failures included, and the only map any of us had.
 
-*Dale is teaching recovery workshops to people who never thought they'd need recovery skills. Ruth is building something in the library that she won't describe. Maria is counting, always counting, because counting is how she loves us. Caleb has a wooden geodesic dome for his animal zoo and he says the animals live there because it's the safest shape. He's seven and he's right.*
+Halfway through the entry about the roadblock, I stopped. Not a decision — the machinery seized. The words were on the page and my mouth wouldn't form them because my mouth knew what the words contained and the distance between reading a thing and saying it into a microphone for strangers was the distance between carrying a weight and handing it to someone else and I couldn't — I released the transmit button. Sat there. The hum of the emitter. The empty room. My pulse climbing — 88, 94, 99 — and the old discipline kicking in, four in, hold, six out, the breathing that Dale taught and Jim taught and Sienna taught by holding still in a forest and not running.
 
-*I miss my mom. I'm going to miss her for the rest of my life. However long that is.*
+Ninety-two. Eighty-six. Eighty.
 
-*She used to say "Happy Friday" every week when she left for her shift. I used to barely look up from my screen. I'd give anything to not look up from my screen one more time.*
+I pressed the button again.
 
-*But I'm still here. We're still here. And tomorrow we walk again.*
+"Sorry," I said. "I had to stop for a second. That's going to happen. That's part of it too — the stopping. If you're out there and you're managing your fear and it's working and then one day it stops working, that's not failure. That's the bill coming due. You stop. You breathe. You start again. I'm starting again."
+
+I told them about Jim where I said I would. The metoprolol, fifty milligrams twice a day for eleven years. The thirty years of practice at not being afraid, which I cannot measure and will not discount. A cardiac event dumps every stress hormone the body has and it does not stop dumping, and he went four hours past every threshold in my notebook and the organism never got a hand on him. I told them I don't know which of the two did it. I told them that a man I trusted held both of those answers at once for six weeks and never made anyone choose, and that if they were sitting somewhere with a rosary in one hand and a pill bottle in the other, they should keep both.
+
+I told them the hardest thing last.
+
+"I'm not going to tell you to come to Fayetteville. We have an emitter here that keeps the Turned back, but it won't last. The organism adapts. The range is already shrinking. What we have here isn't a fortress — it's a lab. A place where people are learning. And the learning is the thing that matters, not the walls or the frequency.
+
+"So I'm going to keep broadcasting. Dr. Moss has data — medication protocols, frequency specifications, everything she's learned. I have the human part — the mistakes, the lessons that don't fit in a lab report. Between us, we'll give you what we can. What you do with it is yours.
+
+"Stay calm. Stay small. Stay quiet. Write it down. Say the thing nobody in the room wants to hear, and then don't start enjoying it.
+
+"This is Nate Carver. I'm fifteen. I survived. Not because I was brave. Because I was slow, and scared, and I paid attention.
+
+"I'll be here tomorrow. Same frequency. Same time.
+
+"Stay alive."
 
 ---
 
-I closed the journal. The new notebook, first entry, the ink still drying.
+I released the transmit button. The microphone sat on the desk, silver and quiet. The hum of the emitter filled the room.
 
-Below, Sienna finished her laps. She looked up at the roof. I looked down. Four stories and six weeks and everything that had happened between us.
+I sat there for a while. My hands were shaking — not fear this time. The kind that comes after you've done something irreversible and the adrenaline is turning into something between relief and terror.
 
-She waved.
+Through the window, the campus was quiet in the early evening light. The track, empty — Sienna had finished her laps. Caleb's drawings taped to a bulletin board on the quad. Marcus's wrench audible even from the third floor.
 
-I waved back.
+The CB on the desk crackled. Static. Then a voice — distant, broken, a man's voice from somewhere south, maybe thirty miles out, maybe more:
 
-Then I went downstairs to help Marcus with the truck. I didn't know anything about trucks. I'd learn.
+"— heard you. We heard you. There are twelve of us. We have a pharmacy. We didn't know about the beta-blockers. We're —"
+
+Static swallowed the rest. But the voice had been there. Someone had heard.
+
+I picked up the microphone.
+
+"This is Nate Carver. I hear you. Tell me your location. Tell me what you need. I'm listening."
+---

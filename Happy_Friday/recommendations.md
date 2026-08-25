@@ -47,7 +47,20 @@ None of this requires re-conceiving anything. Estimated work: a hard continuity 
 
 **Tier 2 complete** (items 9–21): October→November swept for Ch9–13; the newly-discovered November→December drift swept for Day 39+; all §1.4 elapsed-time phrases corrected; Act Three's trail days relabelled ("the fifth day out") so they can't be misread as outbreak days; Lyle counts reconciled to Ch16's table (Day 13 = 27); Dale's Suboxone clock fixed; the Atwoods truck introduced as **Leonard Fenn's pickup**, which also fixes the impossible Merle Haggard CD; tents added to the packing list with the weight rationale; the doubled final church service merged; Helen Rydell renamed Verna to separate her from Helen Lyle; survivor-group counts reconciled; Moss's journal-entry citations pointed at entries that exist; the Pig Trail and Interstate 49 corrected; the Taylor Swift lyric replaced with title-and-description only; the wooden-zoo inventory reconciled; `characters.md` corrected (Sienna's description, Nate's wardrobe, Jim's age).
 
-**Still open:** Tiers 3–5.
+**Tier 3 partially complete:**
+
+| Item | Resolution |
+|---|---|
+| §6.2 "Delia's Shift" | **Written** — 1,345 words, filed as `chapter_01b`, between Ch1 and Ch2. |
+| §6.4 Phil | **Done** — the Highway 71 gas station rewritten as Phil's sedation regime. The trade is now the engine: Phil wants the benzodiazepines specifically, and the group hands them over. |
+| §6.1 Act Four | **Done** — new **Ch30 "A Fearful Heart"** (2,500 words). Jim's heart fails; a cardiac event is a catecholamine event, so dying puts him over the threshold; Nate says the unsayable and they restrain him per his own Ch11 directive; he does not turn. Act Four is now **10,794 words across 5 chapters** (was 7,816 across 4). Ch31 and Ch32 revised to follow. |
+| §6.3 Merge Ch7 into Ch6 | **Retired.** Obsolete once Journal #2 was restored to Ch7 in Tier 1 — it is no longer a stub. |
+| §6.2 Lyles interstitial | **Deferred** by decision. Read the book with one interstitial before adding a second. |
+| §6.3 Split Ch21 | **Not done.** Ch21 is now ~11,500 words after the Phil rewrite, so the case is stronger, but it renumbers 22–32 a third time. Worth batching with any remaining structural work. |
+
+**Chapter count is now 32 plus one interstitial.** All references in this report reflect the pre-Act-Four numbering for Ch28–31; the Act Four chapters are now 28 Archive, 29 Inventory, **30 A Fearful Heart**, 31 Broadcast, 32 Journal.
+
+**Still open:** the Ch21 split, Tier 4 (compression), Tier 5 (line pass), and the two deferred Tier 2 items (§2.2, §2.3).
 
 **Deferred from Tier 2, needs a decision:** §2.2 (Ch2 narrating Ch3's green-tomato woman and laundry-building strangers before they appear) and §2.3 (Ch3 and Ch4 both narrating the night of Day 2). Both are prose restructuring rather than mechanical fixes and were left alone. Note that §1.2's month sweep is now the largest remaining continuity item, and the date anchor change locks it in — with Day 0 on Oct 23, the book crosses into **December at Day 39**.
 

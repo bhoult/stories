@@ -1,6 +1,6 @@
 # Chapter 29: Inventory
 
-Day 43. I took inventory.
+Day 45. I took inventory.
 
 Not of supplies — Moss had those catalogued with a precision that made Maria's pantry look casual. The campus pharmacy basement held months of medications. The cafeteria stores, supplemented by the campus greenhouse that a botany grad student had been maintaining, provided adequate if monotonous calories. Water came from the campus wells. Power came from the solar array, most of it consumed by the emitter. The infrastructure was fragile but functional. The supplies weren't what I needed to count.
 

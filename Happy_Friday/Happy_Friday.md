@@ -4739,81 +4739,105 @@ This was the first thing I'd written since the hillside. The machinery had been 
 
 The next day we found the town.
 
-It wasn't much — a bend in the highway where a gas station, a general store, and a barbecue restaurant clustered around an intersection like survivors huddling for warmth. The kind of place that had survived on Pig Trail tourists: bikers on weekend rides, families stopping for pulled pork and sweet tea, college kids from Fayetteville driving up to see the fall leaves. A sign out front of the restaurant said WORLD FAMOUS SMOKED RIBS. The world that had made them famous was gone.
+It wasn't much — a bend in the highway where a gas station, a general store, and a barbecue restaurant clustered around an intersection like survivors huddling for warmth. The kind of place that had survived on weekend tourists: bikers on weekend rides, families stopping for pulled pork and sweet tea, college kids from Fayetteville driving up to see the fall leaves. A sign out front of the restaurant said WORLD FAMOUS SMOKED RIBS. The world that had made them famous was gone.
 
-Someone had fortified the gas station. Plywood over the windows, reinforced with sheet metal from the restaurant's roof. A pickup truck parked sideways across the entrance, blocking the lot. Barbed wire — actual barbed wire, probably from a farm supply — strung between the gas pumps. And on the roof, behind a low wall of sandbags, a man with a deer rifle watching us approach.
+Someone had fortified the gas station, and they had done it well. Plywood over the windows, screwed not nailed, reinforced with sheet metal off the restaurant roof. A pickup parked square across the entrance. And on the roof behind a low wall of sandbags, a man with a deer rifle, watching us come.
 
-"That's far enough," he called. We were fifty yards out. The shopping carts rattled to a stop.
+"That's far enough."
 
-Marcus raised both hands. "We're passing through. Heading north."
+Marcus raised both hands. "Passing through. Heading north."
 
-"Nobody passes through. You go around."
+There was a pause while the man on the roof spoke to somebody below. Then the barricade truck's door opened and a woman came out — mid-forties, sunburned, a shotgun at port arms with the ease of somebody who grew up around them — and behind her, unhurried, a man in a fleece vest carrying a clipboard.
 
-"There's no around. The highway is the road."
-
-A pause. The man on the roof consulted someone below — I could hear voices, muffled, the acoustics of people arguing inside a metal-and-plywood box. Then a woman emerged from behind the truck barricade. Mid-forties, sunburned, a shotgun held at port arms with the casual competence of someone who'd grown up with guns.
-
-"How many?" she asked.
+"How many?" the woman said.
 
 "Eight. One child, one elderly."
 
-She looked at us — really looked, the way you assess livestock or weather. Counting heads, reading posture, calculating threat. Her eyes lingered on Marcus's crossbow, on the hatchets at Dale's and Sienna's hips.
+The man with the clipboard was already writing. He looked up at us over the top of it — a soft, tired, entirely pleasant face, the face of somebody who has explained the return policy nine thousand times and has never once raised his voice about it.
 
-"You're armed."
+"Any of you agitated?" he asked.
 
-"Lightly. We're not looking for trouble."
+Nobody answered, because it was not a question anybody knew how to take.
 
-"Nobody's looking for trouble. Trouble shows up anyway." She lowered the shotgun half an inch. "What do you have to trade?"
+"It's not a trick question. I'm asking whether anyone in your group is currently distressed. Grieving, panicking, angry. It matters and I'd rather ask than guess."
 
-This was Marcus's territory — the negotiation, the reading of a room. He stepped forward, slow, hands visible. "Medication. Blood pressure meds, antibiotics, anti-inflammatories. Some painkillers — prescription, from a pharmacy."
+"We're fine," Marcus said.
 
-Interest flickered across her face. Medication was currency now — more valuable than food, more valuable than ammunition, because you couldn't grow it or reload it or find it in the woods. When the pharmacies were empty, the medication was gone.
+"Good." He made a note. "I'm Phil. What do you have to trade?"
 
-"What do you want?"
+---
 
-"Food. Canned goods, dried meat, whatever you can spare. We're three days from Fayetteville."
+Marcus started the way Marcus always started, laying out the inventory: blood pressure medication, antibiotics, anti-inflammatories, some prescription painkillers.
 
-They let us approach. Not inside — we traded through the barricade, items passed over the hood of the pickup truck. Maria handled the inventory, counting pills, portioning carefully, keeping enough of Ruth's atenolol for the remaining days while trading the surplus antibiotics and ibuprofen she'd stockpiled from the church's first-aid supplies. In exchange: twelve cans of beans, a bag of rice, a sleeve of beef jerky, and a gallon jug of water.
+Phil listened to all of it politely and then said, "Benzodiazepines."
 
-There were nine of them inside the gas station. I could see them through the gap in the plywood — faces in the dim interior, watching us the way the Turned watched from a distance, with that guarded, calculating patience. A teenager, roughly my age, stared at me from behind the counter. He had the look — the hollowed-out, too-old look that I recognized because I saw it in every reflective surface. We were the same age and we were both ancient.
+Marcus stopped.
 
-I recognized the pattern. The Lyles' house. The fortified position, the barricade, the perimeter defense. The belief that if you built the walls high enough, the world would stay outside.
+"I'm sorry to be blunt. You've got eight people who walked here from Clarksville and you raided a pharmacy on the way, which means you have benzodiazepines. Diazepam, lorazepam, clonazepam, I'm not particular. I'll pay very well." He turned the clipboard around, and there was a chart on it. An actual chart, ruled in pencil, with names down the left side. "I'm not going to insult you by pretending it's for something else."
 
-"How long have you been here?" I asked the woman.
+I looked at the chart, and then I looked past him at the gap in the plywood, and I did the arithmetic that I do, and it took about a second and a half.
 
-"Since the beginning. Five and a half weeks."
+There were maybe a dozen of them inside. They were not doing anything. That was the thing my brain caught on first — in a room that size you expect motion, somebody adjusting something, somebody bored. These people were seated, mostly, in a dim room in the middle of the afternoon, and the ones who were upright moved through it like people wading. A woman sat against the drink cooler with her hands in her lap and her eyes open, and in the whole time we stood there she did not change position once.
 
-"How many were you when you started?"
+And at the counter, a boy about my age, watching us come. Same age, same nothing behind the face. I had been telling myself for two weeks that I recognized that expression because I saw it in every reflective surface I passed. I was wrong about that. What was on him wasn't exhaustion.
 
-She didn't answer, which was its own answer. More than nine. Maybe fifteen, maybe twenty. The attrition of a static position — the Turned pressing in, the supplies dwindling, the perimeter shrinking.
+"How long has she been like that?" I said. "By the cooler."
 
-"You should move," I said. The words came out before the social calculus could stop them. "South. Fayetteville. We've heard there's a research group at the university — someone working on the frequency."
+"Eleven days," Phil said. "She's safe."
 
-"We've heard a lot of things."
+---
 
-"The static defense doesn't hold. I've seen it. The Turned concentrate around fixed positions — the noise, the lights, the human smell. The longer you stay, the more of them gather. The density builds until it tips into frenzy and the frenzy destroys whatever you've built."
+He explained it standing in the sun with his clipboard, and the worst thing about it was that he explained it well.
 
-The woman looked at me. The way adults look at children who say things children shouldn't know. "How old are you?"
+"You already know the mechanism, or you wouldn't have made it this far. Fear turns you. Not proximity, not contact — fear. Everybody who ever told me to calm down was correct." He said it without any edge at all. "We lost eleven people in the first nine days. Every one of them panicked. Every one of them turned. I sat down afterward and I worked out that there is exactly one variable in this and it is not one you can leave to people's discretion, because people are not reliable about it. So I stopped leaving it to their discretion."
 
-"Fifteen."
+"You're drugging them," Sienna said.
 
-"And you're an expert on survival strategy."
+"I'm dosing them. There's a schedule." He tapped the chart. "It's in the water for the general population, because that's the only way to be consistent, and it's individual for the ones who need more. Some people need more. Grief especially — grief runs high for weeks and it doesn't respond to being talked to." He looked at the boy behind the counter, and something crossed his face that I could not read and did not want to. "That's my nephew. He lost his mother and his sister in the same night. He is alive. Sixteen days now."
 
-"I'm an expert on what I've observed. And I've observed that everyone who fortifies dies. Everyone who moves survives. The math isn't complicated."
+"He's not there," Sienna said.
 
-She didn't respond. Behind her, through the gap in the plywood, the teenager was still watching me. He'd heard. Whether he believed was a different question.
+"No," Phil agreed. "But he's alive, and the version of him that was there would not be. I've done that arithmetic more times than you have and it comes out the same way every time." He turned to me — I don't know why me; maybe because I hadn't said anything, and Phil was a man who noticed who wasn't talking. "You've done it too. I can tell by your face. Tell me where the error is and I'll change the system today."
 
-We left. Shopping carts loaded with the traded food, wheels rattling on the asphalt, the gas station shrinking behind us. Marcus walked beside me.
+I opened my mouth.
 
-"You tried," he said.
+Here is what I had: that a person is not only the part of them that can be kept breathing. That what he was protecting them from was also what they were made of. That there is a difference between a man who chooses to be calm and a man who has had the choosing removed.
 
-"They won't move."
+And underneath all of that, in the place where I actually live, the machinery ran the numbers and reported that Phil's group had lost eleven people in nine days and nobody in the four weeks since, and that ours had lost the Lyles and the ranch house and three hundred people on a wire, and that if you scored it the way I score everything, he was winning.
+
+"I don't have one," I said.
+
+"No," Phil said, kindly. "Nobody does. Believe me, I ask."
+
+---
+
+We made the trade.
+
+I could dress that up. Maria did the counting, and Maria is the one who says *know the cost*, and the cost was Ruth's blood pressure and Caleb's calories and twenty-five miles of highway with nothing in the carts. She kept the propranolol and the atenolol. She handed over the diazepam and most of the clonazepam. Twelve cans of beans, a bag of rice, a sleeve of jerky, a gallon of water.
+
+I stood there and let it happen and did not say a word, and I knew exactly what I was doing, and I did it anyway. Add it to the pile.
+
+The boy behind the counter watched us load the carts. When we started north he raised his hand — not waving, just lifting it off the counter a few inches and putting it back down, and I have thought about that gesture more than I have thought about almost anything else on that highway, because I could not tell you whether it was a greeting or something trying to get out.
+
+---
+
+We walked. Nobody said anything for a long time.
+
+Then Sienna said, "They're not survivors."
 
 "No."
 
-"They'll die there."
+"They're the Turned with better management." She said it to the road, not to me. "He's got a room full of people who can't be scared and can't be sad and can't leave. That's the whole thing. That's what it does to you. He just gets there slower and he writes it down."
 
-"Probably." Marcus adjusted the crossbow on his shoulder. "You can't save people who don't want to be saved. That's not a failure. That's a boundary."
+Marcus, on my other side: "You want to go back and argue with him?"
+
+"No," I said.
+
+"Good. Because he'd win." He shifted the crossbow on his shoulder. "You can't save people who don't want to be saved. That's not a failure, that's a boundary. But I'll tell you the part that's going to keep me up — those folks would want to be saved. They just can't get to the wanting from where he's put them."
+
+I didn't answer. I was thinking about the four propranolol tablets in my jacket pocket, and about the sandwich bags I'd handed out in a church basement six weeks ago, one to each person, *break glass in case of catecholamine spike*. I'd been proud of that. I'd written it in the notebook.
+
+The distance between what I'd done and what Phil was doing was a matter of dosage and consent, and I had spent two days proving to myself that I am not a person who can be trusted with either one.
 
 A quarter mile past the gas station, a farmhouse sat back from the highway behind a collapsing fence. The house was empty — door open, curtains moving in the wind. But behind it, in a tilted coop with chicken wire peeling off the frame, something was alive and making sounds about it.
 
@@ -5781,7 +5805,7 @@ That evening, in the seminar room, I opened the journal to the entry about the f
 
 # Chapter 29: Inventory
 
-Day 43. I took inventory.
+Day 45. I took inventory.
 
 Not of supplies — Moss had those catalogued with a precision that made Maria's pantry look casual. The campus pharmacy basement held months of medications. The cafeteria stores, supplemented by the campus greenhouse that a botany grad student had been maintaining, provided adequate if monotonous calories. Water came from the campus wells. Power came from the solar array, most of it consumed by the emitter. The infrastructure was fragile but functional. The supplies weren't what I needed to count.
 
@@ -5964,11 +5988,178 @@ I looked at her. She looked at me. The hallway was empty and the emitter hummed 
 ---
 
 
-# Chapter 30: The Broadcast
+# Chapter 30: A Fearful Heart
+
+I told him on the Thursday, which was Day 48, standing in the corridor outside the lab while he had his hand on the door frame and was pretending that was a thing people do.
+
+"Your heart's failing."
+
+Jim didn't move his hand. He looked at me for a while with the steady, luminous look, the one that had gotten seven people across a highway and sixty miles of mountain and never once raised its voice, and then he said, "I know, son."
+
+"I've known for six days. I counted your steps between the dormitory and the lab and it's gone from ninety-one to a hundred and thirty-four because you stop twice now. Your color's wrong. You sat down at breakfast before you got to the table, which means your legs went first and you decided to make it look like a decision."
+
+"That's very thorough."
+
+"It's what I do." I heard it come out and I let it stand, because for once it wasn't a place to hide. "I should have said it a week ago."
+
+"Why didn't you?"
+
+I had an answer ready. It was a good one, it was about not wanting to take something from him in front of the others, and it was a lie, and I was standing in a hallway with a man who was going to be dead inside a week and I found I could not make myself say it.
+
+"Because saying it makes it mine," I said.
+
+Jim nodded slowly. He took his hand off the door frame, which cost him something, and he put it on my shoulder instead, which I understood was not about balance.
+
+"That's the truest thing anybody's said to me on this campus," he said.
+
+---
+
+I want to put down what he asked for, because he asked carefully, and because a man's last instructions deserve better than my memory of them.
+
+He asked me not to tell Ruth. I said no. He looked at me for a long moment and then he laughed — a real one, short, surprised — and said, "Well. All right then."
+
+He asked whether Moss had anything. She did not. She has a laboratory full of spectrometers and a walk-in cold room and eleven varieties of pipette, and she is a research biologist and not a cardiologist, and the nearest catheterization lab is in a hospital seventy miles east that has been standing empty since October. Howard found nitroglycerin in the campus health center. Maria found aspirin. That is the entire arsenal that the twenty-first century was able to bring to bear on Jim Whittaker's left anterior descending artery.
+
+And he asked me — this is the part — he asked me whether I remembered what he'd said in the basement.
+
+I did.
+
+*I will not ask anyone in this room to end a life. Not mine. Not anyone's. If I turn — restrain me. Pray over me. Wait. And if there is no change, then put me in God's hands outside this building and let Him decide what mercy looks like.*
+
+"That still stands," Jim said. "All of it. And son — you're going to have to be the one who says it out loud, because they won't. Ruth won't. Marcus will think it and swallow it. You're the only one in this building who says the thing nobody wants to hear."
+
+"I know."
+
+"I'm not asking you to be comfortable with it."
+
+"That's good," I said. "Because I'm not going to be."
+
+---
+
+It happened on the Saturday, Day 50, at about four in the afternoon.
+
+He was in the seminar room with Caleb, doing the breathing — four in, hold, six out — which had become a thing the two of them did in the afternoons whether Caleb needed it or not, and which I think by that point was mostly for Jim. Caleb came and got me. He didn't run. He walked very fast and very straight with his hands at his sides and he said, "Jim's on the floor and he says he's fine," and that is how a seven-year-old tells you.
+
+Jim was grey. He was sitting with his back against the leg of a seminar table with one hand flat on his sternum, and he was breathing in the four-count, and the four-count was the only thing about him that was working properly.
+
+Maria got the aspirin into him. Moss got a blood pressure cuff on him — the pink one, Sienna's, with the cartoon heart on the display, which is the detail I have never been able to get out of my head. Eighty-four over fifty. Then seventy-nine over forty-eight. Then the numbers stopped being useful.
+
+And his heart rate was one hundred and thirty-one and climbing.
+
+Nobody said anything about that. Everybody in the room knew what it meant and nobody said it, and I stood there for four or five seconds and watched them all not say it — Ruth on the floor with his hand in both of hers, Marcus in the doorway with his arms hanging, Dale gone completely still — and I understood that Jim had been right about them, and that he had been right about me, and that this was the thing.
+
+"He's going into the range," I said.
+
+Nobody answered.
+
+"A cardiac event is a catecholamine event. Adrenaline, noradrenaline, cortisol, all of it, dumped at once, and it will keep dumping until his heart stops. He is going to cross the threshold before he dies. He knew that. He told me on Thursday, and he told all of us in a church basement on Day Twelve, and what he asked for was restraint."
+
+Ruth said, "No."
+
+"Ruth—"
+
+"He is *dying*, Nathan." She had never once used my whole name. "You want to tie him to a table."
+
+"I want to do what he asked for. He asked in front of witnesses and he made every one of us promise it for each other, including you, and you said if someone was willing to make it quick you'd consider it a kindness." My voice was not doing what I wanted it to do. "I'm not asking anybody to make it quick. He didn't want that. He wanted restraint and prayer and waiting and I am going to give him all three of them and I need somebody to help me."
+
+The room did not move.
+
+Then Dale went and got the paracord out of his pack.
+
+---
+
+We did it as gently as it is possible to do a thing like that, which is not very. Marcus took his shoulders. Dale did the wrists — Dale, whose hands do not shake anymore, and who has been restrained himself, in a room in Fort Smith, twelve years ago, and who never said so and did not have to. We used the tarp straps and the paracord and we ran them under the seminar table, and we padded his wrists with a folded fleece because Ruth stood over us and made us, and I have never in my life been more grateful to be made to do something.
+
+Jim was conscious for most of it. He knew exactly what was happening. At one point he tried to help — tried to move his arm into a better position for Dale — and Dale had to turn his face away for a second.
+
+"Thank you," Jim said, when it was done.
+
+Ruth made a sound.
+
+"Ruth," he said. "Ruth. Look at me. This is the best thing anybody's ever done for me. I'd rather go out of this world tied to a table and still be *me* when I go than come loose in this room and put my hands on that boy." His eyes went to Caleb, who Sienna had taken out into the hall and who was standing in the doorway anyway because there was no version of this where he was going to be anywhere else. "Somebody get that child in here. He's not going to be told about it later. He's going to be here for it and he's going to see that it was all right."
+
+So Caleb came in and sat by his head and held two of his fingers, which was all there was to hold.
+
+---
+
+Then we waited, which is the part nobody prepares you for.
+
+It took two hours and ten minutes.
+
+The heart rate went to one hundred and forty and stayed there. I watched the number on that stupid pink display and I did the only thing I know how to do, which was count, and Jim went past every threshold I had ever written in the notebook and he did not turn.
+
+I don't know how to write down what that was like. I had a model. My model said three hundred picograms per milliliter sustained for two minutes and Jim was four hours past any reasonable version of that, and my model was wrong, or it was incomplete, or the fifty milligrams of metoprolol he had taken twice a day for eleven years was doing something at the receptor level that I do not have the education to describe, or thirty years of a man practicing being unafraid had laid down something in his nervous system that the organism could not find a handle on.
+
+Moss said afterward that it was the beta-blockade. She said it flatly, the way she says everything, and then she was quiet for a second and said, "Probably," which from her is an enormous concession.
+
+Ruth said it was not the beta-blockade.
+
+I have thought about it more than I have thought about almost anything, and here is where I have landed: they are both right and it does not matter which mechanism you name, because Jim held both of them in one hand for six weeks and never once asked me to choose, and it would be a poor way to remember him if I started choosing now.
+
+He talked, on and off. Not much and not always to us. He asked Ruth whether she'd finished the book with the Scottish duke in it and she said she had and it was terrible and he said good. He told Marcus to fix the truck. He said "Eleanor" once, twice, and then a third time in a completely different voice, and Ruth put her hand on his forehead and said "Not yet, Jim," and he said "No. All right."
+
+Near the end he said my name.
+
+"Nate."
+
+"I'm here."
+
+"You said the thing nobody wanted to hear."
+
+"Yes."
+
+"That's the whole job, son. That's the entire job." He was not looking at me by then; his eyes had gone somewhere over my shoulder. "Don't let them make you feel bad about it and don't start enjoying it."
+
+"I know. I know both."
+
+"I know you know." A long pause, long enough that I thought it was over. Then: "You'd have made a fine deacon."
+
+Which is, I am fairly sure, the funniest thing anyone has ever said to me, and I laughed, in that room, on that afternoon, with my hand on a dying man's arm, and Ruth laughed, and Marcus made a sound in the doorway, and Jim looked pleased with himself in a way I will keep.
+
+He went at six-eleven in the evening. Quietly, the way you'd hope. Ruth had his hand and Caleb had his fingers and Dale was standing behind Ruth with his hands on her shoulders and Marcus had not moved from the doorway in two hours.
+
+We waited another forty minutes after he stopped breathing, because that was in the instructions too. *Wait.*
+
+Nothing happened. Nothing was ever going to happen. He was dead and he was still Jim and the straps had been for nothing.
+
+The straps were not for nothing. We did not know. We could not have known — I have every observation from six weeks in a notebook and none of them told us what was going to happen in that room, and the cost of being wrong was Caleb. We did the correct thing and it turned out to be unnecessary, and those are not the same as each other, and I have to hold both or I will start making decisions based on how they will look afterward, which is how Craig Lyle died.
+
+Dale cut the paracord. He did it before anybody asked him to, and he did it fast.
+
+---
+
+We buried him on the Sunday, Day 51, in the grass between the science building and the education building, inside the perimeter, because outside the perimeter was not a thing any of us could discuss. Howard and Marcus dug it. It took most of the morning and neither of them would let anyone else take a turn.
+
+Ruth read Isaiah 35, because Jim had read it to us in a church basement on the night before we left and because Ruth does not cry in front of people and reading was something she could do with her voice under control.
+
+*Strengthen the weak hands, and make firm the feeble knees. Say to those who have a fearful heart, "Be strong; fear not."*
+
+She got to *a fearful heart* and stopped for about four seconds, and then she went on and finished it, and put the Bible down, and said, "He would want me to say that the grammar in that translation is a great deal better than most of what I've read this year."
+
+Caleb put a wooden animal in the grave. I don't know which one. He didn't show anybody and nobody asked him.
+
+Maria did not count anything for two days, which frightened me more than the funeral did.
+
+---
+
+I had the last watch that night, sitting on the steps of the science building where Jim used to sit with Caleb, and I did not write anything, and the emitter hummed in the walls behind me the way it always does.
+
+Six weeks ago a man put a piece of cardboard in a church window that said KEEP CALM. COME INSIDE. DON'T RUN, and set it at the angle where a driver on Highway 21 would catch it, and made coffee for everyone who came through the door so he could watch their hands. Everything I have — Sienna, Ruth, Marcus, Dale, Maria, Caleb, the notebook, the whole of it — comes down through that sign. I did not build any of this. I inherited it from a seventy-three-year-old pastor with a bad heart who was wrong about the mechanism from the first day to the last and right about every single thing that mattered.
+
+On the highway two weeks ago I sat down on a center line and told myself that the only part still available to me was the next one.
+
+The next one was Jim. I was there for it. I said the thing out loud.
+
+It did not feel like enough. I understand now that it is not supposed to.
+
+
+# Chapter 31: The Broadcast
 
 The radio room was on the third floor of the science building — a converted communications lab with a transmitter that Moss's engineering grad student had boosted to broadcast over fifty miles. Far enough to reach the river valley. Far enough to reach anyone still listening in the towns and homesteads and hiding places scattered across the Ozarks.
 
 The microphone was a desktop model, silver, old. The kind they used for campus radio before the campus radio stopped. It sat on the desk in front of me like a small, attentive animal, waiting.
+
+I had meant to do this a week earlier. Then Thursday happened, and Saturday, and Sunday morning between the science building and the education building with Howard and Marcus taking turns on a shovel neither would give up. Moss asked me twice whether I wanted to wait longer. I said no both times, and the second time I told her why: there were people out there who had somebody in the room with them who was going grey and quiet, and every day I sat on this was a day one of them didn't know what I knew.
 
 Moss was in the doorway. "The transmitter is live. You'll be on the frequency I've been using for the scientific bulletins. Anyone with a CB or shortwave will hear you."
 
@@ -5986,6 +6177,10 @@ I pressed the transmit button.
 
 "This is Nate Carver. I'm fifteen years old. I'm broadcasting from the University of Arkansas in Fayetteville. I don't know what I'm doing. I want to start with that."
 
+And then, because it was true and because I had decided on the stairs coming up here that I was not going to do this the tidy way:
+
+"We buried a man yesterday. His name was Jim Whittaker and he was a pastor in Clarksville and he is the reason any of the rest of us are alive. He did not turn. His heart gave out and he stayed himself the whole way down, and I am going to come back to why, because it is the most useful thing I have ever had to tell anybody."
+
 I told them. All of it. The rules — the mechanism, the threshold, the beta-blockers, the voices, the density, the frenzy. The things I'd learned by watching people die because they didn't have the information. I told them about fortification and why it kills you. I told them about the Turned getting smarter. I told them that the damage they carried — the addiction, the depression, the grief — was their skillset now, that managing a craving was the same mechanism as managing fear. I told them to write it down.
 
 I read from the notebook. The entries I'd written in a trailer, in a church, on a trail, in a pulloff on a highway covered in blood. The wrong parts and the right parts and the parts I still couldn't classify. The journal was the survival tool — an honest record of the past, failures included, and the only map any of us had.
@@ -5998,13 +6193,15 @@ I pressed the button again.
 
 "Sorry," I said. "I had to stop for a second. That's going to happen. That's part of it too — the stopping. If you're out there and you're managing your fear and it's working and then one day it stops working, that's not failure. That's the bill coming due. You stop. You breathe. You start again. I'm starting again."
 
+I told them about Jim where I said I would. The metoprolol, fifty milligrams twice a day for eleven years. The thirty years of practice at not being afraid, which I cannot measure and will not discount. A cardiac event dumps every stress hormone the body has and it does not stop dumping, and he went four hours past every threshold in my notebook and the organism never got a hand on him. I told them I don't know which of the two did it. I told them that a man I trusted held both of those answers at once for six weeks and never made anyone choose, and that if they were sitting somewhere with a rosary in one hand and a pill bottle in the other, they should keep both.
+
 I told them the hardest thing last.
 
 "I'm not going to tell you to come to Fayetteville. We have an emitter here that keeps the Turned back, but it won't last. The organism adapts. The range is already shrinking. What we have here isn't a fortress — it's a lab. A place where people are learning. And the learning is the thing that matters, not the walls or the frequency.
 
 "So I'm going to keep broadcasting. Dr. Moss has data — medication protocols, frequency specifications, everything she's learned. I have the human part — the mistakes, the lessons that don't fit in a lab report. Between us, we'll give you what we can. What you do with it is yours.
 
-"Stay calm. Stay small. Stay quiet. Write it down.
+"Stay calm. Stay small. Stay quiet. Write it down. Say the thing nobody in the room wants to hear, and then don't start enjoying it.
 
 "This is Nate Carver. I'm fifteen. I survived. Not because I was brave. Because I was slow, and scared, and I paid attention.
 
@@ -6032,9 +6229,9 @@ I picked up the microphone.
 ---
 
 
-# Chapter 31: The Journal
+# Chapter 32: The Journal
 
-Day 45.
+Day 53.
 
 I sat on the roof of the science building at dusk. The frequency emitter hummed behind me — its speakers and antenna array mounted on the parapet, the sound so constant it had become the texture of the air. You didn't get used to it. You learned to carry it.
 
@@ -6042,7 +6239,9 @@ The campus spread below me in the last light. The quad, the dormitories, the tra
 
 Below, in the quad, Sienna was running laps. Controlled. Steady. Her breathing measured, her stride long, the mechanics of a body reclaiming itself from the thing that had tried to take it. She ran toward the edge and turned back. Toward and back. Each lap she pushed closer to the edge and came back, and the margin in her favor was growing.
 
-Caleb was on the steps of the education building with Jim. They were counting breaths. Four in. Hold. Six out. Caleb's small chest rising and falling with the careful concentration of a child who trusted the man beside him. Jim's hand was on the boy's shoulder. His other hand was on the railing, supporting weight he used to carry unassisted. He didn't let Caleb see this. Caleb saw anyway. Children see everything. They just don't always say.
+Caleb was on the steps of the education building, alone, counting breaths. Four in. Hold. Six out. Nobody had told him to keep doing it. He does it in the afternoons at the time they used to do it, on the step where they used to sit, and Ruth has asked us all to leave him to it.
+
+There is a raw place in the grass between that building and the science building. It will be grass again by spring. That is a fact I find I can hold on to and I am not going to apologize for how small it is.
 
 Marcus was under the hood of the truck. The wrench was steady, rhythmic. For the first time in years, he was building something instead of enduring something. The truck might run someday. It might not. 
 
@@ -6050,7 +6249,7 @@ Ruth was in the library. I couldn't see her from the roof but I knew she was the
 
 Dale was on the bench outside the science building, carving. The zoo had grown — beagle, cardinal, fox, turtle, owl, and now something new, something I couldn't identify from the roof but which Dale would later tell me was a dome. A geodesic dome, like the ones Buckminster Fuller designed. "Strongest structure in nature," he said. "All the force distributed evenly. Nothing carries more than its share." He'd carved it for Caleb. Caleb put it in the center of the zoo and called it the animals' house.
 
-Maria was at the whiteboard in the cafeteria, updating the supply calendar. She would always be at the whiteboard. The counting was her prayer, the way Jim's prayer was his practice, the way Dale's carving was his meeting. Same discipline, different doors.
+Maria was at the whiteboard in the cafeteria, updating the supply calendar. She would always be at the whiteboard. The counting was her prayer, the way Jim's prayer had been his practice, the way Dale's carving is his meeting. Same discipline, different doors. She started again on the third day. Nobody said anything about the two days she didn't.
 
 Beyond the perimeter, four hundred yards out, the rooted held their line. A dark forest of grey-green figures at the edge of the frequency's reach, motionless, connected, the root network threading between them like the wiring of a vast and patient brain. Not swaying anymore — growing. The colony watched the campus with the patience of something that was already everywhere and had nothing but time.
 
@@ -6070,7 +6269,11 @@ I picked up the pen.
 
 *I'm going to keep writing them until I run out of things to learn or until I turn, and I don't plan on doing either.*
 
-*Tomorrow we're going to try to reach the group south of here — the twelve survivors who responded to the broadcast. Dr. Moss says there might be a whole network. Sienna says she's coming. Marcus is fixing the truck. Jim says he'll pray for us, which I think means his heart is getting worse and he's not telling anyone, and I think means he knows I know, and I think means we're both carrying that knowledge and neither of us is ready to set it down.*
+*Tomorrow we're going to try to reach the group south of here — the twelve survivors who responded to the broadcast. Dr. Moss says there might be a whole network. Sienna says she's coming. Marcus is fixing the truck.*
+
+*Jim isn't here to pray for us and I have caught myself, twice now, walking toward the seminar room to tell him something. Ruth says that goes on for years and then it doesn't stop so much as it changes shape. Ruth would know.*
+
+*He left me a job and it isn't the notebook. It's saying the thing nobody in the room wants to hear, out loud, on time, to their faces — and not getting to like it. I have been doing the first half of that since Day Two. The rest of it he had to die to teach me and I would give back every page I have written to have learned it some other way.*
 
 *Dale is teaching recovery workshops to people who never thought they'd need recovery skills. Ruth is building something in the library that she won't describe. Maria is counting, always counting, because counting is how she loves us. Caleb has a wooden geodesic dome for his animal zoo and he says the animals live there because it's the safest shape. He's seven and he's right.*
 

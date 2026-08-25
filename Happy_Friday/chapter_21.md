@@ -351,81 +351,105 @@ This was the first thing I'd written since the hillside. The machinery had been 
 
 The next day we found the town.
 
-It wasn't much — a bend in the highway where a gas station, a general store, and a barbecue restaurant clustered around an intersection like survivors huddling for warmth. The kind of place that had survived on Pig Trail tourists: bikers on weekend rides, families stopping for pulled pork and sweet tea, college kids from Fayetteville driving up to see the fall leaves. A sign out front of the restaurant said WORLD FAMOUS SMOKED RIBS. The world that had made them famous was gone.
+It wasn't much — a bend in the highway where a gas station, a general store, and a barbecue restaurant clustered around an intersection like survivors huddling for warmth. The kind of place that had survived on weekend tourists: bikers on weekend rides, families stopping for pulled pork and sweet tea, college kids from Fayetteville driving up to see the fall leaves. A sign out front of the restaurant said WORLD FAMOUS SMOKED RIBS. The world that had made them famous was gone.
 
-Someone had fortified the gas station. Plywood over the windows, reinforced with sheet metal from the restaurant's roof. A pickup truck parked sideways across the entrance, blocking the lot. Barbed wire — actual barbed wire, probably from a farm supply — strung between the gas pumps. And on the roof, behind a low wall of sandbags, a man with a deer rifle watching us approach.
+Someone had fortified the gas station, and they had done it well. Plywood over the windows, screwed not nailed, reinforced with sheet metal off the restaurant roof. A pickup parked square across the entrance. And on the roof behind a low wall of sandbags, a man with a deer rifle, watching us come.
 
-"That's far enough," he called. We were fifty yards out. The shopping carts rattled to a stop.
+"That's far enough."
 
-Marcus raised both hands. "We're passing through. Heading north."
+Marcus raised both hands. "Passing through. Heading north."
 
-"Nobody passes through. You go around."
+There was a pause while the man on the roof spoke to somebody below. Then the barricade truck's door opened and a woman came out — mid-forties, sunburned, a shotgun at port arms with the ease of somebody who grew up around them — and behind her, unhurried, a man in a fleece vest carrying a clipboard.
 
-"There's no around. The highway is the road."
-
-A pause. The man on the roof consulted someone below — I could hear voices, muffled, the acoustics of people arguing inside a metal-and-plywood box. Then a woman emerged from behind the truck barricade. Mid-forties, sunburned, a shotgun held at port arms with the casual competence of someone who'd grown up with guns.
-
-"How many?" she asked.
+"How many?" the woman said.
 
 "Eight. One child, one elderly."
 
-She looked at us — really looked, the way you assess livestock or weather. Counting heads, reading posture, calculating threat. Her eyes lingered on Marcus's crossbow, on the hatchets at Dale's and Sienna's hips.
+The man with the clipboard was already writing. He looked up at us over the top of it — a soft, tired, entirely pleasant face, the face of somebody who has explained the return policy nine thousand times and has never once raised his voice about it.
 
-"You're armed."
+"Any of you agitated?" he asked.
 
-"Lightly. We're not looking for trouble."
+Nobody answered, because it was not a question anybody knew how to take.
 
-"Nobody's looking for trouble. Trouble shows up anyway." She lowered the shotgun half an inch. "What do you have to trade?"
+"It's not a trick question. I'm asking whether anyone in your group is currently distressed. Grieving, panicking, angry. It matters and I'd rather ask than guess."
 
-This was Marcus's territory — the negotiation, the reading of a room. He stepped forward, slow, hands visible. "Medication. Blood pressure meds, antibiotics, anti-inflammatories. Some painkillers — prescription, from a pharmacy."
+"We're fine," Marcus said.
 
-Interest flickered across her face. Medication was currency now — more valuable than food, more valuable than ammunition, because you couldn't grow it or reload it or find it in the woods. When the pharmacies were empty, the medication was gone.
+"Good." He made a note. "I'm Phil. What do you have to trade?"
 
-"What do you want?"
+---
 
-"Food. Canned goods, dried meat, whatever you can spare. We're three days from Fayetteville."
+Marcus started the way Marcus always started, laying out the inventory: blood pressure medication, antibiotics, anti-inflammatories, some prescription painkillers.
 
-They let us approach. Not inside — we traded through the barricade, items passed over the hood of the pickup truck. Maria handled the inventory, counting pills, portioning carefully, keeping enough of Ruth's atenolol for the remaining days while trading the surplus antibiotics and ibuprofen she'd stockpiled from the church's first-aid supplies. In exchange: twelve cans of beans, a bag of rice, a sleeve of beef jerky, and a gallon jug of water.
+Phil listened to all of it politely and then said, "Benzodiazepines."
 
-There were nine of them inside the gas station. I could see them through the gap in the plywood — faces in the dim interior, watching us the way the Turned watched from a distance, with that guarded, calculating patience. A teenager, roughly my age, stared at me from behind the counter. He had the look — the hollowed-out, too-old look that I recognized because I saw it in every reflective surface. We were the same age and we were both ancient.
+Marcus stopped.
 
-I recognized the pattern. The Lyles' house. The fortified position, the barricade, the perimeter defense. The belief that if you built the walls high enough, the world would stay outside.
+"I'm sorry to be blunt. You've got eight people who walked here from Clarksville and you raided a pharmacy on the way, which means you have benzodiazepines. Diazepam, lorazepam, clonazepam, I'm not particular. I'll pay very well." He turned the clipboard around, and there was a chart on it. An actual chart, ruled in pencil, with names down the left side. "I'm not going to insult you by pretending it's for something else."
 
-"How long have you been here?" I asked the woman.
+I looked at the chart, and then I looked past him at the gap in the plywood, and I did the arithmetic that I do, and it took about a second and a half.
 
-"Since the beginning. Five and a half weeks."
+There were maybe a dozen of them inside. They were not doing anything. That was the thing my brain caught on first — in a room that size you expect motion, somebody adjusting something, somebody bored. These people were seated, mostly, in a dim room in the middle of the afternoon, and the ones who were upright moved through it like people wading. A woman sat against the drink cooler with her hands in her lap and her eyes open, and in the whole time we stood there she did not change position once.
 
-"How many were you when you started?"
+And at the counter, a boy about my age, watching us come. Same age, same nothing behind the face. I had been telling myself for two weeks that I recognized that expression because I saw it in every reflective surface I passed. I was wrong about that. What was on him wasn't exhaustion.
 
-She didn't answer, which was its own answer. More than nine. Maybe fifteen, maybe twenty. The attrition of a static position — the Turned pressing in, the supplies dwindling, the perimeter shrinking.
+"How long has she been like that?" I said. "By the cooler."
 
-"You should move," I said. The words came out before the social calculus could stop them. "South. Fayetteville. We've heard there's a research group at the university — someone working on the frequency."
+"Eleven days," Phil said. "She's safe."
 
-"We've heard a lot of things."
+---
 
-"The static defense doesn't hold. I've seen it. The Turned concentrate around fixed positions — the noise, the lights, the human smell. The longer you stay, the more of them gather. The density builds until it tips into frenzy and the frenzy destroys whatever you've built."
+He explained it standing in the sun with his clipboard, and the worst thing about it was that he explained it well.
 
-The woman looked at me. The way adults look at children who say things children shouldn't know. "How old are you?"
+"You already know the mechanism, or you wouldn't have made it this far. Fear turns you. Not proximity, not contact — fear. Everybody who ever told me to calm down was correct." He said it without any edge at all. "We lost eleven people in the first nine days. Every one of them panicked. Every one of them turned. I sat down afterward and I worked out that there is exactly one variable in this and it is not one you can leave to people's discretion, because people are not reliable about it. So I stopped leaving it to their discretion."
 
-"Fifteen."
+"You're drugging them," Sienna said.
 
-"And you're an expert on survival strategy."
+"I'm dosing them. There's a schedule." He tapped the chart. "It's in the water for the general population, because that's the only way to be consistent, and it's individual for the ones who need more. Some people need more. Grief especially — grief runs high for weeks and it doesn't respond to being talked to." He looked at the boy behind the counter, and something crossed his face that I could not read and did not want to. "That's my nephew. He lost his mother and his sister in the same night. He is alive. Sixteen days now."
 
-"I'm an expert on what I've observed. And I've observed that everyone who fortifies dies. Everyone who moves survives. The math isn't complicated."
+"He's not there," Sienna said.
 
-She didn't respond. Behind her, through the gap in the plywood, the teenager was still watching me. He'd heard. Whether he believed was a different question.
+"No," Phil agreed. "But he's alive, and the version of him that was there would not be. I've done that arithmetic more times than you have and it comes out the same way every time." He turned to me — I don't know why me; maybe because I hadn't said anything, and Phil was a man who noticed who wasn't talking. "You've done it too. I can tell by your face. Tell me where the error is and I'll change the system today."
 
-We left. Shopping carts loaded with the traded food, wheels rattling on the asphalt, the gas station shrinking behind us. Marcus walked beside me.
+I opened my mouth.
 
-"You tried," he said.
+Here is what I had: that a person is not only the part of them that can be kept breathing. That what he was protecting them from was also what they were made of. That there is a difference between a man who chooses to be calm and a man who has had the choosing removed.
 
-"They won't move."
+And underneath all of that, in the place where I actually live, the machinery ran the numbers and reported that Phil's group had lost eleven people in nine days and nobody in the four weeks since, and that ours had lost the Lyles and the ranch house and three hundred people on a wire, and that if you scored it the way I score everything, he was winning.
+
+"I don't have one," I said.
+
+"No," Phil said, kindly. "Nobody does. Believe me, I ask."
+
+---
+
+We made the trade.
+
+I could dress that up. Maria did the counting, and Maria is the one who says *know the cost*, and the cost was Ruth's blood pressure and Caleb's calories and twenty-five miles of highway with nothing in the carts. She kept the propranolol and the atenolol. She handed over the diazepam and most of the clonazepam. Twelve cans of beans, a bag of rice, a sleeve of jerky, a gallon of water.
+
+I stood there and let it happen and did not say a word, and I knew exactly what I was doing, and I did it anyway. Add it to the pile.
+
+The boy behind the counter watched us load the carts. When we started north he raised his hand — not waving, just lifting it off the counter a few inches and putting it back down, and I have thought about that gesture more than I have thought about almost anything else on that highway, because I could not tell you whether it was a greeting or something trying to get out.
+
+---
+
+We walked. Nobody said anything for a long time.
+
+Then Sienna said, "They're not survivors."
 
 "No."
 
-"They'll die there."
+"They're the Turned with better management." She said it to the road, not to me. "He's got a room full of people who can't be scared and can't be sad and can't leave. That's the whole thing. That's what it does to you. He just gets there slower and he writes it down."
 
-"Probably." Marcus adjusted the crossbow on his shoulder. "You can't save people who don't want to be saved. That's not a failure. That's a boundary."
+Marcus, on my other side: "You want to go back and argue with him?"
+
+"No," I said.
+
+"Good. Because he'd win." He shifted the crossbow on his shoulder. "You can't save people who don't want to be saved. That's not a failure, that's a boundary. But I'll tell you the part that's going to keep me up — those folks would want to be saved. They just can't get to the wanting from where he's put them."
+
+I didn't answer. I was thinking about the four propranolol tablets in my jacket pocket, and about the sandwich bags I'd handed out in a church basement six weeks ago, one to each person, *break glass in case of catecholamine spike*. I'd been proud of that. I'd written it in the notebook.
+
+The distance between what I'd done and what Phil was doing was a matter of dosage and consent, and I had spent two days proving to myself that I am not a person who can be trusted with either one.
 
 A quarter mile past the gas station, a farmhouse sat back from the highway behind a collapsing fence. The house was empty — door open, curtains moving in the wind. But behind it, in a tilted coop with chicken wire peeling off the frame, something was alive and making sounds about it.
 
