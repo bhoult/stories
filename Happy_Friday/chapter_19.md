@@ -76,7 +76,7 @@ Ruth was slow. Her knees ground audibly on the steep sections, a sound like sand
 
 Caleb fell twice. The first time he tripped on a root hidden under leaves and went down hard, skinning both palms. He cried — briefly, sharply, the cry of a child who is hurt but not broken — and Dale picked him up and brushed the leaves off and said "What do we do when we fall?" and Caleb, still sniffling, said "Get up" and Dale said "That's right" and they kept walking. The second time was on a rock scramble near the ridgeline where the trail crossed exposed sandstone. Caleb's shoe slipped and he slid three feet before Marcus caught him — one hand, casual, the reflexes of a man who'd been catching things that slid for twenty years.
 
-Between falls, Caleb walked. He had the wooden zoo in his jacket pockets — the beagle, the cardinal, the fox — and in his right hand, held carefully, the three wooden chickens Dale had carved the night before. He talked to them. Not loudly, not performing — the quiet, serious monologue of a child explaining the world to something that needed explaining to.
+Between falls, Caleb walked. He had the wooden zoo in his jacket pockets — the beagle, the turtle, the fox — and in his right hand, held carefully, the three wooden chickens Dale had carved the night before. He talked to them. Not loudly, not performing — the quiet, serious monologue of a child explaining the world to something that needed explaining to.
 
 "This part is up," he told them. "But then it goes down. You have to hold on."
 
@@ -144,7 +144,7 @@ Jim: "They're getting it anyway."
 
 Marcus lit a small fire — carefully, in a depression in the rock, the smoke rising into the canopy and dispersing. "No population up here," he said. "Nothing to attract. And the smoke disperses in the canopy before it clears the trees." He'd built fires on overnight hauls, sleeping by the side of his truck. He knew which fires were safe and which weren't, the same way he knew which roads flooded and which ridgelines were exposed.
 
-Caleb fell asleep in Dale's lap, the beagle in one hand and the half-finished cardinal in the other. Dale's hands shook and he held the boy steady and the tremor in his hands didn't travel to the child, and the effort of keeping the two things separate — the shaking and the holding — was visible in his face as a tightness that nobody mentioned.
+Caleb fell asleep in Dale's lap, the beagle in one hand and one of the wooden hens in the other. Dale's hands shook and he held the boy steady and the tremor in his hands didn't travel to the child, and the effort of keeping the two things separate — the shaking and the holding — was visible in his face as a tightness that nobody mentioned.
 
 Marcus pointed at the sky. "Orion," he said. To Caleb, who was asleep and couldn't hear. "Rising in the east. See the belt — three stars in a line. And there —" He pointed. "The Pleiades. Seven sisters. My dispatcher used to call me the seventh sister because I was always the last one in." He said this to the sleeping boy and to nobody else, and the constellations were there — brighter than I'd ever seen them, brighter than I knew stars could be, because there was no light pollution for fifty miles in any direction and the sky was doing the thing it had always been doing and we'd just been too busy to see.
 

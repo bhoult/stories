@@ -54,7 +54,7 @@ I know this because I walked past and saw him and kept walking. Some moments you
 
 At dinner, Caleb asked if there was a playground on campus. "With swings," he specified. "And a slide. And can we play tag when we go outside?"
 
-Sienna and I looked at each other. Not sadness — something closer to jealousy. His biggest problem was finding a place to play tag. Ours was calculating whether the emitter's range would hold through December. He was seven and his parents were gone and he still thought the future contained swings, and we were fifteen and seventeen and we'd stopped thinking the future contained anything at all, and of the two worldviews his was the one I wanted back.
+Sienna and I looked at each other. Not sadness — something closer to jealousy. His biggest problem was finding a place to play tag. Ours was calculating whether the emitter's range would hold through January. He was seven and his parents were gone and he still thought the future contained swings, and we were fifteen and seventeen and we'd stopped thinking the future contained anything at all, and of the two worldviews his was the one I wanted back.
 
 **Sienna.** She was running.
 
@@ -142,7 +142,7 @@ I underlined it a third time and turned the page.
 
 Sienna found me in the hallway outside the radio room. I was sitting on the floor with the notebook open, reading my own handwriting, trying to figure out how to say the things I needed to say to people I couldn't see.
 
-She sat down next to me. She'd been running — not the survival kind, the real kind. Moss had cleared a section of the track inside the emitter's perimeter and Sienna had been running it every morning, and the act of running without dying had done something for her that nothing else could. She was breathing hard and her skin was warm and she smelled like sweat and November air and the cheap soap from the university's emergency supplies.
+She sat down next to me. She'd been running — not the survival kind, the real kind. Moss had cleared a section of the track inside the emitter's perimeter and Sienna had been running it every morning, and the act of running without dying had done something for her that nothing else could. She was breathing hard and her skin was warm and she smelled like sweat and December air and the cheap soap from the university's emergency supplies.
 
 She dropped two things in my lap. Vending machine candy bars — the fun-size kind, from a machine in the dormitory lobby that Marcus had pried open with a flathead screwdriver two days ago. The chocolate was grey with age. We did not care. They were candy bars. We'd eaten freeze-dried beef stew for six weeks and these were *candy bars.*
 

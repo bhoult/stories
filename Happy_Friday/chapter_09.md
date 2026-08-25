@@ -169,7 +169,7 @@ He took a sip from his flask. Small. Measured. Not getting drunk — maintaining
 
 "You know the OHT?"
 
-"I know every road that crosses it. Which means I know where you can get on and off." He looked at me. "It's sixty miles of mountain trail. With a seventy-two-year-old. In October. It's insane."
+"I know every road that crosses it. Which means I know where you can get on and off." He looked at me. "It's sixty miles of mountain trail. With a seventy-two-year-old. In November. It's insane."
 
 "Is there a better option?"
 

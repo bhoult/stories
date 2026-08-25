@@ -22,7 +22,7 @@ The plan was simple because complicated plans produce anxiety. Marcus and Jim wo
 
 We did have one contingency. The hand-crank radio from Henderson's house was positioned on the church roof, wedged against the steeple base where it wouldn't blow off. If Jim and Marcus got into trouble, Sienna would climb out and crank it. Continuous noise, loud, from an elevated position two blocks away. The hymnal experiment had shown thirty seconds of attention from a single sound. A sustained broadcast should buy longer — enough for two men to change direction, take a side street, disappear. It wasn't much. It was what we had.
 
-Dale, from his chair, said something that had nothing to do with the pharmacy and everything to do with the question Marcus had planted two days earlier. "What if we trapped one?"
+Dale, from his chair, said something that had nothing to do with the pharmacy and everything to do with the question Marcus had planted three days earlier. "What if we trapped one?"
 
 The planning paused.
 
@@ -46,7 +46,7 @@ Maria looked at me. She had an expression I was learning to read — the one tha
 
 ---
 
-They left at 10 AM. Jim and Marcus. Two men walking east on a residential street in the quiet of an October morning that smelled like dead leaves and distant fire. Jim had one walkie-talkie clipped to his belt, volume low. I had the other in my hand, beside the binoculars.
+They left at 10 AM. Jim and Marcus. Two men walking east on a residential street in the quiet of a November morning that smelled like dead leaves and distant fire. Jim had one walkie-talkie clipped to his belt, volume low. I had the other in my hand, beside the binoculars.
 
 Sienna was beside me in the steeple. The space was narrow enough that our shoulders almost touched when we both leaned toward the louvers. I was focused on the binoculars. I was also focused on the almost-touching, and it was making me worse at both.
 
@@ -210,7 +210,7 @@ He stopped. The knife was still. Maria, in the pantry closet, had her back to us
 
 On Day 16 — the day between the pharmacy run and the stupidest thing I've ever done — Marcus answered his own question.
 
-He didn't ask permission. Marcus wasn't a committee person. He'd asked the question on Day 10 and nobody had answered it and the silence had been eating at him the way the flask ate at him — a low, persistent hunger for resolution. So at 7 AM, while Jim was on morning watch in the steeple and the rest of us were eating cold oatmeal in the basement, Marcus put on his jacket and picked up the hand hatchet from the tool bag and went out the side door.
+He didn't ask permission. Marcus wasn't a committee person. He'd asked the question on Day 12 and nobody had answered it and the silence had been eating at him the way the flask ate at him — a low, persistent hunger for resolution. So at 7 AM, while Jim was on morning watch in the steeple and the rest of us were eating cold oatmeal in the basement, Marcus put on his jacket and picked up the hand hatchet from the tool bag and went out the side door.
 
 I know this because Jim radioed down. His voice was flat, controlled, the voice of a man watching something he couldn't stop. "Marcus is outside. He's walking toward the lot. He has the hatchet."
 
@@ -254,7 +254,7 @@ They circled for forty minutes. Then, slowly, the hunting posture faded. They st
 
 The hatchet sat on the church steps. Nobody picked it up.
 
-The blade was dark with blood that was already drying in the October air. Marcus had dropped it on his way through the door and it lay on the concrete like an accusation. Maria was the first to address it.
+The blade was dark with blood that was already drying in the November air. Marcus had dropped it on his way through the door and it lay on the concrete like an accusation. Maria was the first to address it.
 
 "Is it transmissible?" she said. "Through blood. Through skin contact. If the organism is in the host's circulatory system —"
 

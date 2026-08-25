@@ -88,7 +88,7 @@ Jim: "He's always known where we are."
 
 **Four.** The medication clock.
 
-"Jim has thirty days of metoprolol at current dose. Ruth has eighteen days of atenolol. The pharmacy run bought time, but not enough — and there isn't another pharmacy in safe range. Dale's Suboxone is at ten days. When it runs out, his withdrawal will spike his catecholamines and he'll need to be managed with propranolol and benzodiazepines, which are stopgaps, not solutions. The medications are a bridge. We need the bridge to reach somewhere."
+"Jim has thirty days of metoprolol at current dose. Ruth has eighteen days of atenolol. The pharmacy run bought time, but not enough — and there isn't another pharmacy in safe range. Dale's Suboxone is at five days. When it runs out, his withdrawal will spike his catecholamines and he'll need to be managed with propranolol and benzodiazepines, which are stopgaps, not solutions. The medications are a bridge. We need the bridge to reach somewhere."
 
 I closed the notebook.
 

@@ -54,7 +54,7 @@ A hundred and eighty pounds of teenager diving for an eighteen-inch gap between 
 
 ---
 
-Seven hours under Mr. Henderson's trailer.
+Ten hours under Mr. Henderson's trailer.
 
 Eighteen inches of clearance. Face in dead leaves and mud and my own vomit, which I'd crawled through and was now lying in. Can't roll over. Can't sit up. Every movement produced sound — the crinkle of leaves, the wet shift of mud, the scrape of my jacket against the trailer's underside. I learned to breathe without moving my chest, pulling air in shallow sips, because even the rise and fall of my ribs made the leaves rustle.
 

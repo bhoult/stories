@@ -1,6 +1,6 @@
 # Chapter 7: The Pattern
 
-We crossed Highway 21 at 7:15 AM on a Tuesday in October, which is not a sentence I expected to describe as the bravest thing I'd ever done.
+We crossed Highway 21 at 7:15 AM on a Wednesday in late October, which is not a sentence I expected to describe as the bravest thing I'd ever done.
 
 Sienna had lain on the couch with her shoes on and her eyes open, watching the ceiling, while I took the hallway floor again because the hallway was the spot I'd claimed through repeated misery and at this point it felt like territory. I'd given her the blanket from my mom's bed. She didn't argue. Athletes know when to conserve.
 

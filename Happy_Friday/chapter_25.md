@@ -16,7 +16,7 @@ What Caleb doesn't know is that he cries in his sleep. Every night. Small, hitch
 
 These are the moments that don't make the journal entries. The tea. The rock. The sound of Ruth turning pages. They happened between the crises the way grass grows between stones. I want you to know about them because the version of this story that only contains fear and strategy and running is not the true version. The true version has chamomile tea in it. The true version has a seven-year-old showing you a rock.
 
-Dale was sitting across from me at the fire, carving. The turtle was nearly finished — the hexagonal plates of the shell emerging with clean, precise strokes. His hands were steady. They'd been steady for days now, the withdrawal broken back around Day 10 on the trail, but I was only now seeing it properly because I'd been inside my own weather system and had stopped noticing anything outside it.
+Dale was sitting across from me at the fire, carving. The turtle was nearly finished — the hexagonal plates of the shell emerging with clean, precise strokes. His hands were steady. They'd been steady for days now, the withdrawal broken back around the tenth day on the trail, but I was only now seeing it properly because I'd been inside my own weather system and had stopped noticing anything outside it.
 
 He looked up and caught me watching his hands.
 
@@ -54,7 +54,7 @@ We stopped for water at a pull-off where the highway widened. Caleb sat on the g
 
 Dale sat on the edge of a shopping cart and looked at us.
 
-"Rock bottom was just training," he said. "And every one of you — every person here who has ever been afraid, or addicted, or depressed, or anxious, or broken in whatever way your particular brain decided to break — has training you don't know you have. Your damage is your skillset. The thing that went wrong is the thing that prepared you. I know that sounds like a motivational poster. I know that. But I'm three weeks past my last dose of Suboxone and my hands are steady and I'm alive and the reason I'm alive is that my brain broke in exactly the right way at exactly the right time and I spent twelve years learning to manage the break."
+"Rock bottom was just training," he said. "And every one of you — every person here who has ever been afraid, or addicted, or depressed, or anxious, or broken in whatever way your particular brain decided to break — has training you don't know you have. Your damage is your skillset. The thing that went wrong is the thing that prepared you. I know that sounds like a motivational poster. I know that. But I'm sixteen days past my last dose of Suboxone and my hands are steady and I'm alive and the reason I'm alive is that my brain broke in exactly the right way at exactly the right time and I spent twelve years learning to manage the break."
 
 Jim, sitting with Caleb on the guardrail: "Dale, that's the best sermon I've ever heard."
 
@@ -110,7 +110,7 @@ Marcus nodded. We walked on. The highway dropped toward the city and the sky wid
 
 **JOURNAL ENTRY #18:**
 
-*Dale is through the withdrawal. Steady hands. Steady voice. Four weeks past his last Suboxone and he's alive and functioning and the reason he's alive is twelve years of sitting in folding chairs and not doing the thing his brain told him to do.*
+*Dale is through the withdrawal. Steady hands. Steady voice. Sixteen days past his last Suboxone and he's alive and functioning and the reason he's alive is twelve years of sitting in folding chairs and not doing the thing his brain told him to do.*
 
 *He taught us radical acceptance. The situation is what it is. Your feelings about the situation are not the situation. This is the most useful sentence I've learned since "the mechanism is adrenaline," and it's more important because it applies to everything — not just the Turned, not just survival, but the grief and the fear and the fact that my mother is standing in a parking lot in Clarksville and I can't save her and the feeling of that is not the thing itself.*
 

@@ -54,7 +54,7 @@ Marcus capped his flask. "The density threshold. She said it varies. She doesn't
 
 Dale's knife had stopped moving.
 
-This was notable because Dale's knife never stopped moving. In the ten days I'd known him, his hands had been in constant motion — carving, whittling, shaping. The beagle. The bird. Small abstract things he didn't name. The motion kept his brain from spinning into the places it went when it was idle.
+This was notable because Dale's knife never stopped moving. In the week I'd known him, his hands had been in constant motion — carving, whittling, shaping. The beagle. The bird. Small abstract things he didn't name. The motion kept his brain from spinning into the places it went when it was idle.
 
 The knife was still.
 
@@ -190,7 +190,7 @@ And separately: *Marcus dreams about Ava. The phone screen going dark. Three day
 
 ---
 
-I went up to the steeple after the broadcast. I needed to think, and thinking happened better with the binoculars and the long view — the park, the road, the Lyles' compound to the north, the Walmart across the interstate to the south. The October sun was low, casting long shadows across the parking lot. The Turned stood in their positions, faces angled toward the light.
+I went up to the steeple after the broadcast. I needed to think, and thinking happened better with the binoculars and the long view — the park, the road, the Lyles' compound to the north, the Walmart across the interstate to the south. The November sun was low, casting long shadows across the parking lot. The Turned stood in their positions, faces angled toward the light.
 
 Jim came up the stairs about twenty minutes later. He didn't say anything at first — just stood at the louvers, looking out at the parking lot with the expression of a man conducting a service for people who couldn't hear him.
 

@@ -14,7 +14,7 @@ For illustration/image generation. Characters listed in order of importance to t
 **Skin:** White
 **Face:** Round at start, sharper by end. "My face looked different in the bathroom mirror — sharper, older, the softness replaced by something that wasn't hardness exactly but was adjacent to it."
 **Clothing (early):** Gym shorts, Clarksville Panthers t-shirt two sizes too small
-**Clothing (mid):** Too-large church-donation khakis and a VACATION BIBLE SCHOOL 2019 t-shirt (after burning his clothes post-septic tank)
+**Clothing (mid):** Vacation Bible School 2019 t-shirt from the church donation box (from ~Day 10). After burning his clothes post-septic tank: too-large church-donation khakis and a ROTARY CLUB — DOVER CHAPTER polo.
 **Clothing (late):** Same khakis, trail-worn, looser from weight loss
 **Equipment:** Binoculars around neck, notebook and pen, blood pressure cuff (pink, inflatable)
 **Distinguishing features:** Always watching, always writing. Intense focused expression Fingers stained with ink.
@@ -29,8 +29,8 @@ For illustration/image generation. Characters listed in order of importance to t
 **Weight:** ~135 lbs (lean, athletic)
 **Build:** Lean, muscular. Runner's body — long stride, powerful legs. "The biomechanics of a state-qualifier in the 400-meter."
 **Hair:** Black, pulled back in a ponytail
-**Skin:** Tan brown. "Bruise on her jaw was a dark purple, vivid against her brown skin."
-**Face:** Asian Strong features, expressive
+**Skin:** Brown. "Bruise on her jaw was a dark purple, vivid against her brown skin."
+**Face:** Strong features, expressive
 **Clothing:** Track pants, CLARKSVILLE PANTHERS hoodie, canvas sneakers (church donation)
 **Distinguishing features:** Moves like an athlete even when standing still. Feet are callused, tough — distance runner's feet. Bruise on jaw (mid-story, from Jim's punch to prevent her turning).
 **Personality:** Action-oriented, impatient with inaction. Brave, impulsive, physically fearless. The thing that makes her exceptional (athletic intensity, elevated heart rate) is also the thing that makes the organism most dangerous to her. "Everything I'm good at is trying to kill me." Warm but direct. Reads people faster than Nate reads situations.
@@ -39,7 +39,7 @@ For illustration/image generation. Characters listed in order of importance to t
 
 ## 3. Jim Whittaker — "Preacher Jim"
 
-**Age:** 70s (referred to as both "seventy" and "seventy-three")
+**Age:** 73
 **Height:** Tall (6'1"–6'3"). "Big man gone thin."
 **Weight:** ~175 lbs (large frame, thinned with age)
 **Build:** Once imposing, now gaunt. Frame suggests he was a powerful man decades ago.

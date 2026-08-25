@@ -40,7 +40,7 @@ Nate said: "The lie is heavier when you carry it alone."
 
 She looked at him. First time. Her eyes were wet and furious — furious at herself for cracking, furious at the world for being a place where seventeen-year-olds sat on guardrails in the dark wondering if their parents were dead.
 
-"I've been carrying mine for five weeks," he said. "My mother. The parking lot. The anger." He paused. "I put it down yesterday. Not the grief — the grief stays. You don't put down grief. But the lie I was telling myself — that the anger was useful, that it was fuel, that I could run on rage and never pay for it — that lie almost killed me. It killed three hundred people on a highway."
+"I've been carrying mine for a little over two weeks," he said. "My mother. The parking lot. The anger." He paused. "I put it down yesterday. Not the grief — the grief stays. You don't put down grief. But the lie I was telling myself — that the anger was useful, that it was fuel, that I could run on rage and never pay for it — that lie almost killed me. It killed three hundred people on a highway."
 
 Sienna wiped her face. Quick, angry, the same gesture she'd made on the hillside.
 

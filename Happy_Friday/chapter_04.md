@@ -18,7 +18,7 @@ The knock came at 10:47 PM. Three knocks. Front door. Polite.
 
 "Nate? Honey? Your mama asked me to check on you."
 
-Lisa Anderson's exact voice — the nasal quality, the stretched vowel in "mama." I had watched her turn six hours ago. Whatever was on the porch was using her voice the way you'd use a key against a lock.
+Lisa Anderson's exact voice — the nasal quality, the stretched vowel in "mama." I had watched her turn thirteen hours ago. Whatever was on the porch was using her voice the way you'd use a key against a lock.
 
 "Nate, are you in there? I brought you some dinner."
 

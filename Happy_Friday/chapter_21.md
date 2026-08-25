@@ -2,7 +2,7 @@
 
 Lake Fort Smith was a man-made lake at the bottom of the mountains — a dam, a spillway, a campground with bathrooms that still smelled like bleach and pine, and a gas station at the highway junction that had been looted for food but not for shopping carts. We took four. The wheels were stiff from sitting in the rain but they rolled, and rolling was the point: sixty miles of trail with packs on our backs had taught us the value of not carrying weight when you didn't have to.
 
-The transition happened in an afternoon. We walked out of the forest and onto pavement and the difference was immediate — the shock of flat ground after two weeks of roots and rocks, the strange smoothness of asphalt under shoes that had molded to uneven terrain. Highway 71 stretched north toward Fayetteville, the old Pig Trail, two lanes of cracked blacktop winding through the mountains. It had been mostly abandoned since Highway 49 was built — the newer, wider road that bypassed the switchbacks and the small towns and the tourist traps that had once sold Ozark pottery and homemade fudge and wooden signs that said BLESS THIS MESS. The Pig Trail was a relic. Now it was our road.
+The transition happened in an afternoon. We walked out of the forest and onto pavement and the difference was immediate — the shock of flat ground after two weeks of roots and rocks, the strange smoothness of asphalt under shoes that had molded to uneven terrain. Highway 71 stretched north toward Fayetteville, two lanes of cracked blacktop winding through the mountains. It had been mostly abandoned since Interstate 49 was built — the newer, wider road that bypassed the switchbacks and the small towns and the tourist traps that had once sold Ozark pottery and homemade fudge and wooden signs that said BLESS THIS MESS. The Pig Trail was a relic. Now it was our road.
 
 Shopping carts on asphalt. The sound was absurd — that rattling, clattering grocery-store sound echoing off the mountain walls, announcing our presence to every Turned within a quarter mile. But the trade-off was worth it: packs in the carts, bodies upright, shoulders and hips finally unburdened after days of grinding. Ruth sat in her cart when her knees gave out, Maria pushing her, the two of them looking like the world's most unlikely grocery run.
 
@@ -46,7 +46,7 @@ The pause was three seconds. It felt longer.
 
 Another pause. Then: "We have an emitter running. Eighty-meter radius. When you reach the campus, approach from the north — Razorback Road. The emitter covers the life sciences building and the surrounding quad. Stay calm, keep your heart rates down, and come straight to us. I'll have the door open."
 
-Marcus looked at me across the fire. The CB crackled with static and the faint hum of the frequency — audible even through the tiny speaker, a sound I'd never heard but that Jim had dreamed about on Day 9. A tuning fork pressed against the bones of the earth.
+Marcus looked at me across the fire. The CB crackled with static and the faint hum of the frequency — audible even through the tiny speaker, a sound I'd never heard but that Jim had dreamed about on Day 7. A tuning fork pressed against the bones of the earth.
 
 "Copy," Marcus said. "We'll be there."
 
@@ -96,7 +96,7 @@ I should say I didn't want it. That's what the journal should record — the rel
 
 But the truth is more complicated than the boy.
 
-Part of me had been waiting for this. The anger — the thing with edges that I'd carried since Clarksville, that had fueled every uphill, that had turned physical pain into something I used instead of something I endured — the anger had been looking for a target it could actually reach. Not the organism, which was everywhere and nowhere. Not myself, whose self-inflicted suffering on the trail was satisfying but pointless. The anger wanted something it could *do.* A way to punish the thing that had taken my mother, even if the punishment landed on the bodies the thing was wearing.  I would not yet know the cost.
+Part of me had been waiting for this. The anger — the thing with edges that I'd carried since Clarksville, that had fueled every uphill, that had turned physical pain into something I used instead of something I endured — the anger had been looking for a target it could actually reach. Not the organism, which was everywhere and nowhere. Not myself, whose self-inflicted suffering on the trail was satisfying but pointless. The anger wanted something it could *do.* A way to punish the thing that had taken my mother, even if the punishment landed on the bodies the thing was wearing. I would not yet know the cost.
 
 The roadblock was the first opportunity I'd had to hurt it.
 
@@ -181,7 +181,7 @@ We ran.
 
 Back through the wire — faster now, less careful, the razor edges catching and cutting and not mattering because the clock was running. Up the hillside, scrambling through scrub oak and dead leaves, Dale's breathing the recovery count — *in two three four, out two three four* — Marcus behind us with the crossbow up, watching the compound below. We reached the observation point — two hundred yards south, above the roadblock, the same hillside where the group was waiting — and I pulled up the binoculars and watched.
 
-The Turned responded. The fifty on the south side oriented first — heads turning, bodies shifting, the collective attention rotating toward the sound like a field of sunflowers tracking the sun. They began to move. Not fast — the aimless drift accelerating into purposeful walking, still individual, still below threshold, but converging. Through the backed-up cars, around the open doors, toward the funnel we'd made in the south barrier. On the north side, the same: fifty more, turning, drifting, drawn by the music that was now loud enough to hear from the hillside, the chorus kicking in with its relentless optimism, played for an audience of the dead. "Shake it off, shake it off."
+The Turned responded. The fifty on the south side oriented first — heads turning, bodies shifting, the collective attention rotating toward the sound like a field of sunflowers tracking the sun. They began to move. Not fast — the aimless drift accelerating into purposeful walking, still individual, still below threshold, but converging. Through the backed-up cars, around the open doors, toward the funnel we'd made in the south barrier. On the north side, the same: fifty more, turning, drifting, drawn by the music that was now loud enough to hear from the hillside, the chorus kicking in with its relentless optimism, played for an audience of the dead. 
 
 The south group reached the funnel first. They filtered through the gap in the barriers — one at a time, then two, then a press of bodies, the funnel doing what funnels do, compressing the flow, accelerating it. Inside the compound, the resident thirty were already agitated — the music was loudest here, bouncing off the jersey barriers and the Humvees, and the incoming bodies were adding density, adding the proximity signals that the organism read as *converge, converge, converge.* The north group hit the north funnel seconds later. More bodies. More density. The compound was filling.
 
@@ -195,7 +195,7 @@ The behavior changed. The twitchiness first — the restless, jerky movements I'
 
 Dale was beside me. His hands were steady. His breathing was the recovery count. He was watching and his face was the face of a man who understood craving in all its forms and was choosing, again, the hard thing.
 
-The shudder. The phase transition. One moment they were milling, individual, restless. The next they were a single thing — a collective body, convulsing, the coordinated patience of the herd snapping into the undirected violence of the frenzy. The sound changed: not the drone but a roar, multi-throated, the sound of a hundred human vocal cords producing something that was not a human sound.  The sound of vocal chords being shredded from pressure and rage.
+The shudder. The phase transition. One moment they were milling, individual, restless. The next they were a single thing — a collective body, convulsing, the coordinated patience of the herd snapping into the undirected violence of the frenzy. The sound changed: not the drone but a roar, multi-throated, the sound of a hundred human vocal cords producing something that was not a human sound. The sound of vocal chords being shredded from pressure and rage.
 
 They hit the wire.
 
@@ -203,9 +203,9 @@ Not because they were aiming — because the wire was what was there. The neares
 
 The wolf knife.
 
-They cut themselves open on the wire. The blades opened skin and muscle and the blood came — not in drops but in sheets, running down the razor edges, pooling on the asphalt, the smell of it rising in the November air. The blood made the wire slick. The slickness let them push deeper. The deeper they pushed, the more the blades cut, and the cutting produced more blood and the blood produced more frenzy and the frenzy produced more pressure and the pressure drove them harder into the wire. "Shake it off! shake it off!" The self-destruction spiral. The soft hands of humans grabbing at cold spirals of razor blades, sliced fingers falling before them, then those same fingerless people were biting those same razors.  The wolf licking the blade. Unable to stop because the thing that was killing it was the thing it craved.
+They cut themselves open on the wire. The blades opened skin and muscle and the blood came — not in drops but in sheets, running down the razor edges, pooling on the asphalt, the smell of it rising in the November air. The blood made the wire slick. The slickness let them push deeper. The deeper they pushed, the more the blades cut, and the cutting produced more blood and the blood produced more frenzy and the frenzy produced more pressure and the pressure drove them harder into the wire. The self-destruction spiral. The soft hands of humans grabbing at cold spirals of razor blades, sliced fingers falling before them, then those same fingerless people were biting those same razors. The wolf licking the blade. Unable to stop because the thing that was killing it was the thing it craved.
 
-The guardrail went next. The left side of the roadblock — the fifty-foot drop, the twisted metal where the semi had already punched through — was the weakest point. The frenzied mass, a hundred bodies pressing and shoving and tearing with no direction and no purpose, crowded toward the edge. The guardrail, already bent, already sheared at the bolts, held for maybe thirty seconds. Then it folded outward like a gate and the bodies behind it didn't stop — couldn't stop, because the frenzy doesn't understand edges, doesn't understand gravity, doesn't understand that the ground disappears — and they went over. Dozens of them. Pushed by the crush behind them, carried by the momentum of a hundred bodies that had nowhere else to go. "Shake it off! shake it off!" The sound of them hitting the rocks fifty feet below was — I will not describe it.
+The guardrail went next. The left side of the roadblock — the fifty-foot drop, the twisted metal where the semi had already punched through — was the weakest point. The frenzied mass, a hundred bodies pressing and shoving and tearing with no direction and no purpose, crowded toward the edge. The guardrail, already bent, already sheared at the bolts, held for maybe thirty seconds. Then it folded outward like a gate and the bodies behind it didn't stop — couldn't stop, because the frenzy doesn't understand edges, doesn't understand gravity, doesn't understand that the ground disappears — and they went over. Dozens of them. Pushed by the crush behind them, carried by the momentum of a hundred bodies that had nowhere else to go. The sound of them hitting the rocks fifty feet below was — I will not describe it.
 
 The music stopped. Mid-chorus — *shake it off, shake it* — and then nothing. The frenzy had reached the Malibu. Through the binoculars I watched them pull it apart. Not strategically, not with purpose — the way a body convulses, the way a seizure moves through muscle. They were bludgeoning the car to death. Fists on the hood, on the roof, on the windshield until it crazed and collapsed inward. Someone tore the door off — not opened, *torn*, the hinges shearing — and the stereo that had been playing Taylor Swift into a massacre went silent and the silence was a mercy I did not deserve.
 
@@ -245,7 +245,7 @@ I looked at Dale. His face was — I saw it, the machinery records even when the
 
 I ran.
 
-I ran like a child runs — blind, graceless, crashing through the scrub oak and the dead leaves and the November brush on the hillside, away from the compound and the wire and the blood and the sounds and Sienna's face and Dale's hand and everything I had done and everything I had become. I ran into the woods because the woods were the only place that wasn't the roadblock and I needed to not be at the roadblock. The branches caught my face, my arms, the cuts from the wire opening again, and I didn't care. I ran until my legs gave out and then I crawled and when I couldn't crawl I stopped and I was somewhere in the Ozark woods, on the ground, alone, and the sounds were still coming out of me and I couldn't make them stop.
+I ran like a child runs — blind, graceless, crashing through the scrub oak and the dead leaves and the winter brush on the hillside, away from the compound and the wire and the blood and the sounds and Sienna's face and Dale's hand and everything I had done and everything I had become. I ran into the woods because the woods were the only place that wasn't the roadblock and I needed to not be at the roadblock. The branches caught my face, my arms, the cuts from the wire opening again, and I didn't care. I ran until my legs gave out and then I crawled and when I couldn't crawl I stopped and I was somewhere in the Ozark woods, on the ground, alone, and the sounds were still coming out of me and I couldn't make them stop.
 
 ---
 
@@ -253,11 +253,11 @@ Sienna found me.
 
 I don't know how long it took — minutes, an hour, the time was broken along with everything else. I heard her before I saw her — the careful footsteps, the brush moving, the sound of someone tracking something through woods they didn't know. She was fast. She'd always been fast. The athlete's instinct for pursuit, repurposed.
 
-She didn't say anything. She sat down on the ground next to me — the cold ground, the dead leaves, the November dirt — and she didn't touch me and she didn't speak and she didn't try to fix it. She just sat. The way Dale had sat with me after dinner on other nights. The way you sit with something that is broken and that you can't repair and that you refuse to leave.
+She didn't say anything. She sat down on the ground next to me — the cold ground, the dead leaves, the frozen dirt — and she didn't touch me and she didn't speak and she didn't try to fix it. She just sat. The way Dale had sat with me after dinner on other nights. The way you sit with something that is broken and that you can't repair and that you refuse to leave.
 
 I don't know what happened in those hours. I know the sounds stopped eventually. I know the light changed — the afternoon moving toward evening, the shadows lengthening, the temperature dropping. I know she stayed. I know that at some point my breathing slowed and the convulsions stopped and I was just lying on the ground in the woods with my face in the leaves and my hands bleeding and the girl who had looked at me with horror sitting beside me in silence, and the silence was not the silence of judgment. It was the silence of someone who had decided that being there was enough, even if being there meant sitting next to the thing she'd seen on the hillside.
 
-That is all I will ever say about this.  What happened is not for a journal or a story to be told. There was no lesson to learn. Those hours belong to nobody, and I wish I could forget them myself.
+That is all I will ever say about this. What happened is not for a journal or a story to be told. There was no lesson to learn. Those hours belong to nobody, and I wish I could forget them myself.
 
 We walked back at dusk. I don't remember the walk. I remember her hand on my elbow — once, brief, guiding me around a root — and I remember the group's faces when we emerged from the tree line. Marcus's face. Dale's face. Jim's face. I did not look at any of them. I could not look at anyone. The machinery was not running. The analytical brain was offline. Whatever remained was something older and simpler — a body that could walk and a pair of eyes that could see and a mouth that would not open.
 
@@ -393,7 +393,7 @@ I recognized the pattern. The Lyles' house. The fortified position, the barricad
 
 "How long have you been here?" I asked the woman.
 
-"Since the beginning. Three weeks."
+"Since the beginning. Five and a half weeks."
 
 "How many were you when you started?"
 

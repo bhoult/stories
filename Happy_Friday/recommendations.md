@@ -45,7 +45,11 @@ None of this requires re-conceiving anything. Estimated work: a hard continuity 
 | §5.4 Broken italics | Journals #11b, #14, #15 closed; #15's non-italic tail folded in. |
 | §5.3 Garbled sentences | All fixed: Ch21's opening line, Ch26's "sidoe," the Rock House spring/trash-can splice, "an seventeen," "a overlapping," "fire move," "splatterd," "remans," "someones," "cement floor," the "...damn" artifact, the cantaloupe ellipsis, and two comma splices. |
 
-**Still open:** Tier 2 onward. Note that §1.2's month sweep is now the largest remaining continuity item, and the date anchor change locks it in — with Day 0 on Oct 23, the book crosses into **December at Day 39**.
+**Tier 2 complete** (items 9–21): October→November swept for Ch9–13; the newly-discovered November→December drift swept for Day 39+; all §1.4 elapsed-time phrases corrected; Act Three's trail days relabelled ("the fifth day out") so they can't be misread as outbreak days; Lyle counts reconciled to Ch16's table (Day 13 = 27); Dale's Suboxone clock fixed; the Atwoods truck introduced as **Leonard Fenn's pickup**, which also fixes the impossible Merle Haggard CD; tents added to the packing list with the weight rationale; the doubled final church service merged; Helen Rydell renamed Verna to separate her from Helen Lyle; survivor-group counts reconciled; Moss's journal-entry citations pointed at entries that exist; the Pig Trail and Interstate 49 corrected; the Taylor Swift lyric replaced with title-and-description only; the wooden-zoo inventory reconciled; `characters.md` corrected (Sienna's description, Nate's wardrobe, Jim's age).
+
+**Still open:** Tiers 3–5.
+
+**Deferred from Tier 2, needs a decision:** §2.2 (Ch2 narrating Ch3's green-tomato woman and laundry-building strangers before they appear) and §2.3 (Ch3 and Ch4 both narrating the night of Day 2). Both are prose restructuring rather than mechanical fixes and were left alone. Note that §1.2's month sweep is now the largest remaining continuity item, and the date anchor change locks it in — with Day 0 on Oct 23, the book crosses into **December at Day 39**.
 
 ---
 

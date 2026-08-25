@@ -2,7 +2,7 @@
 
 We heard the bullhorn on Day 10.
 
-I was in the steeple on morning watch — 6 AM, early October light catching frost on the parking lot gravel, sixteen Turned in their positions like chess pieces on a board I was learning to read. The newest arrival was a woman in hospital scrubs who'd walked in from Highway 21 sometime in the night. She stood near the road, swaying faintly, face tilted toward the eastern horizon. Her scrub top was gone — just the pants and a sports bra, her torso bare to the morning air. The skin across her shoulders had the greenish cast I'd been tracking, darker than Pembrook's at the same stage. She'd removed the top herself. It was folded on the curb behind her, neat, the way you'd fold laundry.
+I was in the steeple on morning watch — 6 AM, early November light catching frost on the parking lot gravel, sixteen Turned in their positions like chess pieces on a board I was learning to read. The newest arrival was a woman in hospital scrubs who'd walked in from Highway 21 sometime in the night. She stood near the road, swaying faintly, face tilted toward the eastern horizon. Her scrub top was gone — just the pants and a sports bra, her torso bare to the morning air. The skin across her shoulders had the greenish cast I'd been tracking, darker than Pembrook's at the same stage. She'd removed the top herself. It was folded on the curb behind her, neat, the way you'd fold laundry.
 
 Then, from the north — maybe three blocks — a voice, amplified, distorted by distance and cheap electronics:
 

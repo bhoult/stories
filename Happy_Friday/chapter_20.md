@@ -24,7 +24,7 @@ The bathing was worse than the walking. Every two days, Jim made us do it — st
 
 But you do it. Because Jim had seen what happened to soldiers who didn't wash in the field — the rashes that spread, the chafing that split open, the blisters that went septic, the fungal infections that turned feet into something you didn't want to look at. "Three days without washing and your skin starts working against you," he said. "A week and you've got sores. Two weeks and you've got infections we can't treat with what we're carrying." So we washed. We did it at the last creek crossing of the day, close to where we'd camp, and we hung everything wet on lines strung between trees near the fire — shirts, socks, pants dripping onto the leaf litter, the camp looking like a refugee laundromat. We wore our sleeping bags like puffy togas while the clothes dried, huddled around the flames smelling like woodsmoke and creek water, and in the morning everything smelled like smoke. But it was cleaner smoke — smoke over skin that had been scrubbed, smoke in fabric that had been wrung out and dried. Caleb screamed every time — a short, outraged scream, the scream of a seven-year-old who had accepted the end of civilization but drew the line at cold water — and Ruth laughed at him, which made him furious, which made Ruth laugh harder, and the laughter carried downstream past the rocks and into the hollow where nothing heard it.
 
-At a crossing on Day 5, Marcus stopped mid-creek. Knee-deep, water moving around him, perfectly still. He was looking at something none of us could see.
+At a crossing on the fifth day out, Marcus stopped mid-creek. Knee-deep, water moving around him, perfectly still. He was looking at something none of us could see.
 
 Then he moved — fast, one motion, the river cane stabbing down into the water like a spear. The sharpened tip hit rock and skidded and Marcus said a word that Ruth noted for later correction and then he adjusted and stabbed again, and this time the cane came up with a smallmouth bass pinned through the side, maybe ten inches, thrashing against the wood.
 
@@ -44,7 +44,7 @@ Marcus didn't spear another fish. He tried — every creek crossing for the next
 
 Sienna did not get blisters. She crossed the creeks with the sure-footed grace of a person whose body and the terrain were on speaking terms. The rest of us plodded. Sienna sauntered.
 
-At a creek crossing on Day 6, she brought me water. I was sitting on a rock on the far side, drying my feet, the routine sock inspection, and she appeared with her water bottle and held it out without saying anything. I'd drunk all of mine on the last uphill. She'd noticed. I hadn't asked.
+At a creek crossing on the sixth day out, she brought me water. I was sitting on a rock on the far side, drying my feet, the routine sock inspection, and she appeared with her water bottle and held it out without saying anything. I'd drunk all of mine on the last uphill. She'd noticed. I hadn't asked.
 
 "Thanks," I said.
 
@@ -114,11 +114,11 @@ Dale looked at him. "It sounds like data. The relapse rate for decisions made in
 
 ---
 
-The storm hit on the morning of Day 7. Not a build — a switch. The sky went from gray to black in twenty minutes and then the rain came, cold and horizontal, driven by a wind that found every gap in every layer we were wearing. November rain in the Ozarks is not water. It is a temperature. It is the specific, bone-level cold that turns your hands into strangers and your thoughts into a single repeating word: *shelter.* There was no shelter. There was the trail, and the trail was now a creek, ankle-deep in places, the white blazes on the trees barely visible through the downpour.
+The storm hit on the morning of the seventh day out. Not a build — a switch. The sky went from gray to black in twenty minutes and then the rain came, cold and horizontal, driven by a wind that found every gap in every layer we were wearing. November rain in the Ozarks is not water. It is a temperature. It is the specific, bone-level cold that turns your hands into strangers and your thoughts into a single repeating word: *shelter.* There was no shelter. There was the trail, and the trail was now a creek, ankle-deep in places, the white blazes on the trees barely visible through the downpour.
 
 We walked in it for hours. Nobody spoke. Speaking meant opening your mouth and the rain got in and the cold got in and the effort of forming words was effort you couldn't spare. Caleb rode on Dale's shoulders with a trash bag over both of them, a two-headed creature shuffling through the storm. Ruth walked with her head down and her walking stick punching holes in the mud, each step a negotiation between her knees and the slope. Marcus led, reading the trail by feel when the blazes disappeared behind curtains of rain. The thunder rolled through the hollows in long, overlapping waves — not sharp cracks but sustained detonations, the sound folding back on itself in the valleys until it felt like the mountains themselves were speaking.
 
-On Day 7, the trail crossed Highway 23. A road crossing — the exposed moments Marcus had warned about. We descended from the ridgeline in the late morning, glassed the highway from the tree line through the rain, saw two Turned drifting a quarter mile south, waited until they'd moved further off, then crossed the pavement at a fast walk. Forty seconds of exposure. The asphalt felt alien underfoot after days of packed earth and rock. The rain, at least, was cover — visibility cut to a hundred yards, the Turned's heads down, the storm louder than our footsteps.
+That same day the trail crossed Highway 23. A road crossing — the exposed moments Marcus had warned about. We descended from the ridgeline in the late morning, glassed the highway from the tree line through the rain, saw two Turned drifting a quarter mile south, waited until they'd moved further off, then crossed the pavement at a fast walk. Forty seconds of exposure. The asphalt felt alien underfoot after days of packed earth and rock. The rain, at least, was cover — visibility cut to a hundred yards, the Turned's heads down, the storm louder than our footsteps.
 
 Then the climb. The trail went straight up — steeper than anything we'd done, a relentless grade that switchbacked through hardwoods and then hit bare rock, hand-over-hand scrambling with packs threatening to pull us backward off the mountain. The sandstone was slick, the rain running over the ledges in sheets, and every handhold was a negotiation with gravity and cold-numbed fingers. Lightning lit the ridge above us and the thunder was immediate — close, the kind of close that makes your teeth ache. Ruth needed help. Marcus took her pack. Jim took her arm. She climbed with her teeth set and her walking stick jammed into every crevice and the rain running down her face and the sound of her knees lost under the sound of the storm.
 
@@ -144,7 +144,7 @@ Maria put her hand on his knee. Deliberate, firm, the hand of a woman who had sp
 
 ---
 
-On Day 9 we encountered our first Turned on the trail.
+On the ninth day out we encountered our first Turned on the trail.
 
 Marcus spotted him first. A tree stand, twenty feet up in a white oak, fifty yards off the trail. The man was still in it — hunting camo, harness buckled, a compound bow across his lap. He'd been a hunter. He'd turned in the woods, probably in the first week, the fear catching up to him alone in his stand while the world below went wrong. He'd been sitting up there for weeks. The camo was filthy. His boots were still laced.
 
@@ -256,11 +256,11 @@ She turned forward without saying anything. The distance between us on the trail
 
 Conversations happened on the downhill, when breathing was easier. Marcus told stories about hauling loads through these mountains — the grades that killed transmissions, the ice storms that turned the passes into skating rinks, the time he jackknifed a trailer on a switchback and had to wait six hours for a tow truck that never came. Ruth corrected everyone's grammar. Caleb asked questions about everything — why trees lost their leaves, why the creek water was brown, why rocks had stripes — and Jim answered each one with the patient, slightly inaccurate explanations of a man who cared more about engaging curiosity than being correct.
 
-The pace built. Three miles the first day. Four on the second. By Day 9 we were making five, sometimes six, the bodies adapting the way Marcus had promised, the legs finding their strength, the lungs expanding, the rhythm settling into something sustainable. Even Ruth moved faster — not by much, but measurably, her walking stick planted with more confidence, her steps surer on the rocks.
+The pace built. Three miles the first day. Four on the second. By the ninth day we were making five, sometimes six, the bodies adapting the way Marcus had promised, the legs finding their strength, the lungs expanding, the rhythm settling into something sustainable. Even Ruth moved faster — not by much, but measurably, her walking stick planted with more confidence, her steps surer on the rocks.
 
 I lost weight. Not dramatically — maybe five pounds, maybe eight — but enough that my pants were looser and the pack felt lighter and the uphills were incrementally less catastrophic. The chafing faded as the jeans broke in and my thighs toughened. The shoulder bruises hardened into something that hurt less. The body was adapting. The body I'd been apologizing for was doing the thing I needed it to do, and the doing was changing it, and the changing was its own kind of answer to the question Sienna had asked in the church parking lot.
 
-By Day 10, Dale's hands were steady. Not still — not completely — but the tremor had faded to something you'd only notice if you were looking for it, and I was always looking. The worst had passed. The sweating had stopped. The cramping had eased. His heart rate was down to 82 — still elevated, but manageable, safe. He carved the turtle with clean, controlled strokes, the hexagonal plates of the shell emerging with the precision his hands hadn't been capable of three days earlier.
+By the tenth day, Dale's hands were steady. Not still — not completely — but the tremor had faded to something you'd only notice if you were looking for it, and I was always looking. The worst had passed. The sweating had stopped. The cramping had eased. His heart rate was down to 82 — still elevated, but manageable, safe. He carved the turtle with clean, controlled strokes, the hexagonal plates of the shell emerging with the precision his hands hadn't been capable of three days earlier.
 
 "How long?" I asked. Meaning: how long have your hands been still.
 

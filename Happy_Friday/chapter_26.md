@@ -2,7 +2,7 @@
 
 From the last rise on Highway 71, where the road crested a hill and the landscape opened into the broad plateau south of Fayetteville, I looked through the binoculars and saw a forest that hadn't existed six weeks ago.
 
-The outskirts of the city spread below us — a mile of open terrain, fields and subdivisions and strip malls and the wide, flat infrastructure of a college town's southern approach. Gas stations. A Dollar General. A church with a full parking lot — the cars still there, the congregation not. And beyond all of it, barely visible through the November haze, the campus. Red brick. Limestone. The glass front of the science building catching the late-afternoon sun.
+The outskirts of the city spread below us — a mile of open terrain, fields and subdivisions and strip malls and the wide, flat infrastructure of a college town's southern approach. Gas stations. A Dollar General. A church with a full parking lot — the cars still there, the congregation not. And beyond all of it, barely visible through the December haze, the campus. Red brick. Limestone. The glass front of the science building catching the late-afternoon sun.
 
 Between us and the campus: thousands of standing figures. But they were not standing the way the Turned I'd observed before had stood — swaying, drifting, the aimless patrol of the organism's default mode. These were motionless. Utterly, absolutely still. A field of human-shaped trees rooted in the earth of a college town's floodplain.
 

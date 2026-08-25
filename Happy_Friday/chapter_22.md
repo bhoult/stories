@@ -1,6 +1,6 @@
 # Chapter 22: Mom
 
-Day 39. The highway was flat and empty and there was nothing to think about except the things I'd been refusing to think about for sixteen days.
+Day 39. The highway was flat and empty and there was nothing to think about except the things I'd been refusing to think about for fifteen days.
 
 The mountains were behind us. The trail was behind us. The roadblock was behind us — the razor wire and the three hundred people I'd killed by borrowing a wolf-hunting technique. The fortified group was behind us — nine people in a gas station who wouldn't leave. All of it was behind us and we'd carry it for the rest of our lives.
 
@@ -14,7 +14,7 @@ The container held through the first days on the trail, when the physical suffer
 
 The container held because the machinery was running. And on Day 39, on a flat stretch of highway with nothing to think about, the machinery stopped.
 
-Not dramatically. Just a quiet failure, like a generator running out of fuel. One moment I was walking and processing and carrying the weight in its compartment. The next moment the compartment was open and the weight was everywhere — in my legs, in my lungs, in the flat grey light of a November afternoon, in the sound of my own breathing, in the empty highway that stretched in both directions like a sentence with no end.
+Not dramatically. Just a quiet failure, like a generator running out of fuel. One moment I was walking and processing and carrying the weight in its compartment. The next moment the compartment was open and the weight was everywhere — in my legs, in my lungs, in the flat grey light of a December afternoon, in the sound of my own breathing, in the empty highway that stretched in both directions like a sentence with no end.
 
 I stopped on the highway. The group moved on for a few steps. Sienna noticed first — she always noticed first.
 

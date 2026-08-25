@@ -94,7 +94,7 @@ I need to explain what this meant because "decided to go" sounds small and it wa
 
 And every time someone suggested I do more, I had the same ready answer: *I'm fifteen. I weigh a hundred and eighty pounds. I'm the strategy kid, not the action kid.* It came out as humor. It sounded like self-awareness. It was the most comfortable lie I owned — the one that said my limitations were fixed properties, like height or eye color, rather than choices I was making every day.
 
-The Moss broadcast changed things. She'd confirmed the density threshold. She'd said fortification was a countdown. The Lyles' perimeter was at twenty-two Turned — I'd counted that morning — and the behavior was changing. More restless. More circling. The patient herding was giving way to something tighter, more compressed, and I could feel the threshold approaching the way you feel a storm.
+The Moss broadcast changed things. She'd confirmed the density threshold. She'd said fortification was a countdown. The Lyles' perimeter was at twenty-seven Turned — I'd counted that morning — and the behavior was changing. More restless. More circling. The patient herding was giving way to something tighter, more compressed, and I could feel the threshold approaching the way you feel a storm.
 
 Jim had tried and failed. Marcus had tried and failed. They'd tried as adults, with authority and diplomacy, and Craig had listened respectfully and dismissed them because his mental model was stronger than their words. But Jim and Marcus didn't have the data. They had a principle — stay calm — and a principle without evidence is just an opinion, and Craig Lyle had plenty of opinions of his own.
 
@@ -166,7 +166,7 @@ I went.
 
 The Lyles' house was exactly what I'd seen from the steeple, but worse up close. Plywood over every window, screwed in, professional. The generator behind the house hummed — a Honda EU2200i, the quiet model, but quiet is relative and in the silence of a dead world even a quiet generator was a beacon. The American flag hung limp in the still morning air. The yard had been raked. The porch had been swept. Someone — Tammy, probably — had placed a potted plant by the front door, a chrysanthemum in a clay pot, orange and blooming. The normalcy of it hurt.
 
-Turned were visible. I counted: nine in the immediate vicinity of the house, standing in the street, in the neighbor's yard, on the sidewalk across the road. They tracked me as I walked up the front path. None approached. I was moving slowly. I was, according to the cuff I'd checked before leaving, at 78 BPM. Elevated but manageable.
+Turned were visible. I counted nine in the yard and the road directly out front, standing in the street, in the neighbor's yard, on the sidewalk across the road. The rest of the twenty-seven were spread back through the neighboring lots and the cross streets. They tracked me as I walked up the front path. None approached. I was moving slowly. I was, according to the cuff I'd checked before leaving, at 78 BPM. Elevated but manageable.
 
 I knocked on the door. The plywood vibrated.
 
@@ -210,7 +210,7 @@ Craig Lyle was exactly the man I'd expected from the steeple: big, capable, comp
 
 "My situation." Not defensive. Curious. The way a cop listens to a witness. I respected this. I also recognized it as a framework about to collide with data it couldn't accommodate.
 
-I opened the notebook. I showed him the count: the Turned in his perimeter, plotted by day, the number climbing from eight on Day 8 to twenty-two today. I showed him the behavioral observations: the shift from passive positioning to active circling, the increased restlessness, the tightening of the perimeter.
+I opened the notebook. I showed him the count: the Turned in his perimeter, plotted by day, the number climbing from eight on Day 8 to twenty-seven today. I showed him the behavioral observations: the shift from passive positioning to active circling, the increased restlessness, the tightening of the perimeter.
 
 "They're drawn to the noise," I said. "The generator, the bullhorn. Every broadcast brings more. The count has been rising by two to three per day. At this rate, in a week you'll have thirty-five to forty."
 
@@ -262,7 +262,7 @@ I looked at Brett. He was everything the apocalypse was supposed to reward: stro
 
 Tammy had been standing in the kitchen doorway, listening. She hadn't said a word. She looked at me now with a specific kind of attention I'd seen on Sienna's face — someone evaluating something she hadn't decided about yet.
 
-"The count," Tammy said. "You said twenty-two. You've been tracking it?"
+"The count," Tammy said. "You said twenty-seven. You've been tracking it?"
 
 "Every day. From the church steeple."
 
@@ -274,7 +274,7 @@ Tammy looked at Craig. Something passed between them — the compressed communic
 
 "Thank you, Nate," Craig said. The dismissal was polite. Complete. He started walking me to the door.
 
-I should have let it end there. I had the data, I'd delivered it, the door was closing. But the number was in my head — twenty-two, climbing, the threshold somewhere above it — and I heard myself say the thing I'd been thinking since the steeple.
+I should have let it end there. I had the data, I'd delivered it, the door was closing. But the number was in my head — twenty-seven, climbing, the threshold somewhere above it — and I heard myself say the thing I'd been thinking since the steeple.
 
 "There's another option. If you're staying."
 
@@ -290,7 +290,7 @@ Craig turned around. He looked at me differently than he had for the entire visi
 
 "I'm talking about keeping the number below the threshold that —"
 
-"Those are *people*." His voice had changed. The polite-cop register was gone. "Helen Rydell. Mike Cosgrove. Tommy Barton's daughter — she's nineteen years old. I coached her in softball." He stepped toward me. "I swore an oath to protect this community. Every single person in it. And you're standing in my house telling me to go out at night and put a knife in them?"
+"Those are *people*." His voice had changed. The polite-cop register was gone. "Verna Rydell. Mike Cosgrove. Tommy Barton's daughter — she's nineteen years old. I coached her in softball." He stepped toward me. "I swore an oath to protect this community. Every single person in it. And you're standing in my house telling me to go out at night and put a knife in them?"
 
 "They're not —"
 
@@ -304,7 +304,7 @@ Brett was on his feet. The couple at the table hadn't moved, but the woman's fac
 
 The trucker went quiet.
 
-Craig turned back to me. The anger had shifted — still there, but underneath it now was something rawer. "And what if they're sick? What if this is a disease, and somewhere out there somebody's working on a cure? What if six months from now there's a treatment, and you've already gone out with your knife and your threshold and your *math*, and the people you thinned could have been saved?" His voice cracked on the last word. He caught it. "You want to put a number on Helen Rydell? She taught Sunday school for thirty years. She's standing in my yard right now. And you're telling me to go cut her throat because your spreadsheet says the number's too high."
+Craig turned back to me. The anger had shifted — still there, but underneath it now was something rawer. "And what if they're sick? What if this is a disease, and somewhere out there somebody's working on a cure? What if six months from now there's a treatment, and you've already gone out with your knife and your threshold and your *math*, and the people you thinned could have been saved?" His voice cracked on the last word. He caught it. "You want to put a number on Verna Rydell? She taught Sunday school for thirty years. She's standing in my yard right now. And you're telling me to go cut her throat because your spreadsheet says the number's too high."
 
 I had no answer. Not because he was wrong — he might not be wrong. We didn't know. Moss hadn't said the conversion was irreversible. She hadn't said it was reversible either. The absence of data cut both ways, and Craig was standing in the gap where the data should be and filling it with hope, which was the most human thing you could do and possibly the most dangerous.
 
@@ -346,7 +346,7 @@ I didn't answer. The honest answer was that I wasn't sure anymore what I knew an
 
 I'd started dreading sleep. Not for the dreams — the dreams were bad, the trailer dream, the Knock on loop, variations I won't catalog — but for the waking. There's a moment between sleep and consciousness, maybe two seconds, when you don't remember where you are or what the world has become. Your body startles — the orienting reflex — and your heart rate spikes before your brain catches up. Two seconds of uncontrolled fear. In the old world, harmless. In this world, a conversion risk. I'd started sleeping with my hand on my pulse, thumb pressed against the artery in my wrist, so that the first thing I felt on waking was my own heartbeat, and the first conscious act was counting it down.
 
-At the church, I sat in the steeple and counted the Turned around the Lyles' house through the binoculars. Twenty-three now. One more since this morning. Brett was on the porch, shotgun across his knees, watching the perimeter. Craig was checking the boards on the north-facing windows. Tammy was nowhere visible.
+At the church, I sat in the steeple and counted the Turned around the Lyles' house through the binoculars. Twenty-eight now. One more since this morning. Brett was on the porch, shotgun across his knees, watching the perimeter. Craig was checking the boards on the north-facing windows. Tammy was nowhere visible.
 
 I opened the notebook.
 
@@ -362,4 +362,4 @@ I opened the notebook.
 
 *Tammy listened differently. She asked about numbers. She's running her own calculations. Whether she can make Craig hear what she's hearing — that's their marriage, their version of the prisoner's dilemma.*
 
-*Day 13. Twenty-three Turned around the Lyles. Sixteen around the church. The gap between those numbers is a measurement of the difference between being heard and being loud.*
+*Day 13. Twenty-eight Turned around the Lyles. Sixteen around the church. The gap between those numbers is a measurement of the difference between being heard and being loud.*

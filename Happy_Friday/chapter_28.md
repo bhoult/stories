@@ -19,7 +19,7 @@ She turned pages. She made notes on a separate pad. Occasionally she looked up â
 
 When she finished, she set the notebook on the desk and looked at me.
 
-"Your biochemistry is wrong in several places," she said. "The HPA axis description in entry two is simplified to the point of inaccuracy. Your threshold numbers are inconsistent. You misidentify the parasympathetic response as 'vagal override' in entry five, which isn't a real term."
+"Your biochemistry is wrong in several places," she said. "Your HPA axis description is simplified to the point of inaccuracy â€” you have the adrenal cascade running in the wrong order in entry one and you never go back and correct it. Your threshold numbers are inconsistent. And 'the vagal brake' is a real thing but it does not do what you say it does in entry six."
 
 "I know. I was working from a nursing textbook and Wikipedia articles I'd read before the internet went down."
 
@@ -27,7 +27,7 @@ When she finished, she set the notebook on the desk and looked at me.
 
 She leaned back.
 
-"I've had seventeen survivor groups reach this campus. Most of them have stories. Some have observations. A few have strategies. None of them documented the process the way you did. None of them wrote down what they got wrong."
+"I've had eleven survivor groups reach this campus. Most of them have stories. Some have observations. A few have strategies. None of them documented the process the way you did. None of them wrote down what they got wrong."
 
 "Most people don't enjoy writing down their failures."
 
