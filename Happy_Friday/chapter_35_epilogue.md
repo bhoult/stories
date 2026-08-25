@@ -2,7 +2,7 @@
 
 Under Little Rock, the floor was rising.
 
-Workers came in through the loading doors of what had been a produce warehouse, in a line that had not broken in nine days. Each carried the same thing, cradled against the chest the way you carry something that will spill — a skull sawn open at the crown, or a plastic jar, or a wet grey mass wrapped in somebody's shirt. They came from the hospitals first. Then the university. Then the houses, one at a time, patiently, for miles.
+Workers came in through the loading doors of what had been a produce warehouse, in a line that had not broken in nine days. Each carried the same thing, cradled against the chest the way you carry something that will spill — a skull sawn open at the crown, or a plastic jar, or a wet grey mass wrapped in somebody's shirt. Flesh offerings for a newborn malevolent god. They came from the hospitals first. Then the university. Then the houses, one at a time, patiently, for miles.
 
 Their hands were gone by the fourth day. Not gone: *used*. Fingers worn to the tendon on concrete and doorframes and the lips of a hundred thousand skulls, and still working, still cradling, still exact. The organism does not repair what it can spend.
 
