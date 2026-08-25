@@ -94,13 +94,36 @@ Not sentiment — selection criteria the organism can actually evaluate:
 
 ### The fabrication
 
-She is **not cured.** She is rebuilt, and the distinction is the whole book.
+She is **not cured.** She is rebuilt to specification, and the distinction is the whole book.
 
-The organism returns her: healthy, articulate, herself — and *better*. The bad knee is gone. She sleeps. She is stronger than she was at forty. It has repaired her the way it would repair anything it valued, and it does not understand that this is evidence.
+The organism has no concept of flaw-as-identity, and no concept of restraint. Asked to produce a functioning human agent, it does not restore one — it *optimises* one, within human architecture, because inefficiency is the only thing it knows how to read as wrong.
 
-What remains is a remnant with one function: **it edits perception, not identity.** It doesn't tell her what to think. It closes pathways. It can make a conclusion unreachable, a face unrecognizable, a threat obvious. She is not being controlled and she is not pretending. **She experiences her reality as reality**, because within her, it is.
+What comes back:
 
-She is sincere. That is the mechanism.
+- **No accumulated damage.** The knee is gone. So is the lower back that twelve-hour shifts built over fifteen years. The scar on her forearm is not there.
+- **Endurance well past trained-athlete range.** She does not tire on a normal day. She can work a twenty-hour shift and be steady at hour twenty.
+- **Strength, reaction time and coordination** at the ceiling of what her frame can support — not comic-book, but consistently at the far edge of plausible, and never once inconsistent.
+- **Total recall.** She can reproduce a drug chart she read once. She never had this and does not remark on it.
+- **She sleeps perhaps three hours** and wakes without transition.
+- **And she has no stress response at all.**
+
+That last one is the deepest and the group is the least equipped to see it. Her heart rate is 48 and does not move. Not under exertion, not at a noise in the dark, not when a hunter tests the perimeter. There is no cascade in her because there is nothing left to cascade.
+
+**Jim spent thirty years and fifty milligrams twice a day getting his fear under the line. Hers was deleted.** Ch32 says the organism came into Jim at a hundred and forty beats a minute and *"found the room empty and had nowhere to put its hands."* Delia's room was emptied on purpose, by the thing, so it could move in. Same absence, opposite cause, and from the outside — to a group that has spent six weeks measuring people with a pink cuff — **it looks identical to virtue.**
+
+### What her capability breaks
+
+The book's governing rule is that physical capability is a liability. Brett Lyle. The forty Guardsmen at the interchange. Sienna: *"Everything I'm good at is trying to kill me."* Nate survives because he is slow and frightened and pays attention.
+
+Delia is the first person in the story who can run, fight, lift and endure **with no threshold at all.** She breaks the rule that has governed every page since Chapter 3, and she breaks it in the direction everyone desperately wants.
+
+She becomes indispensable inside a week. She carries Ruth. She runs down a hunter and is not winded. She is the obvious person to put on the perimeter, and — because she is competent and modest and *cares* — she is the obvious person to put in charge of maintaining the emitter.
+
+They hand her the machine. Nobody makes a bad decision doing it.
+
+**Why nobody calls it immediately:** six weeks of walking and real food genuinely does change a body, and they have all changed. Moss, being a scientist, produces a hypothesis — that reversal leaves behind some of the organism's metabolic gifts, that the photosynthetic and repair mechanisms persist without the host being controlled. It is a good hypothesis. It fits the observations. It is comforting, and it is wrong, and the group builds on it because a comforting finished answer drops everyone's pulse. *This is the Ch5 mechanism operating on the whole camp at once.*
+
+**Sienna is the first to distrust her**, and not by reasoning — in her body, before she can argue it. She is the one person there who knows exactly what a person's ceiling costs, because she has spent Book One running laps to find her own. Delia doesn't have one. Sienna cannot articulate this in a way that survives contact with Nate's analysis, and it looks like grief, or jealousy, or a runner resenting someone faster. Nobody believes her. **In Book One Sienna pushed Nate to act and was right; here she is right again and he has the better argument.**
 
 ### The tell — a repaired imperfection
 
@@ -111,6 +134,8 @@ The organism's Book One blind spot, evolved but not removed. In Ch4 it got every
 Ch2 establishes it: she recorded the voicemail six months after taking her name back, and the name was still new in her mouth. Nate: *"I've heard this voicemail probably three hundred times. **I never mentioned the stumble.**"*
 
 It exists in no memory the organism can read. It was never spoken aloud. It is a flaw, and a species with no concept of flaw-as-identity repairs flaws. **The improvement is the proof**, and only one living person can see it.
+
+That is the shape of Nate's grief and the reason he cannot make anyone else hear it: **every difference he can name is an improvement.** The woman who came back is better in every measurable respect and is not his mother, and the only evidence he has is a list of things that got better.
 
 ### The epistemology collapse
 
@@ -125,6 +150,8 @@ Delia has a person in her. She passes all of it, because at her level there is n
 **Delia's fabricated reality reaches the same act by a different road, and hers is not wrong.** The emitter causes documented, continuous harm — Book One establishes the permanent headache, the disrupted sleep, the nightmares that arrive *because* the campus is safe enough to dream in. She is a nurse. Assessing what is making her patients sick is literally her training. The remnant does not have to invent a delusion. It only has to close the pathway that lets her weigh the trade-off. **She can see the harm clearly and cannot reach the benefit.**
 
 So she takes it down, calmly, competently, out of care, and the perimeter falls.
+
+And she is the one holding it because they *gave* it to her — because she was the most capable person on that campus and she cared and she never got tired. The organism did not have to infiltrate anything. It built something so useful that the survivors installed it themselves.
 
 She never touches anyone. The deaths are all downstream.
 
@@ -165,5 +192,8 @@ He has the method. He wrote it. And it is now pointed at the single most comfort
 | Ch22 — "if there is ever a cure… I don't know how I live with what I've done" | the terms of the trap, written by Nate himself |
 | Ch25 — "I have never once stopped intending to" | the lever, still unresolved |
 | Ch28/29 — the permanent headache; nightmares that come *because* it's safe | her clinical evidence, and it is real |
+| Ch32 — Jim goes past every threshold and the organism "found the room empty" | Delia's room was emptied on purpose, so it could move in — same absence, opposite cause |
 | Ch32 — Jim: "carry the part of it he can't" | now has a second occupant |
+| Ch6/Ch15 — the pink BP cuff, and Sienna's "everything I'm good at is trying to kill me" | Delia reads 48 and flat under any stimulus; the cuff is the scene where Nate finally knows |
+| Ch31 — Sienna running laps to map her own threshold | she is first to distrust Delia, in her body, and cannot make it survive Nate's analysis |
 
