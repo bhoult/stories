@@ -50,6 +50,7 @@ For illustration/image generation. Characters listed in order of importance to t
 **Health:** Bad heart. Takes metoprolol (beta-blocker). In visible decline by campus chapters — heavier breathing, hand always finding door frames and chair backs for balance. "His color was off."
 **Distinguishing features:** Vietnam veteran bearing beneath the pastor's gentleness. Hums a tuneless melody while walking. Makes coffee as ritual. Has prophetic dreams he doesn't explain.
 **Personality:** Faithful, calm, diplomatic. Holds both faith and pharmacology without contradiction. Patient, wise, protective. Tells stories as gifts. Never raises his voice. Punches Sienna in the jaw when necessary to save her life, then prays about it. Dying slowly and pretending he isn't.
+**Status:** Dies Day 50 (Ch30) of cardiac failure at the university. Does **not** turn — goes hours past the catecholamine threshold and stays himself. Restrained at his own Day-12 instruction while dying; the restraints prove unnecessary. Buried Day 51 between the science and education buildings.
 
 ---
 

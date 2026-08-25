@@ -636,7 +636,7 @@ The question doesn't go away. It resurfaces every time Ruth stumbles, every time
 
 *Establishes the pace and texture of the trail section: physically brutal but psychologically safer than the lowlands. The horror shifts from immediate threat to the slow grind of endurance, the knowledge that the world below is lost, and the question of whether what's ahead is any better. Ruth's physical limits become the walk's defining constraint and its moral compass — the group moves at the speed of its most vulnerable member, and that choice costs them time they may not have.*
 
-### Chapter 20: "The Other Group" *(NOT DRAFTED — see revision status)*
+### Chapter 20: "The Other Group" *(drafted — Phil relocated into Ch21, replacing the Highway 71 gas station)*
 The group's medication is running low. The trail is remote — that's its virtue and its limitation. After five days in the wilderness, they descend along a forest service road to a small highway town to resupply. The town is mostly dead, but a Walmart on the outskirts is occupied — lights in the windows, vehicles arranged as barricades, figures moving on the roof.
 
 They encounter this survivor group cautiously. What they find is not the Lyles redux — not armed bravado and wrong-headed courage. Phil's group has figured out the adrenaline mechanism. They know calm keeps you alive. And they've drawn a monstrous conclusion from it.
@@ -816,7 +816,7 @@ The deeper implication, planted lightly for the series: if the organism communic
 
 ## ACT FOUR: INHERITANCE
 ### *"I survived. I wish that felt like enough."*
-#### Chapters 28–31 | Days 41–45
+#### Chapters 28–32 | Days 44–53
 
 ### Chapter 28: "The Archive"
 Nate gives Dr. Moss his journal. She reads it — all fifteen entries, plus the private one he hesitates over and then hands her anyway — and tells him it's one of the most valuable documents she's received. Not because his analysis is correct (it's often not), but because it's a *record of learning*: each entry shows what he thought, why he was wrong, and what he figured out next.
@@ -834,35 +834,46 @@ Jim's health is declining. The walk took more out of him than he admits. Ruth is
 
 And Nate is... different. He's lost weight (not much, but some — walking fifty miles will do that). He's talking to people, which he didn't used to do. He's making decisions, which he actively dislikes. He is not a hero. He is a fifteen-year-old who has been given a responsibility he did not want and a grief he cannot process, and who is dealing with it the only way he knows how: by writing it down and trying to figure out what it means.
 
-### Chapter 30: "The Broadcast"
-Nate writes a new journal entry — but this one isn't for himself. It's a broadcast. Dr. Moss rigs the radio equipment, and Nate reads his revised rules into the microphone, sending them out to whoever might be listening:
+### Chapter 30: "A Fearful Heart"
+**Written. Act Four's cost, and the payoff for Ch23's "not her — the next one."**
 
-> *"This is Nate Carver. I'm fifteen. I don't know what I'm doing, but I know what doesn't work, and I'm going to tell you what I've learned so you don't have to learn it the way we did. Rule one: the thing that turns people isn't a bite. It's fear. Stay calm. I know that's hard. I know that sounds useless. But everyone I've watched die, died because they were afraid, and everyone I've watched survive, survived because they figured out how not to be. I'm going to tell you how. It starts with breathing...*"
+Day 48. Nate tells Jim in a corridor that his heart is failing, having counted his steps between the dormitory and the lab for six days and said nothing. Asked why he waited: *"Because saying it makes it mine."* Jim's reply — that it's the truest thing anyone has said to him on that campus — and his request: that Nate be the one to say the hard thing out loud when it comes, because nobody else in the building will.
 
-The broadcast is the book's emotional climax: a scared kid, talking into a microphone, sharing lessons purchased with other people's lives, hoping someone hears.
+Day 50. Cardiac event in the seminar room. **A cardiac event is a catecholamine event** — the dying body dumps every stress hormone it has and does not stop — so Jim will cross the conversion threshold before he dies, and everyone in the room knows it and nobody says it. Nate says it. What Jim asked for on Day 12 was *restraint, prayer, and waiting*, in front of witnesses, and he made everyone promise it for each other. Ruth refuses. Dale gets the paracord.
 
-### Chapter 31: "The Journal"
-Final chapter. Short. Nate sits on the roof of the science building at dusk. The frequency emitter hums its low, persistent note — not quite a sound you get used to, more one you learn to carry. The campus is quiet in the way that used to feel wrong and now just feels like the shape of things.
+They tie down a dying man. Caleb is brought in at Jim's insistence — *"He's going to be here for it and he's going to see that it was all right."*
 
-Nate opens his journal to a new page.
+Two hours ten minutes. Heart rate 140 and holding. **He does not turn.** Moss says beta-blockade; Ruth says otherwise; Nate declines to choose, because Jim held both answers in one hand for six weeks and never made anyone pick. The straps were unnecessary and they were not for nothing — and Nate has to hold both, or he starts deciding by how things will look afterward, which is how Craig Lyle died.
 
-**JOURNAL ENTRY #15:** *"I survived. Not because I was brave or strong or smart. I survived because I was slow, and I was scared, and I paid attention. That's not a hero's story. I don't think the world needs hero stories anymore. I think it needs notes.*
+Day 51: buried inside the perimeter. Ruth reads Isaiah 35 and stops for four seconds at *"a fearful heart."* Caleb puts a wooden animal in the grave and doesn't say which.
 
-*Here are my notes.*
+*Thematic function: the whole book has argued that the calm survive. Jim is the proof, at the one moment when calm is physiologically impossible. His faith and his metoprolol arrive at the same place and the book refuses to adjudicate between them, which is what he asked for from Chapter 8 onward.*
 
-*I'm going to keep writing them until I run out of things to learn or until I turn, and I don't plan on doing either.*
+---
 
-*Tomorrow we're going to try to reach the people north of here. Dr. Moss says there might be a whole network. Sienna says she's coming. Marcus is fixing the truck. Jim says he'll pray for us, which I think means his heart is getting worse and he's not telling anyone.*
+### Chapter 31: "The Broadcast"
+Day 52. Nate reads his revised rules into a microphone on the third floor of the science building, on a transmitter Moss's engineering student boosted to fifty miles.
 
-*I miss my mom. I'm going to miss her for the rest of my life. However long that is.*
+**Revised since Jim's death.** He opens with the funeral rather than with himself — *"We buried a man yesterday. His name was Jim Whittaker… He did not turn. His heart gave out and he stayed himself the whole way down, and I am going to come back to why, because it is the most useful thing I have ever had to tell anybody."* The metoprolol and the thirty years of practice are given equal weight and left unadjudicated: if you are sitting somewhere with a rosary in one hand and a pill bottle in the other, keep both.
 
-*She used to say "Happy Friday" every week when she left for her shift. I used to barely look up from my screen. I'd give anything to not look up from my screen one more time.*
+Mid-broadcast the machinery seizes on the roadblock entry and he has to stop, breathe it down, and start again on air — and he tells the listeners that the stopping is part of it too.
 
-*But I'm still here. We're still here. And tomorrow we walk again."*
+Closes with the rules, now carrying Jim's last instruction: *"Stay calm. Stay small. Stay quiet. Write it down. Say the thing nobody in the room wants to hear, and then don't start enjoying it."*
 
-He closes the journal. Below, in the quad, Sienna is running laps on the track — controlled, steady, her breathing measured, reclaiming something. Caleb is sitting on the steps with Jim, learning to count his breaths. Marcus is under the hood of a truck that might run someday, and the sound of his wrench is the most normal sound in the world. The frequency emitter hums its low, ugly hum. Beyond the perimeter, the Turned are there — always there — a dark smear on the horizon.
+A voice answers out of the static. Twelve people, thirty miles south, with a pharmacy and no idea about beta-blockers.
 
-Nate watches for a while. Then he goes downstairs to help Marcus with the truck. He doesn't know anything about trucks. He's going to learn.
+---
+
+### Chapter 32: "The Journal"
+Day 53. Final chapter. Short. Nate on the roof of the science building at dusk, the emitter humming, the campus below.
+
+Sienna running laps. Marcus under the truck. Ruth in the library. Dale carving. Maria back at the whiteboard, having stopped for two days and started again on the third, which nobody mentions. **Caleb counting breaths on the education building steps, alone, at the time they used to do it together** — and a raw place in the grass between two buildings that will be grass again by spring.
+
+The final journal entry states the thesis plainly: he survived because he was slow and scared and paid attention, and the world doesn't need hero stories anymore, it needs notes.
+
+It also names what Jim left him, and it isn't the notebook: *saying the thing nobody in the room wants to hear, out loud, on time, to their faces — and not getting to like it.* He has been doing the first half since Day 2. The rest of it Jim had to die to teach him.
+
+Ends on the last line of the book, unchanged: he goes downstairs to help Marcus with the truck. He doesn't know anything about trucks. He'll learn.
 
 ---
 
