@@ -63,6 +63,10 @@ The planning took three days. In those three days, the Turned count near the chu
 
 I wanted the shortest path. Pick up the trail at the nearest access point, a forest service road eight miles south, and take the most direct line northwest to Fayetteville. Shortest distance, fastest timeline. I had the map. I'd calculated mileage. I was certain.
 
+In Civ, terrain is a number. Hills cost two movement points. Forest costs two. A river costs your whole turn unless somebody built the bridge. You learn to read a map as a cost table, and you get very good at it, and you never once get your feet wet doing it.
+
+I had been playing the Ozarks like a tile grid for four days and I did not know that was what I was doing.
+
 Marcus looked at my route and said: "That section drops into Hurricane Creek valley. I've hauled loads on the roads above it. The drainage is tight, the hollows are deep, and if there's a herd in that creek bottom, you've got cliff on one side and water on the other and nowhere to climb."
 
 "The map doesn't show any population in that valley."

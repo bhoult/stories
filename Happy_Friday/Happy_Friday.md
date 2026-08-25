@@ -3570,6 +3570,10 @@ The planning took three days. In those three days, the Turned count near the chu
 
 I wanted the shortest path. Pick up the trail at the nearest access point, a forest service road eight miles south, and take the most direct line northwest to Fayetteville. Shortest distance, fastest timeline. I had the map. I'd calculated mileage. I was certain.
 
+In Civ, terrain is a number. Hills cost two movement points. Forest costs two. A river costs your whole turn unless somebody built the bridge. You learn to read a map as a cost table, and you get very good at it, and you never once get your feet wet doing it.
+
+I had been playing the Ozarks like a tile grid for four days and I did not know that was what I was doing.
+
 Marcus looked at my route and said: "That section drops into Hurricane Creek valley. I've hauled loads on the roads above it. The drainage is tight, the hollows are deep, and if there's a herd in that creek bottom, you've got cliff on one side and water on the other and nowhere to climb."
 
 "The map doesn't show any population in that valley."
@@ -4459,6 +4463,10 @@ A hundred and thirty. Maybe more. Three groups separated by the jersey barriers 
 The alternative was backtracking. South two miles, then east on a forest service road to bypass the ridgeline, then north on a county road to rejoin the highway past the roadblock. But the forest service road was unpaved, rutted, impossible with shopping carts. We'd have to carry the packs again. And the detour added half a day of exposed walking through open terrain where we'd already seen Turned drifting in from the surrounding towns. Ruth's atenolol supply was at four days. Four days of medication between her and a heart rate that would light up the organism like a signal flare.
 
 I studied the compound for an hour. I studied the wire. I studied the three groups and their separation and the jersey barriers that kept them apart and the funnel geometry of the terrain and the coils of unused concertina wire stacked behind one of the Humvees. Still bundled, never deployed, the military's surplus, left behind when the checkpoint fell.
+
+There is a particular feeling in a strategy game when the position resolves. You stare at a mess of units and terrain for twenty minutes and then it snaps into a shape, and you can see the whole sequence, every move, all the way to the end. And the feeling is *pleasure.* Clean, physical, located in the chest. It is the reason people play.
+
+I got that feeling on a hillside above a hundred and thirty human beings. I recognized it while it was happening. I did not stop.
 
 The idea didn't arrive unwanted this time.
 

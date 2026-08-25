@@ -86,6 +86,10 @@ The alternative was backtracking. South two miles, then east on a forest service
 
 I studied the compound for an hour. I studied the wire. I studied the three groups and their separation and the jersey barriers that kept them apart and the funnel geometry of the terrain and the coils of unused concertina wire stacked behind one of the Humvees. Still bundled, never deployed, the military's surplus, left behind when the checkpoint fell.
 
+There is a particular feeling in a strategy game when the position resolves. You stare at a mess of units and terrain for twenty minutes and then it snaps into a shape, and you can see the whole sequence, every move, all the way to the end. And the feeling is *pleasure.* Clean, physical, located in the chest. It is the reason people play.
+
+I got that feeling on a hillside above a hundred and thirty human beings. I recognized it while it was happening. I did not stop.
+
 The idea didn't arrive unwanted this time.
 
 I'd read about it years ago, The Eskimo wolf knife. You take a knife blade, coat it in seal fat, freeze it upright in the snow. A wolf finds it, licks the fat. The blade cuts the wolf's tongue. The wolf tastes its own blood. The blood triggers a feeding response: the wolf can't stop licking. Each lick cuts deeper. The wolf bleeds to death from licking its own blood off the blade that's killing it.

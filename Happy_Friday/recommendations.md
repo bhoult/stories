@@ -89,7 +89,15 @@ Ch11's journal was relocated twice: the first placement left it immediately afte
 - **Em-dash reduction.** Attempted programmatically and reverted. The transformation replaced dashes with commas and left the spacing, producing `items , jerky, nuts ... dried fruit , were` — and even where it worked mechanically, converting an em-dash parenthetical to commas inside a sentence that already has commas made the prose worse, not tighter. Rate stands at 15.7/1k. **This is a human line-edit, not a find-and-replace.**
 - ~~**"It wasn't X. It was Y."** and **"the way a/you…"**~~ **Done — see below.**
 - ~~**Chapter-ending cadence**~~ **Done — see below.**
-- **§8.1 item 37 — partially done.** Suggestions 1 and 2 implemented (below). Suggestions 3–5 (returning the Civ frame to Ch12/17/18/21/27, and adding the undercut where the vocabulary is densest) remain open — those are a dozen specific insertions that each have to be funny in place.
+- **§8.1 item 37 — partially done.** Suggestions 1 and 2 implemented (below). Suggestion 3 done for Ch18 and Ch21 (below). Remaining: the Civ frame in Ch12/17/27, and the undercut where the technical exposition runs longest (Ch29, Ch33).
+
+  **3. The Civ frame returned at two points, thirteen chapters apart, as the two ends of one arc.**
+
+  *Ch18, before Marcus's rebuke* — Nate reveals he has been treating the Boston Mountains as a data layer: *"In Civ, terrain is a number. Hills cost two movement points… You learn to read a map as a cost table, and you get very good at it, and you never once get your feet wet doing it. I had been playing the Ozarks like a tile grid for four days and I did not know that was what I was doing."* This makes *"Have you ever been to a creek?"* and *"A map is a picture of a place. It is not the place"* land on a specific error the reader has just watched him make, rather than on nothing.
+
+  *Ch21, at the roadblock recon* — the same habit of mind, producing three hundred dead: *"There is a particular feeling in a strategy game when the position resolves… the feeling is pleasure. Clean, physical, located in the chest. It is the reason people play. I got that feeling on a hillside above a hundred and thirty human beings. I recognized it while it was happening. I did not stop."*
+
+  Same reflex, thirteen chapters apart. In Ch18 it makes him wrong about a creek and is corrected inside a page; in Ch21 it kills three hundred people. Nothing in between needs to point at it. Connects to Ch16's *"I'm afraid it says the true thing,"* Journal #15's *"part of me wanted it,"* and Jim's *"don't let him get good at it."*
 
   **1. Nate now names the thing himself.** The manuscript used *the mechanism* **23 times** at full clinical formality, against the outline's instruction to use the technical word once and then coin a kid's word for it. He now does both, in Ch4, after reading his mother's textbook: **stress juice** for the catecholamines (the outline's own suggestion) and **the trapdoor** for the fear-conversion process — *"Lisa Anderson stood on her own concrete step… and the ground held her right up until it didn't. That is not a mechanism. A mechanism is a thing you can see."*
 
