@@ -85,6 +85,19 @@ Fixed by moving four journals (Ch9, Ch10, Ch11, Ch19) earlier in their chapters 
 
 Ch11's journal was relocated twice: the first placement left it immediately after another notebook fragment, two italic passages back to back.
 
+### 8.9 Action bias — and the line between waiting to understand and waiting to avoid
+
+The book had a problem here it hadn't noticed. Sienna spends two chapters telling Nate that his waiting is cowardice (Ch14, Ch18) and she is right about *him* — but the argument leaves the reader with no way to distinguish sound patience from paralysis, and the novel's own plot repeatedly vindicates waiting. Sienna wants the interchange on Day 4; Nate says *"not yet, not until we know more"*; four days later she comes back and says *"I was wrong. About going back there."*
+
+Added at that vindication, in Ch8, because it is the one moment where the evidence has just come in on his side and he has standing to say it:
+
+- **Most problems out here are outlasted, not solved.** *"The interchange was impassable on Day Four and it will be impassable next week and at some point the bodies will be gone… and then it will be a parking lot with six Humvees in it and anybody can walk in. Nothing about that requires courage. It requires being alive on the day it happens."*
+- **Why people act anyway** — the same engine as §8.8. *"There's a thing in people that needs to do — that treats an unsolved problem as an accusation, and would rather take a bad opportunity now than sit inside not-knowing for one more hour. I understand it. Not-knowing is unbearable and doing something makes it stop."*
+- **The cost of moving early is option value.** *"You only get to walk into that interchange once. If you do it on Day Four you do it blind, and if it goes wrong there is no Day Twenty version of you who gets to try again with better information."*
+- **And the test that keeps it honest:** *"The difference between waiting to understand and waiting to avoid is that the first one has a date on it and the second one doesn't. Mine never had a date on it. Hers had a date on it four days early."*
+
+That last line is what makes this compatible with Sienna's critique rather than a rebuttal of it — she is diagnosing the dateless kind, and he now knows the difference and still can't always tell which one he's doing. It also sets up Ch21, where he moves early on a roadblock he could have detoured around in half a day.
+
 ### 8.8 Confirmation bias as the scenario's central force
 
 The book already had the social version, well stated, in Ch1 — *"This is what people do when the world stops making sense: they fill it in with whatever was already in their heads. A blank coloring book, everyone with their own crayons"* — and Nate catching himself at it under Henderson's trailer in Ch5. What it never did was **connect the bias to the mechanism**, and in this scenario they are the same system:

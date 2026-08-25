@@ -1147,6 +1147,16 @@ She was right. But categorizing was what I did instead of feeling, and feeling w
 
 "Maybe. The trucks at the back of the perimeter. I couldn't get close enough to check. I'd need to go back. With someone." She looked at me. "Not yet. I need to. I need to not think about it for a while."
 
+She had gone four days ago and she had been right to want to go and wrong to go, and those are not the same thing, and the difference is the whole of what I have to offer anybody.
+
+Here is the part nobody wants: most problems out here do not get solved. They get *outlasted.* The interchange was impassable on Day Four and it will be impassable next week and at some point the bodies will be gone and the Turned will have drifted off after something else, and then it will be a parking lot with six Humvees in it and anybody can walk in. Nothing about that requires courage. It requires being alive on the day it happens.
+
+Waiting is not a strategy people respect, because it doesn't look like anything. There's a thing in people that needs to *do* — that treats an unsolved problem as an accusation, and would rather take a bad opportunity now than sit inside not-knowing for one more hour. I understand it. Not-knowing is unbearable and doing something makes it stop.
+
+But the cost of moving before you understand a situation is that you spend the situation. You only get to walk into that interchange once. If you do it on Day Four you do it blind, and if it goes wrong there is no Day Twenty version of you who gets to try again with better information.
+
+There is a version of this that is just cowardice wearing a lab coat, and I have been wearing it since Friday. Sienna waits badly and moves well. I move badly and wait beautifully, and I have been calling that judgment. The difference between waiting to understand and waiting to avoid is that the first one has a date on it and the second one doesn't. Mine never had a date on it. Hers had a date on it four days early.
+
 I wanted to say something useful. Something analytical that would reframe the horror into data. Instead what came out was: "Are you okay?"
 
 It was a stupid question. She wasn't okay. Nobody was okay. But she looked at me and her face did something I hadn't seen before — a crack in the composure, brief, quickly sealed — and she said, "No. But I'm here. That counts."
