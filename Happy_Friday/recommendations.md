@@ -85,6 +85,25 @@ Fixed by moving four journals (Ch9, Ch10, Ch11, Ch19) earlier in their chapters 
 
 Ch11's journal was relocated twice: the first placement left it immediately after another notebook fragment, two italic passages back to back.
 
+### 8.5 Superlatives — Nate qualifies, he doesn't exaggerate
+
+Precision is the character. He reaches for a superlative only when he could actually check it, and he says so when he can't — *"the worst nightmare of my life"* in Ch31 self-corrects one clause later (*"Not the defining one, that had already broken me on the road"*), and Ch16's *"the most horrifying thing I'd seen"* is bounded by *"since the world ended."* That instinct is native to the book and should be protected.
+
+A scan turned up 32 superlative constructions. Twenty-six are earned — physical claims he could verify (*"the loudest thing I have ever heard"* about the swarm), jokes (*"the most beautiful headache I'd ever had"*), or bounded to a stated scope.
+
+**Six were unqualified hyperbole, and all six were introduced by this session's new material.** Corrected:
+
+| Was | Now |
+|---|---|
+| *the only genuinely useful thing I have ever done with vocabulary* (Ch33) — false; the journal is exactly that | *It is a small thing to be proud of. I am proud of it anyway.* |
+| *the most useful thing I have ever had to tell anybody* (Ch33) | *the most useful thing I have to tell you* |
+| *the largest thing anyone has ever done for me* (Ch25) | *I have measured that against everything anyone has done for me since October and it holds* |
+| *the only thing I'd ever brought to any of it* (Ch25) — false; he brought the observation and the protocols | *most of what I had, and the part I had brought on purpose* |
+| *I have never in my life been more grateful* (Ch32) | *I cannot think of a time I have been more grateful* |
+| *more than anything else in this book* (Ch32) | *more than almost anything else in this book* |
+
+**Guardrail for new material:** when Nate makes a comparative claim he either bounds it (*since October*, *since the world ended*), states that he checked (*I have measured that against*), or admits the limit of his memory (*I cannot think of a time*). An unqualified "best/worst/only ever" is a tell that the sentence was written by someone else.
+
 **Tier 5 items NOT done, deliberately:**
 - **Em-dash reduction.** Attempted programmatically and reverted. The transformation replaced dashes with commas and left the spacing, producing `items , jerky, nuts ... dried fruit , were` — and even where it worked mechanically, converting an em-dash parenthetical to commas inside a sentence that already has commas made the prose worse, not tighter. Rate stands at 15.7/1k. **This is a human line-edit, not a find-and-replace.**
 - ~~**"It wasn't X. It was Y."** and **"the way a/you…"**~~ **Done — see below.**

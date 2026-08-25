@@ -24,11 +24,11 @@ I pressed the transmit button.
 
 And then, because it was true and because I had decided on the stairs coming up here that I was not going to do this the tidy way:
 
-"We buried a man yesterday. His name was Jim Whittaker and he was a pastor in Clarksville and he is the reason any of the rest of us are alive. He did not turn. His heart gave out and he stayed himself the whole way down, and I am going to come back to why, because it is the most useful thing I have ever had to tell anybody."
+"We buried a man yesterday. His name was Jim Whittaker and he was a pastor in Clarksville and he is the reason any of the rest of us are alive. He did not turn. His heart gave out and he stayed himself the whole way down, and I am going to come back to why, because it is the most useful thing I have to tell you."
 
 I said "catecholamines" once, into the microphone, because that is the actual word. Then I said "stress juice," because that is what it is, and because a man sitting in a stockroom in Ozark with a shortwave and a dying flashlight does not need the actual word. He needs the thing the word is for.
 
-I have thought about that a lot since. It is the only genuinely useful thing I have ever done with vocabulary.
+I have thought about that a lot since. It is a small thing to be proud of. I am proud of it anyway.
 
 I told them. All of it. The rules: the trapdoor, the threshold, the beta-blockers, the voices, the density, the frenzy. The things I'd learned by watching people die because they didn't have the information. I told them about fortification and why it kills you. I told them about the Turned getting smarter. I told them that the damage they carried, the addiction, the depression, the grief, was their skillset now, that managing a craving was the same mechanism as managing fear. I told them to write it down.
 

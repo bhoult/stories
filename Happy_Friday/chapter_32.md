@@ -76,7 +76,7 @@ Then Dale went and got the paracord out of his pack.
 
 ---
 
-We did it as gently as it is possible to do a thing like that, which is not very. Marcus took his shoulders. Dale did the wrists. Dale, whose hands do not shake anymore, and who has been restrained himself, in a room in Fort Smith, twelve years ago, and who never said so and did not have to. We used the tarp straps and the paracord and we ran them under the seminar table, and we padded his wrists with a folded fleece because Ruth stood over us and made us, and I have never in my life been more grateful to be made to do something.
+We did it as gently as it is possible to do a thing like that, which is not very. Marcus took his shoulders. Dale did the wrists. Dale, whose hands do not shake anymore, and who has been restrained himself, in a room in Fort Smith, twelve years ago, and who never said so and did not have to. We used the tarp straps and the paracord and we ran them under the seminar table, and we padded his wrists with a folded fleece because Ruth stood over us and made us, and I cannot think of a time I have been more grateful to be made to do something.
 
 Jim was conscious for most of it. He knew exactly what was happening. At one point he tried to help, tried to move his arm into a better position for Dale, and Dale had to turn his face away for a second.
 
@@ -236,7 +236,7 @@ I did not give it a number. The numbered entries are a document; Moss is going t
 
 *He asked You to carry the part I can't. I don't know whether You did. I know I got up the next morning. I know I have gotten up every morning since. I could not have told You in advance that I would.*
 
-*He wasn't afraid. That's the whole of what I have and I've turned it over more than anything else in this book. At the end, at a hundred and forty beats a minute, with every threshold I ever wrote behind him, the man was not afraid, and the thing that eats fear went through him and came out the other side with nothing. If that was You, then I have spent six weeks describing You in a notebook and calling it endocrinology, and I'd rather be wrong about the word than wrong about the trapdoor.*
+*He wasn't afraid. That's the whole of what I have and I've turned it over more than almost anything else in this book. At the end, at a hundred and forty beats a minute, with every threshold I ever wrote behind him, the man was not afraid, and the thing that eats fear went through him and came out the other side with nothing. If that was You, then I have spent six weeks describing You in a notebook and calling it endocrinology, and I'd rather be wrong about the word than wrong about the trapdoor.*
 
 *I'm not asking for anything. He'd have said that's the wrong way around and he'd have been kind about it.*
 

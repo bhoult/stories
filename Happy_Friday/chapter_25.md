@@ -70,7 +70,7 @@ I was not going to arrive. There was no arrangement of the numbers in which I ar
 
 And it changed nothing.
 
-That is the part. I sat on a highway with the correct answer in my hands and it did not move me an inch. Being right had stopped doing anything at all, and being right was the whole of what I had, the only thing I'd ever brought to any of it, and it turned out to be a tool that only worked on other people's problems.
+That is the part. I sat on a highway with the correct answer in my hands and it did not move me an inch. Being right had stopped doing anything at all, and being right was most of what I had, and the part I had brought on purpose, and it turned out to be a tool that only worked on other people's problems.
 
 There was a second number underneath it. Whatever I did or failed to do, she was going to go on standing in that lot. It was not a problem. It was a debt I had no currency for.
 
@@ -126,7 +126,7 @@ She stood up when I stood up. She didn't ask. We walked north on the shoulder of
 
 I was doing sums the whole way. Not about her. About Ruth's atenolol, and how far the carts could go in a day, and what I was going to say to Moss when we got there. The machinery had come back on and gone straight back to work, and all of the work was about people who were still alive. It has never stopped being about them since. That is not the same as forgiveness and I have never pretended it was.
 
-She never asked what the hatchet was for. She saw it and she did the arithmetic on it in a second and a half and she sat down next to me anyway. Not asking was the largest thing anyone has ever done for me, and she did it at that temperature, in those shoes, without once mentioning that she was cold.
+She never asked what the hatchet was for. She saw it and she did the arithmetic on it in a second and a half and she sat down next to me anyway. I have measured that against everything anyone has done for me since October and it holds. She did it at that temperature, in those shoes, without once mentioning that she was cold.
 
 I have gone over what I could have done differently, and the answer is not the one I went looking for. It isn't the parking lot. By the parking lot it was already decided. It goes back to a kitchen window on the second day, watching Lisa Anderson run out of exits and doing the arithmetic on whether I could reach her, and getting the right answer, I couldn't, and discovering that a right answer will hold a door shut for you as long as you need it to.
 

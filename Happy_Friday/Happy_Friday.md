@@ -5029,7 +5029,7 @@ I was not going to arrive. There was no arrangement of the numbers in which I ar
 
 And it changed nothing.
 
-That is the part. I sat on a highway with the correct answer in my hands and it did not move me an inch. Being right had stopped doing anything at all, and being right was the whole of what I had, the only thing I'd ever brought to any of it, and it turned out to be a tool that only worked on other people's problems.
+That is the part. I sat on a highway with the correct answer in my hands and it did not move me an inch. Being right had stopped doing anything at all, and being right was most of what I had, and the part I had brought on purpose, and it turned out to be a tool that only worked on other people's problems.
 
 There was a second number underneath it. Whatever I did or failed to do, she was going to go on standing in that lot. It was not a problem. It was a debt I had no currency for.
 
@@ -5085,7 +5085,7 @@ She stood up when I stood up. She didn't ask. We walked north on the shoulder of
 
 I was doing sums the whole way. Not about her. About Ruth's atenolol, and how far the carts could go in a day, and what I was going to say to Moss when we got there. The machinery had come back on and gone straight back to work, and all of the work was about people who were still alive. It has never stopped being about them since. That is not the same as forgiveness and I have never pretended it was.
 
-She never asked what the hatchet was for. She saw it and she did the arithmetic on it in a second and a half and she sat down next to me anyway. Not asking was the largest thing anyone has ever done for me, and she did it at that temperature, in those shoes, without once mentioning that she was cold.
+She never asked what the hatchet was for. She saw it and she did the arithmetic on it in a second and a half and she sat down next to me anyway. I have measured that against everything anyone has done for me since October and it holds. She did it at that temperature, in those shoes, without once mentioning that she was cold.
 
 I have gone over what I could have done differently, and the answer is not the one I went looking for. It isn't the parking lot. By the parking lot it was already decided. It goes back to a kitchen window on the second day, watching Lisa Anderson run out of exits and doing the arithmetic on whether I could reach her, and getting the right answer, I couldn't, and discovering that a right answer will hold a door shut for you as long as you need it to.
 
@@ -6042,7 +6042,7 @@ Then Dale went and got the paracord out of his pack.
 
 ---
 
-We did it as gently as it is possible to do a thing like that, which is not very. Marcus took his shoulders. Dale did the wrists. Dale, whose hands do not shake anymore, and who has been restrained himself, in a room in Fort Smith, twelve years ago, and who never said so and did not have to. We used the tarp straps and the paracord and we ran them under the seminar table, and we padded his wrists with a folded fleece because Ruth stood over us and made us, and I have never in my life been more grateful to be made to do something.
+We did it as gently as it is possible to do a thing like that, which is not very. Marcus took his shoulders. Dale did the wrists. Dale, whose hands do not shake anymore, and who has been restrained himself, in a room in Fort Smith, twelve years ago, and who never said so and did not have to. We used the tarp straps and the paracord and we ran them under the seminar table, and we padded his wrists with a folded fleece because Ruth stood over us and made us, and I cannot think of a time I have been more grateful to be made to do something.
 
 Jim was conscious for most of it. He knew exactly what was happening. At one point he tried to help, tried to move his arm into a better position for Dale, and Dale had to turn his face away for a second.
 
@@ -6202,7 +6202,7 @@ I did not give it a number. The numbered entries are a document; Moss is going t
 
 *He asked You to carry the part I can't. I don't know whether You did. I know I got up the next morning. I know I have gotten up every morning since. I could not have told You in advance that I would.*
 
-*He wasn't afraid. That's the whole of what I have and I've turned it over more than anything else in this book. At the end, at a hundred and forty beats a minute, with every threshold I ever wrote behind him, the man was not afraid, and the thing that eats fear went through him and came out the other side with nothing. If that was You, then I have spent six weeks describing You in a notebook and calling it endocrinology, and I'd rather be wrong about the word than wrong about the trapdoor.*
+*He wasn't afraid. That's the whole of what I have and I've turned it over more than almost anything else in this book. At the end, at a hundred and forty beats a minute, with every threshold I ever wrote behind him, the man was not afraid, and the thing that eats fear went through him and came out the other side with nothing. If that was You, then I have spent six weeks describing You in a notebook and calling it endocrinology, and I'd rather be wrong about the word than wrong about the trapdoor.*
 
 *I'm not asking for anything. He'd have said that's the wrong way around and he'd have been kind about it.*
 
@@ -6239,11 +6239,11 @@ I pressed the transmit button.
 
 And then, because it was true and because I had decided on the stairs coming up here that I was not going to do this the tidy way:
 
-"We buried a man yesterday. His name was Jim Whittaker and he was a pastor in Clarksville and he is the reason any of the rest of us are alive. He did not turn. His heart gave out and he stayed himself the whole way down, and I am going to come back to why, because it is the most useful thing I have ever had to tell anybody."
+"We buried a man yesterday. His name was Jim Whittaker and he was a pastor in Clarksville and he is the reason any of the rest of us are alive. He did not turn. His heart gave out and he stayed himself the whole way down, and I am going to come back to why, because it is the most useful thing I have to tell you."
 
 I said "catecholamines" once, into the microphone, because that is the actual word. Then I said "stress juice," because that is what it is, and because a man sitting in a stockroom in Ozark with a shortwave and a dying flashlight does not need the actual word. He needs the thing the word is for.
 
-I have thought about that a lot since. It is the only genuinely useful thing I have ever done with vocabulary.
+I have thought about that a lot since. It is a small thing to be proud of. I am proud of it anyway.
 
 I told them. All of it. The rules: the trapdoor, the threshold, the beta-blockers, the voices, the density, the frenzy. The things I'd learned by watching people die because they didn't have the information. I told them about fortification and why it kills you. I told them about the Turned getting smarter. I told them that the damage they carried, the addiction, the depression, the grief, was their skillset now, that managing a craving was the same mechanism as managing fear. I told them to write it down.
 
