@@ -130,6 +130,8 @@ He prayed for Caleb, who was holding two of his fingers. He asked that the boy b
 
 He prayed for Sienna. He asked that she be given something to run toward.
 
+She was in the doorway behind Marcus by then. I had not known she was there. When I looked again the doorway was empty, and I did not see her until the next morning, out on the track, running in the dark before it was light enough to run.
+
 And then he prayed for me, out loud, in front of all of them, and he did not soften it.
 
 "Lord, this boy has done a thing that is going to be on him the rest of his life. He did it with his eyes open. He worked it out on a hillside and he carried it out and he has not once tried to tell me it was clean." He had to stop for breath in the middle of it and he came back and kept going in the same voice. "I'm not going to ask You to tell him he was right, because he won't hear it from You any more than he'd hear it from me. I'm asking You to carry the part of it he can't. He is fifteen years old and he is going to have to do it again. Be with him when he does. And Lord. Don't let him get good at it."

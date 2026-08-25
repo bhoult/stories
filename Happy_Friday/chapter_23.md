@@ -4,7 +4,7 @@ The next day we found the town.
 
 It wasn't much: a bend in the highway where a gas station, a general store, and a barbecue restaurant clustered around an intersection like survivors huddling for warmth. The kind of place that had survived on weekend tourists: bikers on weekend rides, families stopping for pulled pork and sweet tea, college kids from Fayetteville driving up to see the fall leaves. A sign out front of the restaurant said WORLD FAMOUS SMOKED RIBS. The world that had made them famous was gone.
 
-Someone had fortified the gas station, and they had done it well. Plywood over the windows, screwed not nailed, reinforced with sheet metal off the restaurant roof. A pickup parked square across the entrance. And on the roof behind a low wall of sandbags, a man with a deer rifle, watching us come.
+Someone had fortified the gas station, and they had done it well. Plywood over the windows, screwed not nailed, reinforced with sheet metal off the restaurant roof. A pickup parked square across the entrance, and barbed wire strung between the pumps at chest height, four strands, pulled tight enough to hum. And on the roof behind a low wall of sandbags, a man with a deer rifle, watching us come.
 
 "That's far enough."
 
@@ -40,7 +40,7 @@ Marcus stopped.
 
 I looked at the chart, and then I looked past him at the gap in the plywood, and I did the arithmetic that I do, and it took about a second and a half.
 
-There were maybe a dozen of them inside. They were not doing anything. That was the thing my brain caught on first. In a room that size you expect motion, somebody adjusting something, somebody bored. These people were seated, mostly, in a dim room in the middle of the afternoon, and the ones who were upright moved through it like people wading. A woman sat against the drink cooler with her hands in her lap and her eyes open, and in the whole time we stood there she did not change position once.
+There were maybe eight or nine of them inside. They were not doing anything. That was the thing my brain caught on first. In a room that size you expect motion, somebody adjusting something, somebody bored. These people were seated, mostly, in a dim room in the middle of the afternoon, and the ones who were upright moved through it like people wading. A woman sat against the drink cooler with her hands in her lap and her eyes open, and in the whole time we stood there she did not change position once.
 
 And at the counter, a boy about my age, watching us come. Same age, same nothing behind the face. I had been telling myself for two weeks that I recognized that expression because I saw it in every reflective surface I passed. I was wrong about that. What was on him wasn't exhaustion.
 

@@ -259,7 +259,7 @@ Ruth said, "The trail doesn't need flattening. I need better knees."
 
 Jim said, "I'll pray for those too."
 
-Marcus and Dale made a second run: the bike shop on Main Street. They came back with eight bicycles, two of them electric with charges that Marcus estimated at fifteen to twenty miles. Ruth and Jim got the e-bikes. The plan was simple: ride twenty miles to the OHT trailhead on Forest Service Road 1003, leave the bikes, start walking. Twenty miles of road we wouldn't have to hike. Twenty miles of pavement before the real suffering began.
+Marcus and Dale made a second run: the bike shop on Main Street. They came back with seven bicycles, two of them electric with charges that Marcus estimated at fifteen to twenty miles. Ruth and Jim got the e-bikes. The plan was simple: ride twenty miles to the OHT trailhead on Forest Service Road 1003, leave the bikes, start walking. Twenty miles of road we wouldn't have to hike. Twenty miles of pavement before the real suffering began.
 
 During the packing, Marcus brought up the chickens. Not the leaving-them-behind part. The other part.
 

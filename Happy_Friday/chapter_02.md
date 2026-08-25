@@ -14,6 +14,16 @@ Her keys weren't on the hook by the door.
 
 She should have been home by seven. It was 9:42.
 
+My phone had one thing on it that wasn't news.
+
+**Missed call — Mom — 12:51 AM.**
+
+No voicemail. Four rings and then nothing, in the middle of a twelve-hour shift, from a woman who did not call me from work. That was a rule. Calling from work meant something had happened, and she had decided a long time ago that I was not going to be made to think something had happened unless something had.
+
+I looked at it for a second and then I did what I did with everything else that morning, which was file it under the version I wanted. She'd had a minute. She'd thought of me. She'd come home and tell me about it.
+
+I have gone back to those four digits more often than to anything else I saw that week, and I did not understand one thing about them until Day Thirty-Nine.
+
 I called her. Straight to voicemail. Her voicemail message is the one she recorded four years ago, and she says her name wrong — "You've reached Delia Carver" — except she stumbles on "Carver" because she'd only had the name back for six months after the divorce and it still felt new in her mouth. I've heard this voicemail probably three hundred times. I never mentioned the stumble.
 
 I called again. Voicemail.
@@ -138,7 +148,7 @@ I didn't figure it out that night. But I remembered it. And remembering it, late
 
 The movie in my head was still running: the one where you board up, hold out, and the cavalry arrives. But the movie was starting to skip. In the movie, FEMA tells you to shelter in place because help is coming. They don't tell you to manage your stress level. In the movie, the sick people shamble and deteriorate and fall down eventually. They don't eat from gardens and drink from hoses and sort through garbage with the efficiency of someone who plans to be here next week. The movie was wrong. I didn't know how wrong yet.
 
-I ate the leftover pasta cold, standing at the kitchen counter in the dark. My mom's recipe. Garlic, tomatoes, the cheap pasta from Dollar General that she insists tastes the same as the expensive kind. She's right. It tasted like Tuesday. Three days ago. A different century.
+I ate the leftover pasta cold, standing at the kitchen counter in the dark. My mom's recipe. Garlic, tomatoes, the cheap pasta from Dollar General that she insists tastes the same as the expensive kind. She's right. It tasted like Tuesday. Four days ago. A different century.
 
 I washed the fork and put it in the drying rack because that's what she does.
 

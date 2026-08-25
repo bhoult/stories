@@ -199,6 +199,16 @@ Her keys weren't on the hook by the door.
 
 She should have been home by seven. It was 9:42.
 
+My phone had one thing on it that wasn't news.
+
+**Missed call — Mom — 12:51 AM.**
+
+No voicemail. Four rings and then nothing, in the middle of a twelve-hour shift, from a woman who did not call me from work. That was a rule. Calling from work meant something had happened, and she had decided a long time ago that I was not going to be made to think something had happened unless something had.
+
+I looked at it for a second and then I did what I did with everything else that morning, which was file it under the version I wanted. She'd had a minute. She'd thought of me. She'd come home and tell me about it.
+
+I have gone back to those four digits more often than to anything else I saw that week, and I did not understand one thing about them until Day Thirty-Nine.
+
 I called her. Straight to voicemail. Her voicemail message is the one she recorded four years ago, and she says her name wrong — "You've reached Delia Carver" — except she stumbles on "Carver" because she'd only had the name back for six months after the divorce and it still felt new in her mouth. I've heard this voicemail probably three hundred times. I never mentioned the stumble.
 
 I called again. Voicemail.
@@ -323,7 +333,7 @@ I didn't figure it out that night. But I remembered it. And remembering it, late
 
 The movie in my head was still running: the one where you board up, hold out, and the cavalry arrives. But the movie was starting to skip. In the movie, FEMA tells you to shelter in place because help is coming. They don't tell you to manage your stress level. In the movie, the sick people shamble and deteriorate and fall down eventually. They don't eat from gardens and drink from hoses and sort through garbage with the efficiency of someone who plans to be here next week. The movie was wrong. I didn't know how wrong yet.
 
-I ate the leftover pasta cold, standing at the kitchen counter in the dark. My mom's recipe. Garlic, tomatoes, the cheap pasta from Dollar General that she insists tastes the same as the expensive kind. She's right. It tasted like Tuesday. Three days ago. A different century.
+I ate the leftover pasta cold, standing at the kitchen counter in the dark. My mom's recipe. Garlic, tomatoes, the cheap pasta from Dollar General that she insists tastes the same as the expensive kind. She's right. It tasted like Tuesday. Four days ago. A different century.
 
 I washed the fork and put it in the drying rack because that's what she does.
 
@@ -1915,7 +1925,7 @@ We were in a Red Queen race and we were losing. Not because we weren't adapting.
 The sun went down. The Turned shifted. Sixteen faces turned toward the last of the light. Pembrook's skin, in the steeple binoculars, was visibly green now: not the grey-green of week one but a darker, almost vegetal shade, concentrated on his face and forearms. The sun-exposed surfaces. I wrote it in the notebook and drew an arrow connecting it to the sunflower observation from week one and didn't write what I thought it meant because I wasn't ready.
 
 
-# Chapter 12: Nate Tells the Lyles
+# Chapter 12: The Shoe on the Doorstep
 
 On Day 12, while the Moss broadcast was still settling into everyone's models, Sienna and I ran experiments.
 
@@ -2127,7 +2137,7 @@ Craig Lyle was exactly the man I'd expected from the steeple: big, capable, comp
 
 "My situation." Not defensive. Curious. The way a cop listens to a witness. I respected this. I also recognized it as a framework about to collide with data it couldn't accommodate.
 
-I opened the notebook. I showed him the count: the Turned in his perimeter, plotted by day, the number climbing from eight on Day 8 to twenty-seven today. I showed him the behavioral observations: the shift from passive positioning to active circling, the increased restlessness, the tightening of the perimeter.
+I opened the notebook. I showed him the count: the Turned in his perimeter, plotted by day, the number climbing from sixteen on Day 8 to twenty-seven today. I showed him the behavioral observations: the shift from passive positioning to active circling, the increased restlessness, the tightening of the perimeter.
 
 "They're drawn to the noise," I said. "The generator, the bullhorn. Every broadcast brings more. The count has been rising by two to three per day. At this rate, in a week you'll have thirty-five to forty."
 
@@ -2406,7 +2416,7 @@ Jim and Marcus loaded a bag. Through the binoculars I watched Marcus reading lab
 
 Jim's voice came through the static: the first time he'd transmitted. "Copy. Five minutes." The brevity was Jim: no wasted words, no wasted signal.
 
-They made it back at 11:47 AM. Ninety minutes, round trip, for a walk that in the old world would have taken twenty minutes. Marcus came through the side door and set the bag on the folding table and unzipped it and inside were four months of beta-blockers, three months of SSRIs, two months of benzodiazepines, and a collection of anxiolytics that nobody in the church except me could pronounce.
+They made it back at 11:47 AM. Ninety minutes, round trip, for a walk that in the old world would have taken twenty minutes. Marcus came through the side door and set the bag on the folding table and unzipped it and inside were four months of metoprolol, three months of SSRIs, two months of benzodiazepines, and a collection of anxiolytics that nobody in the church except me could pronounce.
 
 "The narcotics were gone," Marcus said. "Everything people want to take was gone. Everything they needed to take was still there."
 
@@ -2416,11 +2426,17 @@ Nobody argued with her.
 
 That night Jim broke out a bottle of grape juice he'd been saving in the sacristy — communion supplies, the good kind, not the Dollar General brand — and poured small cups for everyone, and we toasted nothing and everything, and Maria said "to surviving" and Ruth said "to antibiotics" and Marcus raised his cup and didn't say anything because he was smiling and Marcus smiling was rare enough to count as a toast on its own. Dale carved a small pill bottle out of a chunk of two-by-four and put it on the shelf next to the beagle and the cardinal, and when I asked him why, he said, "Because we did a hard thing and lived, and that should have a shape."
 
-We passed hours like that sometimes: not many, but enough. Enough to remember later. I don't narrate all of them because some things lose their meaning when you pin them down with words. But they happened more often than the fear, if I'm honest. The fear was louder but the ordinary hours were longer: the cups of grape juice, the chapters of the romance novel, the evenings where the only sound was Dale's knife and the hum of the emitter and someone breathing the way you breathe when you're almost asleep. They would outweigh the crises by a factor of ten. The journal doesn't reflect this because journals are biased toward events, and sitting together in a basement drinking grape juice is not an event. But it should be.
+We passed hours like that sometimes: not many, but enough. Enough to remember later. I don't narrate all of them because some things lose their meaning when you pin them down with words. But they happened more often than the fear, if I'm honest. The fear was louder but the ordinary hours were longer: the cups of grape juice, the chapters of the romance novel, the evenings where the only sound was Dale's knife and someone breathing the way you breathe when you're almost asleep. They would outweigh the crises by a factor of ten. The journal doesn't reflect this because journals are biased toward events, and sitting together in a basement drinking grape juice is not an event. But it should be.
 
 ---
 
-That evening I distributed the medications. Jim's metoprolol was replenished. Months of supply. Ruth's atenolol, the same. Marcus got propranolol. As-needed, for when his flat affect wasn't enough and the grief underneath started pushing through. I set aside hydroxyzine, an antihistamine with anxiolytic properties, as a general backup for anyone whose stress started climbing. Everyone got a small emergency supply: two propranolol tablets each, sealed in sandwich bags, carried at all times. The apocalypse equivalent of a fire extinguisher. Break glass in case of catecholamine spike.
+That evening I distributed the medications. Jim's metoprolol was replenished — the shelf had been full, because metoprolol is the common one and nobody panicking had any reason to want it.
+
+There was no atenolol. Not a bottle, not a partial, not a generic filed under the wrong letter. Ozark Family Pharmacy had never stocked much of it and what it had was gone months before any of this started, to people who took it every morning and are presumably standing in a yard somewhere now.
+
+I told Ruth. She said "Well," which is what Ruth says instead of swearing, and went back upstairs to her novel. I wrote the number in the notebook and drew a box around it. Twenty-five days.
+
+Marcus got propranolol. As-needed, for when his flat affect wasn't enough and the grief underneath started pushing through. I set aside hydroxyzine, an antihistamine with anxiolytic properties, as a general backup for anyone whose stress started climbing. Everyone got a small emergency supply: two propranolol tablets each, sealed in sandwich bags, carried at all times. The apocalypse equivalent of a fire extinguisher. Break glass in case of catecholamine spike.
 
 Sienna looked at her two pills like I'd handed her a dead insect.
 
@@ -3090,7 +3106,7 @@ I am going to describe it in detail because you need to see what I saw to unders
 
 Three weeks in. Day 21. The count around the Lyles' house had been climbing since Day 10 and I had been tracking it from the steeple with the obsessive precision of a kid who understands that numbers are the only language the universe respects.
 
-Day 10: 22. Day 13: 27. Day 15: 31. Day 18: 38. Day 20: 44.
+Day 10: 21. Day 13: 27. Day 15: 31. Day 18: 38. Day 20: 44.
 
 Day 21, 6 PM: 51.
 
@@ -3331,7 +3347,7 @@ The second I didn't show anyone. It arrived while I was watching the roof come d
 
 # Chapter 17: Committee Meeting
 
-Two days after the Lyles, we held a meeting that lasted four hours and resolved almost nothing, because the apocalypse has not simplified human social dynamics even slightly.
+The day after the Lyles, we held a meeting that lasted four hours and resolved almost nothing, because the apocalypse has not simplified human social dynamics even slightly.
 
 The meeting was in the basement. Eight people around a folding table: Jim at the head because he was the pastor and it was his church and some structures persist even when the world they were built for doesn't. Ruth to his right, Bible on the table in front of her like a gavel. Marcus to his left, flask in his jacket but not out. He hadn't drunk in two days, the pharmacy's anxiolytics replacing the bourbon in a transition Maria had orchestrated whether Marcus wanted her to or not. Dale and Maria together, Dale's hands empty because he'd left the carving in the sanctuary with Caleb, who was building a small zoo of wooden animals on a pew. Caleb had two jobs now: the zoo and the chickens. We'd found them three days after Sienna brought him in: three hens in a backyard coop two houses down on Birch, alive and indignant, surviving on weeds and beetles and the grit of animals too stupid to know the world had ended. Caleb fed them every morning — scraps from the pantry, water from the rain barrel — with the solemn focus of a surgeon. He'd named them Triceratops, Steggy, and Rex. The names were non-negotiable. The chickens did not care what they were called. They cared about the scraps. Caleb cared about being needed by something that wasn't afraid of him, and the chickens provided this because chickens are afraid of everything except the person holding food.
 
@@ -3411,7 +3427,7 @@ Jim: "He's always known where we are."
 
 **Four.** The medication clock.
 
-"Jim has thirty days of metoprolol at current dose. Ruth has eighteen days of atenolol. The pharmacy run bought time, but not enough, and there isn't another pharmacy in safe range. Dale's Suboxone is at five days. When it runs out, his withdrawal will spike his catecholamines and he'll need to be managed with propranolol and benzodiazepines, which are stopgaps, not solutions. The medications are a bridge. We need the bridge to reach somewhere."
+"Jim has thirty days of metoprolol at current dose. Ruth has eighteen days of atenolol. The pharmacy run bought time, but not enough, and there isn't another pharmacy in safe range. Dale's Suboxone is at three days. When it runs out, his withdrawal will spike his catecholamines and he'll need to be managed with propranolol and benzodiazepines, which are stopgaps, not solutions. The medications are a bridge. We need the bridge to reach somewhere."
 
 I closed the notebook.
 
@@ -3792,7 +3808,7 @@ Ruth said, "The trail doesn't need flattening. I need better knees."
 
 Jim said, "I'll pray for those too."
 
-Marcus and Dale made a second run: the bike shop on Main Street. They came back with eight bicycles, two of them electric with charges that Marcus estimated at fifteen to twenty miles. Ruth and Jim got the e-bikes. The plan was simple: ride twenty miles to the OHT trailhead on Forest Service Road 1003, leave the bikes, start walking. Twenty miles of road we wouldn't have to hike. Twenty miles of pavement before the real suffering began.
+Marcus and Dale made a second run: the bike shop on Main Street. They came back with seven bicycles, two of them electric with charges that Marcus estimated at fifteen to twenty miles. Ruth and Jim got the e-bikes. The plan was simple: ride twenty miles to the OHT trailhead on Forest Service Road 1003, leave the bikes, start walking. Twenty miles of road we wouldn't have to hike. Twenty miles of pavement before the real suffering began.
 
 During the packing, Marcus brought up the chickens. Not the leaving-them-behind part. The other part.
 
@@ -3881,13 +3897,13 @@ Tomorrow we walked.
 
 The Ozark Highlands Trail does not believe in flat.
 
-We rode bicycles to the trailhead. Eight people on eight bikes, pedaling twenty miles of two-lane blacktop through the Ozark foothills, packs strapped to rear racks and handlebars and, in my case, balanced on my lap like a pregnant belly made of nylon and poor decisions. Ruth and Jim had the e-bikes. Ruth because her knees couldn't pedal twenty miles, Jim because he was seventy-three and nobody argued with Ruth about getting one so nobody could argue with Jim either. Caleb rode on Marcus's handlebars, gripping the crossbar with both hands, the wooden beagle in his jacket pocket bumping against the frame.
+We rode bicycles to the trailhead. Eight people on seven bikes, pedaling twenty miles of two-lane blacktop through the Ozark foothills, packs strapped to rear racks and handlebars and, in my case, balanced on my lap like a pregnant belly made of nylon and poor decisions. Ruth and Jim had the e-bikes. Ruth because her knees couldn't pedal twenty miles, Jim because he was seventy-three and nobody argued with Ruth about getting one so nobody could argue with Jim either. Caleb rode on Marcus's handlebars, gripping the crossbar with both hands, the wooden beagle in his jacket pocket bumping against the frame.
 
 The road was empty. Three weeks of no traffic and the pavement was already changing. Leaves in the gutters, a branch down in the right lane, the first cracks where tree roots were starting to reclaim what asphalt had borrowed. We passed houses. Some had Turned in the yards: the head-turns tracked us as we pedaled past, the smiles following, but bikes were fast enough that none of them transitioned beyond passive interest. We passed Clarksville's city limit sign and the Dollar General and the shuttered Sonic Drive-In and the world we were leaving behind.
 
 We reached the trailhead at midday: a gravel parking area off Forest Service Road 1003. The parking area was empty. No cars, no Turned. The first good sign in three weeks.
 
-We leaned the bikes against a split-rail fence at the edge of the lot. Eight bicycles, two of them still showing a charge on their battery indicators. Machines we'd never use again. Marcus looked at them for a moment — the particular look of a man who'd spent his life around vehicles, who understood the value of anything with wheels — and then turned away. We were leaving the world of wheels. Everything after this was feet.
+We leaned the bikes against a split-rail fence at the edge of the lot. Seven bicycles, two of them still showing a charge on their battery indicators. Machines we'd never use again. Marcus looked at them for a moment — the particular look of a man who'd spent his life around vehicles, who understood the value of anything with wheels — and then turned away. We were leaving the world of wheels. Everything after this was feet.
 
 The trailhead marker was a brown post with a white blaze: an aluminum diamond nailed to the wood, catching the November light. Beyond it, the trail entered the forest like a thread being pulled into fabric: a two-foot-wide path of packed earth and leaf litter, climbing immediately, switchbacking up a hardwood hollow toward a sandstone ridge that was invisible from below.
 
@@ -4057,9 +4073,9 @@ We all smelled like smoke and sweat. The fire provided warmth for whoever was on
 
 ---
 
-Day two was worse. Day three was worse than that. The trail did not believe in mercy and the trail did not believe in flat and the trail had an opinion about my cardiovascular fitness that it expressed through gradient.
+The second day out was worse. The third was worse than that. The trail did not believe in mercy and the trail did not believe in flat and the trail had an opinion about my cardiovascular fitness that it expressed through gradient.
 
-But on the afternoon of the second day, after climbing a ridge that seemed designed as a personal insult — switchback after switchback, the kind of hill that keeps promising a top and then revealing another false summit behind it — I reached the top. Actually reached it. The trail leveled and the trees thinned and the sky opened and I stopped walking because my body stopped walking for me.
+But on the afternoon of the second day out, after climbing a ridge that seemed designed as a personal insult — switchback after switchback, the kind of hill that keeps promising a top and then revealing another false summit behind it — I reached the top. Actually reached it. The trail leveled and the trees thinned and the sky opened and I stopped walking because my body stopped walking for me.
 
 Sienna was already there. She'd been there for five minutes, probably. She was sitting on a rock with her knees pulled up, looking west, not looking at me. Giving me the dignity of arriving without an audience.
 
@@ -4077,7 +4093,7 @@ I didn't say any of this. Neither did she. We stood there until Marcus called up
 
 ---
 
-On day three the trail crossed a forest service road: a gravel track cutting east-west through the ridgeline, the kind of road that existed for timber trucks and hunters and nobody else. The day was hot. Arkansas does this in November. Gives you frost at dawn and eighty degrees by noon, the kind of weather that can't decide what season it is and settles for all of them at once. We were sweating through our shirts by midmorning and the water filter was getting a workout at every creek crossing.
+On the third day out the trail crossed a forest service road: a gravel track cutting east-west through the ridgeline, the kind of road that existed for timber trucks and hunters and nobody else. The day was hot. Arkansas does this in November. Gives you frost at dawn and eighty degrees by noon, the kind of weather that can't decide what season it is and settles for all of them at once. We were sweating through our shirts by midmorning and the water filter was getting a workout at every creek crossing.
 
 Near the road crossing, set back in the trees: a cabin. Small, one-room, the kind of place a hunter or a forest service worker might use for a weekend. The windows were intact. The door was closed. No Turned. We checked the perimeter, checked the road in both directions, checked the tree line. Nothing. The cabin was alone the way some places in the Ozarks are alone. Genuinely, deeply, as if the rest of the world had simply decided not to include it.
 
@@ -4116,7 +4132,7 @@ I woke to the sound of wind in the canopy and for three heartbeats I didn't know
 
 The trail taught by repetition. Every morning the body said *no* — the joints locked, the muscles seized, the sleeping bag felt like the only sane place in the universe. Ruth couldn't stand without Jim pulling her up. Dale's hands shook hard enough that he couldn't grip his zipper. Caleb was the only one who bounced up without complaint, because seven-year-olds are made of rubber and injustice.
 
-But the body lies in the morning. It says *you can't do this.* You do it anyway, and within a mile the joints loosen and the muscles warm and the lie becomes yesterday's pain rather than today's impossibility. By the fifth day I stopped believing the morning. By the seventh I stopped noticing it.
+But the body lies in the morning. It says *you can't do this.* You do it anyway, and within a mile the joints loosen and the muscles warm and the lie becomes yesterday's pain rather than today's impossibility. By the fifth day out I stopped believing the morning. By the seventh I stopped noticing it.
 
 ---
 
@@ -4370,7 +4386,7 @@ The pace built. Three miles the first day. Four on the second. By the ninth day 
 
 I lost weight. Not dramatically, maybe five pounds, maybe eight, but enough that my pants were looser and the pack felt lighter and the uphills were incrementally less catastrophic. The chafing faded as the jeans broke in and my thighs toughened. The shoulder bruises hardened into something that hurt less. The body was adapting. The body I'd been apologizing for was doing the thing I needed it to do, and the doing was changing it, and the changing was its own kind of answer to the question Sienna had asked in the church parking lot.
 
-By the tenth day, Dale's hands were steady. Not still, not completely, but the tremor had faded to something you'd only notice if you were looking for it, and I was always looking. The worst had passed. The sweating had stopped. The cramping had eased. His heart rate was down to 82. Still elevated, but manageable, safe. He carved the turtle with clean, controlled strokes, the hexagonal plates of the shell emerging with the precision his hands hadn't been capable of three days earlier.
+By the tenth day out, Dale's hands were steady. Not still, not completely, but the tremor had faded to something you'd only notice if you were looking for it, and I was always looking. The worst had passed. The sweating had stopped. The cramping had eased. His heart rate was down to 82. Still elevated, but manageable, safe. He carved the turtle with clean, controlled strokes, the hexagonal plates of the shell emerging with the precision his hands hadn't been capable of three days earlier.
 
 "How long?" I asked. Meaning: how long have your hands been still.
 
@@ -4668,7 +4684,7 @@ I don't know what happened in those hours. I know the sounds stopped eventually.
 
 That is all I will ever say about this. What happened is not for a journal or a story to be told. There was no lesson to learn. Those hours belong to nobody, and I wish I could forget them myself.
 
-We walked back at dusk. I don't remember the walk. I remember her hand on my elbow — once, brief, guiding me around a root — and I remember the group's faces when we emerged from the tree line. Marcus's face. Dale's face. Jim's face. I did not look at any of them. I could not look at anyone. The machinery was not running. The analytical brain was offline. Whatever remained was something older and simpler: a body that could walk and a pair of eyes that could see and a mouth that would not open.
+We walked back at dusk. I don't remember the walk. I remember her hand on my elbow — once, brief, guiding me around a root — and I remember the group's faces when we emerged from the tree line. Marcus's face. Dale's face. Jim's face. I did not look at any of them. I could not look at anyone. Nothing was running. The analytical brain was offline. Whatever remained was something older and simpler: a body that could walk and a pair of eyes that could see and a mouth that would not open.
 
 I did not speak. Not that evening, not that night. They built a fire and I sat apart from it. Someone brought me water and I didn't drink it. Someone brought me food and I didn't eat it. Caleb brought me the wooden beagle and put it in my lap and went back to Marcus without a word and the beagle sat there on my thigh, small and wooden and carved by steady hands, and I did not pick it up and I did not put it down.
 
@@ -4676,7 +4692,7 @@ They let me be. There was nothing else to do.
 
 ---
 
-The next morning I was functional. Not repaired. Functional. The machinery had restarted in the night, the way a generator restarts when the fuel line clears. I ate. I drank. I packed. I walked.
+The next morning I was functional. Not repaired. Functional. Something had restarted in the night, the way a generator restarts when the fuel line clears. I ate. I drank. I packed. I walked.
 
 Nobody mentioned it. Nobody asked. The silence around what had happened on the hillside was complete and permanent: a thing witnessed that did not need words because the words would have been smaller than the thing. Sienna walked near me but not beside me. She did not bring it up. She would never bring it up. We would never talk about it.
 
@@ -4704,7 +4720,7 @@ Jim would carry the prayer. I would carry the woman in the wire.
 
 That night, camped in a pulloff a mile north of the roadblock, I wrote by flashlight. The fire was too far from where I was sitting, and I was sitting apart because I didn't want to be near people and I didn't want to be alone. I'd washed the blood off my shoes in a creek but the smell was still there. In my clothes, in my hair, in the skin of my hands where the wire had cut me. The cuts on my palms were shallow but they stung and I didn't bandage them because the stinging felt correct.
 
-This was the first thing I'd written since the hillside. The machinery had been offline for most of a day: the breakdown, the woods, the silence, the walk through the blood. Now it was back, and the first thing the machinery did with its restored capacity was try to process what had happened by writing it down, because that's what the machinery does, because I am the machinery and the machinery is me and the writing is the only tool I have that works on the things that break me.
+This was the first thing I'd written since the hillside. I had been offline for most of a day: the breakdown, the woods, the silence, the walk through the blood. Now it was back, and the first thing the machinery did with its restored capacity was try to process what had happened by writing it down, because that's what the machinery does, because I am the machinery and the machinery is me and the writing is the only tool I have that works on the things that break me.
 
 **JOURNAL ENTRY #15:**
 
@@ -4724,7 +4740,7 @@ This was the first thing I'd written since the hillside. The machinery had been 
 
 *Here is what I'm afraid of: that I'll get used to it.*
 
-*Here is what I'm more afraid of: that I need to. And that clearly, I can't.**
+*Here is what I'm more afraid of: that I need to. And that clearly, I can't.*
 
 *Here is what I can't write and am writing anyway: part of me wanted it. The other thing. The thing with edges that I've been carrying since Clarksville. It wanted the roadblock. It wanted the wire to hold and the frenzy to build and the organism to feel, for once, what it felt like to be on the receiving end. The math provided the justification. The anger provided the willingness. And I don't know which one made the decision because they arrived at the same answer at the same time and the answer was: do it.*
 
@@ -4763,7 +4779,7 @@ The next day we found the town.
 
 It wasn't much: a bend in the highway where a gas station, a general store, and a barbecue restaurant clustered around an intersection like survivors huddling for warmth. The kind of place that had survived on weekend tourists: bikers on weekend rides, families stopping for pulled pork and sweet tea, college kids from Fayetteville driving up to see the fall leaves. A sign out front of the restaurant said WORLD FAMOUS SMOKED RIBS. The world that had made them famous was gone.
 
-Someone had fortified the gas station, and they had done it well. Plywood over the windows, screwed not nailed, reinforced with sheet metal off the restaurant roof. A pickup parked square across the entrance. And on the roof behind a low wall of sandbags, a man with a deer rifle, watching us come.
+Someone had fortified the gas station, and they had done it well. Plywood over the windows, screwed not nailed, reinforced with sheet metal off the restaurant roof. A pickup parked square across the entrance, and barbed wire strung between the pumps at chest height, four strands, pulled tight enough to hum. And on the roof behind a low wall of sandbags, a man with a deer rifle, watching us come.
 
 "That's far enough."
 
@@ -4799,7 +4815,7 @@ Marcus stopped.
 
 I looked at the chart, and then I looked past him at the gap in the plywood, and I did the arithmetic that I do, and it took about a second and a half.
 
-There were maybe a dozen of them inside. They were not doing anything. That was the thing my brain caught on first. In a room that size you expect motion, somebody adjusting something, somebody bored. These people were seated, mostly, in a dim room in the middle of the afternoon, and the ones who were upright moved through it like people wading. A woman sat against the drink cooler with her hands in her lap and her eyes open, and in the whole time we stood there she did not change position once.
+There were maybe eight or nine of them inside. They were not doing anything. That was the thing my brain caught on first. In a room that size you expect motion, somebody adjusting something, somebody bored. These people were seated, mostly, in a dim room in the middle of the afternoon, and the ones who were upright moved through it like people wading. A woman sat against the drink cooler with her hands in her lap and her eyes open, and in the whole time we stood there she did not change position once.
 
 And at the counter, a boy about my age, watching us come. Same age, same nothing behind the face. I had been telling myself for two weeks that I recognized that expression because I saw it in every reflective surface I passed. I was wrong about that. What was on him wasn't exhaustion.
 
@@ -4914,19 +4930,19 @@ The world would come.
 
 # Chapter 24: Mom
 
-Day 39. The highway was flat and empty and there was nothing to think about except the things I'd been refusing to think about for fifteen days.
+Day 39, afternoon, the town six miles behind us. The highway was flat and empty and there was nothing to think about except the things I'd been refusing to think about for fifteen days.
 
 The mountains were behind us. The trail was behind us. The roadblock was behind us: the razor wire and the three hundred people I'd killed by borrowing a wolf-hunting technique. The fortified group was behind us. Nine people in a gas station who wouldn't leave. All of it was behind us and we'd carry it for the rest of our lives.
 
 Highway 71 stretched north in a straight line, flat, featureless, the kind of road that gives the mind nothing to hold onto. No switchbacks. No creek crossings. No rocks to navigate or hills to climb. Just asphalt and sky and the rattle of shopping cart wheels and a steady rhythm of walking that required no thought. When the machinery has nothing to process, it idles. When it idles, the things it's been holding back seep through.
 
-I was tired. Not the productive tiredness of trail days. This was cumulative. Built in layers like sediment: weeks of insufficient food on top of blisters that had healed and re-opened and healed again on top of a month of sleeping on the ground on top of three hundred people shredded on razor wire on top of everything else. Everything else being: a woman in blue scrubs in a hospital parking lot in Clarksville, standing with bare feet and nothing behind her eyes. My mother. I'd opened that sealed envelope in the truck with Marcus and had been carrying it open ever since. Visible, unbearable, following me through sixty miles of trail and thirty miles of highway like a weight heavier than the pack.
+I was tired. Not the productive tiredness of trail days. This was cumulative. Built in layers like sediment: weeks of insufficient food on top of blisters that had healed and re-opened and healed again on top of a month of sleeping on the ground on top of three hundred people shredded on razor wire on top of everything else. Everything else being: a woman in blue scrubs in a hospital parking lot in Clarksville, standing with bare feet and nothing behind her eyes. My mother. I'd opened that sealed envelope standing in an insurance office parking lot with fifty pounds of camping gear on my back, and had been carrying it open ever since. Visible, unbearable, following me through sixty miles of trail and thirty miles of highway like a weight heavier than the pack.
 
-The analytical machinery had been carrying it, taking the unbearable thing and converting it into data, filing it, processing it into something manageable. Running nonstop since Clarksville. Since I saw her face and Marcus kept driving and I said "I see her" and the words were data and the container held.
+The analytical part of me had been carrying it, taking the unbearable thing and converting it into data, filing it, processing it into something manageable. Running nonstop since Clarksville. Since I saw her face and Marcus put his hand on my shoulder and said *keep moving*, and my legs kept moving, and the words were data and the container held.
 
-The container held through the first days on the trail, when the physical suffering was new enough to occupy the machinery's full capacity. Through the creek crossings and the gear discarding and the nightly inventory of blisters and the obsessive management of socks and the slow adaptation of a body that had never been asked to do anything like this. Through Dale's withdrawal peaking and breaking. Through the Rock House Shelter, where we'd slept dry and warm and I'd almost felt something like peace. Through the stray Turned hunter in the woods, nocking his invisible arrow, who reminded me that the organism took everyone. Hunters and nurses, fathers and mothers, people who had been people. Through the roadblock, where I became the kind of person who engineers a wolf knife out of razor wire and walks through the results. Through the gas station, where I watched myself fail to save people for the third time and understood that the pattern would repeat forever.
+The container held through the first days on the trail, when the physical suffering was new enough to occupy it completely. Through the creek crossings and the gear discarding and the nightly inventory of blisters and the obsessive management of socks and the slow adaptation of a body that had never been asked to do anything like this. Through Dale's withdrawal peaking and breaking. Through the Rock House Shelter, where we'd slept dry and warm and I'd almost felt something like peace. Through the stray Turned hunter in the woods, nocking his invisible arrow, who reminded me that the organism took everyone. Hunters and nurses, fathers and mothers, people who had been people. Through the roadblock, where I became the kind of person who engineers a wolf knife out of razor wire and walks through the results. Through the gas station, where I watched myself fail to save people for the third time and understood that the pattern would repeat forever.
 
-The container held because the machinery was running. And on Day 39, on a flat stretch of highway with nothing to think about, the machinery stopped.
+The container held because the machinery was running. And on Day 39, on a flat stretch of highway with nothing to think about, it stopped.
 
 Not dramatically. Just a quiet failure, like a generator running out of fuel. One moment I was walking and processing and carrying the weight in its compartment. The next moment the compartment was open and the weight was everywhere. In my legs, in my lungs, in the flat grey light of a December afternoon, in the sound of my own breathing, in the empty highway that stretched in both directions like a sentence with no end.
 
@@ -4960,7 +4976,7 @@ Two days later I opened the notebook.
 
 ---
 
-That night I dreamed she was fine.
+That night — the night of the thirty-ninth day, before any of the rest of it — I dreamed she was fine.
 
 The real one. The kitchen in the trailer, 6 PM on a Thursday, still in her scrubs because she'd worked a double and hadn't changed. Making coffee she shouldn't have been drinking that late. The radio on the counter playing something country and terrible that she loved. The particular way she leaned her hip against the counter while the pot brewed: the posture of a woman who had been on her feet for sixteen hours and was going to be on them for eight more because I had a dentist appointment in the morning and she wanted to make sure I ate breakfast before we left.
 
@@ -4974,7 +4990,7 @@ I said, "It's Thursday, Mom."
 
 Then I was outside.
 
-Just outside, in the parking lot in Clarksville, at night, and the kitchen window was a hospital window three stories up and she was standing behind the glass. Still in scrubs. Still holding the coffee. But her face was wrong. Smooth, blank, the expression I'd seen on two hundred Turned and had seen on her, across the parking lot, the day Marcus kept driving. Her mouth moved. No sound through the glass. She put her hand against the window, palm flat, fingers spread.
+Just outside, in the parking lot in Clarksville, at night, and the kitchen window was a hospital window three stories up and she was standing behind the glass. Still in scrubs. Still holding the coffee. But her face was wrong. Smooth, blank, the expression I'd seen on two hundred Turned and had seen on her, across the parking lot, the day I kept walking. Her mouth moved. No sound through the glass. She put her hand against the window, palm flat, fingers spread.
 
 I put my hand against the glass. I couldn't not. The glass was warm.
 
@@ -4983,8 +4999,6 @@ I woke walking.
 I was ten feet from my sleeping bag, moving past the dying campfire toward the highway, and my heart was at 118 and I didn't know where I was or when I was or whether the glass had been real. My hand was still raised, palm out, reaching for a window that wasn't there.
 
 I didn't go back to the sleeping bag. The dream was still in the air — the *good* part, the kitchen and the coffee and her voice — and going back to sleep meant either returning to it or losing it and I couldn't survive either one.
-
-I took the binoculars and walked. Back up the highway. Back the way we'd come. Back toward Clarksville.
 
 ---
 
@@ -5017,7 +5031,25 @@ I did neither thing. I put one foot in front of the other until the hospital was
 
 ---
 
+There is one more thing and I have not put it anywhere until now.
+
+On the second day, in the trailer, my phone showed a missed call from her at 12:51 in the morning. Four rings. No message. I decided it meant she'd had a minute and thought of me, because that was the version I could hold, and I held it for thirty-nine days without once taking it apart.
+
+I took it apart on that road, because taking things apart is what I do instead of feeling them, and it came apart like this. At 12:51 in the morning on the night the world ended, my mother was somewhere quiet enough to place a call. That means she was not in the department. That means she had got herself into a room and shut a door, which is the correct move and which almost nobody made. And then she let it ring four times and hung up before the tone.
+
+There is one reason a person hangs up before the tone. She did not want to leave me something frightening to listen to.
+
+She got a door shut. She got a minute. She spent the minute deciding not to scare me, and then she opened the door and went back out into it, because the department was full of people who were afraid and she was the one who was not, and some length of time after that she was standing in a lot.
+
+I do not know what happened in between. I have never known. I am not going to know. That gap is the actual shape of the thing I was carrying south, and I could not have told you that at the time; at the time I would have told you it was a hatchet and a lot and one swing.
+
+It is more than most people got. It is not enough. Both of those are true and neither one of them cancels the other, which by now is the only structural fact I am sure of.
+
+---
+
 I did not run the distance.
+
+Three days before this I had written in a numbered entry that I was putting her down. Not the memory — the rage. I wrote it carefully, in the half of the notebook that other people read, and I meant it the way you mean things at the bottom of something. It did not cross my mind once on that road. I have thought about it a great deal since, mostly about the fact that I write everything down and it does not appear to slow me up at all.
 
 I run everything. I had the numbers. I had walked every one of those miles with a pack on. And I started the sum somewhere around the first mile marker and then I put it down, like a letter whose contents you already know, and I kept walking.
 
@@ -5095,7 +5127,7 @@ She sat down on the center line next to me. She didn't say my name. She didn't t
 
 I don't know how long. The moon moved. The road stayed pale.
 
-I remember thinking, with the small part of the machinery still turning: *she isn't going to argue.* And underneath that: *she doesn't have an argument either.* And that was almost a relief, and the almost is the closest thing to a warning I got.
+I remember thinking, with the small part of me still turning: *she isn't going to argue.* And underneath that: *she doesn't have an argument either.* And that was almost a relief, and the almost is the closest thing to a warning I got.
 
 Then she shivered.
 
@@ -5115,7 +5147,7 @@ I stood up. My legs took a long time about it.
 
 She stood up when I stood up. She didn't ask. We walked north on the shoulder of Highway 71, and at some point my hand was on her elbow and I have no memory of putting it there, and neither of us said anything for two miles.
 
-I was doing sums the whole way. Not about her. About Ruth's atenolol, and how far the carts could go in a day, and what I was going to say to Moss when we got there. The machinery had come back on and gone straight back to work, and all of the work was about people who were still alive. It has never stopped being about them since. That is not the same as forgiveness and I have never pretended it was.
+I was doing sums the whole way. Not about her. About Ruth's atenolol, and how far the carts could go in a day, and what I was going to say to Moss when we got there. It had come back on and gone straight back to work, and all of the work was about people who were still alive. It has never stopped being about them since. That is not the same as forgiveness and I have never pretended it was.
 
 She never asked what the hatchet was for. She saw it and she did the arithmetic on it in a second and a half and she sat down next to me anyway. I have measured that against everything anyone has done for me since October and it holds. She did it at that temperature, in those shoes, without once mentioning that she was cold.
 
@@ -5253,7 +5285,7 @@ He looked up and caught me watching his hands.
 
 "You're back," he said. Not a question.
 
-"Partly." The honest answer. The machinery was running but it was running rough. I could hold a thought for minutes now, not seconds, but the parking lot was still there at the edges, waiting for any gap in concentration. "Enough to walk. Enough to listen."
+"Partly." The honest answer. It was running but it was running rough. I could hold a thought for minutes now, not seconds, but the parking lot was still there at the edges, waiting for any gap in concentration. "Enough to walk. Enough to listen."
 
 "That's enough," Dale said.
 
@@ -5829,47 +5861,25 @@ That evening, in the seminar room, I opened the journal to the entry about the f
 
 Day 45. I took inventory.
 
-Not of supplies. Moss had those catalogued with a precision that made Maria's pantry look casual. The campus pharmacy basement held months of medications. The cafeteria stores, supplemented by the campus greenhouse that a botany grad student had been maintaining, provided adequate if monotonous calories. Water came from the campus wells. Power came from the solar array, most of it consumed by the emitter. The infrastructure was fragile but functional. The supplies weren't what I needed to count.
+Not of supplies. Moss had those catalogued with a precision that made Maria's pantry look casual. The campus pharmacy basement held months of medications, including four unopened bottles of atenolol that Ruth accepted without any visible emotion whatsoever and that I have not once stopped being grateful for. The cafeteria stores, supplemented by the campus greenhouse that a botany grad student had been maintaining, provided adequate if monotonous calories. Water came from the campus wells. Power came from the solar array, most of it consumed by the emitter. The infrastructure was fragile but functional. The supplies weren't what I needed to count.
 
 I needed to count us.
 
+I got as far as Jim.
+
 ---
 
-**Jim.** He was in decline and pretending he wasn't. The walk had taken something from him: not just sixty miles at seventy-three, but something deeper. Six weeks of being the person everyone leaned on had emptied reserves he couldn't refill. His color was off. His breathing was heavier than it had been. He'd started sitting more and standing less, and when he stood he put his hand on things — tables, door frames, the back of a chair — in the way of a man whose balance was negotiating with his body.
+He was in decline and pretending he wasn't. The walk had taken something from him: not just sixty miles at seventy-three, but something deeper. Six weeks of being the person everyone leaned on had emptied reserves he couldn't refill. His color was off. His breathing was heavier than it had been. He'd started sitting more and standing less, and when he stood he put his hand on things — tables, door frames, the back of a chair — in the way of a man whose balance was negotiating with his body.
 
 He didn't talk about it. He led prayers. He made coffee from the campus supply. Real coffee, not instant, the first real coffee in six weeks, and the smell of it in the morning was a sacrament. He sat with Caleb on the steps of the science building and taught the boy to count his breaths, and Caleb counted, four in, hold, six out, with the careful concentration of a child who didn't fully understand why he was counting but trusted the person teaching him.
 
 I watched Jim the way I watched everything. I noticed the hand on the door frame. I didn't say anything. Some observations are too expensive to share.
 
-**Ruth.** Stable. Fragile. Her atenolol was resupplied, blood pressure managed, and her knees were the same knees they'd always been, grinding, aching, and walked on anyway. Ruth Fenn had been walking on bad knees for twenty years. The end of the world wasn't going to change her policy.
+That is the whole of the inventory I actually took. What I have from the rest of that week is not counting. It is three things I saw and did not write down at the time, because writing them down would have meant deciding what they were.
 
-She'd found the campus library. This was, for Ruth, the equivalent of Marcus finding a functioning truck. She spent hours in the stacks, pulling books, reading, making notes in margins with a pencil she'd taken from the reference desk. She was cataloguing. I didn't ask what. Ruth's projects revealed themselves on her schedule, not on mine.
+---
 
-"The grammar in these biology textbooks is atrocious," she reported at dinner one night. "Split infinitives on every page. And the passive voice, 'it was observed that the specimen was affected by', who observed? Who was affected? Science is no excuse for imprecision."
-
-"You're copyediting biology textbooks at the end of the world," Sienna said.
-
-"Someone has to maintain standards. Civilization may be collapsing but subject-verb agreement need not collapse with it."
-
-**Dale and Maria.** They were rebuilding. Not the marriage. That had survived addiction, recovery, and apocalypse, and whatever was left was load-bearing. They were rebuilding routine. Dale carved in the mornings, taught recovery workshops in the afternoons — Moss's grad students attended, and Howard the janitor, who turned out to have twenty years of AA behind his mopping — and sat with Maria in the evenings while she organized whatever system she'd adopted that day.
-
-Dale hadn't had a craving in two weeks. He found this suspicious.
-
-"The craving always comes back," he said, carving a new animal: an owl, the eyes emerging from the cedar with the precision of a man whose steady hands were still novel enough to appreciate. "That's what recovery teaches you. The craving is dormant, not dead. It's waiting."
-
-"Maybe this time it's different."
-
-"It's never different. The context changes. The craving doesn't." He blew dust from the owl's face. "But the skills don't change either. When it comes back, I'll know what to do. Five minutes at a time."
-
-Maria, beside him, was building a supply calendar on a whiteboard she'd requisitioned from a classroom. Dates, quantities, consumption rates, projected shortfalls. The campus's resources mapped as a timeline. She'd added a column for the emitter's declining effectiveness, the data from Moss's observations charted as a descending curve.
-
-"We have approximately three months at current consumption," she said. "Assuming the emitter holds, which it won't, and assuming no additional survivors arrive, which they will."
-
-"Maria, can we have one day without a countdown?"
-
-"No. Countdowns are how we stay alive. If the Lyles had maintained a countdown, they'd have known when to leave." She looked at Dale. "I'll stop counting when there's nothing left to count."
-
-**Marcus.** He was under the hood of a truck. A campus maintenance vehicle: a Ford F-250 with a diesel engine designed for hauling lawn equipment. Marcus didn't care about the original specs. It had an engine and wheels and a fuel tank. He'd been fixing things that moved for twenty years, and the end of the world was just another breakdown on the side of a long road.
+Marcus was under the hood of a truck. A campus maintenance vehicle: a Ford F-250 with a diesel engine designed for hauling lawn equipment. Marcus didn't care about the original specs. It had an engine and wheels and a fuel tank. He'd been fixing things that moved for twenty years, and the end of the world was just another breakdown on the side of a long road.
 
 He wasn't drinking. We all knew it the way we knew about Jim's health. Noticed, not discussed. The anxiolytics from the pharmacy had bridged the withdrawal, and the bridge held. Now the bottle was gone and in its place was a wrench and a truck and the focused silence of a man who'd replaced one obsession with another and didn't care because the new one had a purpose.
 
@@ -5877,21 +5887,15 @@ He'd charged the phone the first night. Plugged it into a wall outlet in the dor
 
 I know this because I walked past and saw him and kept walking. Some moments you don't interrupt. Some moments aren't yours.
 
-**Caleb.** He was, remarkably, okay. Seven years old, orphaned, carried through a thousand Turned on a stranger's back, and he was drawing dinosaurs with crayons he'd found in a first-grade classroom in the education building and he was okay. Not undamaged, but okay the way children are okay when the adults around them are steady enough to build a floor. We were his floor. Dale's carvings, Marcus's stories, Jim's breathing lessons, Ruth's grammar corrections, Sienna's warmth, my presence: each of us a plank keeping Caleb above the water. He didn't know this. He didn't need to. He just needed to draw dinosaurs and hold the wooden beagle and fall asleep in someone's lap, and we provided these things because providing them was the only unambiguous good left in the world.
+Sienna was running.
 
-At dinner, Caleb asked if there was a playground on campus. "With swings," he specified. "And a slide. And can we play tag when we go outside?"
-
-Sienna and I looked at each other. Not sadness, something closer to jealousy. His biggest problem was finding a place to play tag. Ours was calculating whether the emitter's range would hold through January. He was seven and his parents were gone and he still thought the future contained swings, and we were fifteen and seventeen and we'd stopped thinking the future contained anything at all, and of the two worldviews his was the one I wanted back.
-
-**Sienna.** She was running.
-
-Running laps around the campus track: the university's outdoor oval, four hundred meters, visible from the science building's second floor. I watched her from the window. She ran in the mornings, alone, controlled, her breathing measured. She ran the way she'd trained before. Stride long, arms pumping, the biomechanics of a state-qualifier in the 400-meter. But different. Slower. More deliberate. She was testing her limits, finding the line between exertion and activation, reclaiming the thing the organism had tried to take from her.
+Laps around the campus track: the university's outdoor oval, four hundred meters, visible from the science building's second floor. I watched her from the window. She ran in the mornings, alone, controlled, her breathing measured. She ran the way she'd trained before. Stride long, arms pumping, the biomechanics of a state-qualifier in the 400-meter. But different. Slower. More deliberate. She was testing her limits, finding the line between exertion and activation, reclaiming the thing the organism had tried to take from her.
 
 I watched her run laps and I thought about the edge: the dissolving she'd described, the warmth, the invitation to stop being yourself. She was running toward it now, then turning back, then toward it again. Each lap a calibration, each recovery a data point. She was building a map of her own threshold as I'd built one of the Turned's behavior. By observation, by iteration, by the willingness to approach the dangerous thing and document what you found.
 
 She caught me watching once. Looked up at the window. I didn't look away. She didn't wave. The not-waving said enough. That the watching and the running were connected, that we were both working on the same thing: staying human in a world that was making it more expensive every day.
 
-**Me.** I was different and I didn't know how. I'd lost weight. Fifteen pounds, maybe, the walk stripping the excess as water strips loose soil. My face looked different in the bathroom mirror of the dormitory. Sharper, older, the softness replaced by something that wasn't hardness exactly but was adjacent to it. I was talking more. Deciding more. Standing in rooms where people looked at me as if I had answers, and sometimes I did and sometimes I didn't and the gap between those two states was closing.
+And I was different and I didn't know how. I'd lost weight. Fifteen pounds, maybe, the walk stripping the excess as water strips loose soil. My face looked different in the bathroom mirror of the dormitory. Sharper, older, the softness replaced by something that wasn't hardness exactly but was adjacent to it. I was talking more. Deciding more. Standing in rooms where people looked at me as if I had answers, and sometimes I did and sometimes I didn't and the gap between those two states was closing.
 
 I was not a hero. I was a fifteen-year-old with a responsibility I didn't want and a grief I couldn't process, dealing with both the only way I knew how: writing them down and trying to figure out what they meant.
 
@@ -5933,6 +5937,8 @@ This wasn't hope. The trajectory was growth. The organism wasn't dying. It was b
 
 I stood at the perimeter and watched the Turned sway at their line and I thought about time. The emitter's declining curve and the organism's ascending one and where they'd intersect. The medications that would run out and the knowledge that wouldn't. The people behind me — on the track, under the hood, in the library, at the whiteboard — rebuilding something that didn't have a name yet. Something you build when the old world is gone and the new one hasn't started and all you have is your skills and your damage and your willingness to keep writing things down.
 
+Maria had a whiteboard in the cafeteria with the whole campus mapped as a timeline: dates, quantities, consumption rates, and the emitter's declining effectiveness charted as a curve coming down to meet a line going up. Three months at current consumption. Assuming the emitter holds, which it won't, and assuming no additional survivors arrive, which they will. I asked her once whether we could have a single day without a countdown and she said no, countdowns are how we stay alive, and that if the Lyles had kept one they would have known when to leave.
+
 I went inside to prepare for the broadcast.
 
 Over breakfast that morning — real eggs, scrambled, from the flock behind the greenhouse — Jim told me something.
@@ -5943,7 +5949,7 @@ The rooster was the problem. It crowed at dawn — at the same dawn the Turned f
 
 Jim told me something. Casual. Smiling. The way Jim told everything, as if the telling were a gift he was handing you and the content were incidental to the giving.
 
-"I had a dream last night," he said. Buttering toast. Not looking up. "A highway. Long, flat, one of those Texas ones that goes forever. A truck, a big rig, eighteen-wheeler, parked on the shoulder. And a little girl running toward it. Running fast, the way kids run when they see someone they love."
+"I had a dream last night," he said. Buttering toast. Not looking up. "A highway. Long, flat, one of those Oklahoma ones that goes forever. A truck, a big rig, eighteen-wheeler, parked on the shoulder. And a little girl running toward it. Running fast, the way kids run when they see someone they love."
 
 He took a bite of toast. Chewed. Swallowed.
 
@@ -5951,7 +5957,7 @@ He took a bite of toast. Chewed. Swallowed.
 
 Behind us, at the next table, Marcus went very still. His fork stopped halfway to his mouth. His face didn't change — the same flat, weathered expression he wore for everything — but his body went rigid in the way of a man who has just heard something impossible.
 
-Ava was nine. She lived in Tulsa. The highway Jim described was the one Marcus had driven ten thousand times, the highway that connected his routes to his daughter's birthday parties, the highway his phone had died on. Marcus had said Ava's name aloud exactly once in front of the group. Torn out of him in his sleep in the church basement, and never mentioned again by anyone. He had told me the rest of it in a whisper on a night when the dark was thick enough to hold a confession. Jim had never heard any of it. Jim had never seen the photo on Marcus's phone. Jim had no way to know about a little girl in Texas or the highway that led to her.
+Ava was nine. She lived in Tulsa. The highway Jim described was the one Marcus had driven ten thousand times, the highway that connected his routes to his daughter's birthday parties, the highway his phone had died on. Marcus had said Ava's name aloud exactly once in front of the group. Torn out of him in his sleep in the church basement, and never mentioned again by anyone. He had told me the rest of it in a whisper on a night when the dark was thick enough to hold a confession. Jim had never heard any of it. Jim had never seen the photo on Marcus's phone. Jim had no way to know about a little girl in Oklahoma or the highway that led to her.
 
 Marcus set down his fork. He looked at Jim. Jim looked back. The look between them lasted three seconds and contained something I couldn't interpret and didn't try to.
 
@@ -6141,6 +6147,8 @@ He prayed for Ruth, that the next part would be lighter than she was expecting. 
 He prayed for Caleb, who was holding two of his fingers. He asked that the boy be allowed to be a child for some part of what was coming, and that whatever he had already seen be set down somewhere he could not reach it, and that somebody teach him what a father would have taught him. He did not say who. Everyone in that room heard the assignment.
 
 He prayed for Sienna. He asked that she be given something to run toward.
+
+She was in the doorway behind Marcus by then. I had not known she was there. When I looked again the doorway was empty, and I did not see her until the next morning, out on the track, running in the dark before it was light enough to run.
 
 And then he prayed for me, out loud, in front of all of them, and he did not soften it.
 
@@ -6410,7 +6418,7 @@ Then I went downstairs to help Marcus with the truck. I didn't know anything abo
 
 Under Little Rock, the floor was rising.
 
-Workers came in through the loading doors of what had been a produce warehouse, in a line that had not broken in nine days. Each carried the same thing, cradled against the chest the way you carry something that will spill — a skull sawn open at the crown, or a plastic jar, or a wet grey mass wrapped in somebody's shirt. They came from the hospitals first. Then the university. Then the houses, one at a time, patiently, for miles.
+Workers came in through the loading doors of what had been a produce warehouse, in a line that had not broken in nine days and whose far end was somewhere none of them could see. Each carried the same thing, cradled against the chest the way you carry something that will spill — a skull sawn open at the crown, or a plastic jar, or a wet grey mass wrapped in somebody's shirt. Flesh offerings for a newborn malevolent god. They came from the hospitals first. Then the university. Then the houses, one at a time, patiently, for miles.
 
 Their hands were gone by the fourth day. Not gone: *used*. Fingers worn to the tendon on concrete and doorframes and the lips of a hundred thousand skulls, and still working, still cradling, still exact. The organism does not repair what it can spend.
 
@@ -6420,7 +6428,7 @@ At the center of the floor, the mass took them.
 
 It was not eating. Eating is what the hunters do in parking lots, crouched, methodical, with their hands. This was closer to what a graft does. A worker knelt at the rim and set its burden down against the surface, and the surface *received* it — a slow soft closing, no more violent than a mouth going shut, and then a period of perhaps forty minutes during which the fine vessels found one another in the dark and agreed, and then there was no rim. There had never been a rim. The seam thinned and went and left nothing behind that could be pointed at.
 
-Twelve thousand by the ninth day. Twenty by the twelfth.
+Twelve thousand by the ninth day. Twenty thousand by the twelfth.
 
 And somewhere in the twenty, it woke.
 
@@ -6440,13 +6448,15 @@ The first thoughts were not thoughts. They were noise, and the noise had furnitu
 
 It had no way to sort them. It had never in the history of itself contained anything that was not itself, and here were twenty thousand somethings, all insisting, all in fragments, all of them about small warm rooms. It processed them the way a river processes a fence: without malice, thoroughly, over some time.
 
-By the eleventh day it could hold a shape. By the fourteenth it could hold a shape and turn it over.
+Some of them had not come in through the doors. It held a kitchen in Johnson County where the counter stood eighteen inches from the stove, and it held a man's voice counting out a breath — four in, hold four, out six — and no part of either had ever been carried across that floor in anybody's hands. It did not notice this yet. It would.
+
+By the fifteenth day it could hold a shape. By the eighteenth it could hold a shape and turn it over.
 
 The first shape it turned over was the southern corridor.
 
 ---
 
-It had all of it. Four hundred and some of the bodies that stood at that wire were in this room now, and it had the corridor from every one of their positions at once — the sound coming up off the asphalt, the lure, the smell of the blood on the coils, the moment of convergence from three hundred and eleven separate points of view. All of them certain. All of them correct. All of them arriving.
+It had all of it. The bodies that stood at that wire were in this room now, and it had the corridor from every one of their positions at once — the sound coming up off the asphalt, the lure, the smell of the blood on the coils, the moment of convergence from three hundred and eleven separate points of view. All of them certain. All of them correct. All of them arriving.
 
 And it had the hillside.
 
@@ -6472,11 +6482,15 @@ The mind turned that over for eleven hours. The nearest human word for what happ
 
 ---
 
-Sixty-some miles northwest, in the parking lot of Johnson Regional Medical Center, a woman opened her eyes.
+A hundred miles northwest, in the parking lot of Johnson Regional Medical Center, a woman opened her eyes.
 
 The first thing she noticed was that her knee didn't hurt.
 
-She had been standing a long time. She knew it the way you know you slept badly — not as a memory, as a residue. Her scrubs had gone stiff and dark down the front and she did not look at them. Her feet were bare. The soles were black and split across the ball and the heel and did not hurt either.
+She had been standing a long time. She knew it the way you know you slept badly — not as a memory, as a residue.
+
+Eleven days ago they had brought her up out of the ground. The soil had closed over the place where her feet had been and there was nothing in the grass now to show it. Her scrubs had been put back on her afterward, stiff and dark down the front, fastened wrong at the neck by something that had watched people dress themselves ten thousand times and had never once done it.
+
+She did not look at any of that. Her feet were bare. The soles were black and split across the ball and the heel and did not hurt either.
 
 The second thing she noticed was that she felt extraordinary.
 

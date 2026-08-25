@@ -2,7 +2,7 @@
 
 Under Little Rock, the floor was rising.
 
-Workers came in through the loading doors of what had been a produce warehouse, in a line that had not broken in nine days. Each carried the same thing, cradled against the chest the way you carry something that will spill — a skull sawn open at the crown, or a plastic jar, or a wet grey mass wrapped in somebody's shirt. Flesh offerings for a newborn malevolent god. They came from the hospitals first. Then the university. Then the houses, one at a time, patiently, for miles.
+Workers came in through the loading doors of what had been a produce warehouse, in a line that had not broken in nine days and whose far end was somewhere none of them could see. Each carried the same thing, cradled against the chest the way you carry something that will spill — a skull sawn open at the crown, or a plastic jar, or a wet grey mass wrapped in somebody's shirt. Flesh offerings for a newborn malevolent god. They came from the hospitals first. Then the university. Then the houses, one at a time, patiently, for miles.
 
 Their hands were gone by the fourth day. Not gone: *used*. Fingers worn to the tendon on concrete and doorframes and the lips of a hundred thousand skulls, and still working, still cradling, still exact. The organism does not repair what it can spend.
 
@@ -12,7 +12,7 @@ At the center of the floor, the mass took them.
 
 It was not eating. Eating is what the hunters do in parking lots, crouched, methodical, with their hands. This was closer to what a graft does. A worker knelt at the rim and set its burden down against the surface, and the surface *received* it — a slow soft closing, no more violent than a mouth going shut, and then a period of perhaps forty minutes during which the fine vessels found one another in the dark and agreed, and then there was no rim. There had never been a rim. The seam thinned and went and left nothing behind that could be pointed at.
 
-Twelve thousand by the ninth day. Twenty by the twelfth.
+Twelve thousand by the ninth day. Twenty thousand by the twelfth.
 
 And somewhere in the twenty, it woke.
 
@@ -32,13 +32,15 @@ The first thoughts were not thoughts. They were noise, and the noise had furnitu
 
 It had no way to sort them. It had never in the history of itself contained anything that was not itself, and here were twenty thousand somethings, all insisting, all in fragments, all of them about small warm rooms. It processed them the way a river processes a fence: without malice, thoroughly, over some time.
 
-By the eleventh day it could hold a shape. By the fourteenth it could hold a shape and turn it over.
+Some of them had not come in through the doors. It held a kitchen in Johnson County where the counter stood eighteen inches from the stove, and it held a man's voice counting out a breath — four in, hold four, out six — and no part of either had ever been carried across that floor in anybody's hands. It did not notice this yet. It would.
+
+By the fifteenth day it could hold a shape. By the eighteenth it could hold a shape and turn it over.
 
 The first shape it turned over was the southern corridor.
 
 ---
 
-It had all of it. Four hundred and some of the bodies that stood at that wire were in this room now, and it had the corridor from every one of their positions at once — the sound coming up off the asphalt, the lure, the smell of the blood on the coils, the moment of convergence from three hundred and eleven separate points of view. All of them certain. All of them correct. All of them arriving.
+It had all of it. The bodies that stood at that wire were in this room now, and it had the corridor from every one of their positions at once — the sound coming up off the asphalt, the lure, the smell of the blood on the coils, the moment of convergence from three hundred and eleven separate points of view. All of them certain. All of them correct. All of them arriving.
 
 And it had the hillside.
 
@@ -64,11 +66,15 @@ The mind turned that over for eleven hours. The nearest human word for what happ
 
 ---
 
-Sixty-some miles northwest, in the parking lot of Johnson Regional Medical Center, a woman opened her eyes.
+A hundred miles northwest, in the parking lot of Johnson Regional Medical Center, a woman opened her eyes.
 
 The first thing she noticed was that her knee didn't hurt.
 
-She had been standing a long time. She knew it the way you know you slept badly — not as a memory, as a residue. Her scrubs had gone stiff and dark down the front and she did not look at them. Her feet were bare. The soles were black and split across the ball and the heel and did not hurt either.
+She had been standing a long time. She knew it the way you know you slept badly — not as a memory, as a residue.
+
+Eleven days ago they had brought her up out of the ground. The soil had closed over the place where her feet had been and there was nothing in the grass now to show it. Her scrubs had been put back on her afterward, stiff and dark down the front, fastened wrong at the neck by something that had watched people dress themselves ten thousand times and had never once done it.
+
+She did not look at any of that. Her feet were bare. The soles were black and split across the ball and the heel and did not hurt either.
 
 The second thing she noticed was that she felt extraordinary.
 

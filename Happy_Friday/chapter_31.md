@@ -2,47 +2,25 @@
 
 Day 45. I took inventory.
 
-Not of supplies. Moss had those catalogued with a precision that made Maria's pantry look casual. The campus pharmacy basement held months of medications. The cafeteria stores, supplemented by the campus greenhouse that a botany grad student had been maintaining, provided adequate if monotonous calories. Water came from the campus wells. Power came from the solar array, most of it consumed by the emitter. The infrastructure was fragile but functional. The supplies weren't what I needed to count.
+Not of supplies. Moss had those catalogued with a precision that made Maria's pantry look casual. The campus pharmacy basement held months of medications, including four unopened bottles of atenolol that Ruth accepted without any visible emotion whatsoever and that I have not once stopped being grateful for. The cafeteria stores, supplemented by the campus greenhouse that a botany grad student had been maintaining, provided adequate if monotonous calories. Water came from the campus wells. Power came from the solar array, most of it consumed by the emitter. The infrastructure was fragile but functional. The supplies weren't what I needed to count.
 
 I needed to count us.
 
+I got as far as Jim.
+
 ---
 
-**Jim.** He was in decline and pretending he wasn't. The walk had taken something from him: not just sixty miles at seventy-three, but something deeper. Six weeks of being the person everyone leaned on had emptied reserves he couldn't refill. His color was off. His breathing was heavier than it had been. He'd started sitting more and standing less, and when he stood he put his hand on things — tables, door frames, the back of a chair — in the way of a man whose balance was negotiating with his body.
+He was in decline and pretending he wasn't. The walk had taken something from him: not just sixty miles at seventy-three, but something deeper. Six weeks of being the person everyone leaned on had emptied reserves he couldn't refill. His color was off. His breathing was heavier than it had been. He'd started sitting more and standing less, and when he stood he put his hand on things — tables, door frames, the back of a chair — in the way of a man whose balance was negotiating with his body.
 
 He didn't talk about it. He led prayers. He made coffee from the campus supply. Real coffee, not instant, the first real coffee in six weeks, and the smell of it in the morning was a sacrament. He sat with Caleb on the steps of the science building and taught the boy to count his breaths, and Caleb counted, four in, hold, six out, with the careful concentration of a child who didn't fully understand why he was counting but trusted the person teaching him.
 
 I watched Jim the way I watched everything. I noticed the hand on the door frame. I didn't say anything. Some observations are too expensive to share.
 
-**Ruth.** Stable. Fragile. Her atenolol was resupplied, blood pressure managed, and her knees were the same knees they'd always been, grinding, aching, and walked on anyway. Ruth Fenn had been walking on bad knees for twenty years. The end of the world wasn't going to change her policy.
+That is the whole of the inventory I actually took. What I have from the rest of that week is not counting. It is three things I saw and did not write down at the time, because writing them down would have meant deciding what they were.
 
-She'd found the campus library. This was, for Ruth, the equivalent of Marcus finding a functioning truck. She spent hours in the stacks, pulling books, reading, making notes in margins with a pencil she'd taken from the reference desk. She was cataloguing. I didn't ask what. Ruth's projects revealed themselves on her schedule, not on mine.
+---
 
-"The grammar in these biology textbooks is atrocious," she reported at dinner one night. "Split infinitives on every page. And the passive voice, 'it was observed that the specimen was affected by', who observed? Who was affected? Science is no excuse for imprecision."
-
-"You're copyediting biology textbooks at the end of the world," Sienna said.
-
-"Someone has to maintain standards. Civilization may be collapsing but subject-verb agreement need not collapse with it."
-
-**Dale and Maria.** They were rebuilding. Not the marriage. That had survived addiction, recovery, and apocalypse, and whatever was left was load-bearing. They were rebuilding routine. Dale carved in the mornings, taught recovery workshops in the afternoons — Moss's grad students attended, and Howard the janitor, who turned out to have twenty years of AA behind his mopping — and sat with Maria in the evenings while she organized whatever system she'd adopted that day.
-
-Dale hadn't had a craving in two weeks. He found this suspicious.
-
-"The craving always comes back," he said, carving a new animal: an owl, the eyes emerging from the cedar with the precision of a man whose steady hands were still novel enough to appreciate. "That's what recovery teaches you. The craving is dormant, not dead. It's waiting."
-
-"Maybe this time it's different."
-
-"It's never different. The context changes. The craving doesn't." He blew dust from the owl's face. "But the skills don't change either. When it comes back, I'll know what to do. Five minutes at a time."
-
-Maria, beside him, was building a supply calendar on a whiteboard she'd requisitioned from a classroom. Dates, quantities, consumption rates, projected shortfalls. The campus's resources mapped as a timeline. She'd added a column for the emitter's declining effectiveness, the data from Moss's observations charted as a descending curve.
-
-"We have approximately three months at current consumption," she said. "Assuming the emitter holds, which it won't, and assuming no additional survivors arrive, which they will."
-
-"Maria, can we have one day without a countdown?"
-
-"No. Countdowns are how we stay alive. If the Lyles had maintained a countdown, they'd have known when to leave." She looked at Dale. "I'll stop counting when there's nothing left to count."
-
-**Marcus.** He was under the hood of a truck. A campus maintenance vehicle: a Ford F-250 with a diesel engine designed for hauling lawn equipment. Marcus didn't care about the original specs. It had an engine and wheels and a fuel tank. He'd been fixing things that moved for twenty years, and the end of the world was just another breakdown on the side of a long road.
+Marcus was under the hood of a truck. A campus maintenance vehicle: a Ford F-250 with a diesel engine designed for hauling lawn equipment. Marcus didn't care about the original specs. It had an engine and wheels and a fuel tank. He'd been fixing things that moved for twenty years, and the end of the world was just another breakdown on the side of a long road.
 
 He wasn't drinking. We all knew it the way we knew about Jim's health. Noticed, not discussed. The anxiolytics from the pharmacy had bridged the withdrawal, and the bridge held. Now the bottle was gone and in its place was a wrench and a truck and the focused silence of a man who'd replaced one obsession with another and didn't care because the new one had a purpose.
 
@@ -50,21 +28,15 @@ He'd charged the phone the first night. Plugged it into a wall outlet in the dor
 
 I know this because I walked past and saw him and kept walking. Some moments you don't interrupt. Some moments aren't yours.
 
-**Caleb.** He was, remarkably, okay. Seven years old, orphaned, carried through a thousand Turned on a stranger's back, and he was drawing dinosaurs with crayons he'd found in a first-grade classroom in the education building and he was okay. Not undamaged, but okay the way children are okay when the adults around them are steady enough to build a floor. We were his floor. Dale's carvings, Marcus's stories, Jim's breathing lessons, Ruth's grammar corrections, Sienna's warmth, my presence: each of us a plank keeping Caleb above the water. He didn't know this. He didn't need to. He just needed to draw dinosaurs and hold the wooden beagle and fall asleep in someone's lap, and we provided these things because providing them was the only unambiguous good left in the world.
+Sienna was running.
 
-At dinner, Caleb asked if there was a playground on campus. "With swings," he specified. "And a slide. And can we play tag when we go outside?"
-
-Sienna and I looked at each other. Not sadness, something closer to jealousy. His biggest problem was finding a place to play tag. Ours was calculating whether the emitter's range would hold through January. He was seven and his parents were gone and he still thought the future contained swings, and we were fifteen and seventeen and we'd stopped thinking the future contained anything at all, and of the two worldviews his was the one I wanted back.
-
-**Sienna.** She was running.
-
-Running laps around the campus track: the university's outdoor oval, four hundred meters, visible from the science building's second floor. I watched her from the window. She ran in the mornings, alone, controlled, her breathing measured. She ran the way she'd trained before. Stride long, arms pumping, the biomechanics of a state-qualifier in the 400-meter. But different. Slower. More deliberate. She was testing her limits, finding the line between exertion and activation, reclaiming the thing the organism had tried to take from her.
+Laps around the campus track: the university's outdoor oval, four hundred meters, visible from the science building's second floor. I watched her from the window. She ran in the mornings, alone, controlled, her breathing measured. She ran the way she'd trained before. Stride long, arms pumping, the biomechanics of a state-qualifier in the 400-meter. But different. Slower. More deliberate. She was testing her limits, finding the line between exertion and activation, reclaiming the thing the organism had tried to take from her.
 
 I watched her run laps and I thought about the edge: the dissolving she'd described, the warmth, the invitation to stop being yourself. She was running toward it now, then turning back, then toward it again. Each lap a calibration, each recovery a data point. She was building a map of her own threshold as I'd built one of the Turned's behavior. By observation, by iteration, by the willingness to approach the dangerous thing and document what you found.
 
 She caught me watching once. Looked up at the window. I didn't look away. She didn't wave. The not-waving said enough. That the watching and the running were connected, that we were both working on the same thing: staying human in a world that was making it more expensive every day.
 
-**Me.** I was different and I didn't know how. I'd lost weight. Fifteen pounds, maybe, the walk stripping the excess as water strips loose soil. My face looked different in the bathroom mirror of the dormitory. Sharper, older, the softness replaced by something that wasn't hardness exactly but was adjacent to it. I was talking more. Deciding more. Standing in rooms where people looked at me as if I had answers, and sometimes I did and sometimes I didn't and the gap between those two states was closing.
+And I was different and I didn't know how. I'd lost weight. Fifteen pounds, maybe, the walk stripping the excess as water strips loose soil. My face looked different in the bathroom mirror of the dormitory. Sharper, older, the softness replaced by something that wasn't hardness exactly but was adjacent to it. I was talking more. Deciding more. Standing in rooms where people looked at me as if I had answers, and sometimes I did and sometimes I didn't and the gap between those two states was closing.
 
 I was not a hero. I was a fifteen-year-old with a responsibility I didn't want and a grief I couldn't process, dealing with both the only way I knew how: writing them down and trying to figure out what they meant.
 
@@ -106,6 +78,8 @@ This wasn't hope. The trajectory was growth. The organism wasn't dying. It was b
 
 I stood at the perimeter and watched the Turned sway at their line and I thought about time. The emitter's declining curve and the organism's ascending one and where they'd intersect. The medications that would run out and the knowledge that wouldn't. The people behind me — on the track, under the hood, in the library, at the whiteboard — rebuilding something that didn't have a name yet. Something you build when the old world is gone and the new one hasn't started and all you have is your skills and your damage and your willingness to keep writing things down.
 
+Maria had a whiteboard in the cafeteria with the whole campus mapped as a timeline: dates, quantities, consumption rates, and the emitter's declining effectiveness charted as a curve coming down to meet a line going up. Three months at current consumption. Assuming the emitter holds, which it won't, and assuming no additional survivors arrive, which they will. I asked her once whether we could have a single day without a countdown and she said no, countdowns are how we stay alive, and that if the Lyles had kept one they would have known when to leave.
+
 I went inside to prepare for the broadcast.
 
 Over breakfast that morning — real eggs, scrambled, from the flock behind the greenhouse — Jim told me something.
@@ -116,7 +90,7 @@ The rooster was the problem. It crowed at dawn — at the same dawn the Turned f
 
 Jim told me something. Casual. Smiling. The way Jim told everything, as if the telling were a gift he was handing you and the content were incidental to the giving.
 
-"I had a dream last night," he said. Buttering toast. Not looking up. "A highway. Long, flat, one of those Texas ones that goes forever. A truck, a big rig, eighteen-wheeler, parked on the shoulder. And a little girl running toward it. Running fast, the way kids run when they see someone they love."
+"I had a dream last night," he said. Buttering toast. Not looking up. "A highway. Long, flat, one of those Oklahoma ones that goes forever. A truck, a big rig, eighteen-wheeler, parked on the shoulder. And a little girl running toward it. Running fast, the way kids run when they see someone they love."
 
 He took a bite of toast. Chewed. Swallowed.
 
@@ -124,7 +98,7 @@ He took a bite of toast. Chewed. Swallowed.
 
 Behind us, at the next table, Marcus went very still. His fork stopped halfway to his mouth. His face didn't change — the same flat, weathered expression he wore for everything — but his body went rigid in the way of a man who has just heard something impossible.
 
-Ava was nine. She lived in Tulsa. The highway Jim described was the one Marcus had driven ten thousand times, the highway that connected his routes to his daughter's birthday parties, the highway his phone had died on. Marcus had said Ava's name aloud exactly once in front of the group. Torn out of him in his sleep in the church basement, and never mentioned again by anyone. He had told me the rest of it in a whisper on a night when the dark was thick enough to hold a confession. Jim had never heard any of it. Jim had never seen the photo on Marcus's phone. Jim had no way to know about a little girl in Texas or the highway that led to her.
+Ava was nine. She lived in Tulsa. The highway Jim described was the one Marcus had driven ten thousand times, the highway that connected his routes to his daughter's birthday parties, the highway his phone had died on. Marcus had said Ava's name aloud exactly once in front of the group. Torn out of him in his sleep in the church basement, and never mentioned again by anyone. He had told me the rest of it in a whisper on a night when the dark was thick enough to hold a confession. Jim had never heard any of it. Jim had never seen the photo on Marcus's phone. Jim had no way to know about a little girl in Oklahoma or the highway that led to her.
 
 Marcus set down his fork. He looked at Jim. Jim looked back. The look between them lasted three seconds and contained something I couldn't interpret and didn't try to.
 

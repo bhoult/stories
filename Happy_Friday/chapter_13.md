@@ -122,7 +122,7 @@ Jim and Marcus loaded a bag. Through the binoculars I watched Marcus reading lab
 
 Jim's voice came through the static: the first time he'd transmitted. "Copy. Five minutes." The brevity was Jim: no wasted words, no wasted signal.
 
-They made it back at 11:47 AM. Ninety minutes, round trip, for a walk that in the old world would have taken twenty minutes. Marcus came through the side door and set the bag on the folding table and unzipped it and inside were four months of beta-blockers, three months of SSRIs, two months of benzodiazepines, and a collection of anxiolytics that nobody in the church except me could pronounce.
+They made it back at 11:47 AM. Ninety minutes, round trip, for a walk that in the old world would have taken twenty minutes. Marcus came through the side door and set the bag on the folding table and unzipped it and inside were four months of metoprolol, three months of SSRIs, two months of benzodiazepines, and a collection of anxiolytics that nobody in the church except me could pronounce.
 
 "The narcotics were gone," Marcus said. "Everything people want to take was gone. Everything they needed to take was still there."
 
@@ -132,11 +132,17 @@ Nobody argued with her.
 
 That night Jim broke out a bottle of grape juice he'd been saving in the sacristy — communion supplies, the good kind, not the Dollar General brand — and poured small cups for everyone, and we toasted nothing and everything, and Maria said "to surviving" and Ruth said "to antibiotics" and Marcus raised his cup and didn't say anything because he was smiling and Marcus smiling was rare enough to count as a toast on its own. Dale carved a small pill bottle out of a chunk of two-by-four and put it on the shelf next to the beagle and the cardinal, and when I asked him why, he said, "Because we did a hard thing and lived, and that should have a shape."
 
-We passed hours like that sometimes: not many, but enough. Enough to remember later. I don't narrate all of them because some things lose their meaning when you pin them down with words. But they happened more often than the fear, if I'm honest. The fear was louder but the ordinary hours were longer: the cups of grape juice, the chapters of the romance novel, the evenings where the only sound was Dale's knife and the hum of the emitter and someone breathing the way you breathe when you're almost asleep. They would outweigh the crises by a factor of ten. The journal doesn't reflect this because journals are biased toward events, and sitting together in a basement drinking grape juice is not an event. But it should be.
+We passed hours like that sometimes: not many, but enough. Enough to remember later. I don't narrate all of them because some things lose their meaning when you pin them down with words. But they happened more often than the fear, if I'm honest. The fear was louder but the ordinary hours were longer: the cups of grape juice, the chapters of the romance novel, the evenings where the only sound was Dale's knife and someone breathing the way you breathe when you're almost asleep. They would outweigh the crises by a factor of ten. The journal doesn't reflect this because journals are biased toward events, and sitting together in a basement drinking grape juice is not an event. But it should be.
 
 ---
 
-That evening I distributed the medications. Jim's metoprolol was replenished. Months of supply. Ruth's atenolol, the same. Marcus got propranolol. As-needed, for when his flat affect wasn't enough and the grief underneath started pushing through. I set aside hydroxyzine, an antihistamine with anxiolytic properties, as a general backup for anyone whose stress started climbing. Everyone got a small emergency supply: two propranolol tablets each, sealed in sandwich bags, carried at all times. The apocalypse equivalent of a fire extinguisher. Break glass in case of catecholamine spike.
+That evening I distributed the medications. Jim's metoprolol was replenished — the shelf had been full, because metoprolol is the common one and nobody panicking had any reason to want it.
+
+There was no atenolol. Not a bottle, not a partial, not a generic filed under the wrong letter. Ozark Family Pharmacy had never stocked much of it and what it had was gone months before any of this started, to people who took it every morning and are presumably standing in a yard somewhere now.
+
+I told Ruth. She said "Well," which is what Ruth says instead of swearing, and went back upstairs to her novel. I wrote the number in the notebook and drew a box around it. Twenty-five days.
+
+Marcus got propranolol. As-needed, for when his flat affect wasn't enough and the grief underneath started pushing through. I set aside hydroxyzine, an antihistamine with anxiolytic properties, as a general backup for anyone whose stress started climbing. Everyone got a small emergency supply: two propranolol tablets each, sealed in sandwich bags, carried at all times. The apocalypse equivalent of a fire extinguisher. Break glass in case of catecholamine spike.
 
 Sienna looked at her two pills like I'd handed her a dead insect.
 

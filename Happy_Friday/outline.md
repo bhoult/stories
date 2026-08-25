@@ -438,7 +438,7 @@ She says: "If you are hearing this and you are still yourself, it is because you
 
 *This is the novel's pivot point: the shift from intuition to understanding. The rules are now explicit. What follows is about whether people can follow them.*
 
-### Chapter 12: "Nate Tells the Lyles"
+### Chapter 12: "The Shoe on the Doorstep"
 Armed with the radio information, Nate — not Jim, not Marcus, but Nate, because he's the one who understood the broadcast — walks to the Lyles' house. It's the first proactive thing he's done in the book.
 
 He explains the mechanism. He's methodical, precise, and completely lacking in social grace. He essentially tells Craig Lyle that everything Craig has done is wrong and that his family's survival strategy is going to get them killed.

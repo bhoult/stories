@@ -1,6 +1,6 @@
 # Chapter 17: Committee Meeting
 
-Two days after the Lyles, we held a meeting that lasted four hours and resolved almost nothing, because the apocalypse has not simplified human social dynamics even slightly.
+The day after the Lyles, we held a meeting that lasted four hours and resolved almost nothing, because the apocalypse has not simplified human social dynamics even slightly.
 
 The meeting was in the basement. Eight people around a folding table: Jim at the head because he was the pastor and it was his church and some structures persist even when the world they were built for doesn't. Ruth to his right, Bible on the table in front of her like a gavel. Marcus to his left, flask in his jacket but not out. He hadn't drunk in two days, the pharmacy's anxiolytics replacing the bourbon in a transition Maria had orchestrated whether Marcus wanted her to or not. Dale and Maria together, Dale's hands empty because he'd left the carving in the sanctuary with Caleb, who was building a small zoo of wooden animals on a pew. Caleb had two jobs now: the zoo and the chickens. We'd found them three days after Sienna brought him in: three hens in a backyard coop two houses down on Birch, alive and indignant, surviving on weeds and beetles and the grit of animals too stupid to know the world had ended. Caleb fed them every morning — scraps from the pantry, water from the rain barrel — with the solemn focus of a surgeon. He'd named them Triceratops, Steggy, and Rex. The names were non-negotiable. The chickens did not care what they were called. They cared about the scraps. Caleb cared about being needed by something that wasn't afraid of him, and the chickens provided this because chickens are afraid of everything except the person holding food.
 
@@ -80,7 +80,7 @@ Jim: "He's always known where we are."
 
 **Four.** The medication clock.
 
-"Jim has thirty days of metoprolol at current dose. Ruth has eighteen days of atenolol. The pharmacy run bought time, but not enough, and there isn't another pharmacy in safe range. Dale's Suboxone is at five days. When it runs out, his withdrawal will spike his catecholamines and he'll need to be managed with propranolol and benzodiazepines, which are stopgaps, not solutions. The medications are a bridge. We need the bridge to reach somewhere."
+"Jim has thirty days of metoprolol at current dose. Ruth has eighteen days of atenolol. The pharmacy run bought time, but not enough, and there isn't another pharmacy in safe range. Dale's Suboxone is at three days. When it runs out, his withdrawal will spike his catecholamines and he'll need to be managed with propranolol and benzodiazepines, which are stopgaps, not solutions. The medications are a bridge. We need the bridge to reach somewhere."
 
 I closed the notebook.
 
