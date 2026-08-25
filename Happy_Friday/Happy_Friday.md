@@ -698,7 +698,15 @@ It got dark. Temperature dropped. Low forties. Mud soaked through my clothes. I 
 
 Sometime around hour three my thinking started to go sideways. Not panic, something quieter, more insidious. The cold and the dark and the immobility were doing something to my rational brain, loosening its grip. I started believing things I wanted to believe. Mom was fine. She'd locked herself in the supply closet at Johnson Regional, the one she'd pointed out to me once during a tour, the one with the deadbolt. She was in there right now with water and supplies and she was waiting for me. I was going to crawl out of here and walk home and she'd be there. The cavalry was coming. The National Guard was staging outside town, waiting for daylight. By morning there'd be Humvees on Highway 21 and people with bullhorns and someone would wrap me in a blanket. These weren't hopes. They were certainties: my brain manufacturing them with the same conviction it usually reserved for things I'd actually observed. The cold was killing my ability to tell the difference between what I wanted and what was real, and the things I wanted were flooding in through the gap.
 
-I caught myself. Not completely. You can't completely override a hypothermic, terrified brain. But enough to recognize what was happening: my rationality was failing, and the failure felt like comfort, and the comfort was a trap. Your own mind offers you a story that feels better than the truth, and you take it because the truth is mud and cold and the sound of something chewing in the dark.
+I caught myself. Not completely. You can't completely override a hypothermic, terrified brain. But enough to recognize what was happening: my rationality was failing, and the failure felt like comfort, and the comfort was a trap.
+
+I've gone over that gap a lot since, because it isn't a defect. Not knowing is a stressor. Sitting inside a question that has no answer runs your heart up the same as a noise in the dark does, except it doesn't stop. It keeps running for as long as the question stays open. So the brain closes it. It reaches for whatever material is lying around — a movie, a rumor, something your uncle said once — and it builds an answer, and the answer does not have to be true. It has to be *finished*. The moment it's finished, your pulse comes down.
+
+That is a survival system doing exactly what it was built for, and in every other emergency in the history of people it was right. You cannot function inside an open question, and functioning is what keeps you alive.
+
+Here it kills you twice. Once because the answer is wrong and you act on it. And once at the end, when the evidence gets through anyway, all at once, in your own front yard, with nothing built to absorb it.
+
+Everybody in that park had one by then. The National Guard is staging outside town. It's a virus and there'll be a shot for it. They only get you if they touch you. I had built three of them by Monday, and I was the one taking notes. Your own mind offers you a story that feels better than the truth, and you take it because the truth is mud and cold and the sound of something chewing in the dark.
 
 I held onto the data. The notebook entries. The observations. Pembrook's face. Lisa's scream. I held onto them like handholds and didn't let the comfortable lies wash them away.
 

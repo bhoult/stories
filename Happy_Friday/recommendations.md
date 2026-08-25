@@ -85,6 +85,20 @@ Fixed by moving four journals (Ch9, Ch10, Ch11, Ch19) earlier in their chapters 
 
 Ch11's journal was relocated twice: the first placement left it immediately after another notebook fragment, two italic passages back to back.
 
+### 8.8 Confirmation bias as the scenario's central force
+
+The book already had the social version, well stated, in Ch1 — *"This is what people do when the world stops making sense: they fill it in with whatever was already in their heads. A blank coloring book, everyone with their own crayons"* — and Nate catching himself at it under Henderson's trailer in Ch5. What it never did was **connect the bias to the mechanism**, and in this scenario they are the same system:
+
+> Not knowing is a stressor. An open question raises your heart rate and keeps raising it. Fear kills you here. So the brain closes the question with whatever material is lying around, and the answer does not have to be true, it has to be *finished* — and the moment it's finished, your pulse comes down.
+
+That makes the comforting lie **genuinely adaptive in the short run and lethal in the long run**, which is why everyone in the book does it and why it is so hard to resist. It also explains Craig Lyle better than cognitive dissonance alone does: his story wasn't stupidity, it was a working sedative.
+
+Two additions:
+
+**Ch5**, after he catches himself manufacturing certainties in the cold. He works out why: *"That is a survival system doing exactly what it was built for, and in every other emergency in the history of people it was right… Here it kills you twice. Once because the answer is wrong and you act on it. And once at the end, when the evidence gets through anyway, all at once, in your own front yard, with nothing built to absorb it."* Closes on the three he'd built himself by Day 3 — *"and I was the one taking notes."*
+
+**Ch33**, in the broadcast, as the warning he most wants strangers to hear: *"notice **when** you decided. If you settled it in the first week you settled it with nearly no information, and you have spent every week since finding reasons you were right… So the story helps. That's the trap in it. It genuinely helps, today, and it is part of why you are calm enough to still be listening to me. And it is what will kill you."* Gives them a method — write down what you believe and the date — and admits he didn't use it for eleven days.
+
 ### 8.7 Logical fallacies — named where they were decisive
 
 The book named only **cognitive dissonance** (Ruth about Craig, Ch10; Nate turning it on himself, Ch12). Three other moments where a fallacy or its avoidance determined the outcome were fully dramatised and never labelled. All three now are, and they form a progression.
