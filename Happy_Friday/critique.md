@@ -1,6 +1,6 @@
 # *Happy Friday* — A Critique of What Isn't There
 
-**On the manuscript at 134,123 words**, after three editorial passes. This is not a continuity document and it does not contain a task list until the last section. The previous three reports asked whether the book works. This one asks what it is, what it's for, and what separates it from the books it wants to sit beside.
+**On the manuscript at 138,494 words** (134,123 when this was written), after three editorial passes. This is not a continuity document and it does not contain a task list until the last section. The previous three reports asked whether the book works. This one asks what it is, what it's for, and what separates it from the books it wants to sit beside.
 
 I'm going to be direct, because hedged criticism is useless and because the manuscript has earned a serious reading. The short version is that this is a genuinely intelligent novel with an original premise, executed with unusual discipline, and it is currently a **novel of ideas that explains its ideas** rather than a work of literature that embodies them. The gap between those two things is smaller than it looks and it is almost entirely a matter of subtraction.
 
@@ -217,8 +217,10 @@ What will follow a reader home:
 - **The septic tank**, and specifically the fact that disgust is what saves him.
 - **Jim's death**, and *don't let him get good at it.*
 - **The rooted field**: people with their feet in the ground, facing the sun, wired together through the soil, while other people bring them food.
+- **Charlene's shoes.** Her own hands taking them off on the fourth day, setting them side by side, and then going back to move one half an inch because it wasn't tidy enough yet. *(Added after this critique — see §9.)*
+- **Delia running.** Barefoot, in snow, at forty-eight beats a minute, over ground that took eight people eleven days. *(Added after this critique — see §10.)*
 
-That is five durable things, which is more than most novels manage. Note what they have in common: **four out of five are images or events, not ideas.** The ideas the book states most often — being right isn't being useful, your damage is your skillset — will not survive the week. The bare feet on the gravel will.
+That is seven durable things, which is well more than most novels manage. Note what they have in common: **every one of them is an image, not an idea.** The theses the book states most often — being right isn't being useful, your damage is your skillset — will not survive the week. The bare feet on the gravel will.
 
 That's the diagnosis in miniature. The book's images are stronger than its explanations, and it spends far more words on the explanations.
 
@@ -363,7 +365,7 @@ Ranked by leverage, not by effort. The first four are the ones that would change
 
 ---
 
-## 9. Addendum — "Interstitial: Charlene," and what it settles
+## 9. Addendum one — "Interstitial: Charlene," and what it settles
 
 Written after this critique, filed between Ch22 and Ch23. First person, from inside a Turned. 2,834 words. It is the chapter I would have asked for if I'd thought of it.
 
@@ -422,7 +424,53 @@ The epilogue now inherits her. The rage the core mind experiences over eleven ho
 
 ---
 
-## 10. Closing
+## 10. Addendum two — the epilogue in January, and what it revises
+
+The epilogue was dated (mid-January), given weather, and given a different last beat: Delia does not walk sixty miles, she runs them, barefoot, in snow, at forty-eight, over ground that took eight people eleven days. Four things in this document move.
+
+### 10.1 §3.5 gets a much cheaper fix
+
+The complaint was that Moss argues indifference — termite mound, no opponent, nobody on the other side of the board — and then the prose personifies and the epilogue hands the organism a mind that experiences rage, which retroactively makes her wrong at the book's own intellectual climax.
+
+**The January framing solves most of that for free, and the novel hasn't used it.** A continent-scale nervous system running on chemical gradients is *slower in the cold.* In mid-January it is at the outer edge of anything that could be called thinking. So the eleven hours of stillness on that warehouse floor is not deliberation — it is a very slow system in a very cold month hitting an input it has no operation for, and stalling, with the line backed up out into the lot holding open skulls in twenty-six degrees while it fails to resolve.
+
+One clause in the epilogue does this. Something to the effect that it took eleven hours because in January everything took longer. That single move reframes the whole passage from *it was enraged* to *it jammed*, protects Moss, and costs nothing.
+
+`book-2.md` now runs this out — the colony goes dormant, and Delia is launched in January precisely because she is the only move available until March. **But that is in the notes, not in the novel.** The novel should carry one sentence of it.
+
+### 10.2 §3.6 improved and did not move
+
+The warehouse image got materially better. Twenty-six degrees outside, body temperature inside, and the two air masses meeting in the loading doors to stand there as fog that never clears while the line walks in through it day and night. That is the best single image of scale in the manuscript.
+
+It is still on the last four pages. The recommendation is unchanged and slightly more urgent: something of that order needs to land in Act One, once, and never be referred to again.
+
+### 10.3 The standalone problem sharpens
+
+§7 noted the book ends hopefully — broadcast, an answer, a truck being fixed — and that the epilogue reintroduces threat, making it a series ending rather than a complete statement.
+
+The new last beat makes that more true, not less. The book used to close on a tableau: a woman leaving her shoes on a hood. It now closes on **active threat in motion**, moving at speed, toward the protagonist, with a known arrival time.
+
+That is a better final page and a worse standalone, and both are real. If this is Book One of three, take it. If there is any chance it has to work alone, the current ending guarantees it doesn't.
+
+### 10.4 The one that matters: it is not a capability problem
+
+This is the finding that changes the diagnosis rather than the inventory.
+
+§3.1 said the book explains everything and never trusts the reader. The implied cause was habit — a compulsive-explainer narrator and an author who writes that way.
+
+**The epilogue disproves the second half.** Snow lands on the back of Delia's neck. She reaches up. Her hand comes away wet. She is the only thing in that lot warm enough to melt anything. She looks at her hand for a second, and stops looking at it, *and nothing in her has a place to put it.*
+
+Nobody explains what that means. There is no paragraph telling the reader that the melting is the tell, or that her stopping-looking is the remnant closing a pathway, or that this is the same mechanism as the *something is* she loses twice. The reader assembles all of it or doesn't.
+
+Charlene's chapter does the same thing at length (§9). So does most of Ch32.
+
+Which means the book already contains three sustained demonstrations that this author can write the withholding version — and every one of them is either an interstitial or the epilogue or a death scene. **The explaining happens in Nate's chapters, and only in Nate's chapters.**
+
+That is a much better diagnosis, and it makes §8.1 tractable in a way it wasn't. The instruction is not *learn to write differently.* It is: **write Nate's narration the way you already write everything he isn't in.**
+
+---
+
+## 11. Closing
 
 The honest summary is this. You have written a novel with a genuinely original premise, executed with more discipline than most published work in the genre, containing at least six passages that are as good as anything being written in it, and one chapter — Jim's death — that is better than that.
 
