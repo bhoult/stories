@@ -381,6 +381,20 @@ The reader assembles the facts out of the loops rather than being handed them, w
 
 **And she is not a reliable witness, which is the point.** She was made to feed on a body in the third week, and her mind broke, and what she built out of the wreckage is a story in which God left her awake on purpose so that somebody would see this and somebody would answer for it. She's culturally religious rather than devout — *Lord Jesus* as a reflex, her mother's *there's a reason for things* — and the reader can see the rationalization for what it is while she cannot. She says so herself and dismisses it: *"You hear how that sounds. I hear how that sounds. I don't care. It's the only thing standing between me and that Buick and I am holding it with both hands."*
 
+**She also has a theory, and the theory is the best thing in the chapter.**
+
+Chapter 1 states, and then never inhabits, the idea the whole book runs on: *"Everyone was explaining the thing they didn't understand by blaming the people they already hated… they described their fears instead and called it information."* Nate observes that from outside, scrolling Reddit. It has never once been dramatised from inside a head, and it is the single most human thing in the novel.
+
+Charlene's is assembled the way real ones are — out of true fragments, wrongly joined, sourced from a customer. A data center going in past the county line. A fence up before the building. Her boy had to sign a paper *to pour concrete.* And the water permit — more than the town uses in a year, for a building with no windows and nobody in it, and they told the paper it was for cooling. *"Cooling what. You tell me. Cooling **what.**"*
+
+And then the part that should make a reader's scalp move: **she reaches for the September meteor showers as proof, and she is touching the actual cause.** Comet Voss is in Chapter 1, in a magazine under a Doritos bag. She sat on the hood of that car with her daughter and watched them come down. *"They knew that was coming. Watching the sky is their whole damn job."* She has the correct fact bolted to an invented agent, and she is never going to find out.
+
+Then the chapter does the thing that justifies all of it. She gets right up to the edge of her own theory failing — *"if it's a thing they built, then how come it talks? Chemicals don't want in a house"* — and she stops, deliberately, and says exactly why:
+
+> *"Because if it isn't them then it isn't **anybody.** And if it isn't anybody then this is just a thing that happened, like hail, like a tree coming down on a car, and my girl is — no. Somebody signed a paper. Somebody poured that concrete… I have got to have **somebody** at the end of this or I cannot stand up in this road one more day."*
+
+That is Ch5's mechanism — *the answer does not have to be true, it has to be finished; the moment it's finished, your pulse comes down* — performed by someone who is going to die of it. And it leaves her holding one genuine insight (it cannot lie) and one delusion (they built it), with identical certainty and no instrument to tell them apart, which is the book's entire epistemology observed from the wrong side of it.
+
 Her verdict on Nate comes out of that, and it is not generous, and it is not entirely wrong. She reads faces for a living. She sees a boy stop in a road and take his time, and she knows the expression because she saw it on a man who backed into her car in a parking lot and got out to look at the dent: *"He didn't face anything. **He came back to see if it worked.**"
 
 **Which items it closes.**
