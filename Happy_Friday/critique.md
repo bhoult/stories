@@ -365,13 +365,23 @@ Ranked by leverage, not by effort. The first four are the ones that would change
 
 ## 9. Addendum — "Interstitial: Charlene," and what it settles
 
-Written after this critique, filed between Ch22 and Ch23. First person, present tense, from inside a Turned. 3,165 words. It is the chapter I would have asked for if I'd thought of it.
+Written after this critique, filed between Ch22 and Ch23. First person, from inside a Turned. 2,834 words. It is the chapter I would have asked for if I'd thought of it.
 
 **What it does.**
 
-It answers the question the book has been refusing since Chapter 11 — Jim asking whether Tom Hadley is still in there, Nate answering twice with a good paragraph about procedural memory — and it answers it against the narrator. There is a person in there. She feels everything. The pain arrives perfectly and simply never gets answered, and her face does not move, and that is *why* it never moves.
+It answers the question the book has been refusing since Chapter 11 — Jim asking whether Tom Hadley is still in there, Nate answering twice with a good paragraph about procedural memory — and it answers it against the narrator. There is a person in there. She feels everything. *"It didn't unplug it. It just quit being the kind of thing that comes when the bell rings. So the bell rings. And I'm the house."*
 
 And it detonates the single worst line Nate ever writes. Ch22, standing over a woman in the wire: *"she didn't react to the cutting because the organism didn't process pain the way a person would."* He asserts that as fact, at the exact moment it is most convenient, about a person who is conscious and looking at him.
+
+**On the form, because it took two attempts.** The first draft gave her Nate's voice — measured, sequential, list-making, *I want that in the record.* Wrong in a way that mattered: it made her a second analyst, and the book already has one.
+
+What's there now is not a narration. It's a **loop.** She has been locked in a road for five weeks with no input and nobody to talk to, and what a mind does in that condition is not compose an account — it ruminates. So the chapter is built out of returns: the same six seconds of getting out of the car, the phone call with her sister re-argued forty thousand times, the third time she didn't tell her daughter to take her feet off the console, a customer who never tipped her in nineteen years. She interrupts herself. She argues with people who aren't there. She refuses a subject — *"Week three. I'm not going to. I'm not going to do this one"* — and then comes back to it four pages later and it breaks her open.
+
+The reader assembles the facts out of the loops rather than being handed them, which is the one place in the manuscript where §3.1 is actually observed.
+
+**And she is not a reliable witness, which is the point.** She was made to feed on a body in the third week, and her mind broke, and what she built out of the wreckage is a story in which God left her awake on purpose so that somebody would see this and somebody would answer for it. She's culturally religious rather than devout — *Lord Jesus* as a reflex, her mother's *there's a reason for things* — and the reader can see the rationalization for what it is while she cannot. She says so herself and dismisses it: *"You hear how that sounds. I hear how that sounds. I don't care. It's the only thing standing between me and that Buick and I am holding it with both hands."*
+
+Her verdict on Nate comes out of that, and it is not generous, and it is not entirely wrong. She reads faces for a living. She sees a boy stop in a road and take his time, and she knows the expression because she saw it on a man who backed into her car in a parking lot and got out to look at the dent: *"He didn't face anything. **He came back to see if it worked.**"
 
 **Which items it closes.**
 

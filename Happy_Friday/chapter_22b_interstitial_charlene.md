@@ -1,235 +1,385 @@
 # Interstitial: Charlene
 
-My name is Charlene Doss and I am standing in the northbound lane of Highway 71 and I have been standing here for five weeks.
+— and I said *ma'am.*
 
-That is not a figure of speech. I want to be clear about it, because there is nobody to be clear to and being clear is one of the things I have left. I am standing. My weight is on my left leg because it has been on my left leg since some time yesterday and I did not put it there. My arms are at my sides. My head is turned about eleven degrees east of straight ahead and it will move west across the day the way a shadow moves, and I do not do that either.
+That's what I said. Six steps out into that road with the whole world coming apart and what comes out of me is *ma'am,* like she'd dropped a glove. Like I'm going to hand her something.
 
-I am in here.
+Ma'am.
 
----
-
-I cut hair in Alma for nineteen years.
-
-I say that first because it is the sentence I lead with and I have not lost it yet. Charlene Doss. Forty-one. I cut hair. I was good at it. I could look at a woman coming through the door and know before she sat down whether she wanted what she was asking for or wanted me to talk her out of it, and I was right nearly every time, and that was the whole skill. Not the scissors. The looking.
-
-I want that written somewhere. There is nowhere to write it. So I say it in here, in the mornings, the way you'd wind a clock.
-
-Charlene Doss. Forty-one. Nineteen years. Josie.
+Six steps. I counted them after. I have counted them I don't know how many times and it's six, it's always six, it doesn't get to be five.
 
 ---
 
-Josie is eleven.
+Renae goes, come on down. She goes, Charlene, just come on, we'll figure it out in the morning.
 
-She was in the back seat with her feet up on the console, which she is not allowed to do, and I had said so twice and let it go the third time because we were forty minutes into a two-hour drive and I did not want the rest of it to be an argument.
+And I go, it's a two hour drive.
 
-We were going to my sister's in Alma. That was the plan when the plan was made, and then it stopped being a plan somewhere around the ridge cut where the road goes through the rock, because there were three hundred cars stopped in front of us and soldiers up ahead with lights, and then there was screaming from somewhere I could not see.
+And she goes, so? And I go, so Josie's got school —
 
-I got out. I want that in the record too. **I got out of the car.**
+**School.** I said that. Out loud. Nine o'clock at night on the twenty-third of October I said *Josie's got school Monday* to my sister and she goes, honey, I don't think there's going to be school.
 
-I got out because a woman four vehicles up was on the shoulder with her hands in her hair making a sound I have never heard a person make, and I have been in a room with a lot of crying women, and that sound was not any of them. And I got out and I said *ma'am*, because that is what you say, and I got about six steps.
+And I *laughed.* I want that known. I laughed at her, I went, all right, Renae, all right, doomsday, and I put a bag in the car.
 
-And then I was warm, and then everything got very simple, and then I was standing.
+She was right. Once in her whole life and it was that.
 
-I never got back to the car.
+Forty minutes down 71 and we come around that rock cut where they blasted it through the ridge, and there's nothing in front of us but brake lights all the way to the top of the hill.
+
+And a woman up ahead starts screaming.
 
 ---
 
-The car is forty feet away and slightly behind me.
+Josie had her feet up on the console.
 
-It is a red Equinox with a dent in the rear quarter panel from a shopping cart at the Alma Walmart in 2023, and the driver's door is open, and it has been open for five weeks.
+I said, feet. And she put them down. And two minutes later they're back up and I said, Josie. Feet. And she goes, *Mo-om,* like that, two syllables, like I'd asked her to dig a ditch.
 
-Twice a day my head comes around far enough to bring it through. Once going west, once at the end. It takes about four seconds. In those four seconds I can see the open door and I cannot see into the back seat because of the angle, and I have tried, and there is nothing to try with.
+And the third time I didn't say anything.
 
-The back door is also open.
+I've been over that third time about nine hundred thousand times and every single time I don't say anything, so I don't know why I keep going back, but I keep going back. Third time I let it go. I thought, we've got an hour and a half, I'm not spending it on her feet.
 
-I have built four stories out of that and I am not going to write them down because I have said all of them to myself so many times they have gone smooth, like a word you say too much. I don't know. That is the true one. **I don't know**, and I have been not-knowing for five weeks with nothing to do but stand.
+An hour and a half. I had forty minutes.
+
+If I'd said it the third time. That's all. If I'd said it the third time she'd have taken them down and been mad at me and I'd have that, I'd have my girl being mad at me, I'd have *something* —
+
+Feet on the console. Feet on the console. Eleven years old and her feet up on my console.
+
+---
+
+There's nobody in here to talk to and I've been talking for five weeks.
+
+---
+
+Somebody out there thinks we don't feel it.
+
+I know they do. I know it because of what they've done. You don't do that to something you think is looking at you.
+
+And I want to sit that person down. I want them in my chair — everybody's honest in my chair, nineteen years, women tell me things they don't tell their preacher — and I want to say, all right. Sit. Look at me. My foot came open on something in this road in the second week and it has not closed and it hurts *every single time the weight comes down,* which is always, because whatever's in me doesn't know to favor it and wouldn't if it did.
+
+And they'd go, well but you don't — your face doesn't —
+
+**I know what my face does.** Nothing. My face does nothing. Not one muscle in five weeks.
+
+That's the trick. It didn't unplug it. It just quit being the kind of thing that comes when the bell rings.
+
+So the bell rings.
+
+And I'm the house.
+
+---
+
+Ma'am.
+
+She was standing on the shoulder with her hands up in her hair pulling at it and making a sound I never heard a person make and I have been in a room with a lot of crying women.
+
+And I got out. Because that's who I am, isn't it, that's the whole thing, that's Charlene, somebody's screaming so here comes Charlene —
+
+Renae used to say it like it was an insult. *You can't stand for anybody to be upset.* Like it was something wrong with me.
+
+You were right about the one thing, Renae. Don't get greedy.
+
+Six steps.
+
+---
+
+Fourth day I took my own shoes off.
+
+Felt the laces. Felt my own thumb hook the heel. And then my hands set them down side by side on the asphalt and *squared up the toes,* and that wasn't good enough, so they went back and moved one about a half inch and *then* it was good enough.
+
+I sat in here and watched my hands be tidy.
+
+That's the day I quit expecting anybody to come.
+
+---
+
+and she goes, honey I don't think there's going to be school
+
+and I *laughed*
+
+---
+
+The car's forty feet back and to the left. Red Equinox. Dent in the back quarter from a buggy at the Alma Walmart, and I never got it fixed, and I was going to, and every time I saw it I thought, I'm going to get that fixed.
+
+Both doors open. Driver's side, that was me.
+
+Back passenger side was not me.
+
+My head goes across twice a day and it takes four seconds and I can't slow it down and I can't see in the back at that angle and don't you tell me I haven't tried.
+
+Two ways it happened. She got out. Or something opened it.
+
+She got out.
+
+Something opened it.
+
+She got out. She's fast, she's always been fast, she'd have gone up the bank into the trees, there's trees right there —
+
+Something opened it and she was in her seat with her belt on because she always kept her belt on, she was a good —
+
+She got out.
+
+I've worn both of them smooth. You say a thing enough it turns into a noise. Like when you say *spoon* twenty times. It's just a sound my head makes now, it's not a thought, I don't get a thought out of it any more.
+
+I don't know.
+
+That's the answer. I've been not-knowing since October, standing up, in a road.
+
+---
+
+Week three.
+
+I'm not going to. I'm not going to do this one.
+
+---
+
+Deb came every six weeks for nineteen years and never tipped me one time.
+
+Nineteen years. Not at Christmas. Not when I did her mother's hair for the funeral and stayed till nine and didn't charge her a dime, and she said, Charlene you're an angel, and she went out that door and got in her Lexus.
+
+And I never said a word. Nineteen years I never said one word about it.
+
+I'd say something now. Deb, I'd say. Deb, honey. Sit down. Let me tell you something about yourself.
+
+Ha.
+
+That's funny. That's the only funny thing left in me and I've used it up about four hundred times.
+
+---
+
+Week three there were people in the cars.
+
+Nobody got out of this road. Nobody. Not one, except me, and I got six steps and I didn't get out either.
+
+And one afternoon everything I am walked over to a Buick and got down on its knees.
+
+no
+
+I'm not
+
+and I could not shut my eyes. Do you understand what I'm saying to you. **I don't get to shut my eyes.** There isn't a way. There's no lid I own.
+
+Lord Jesus.
+
+Lord Jesus, Lord Jesus, Lord Jesus.
+
+Something broke in me that afternoon and it did not come back and I don't know how long I was gone after, it's all one thing, there's a hole and then there's me again.
+
+I quit saying my name for a while. I know that.
+
+---
+
+And I came back up out of it and I had it out with Him. Right here in this road. Weeks of it.
+
+Because I said, why. What is this. Everybody else out here is *gone,* they're empty, I've stood next to the same six people for five weeks and there is nobody home in a single one of them and I know it the way I know a marriage from how a woman holds her chin —
+
+so why am I still in here
+
+and I went at it and I went at it and I got there.
+
+**He left me awake on purpose.**
+
+That's it. There's no other. You don't leave one person awake in hell for nothing, that's not — that's not how any of it works, there's a reason for things, Mama always said there's a reason and I hated it when she said it and she was right —
+
+Somebody has to have *seen* it. Or it's just weather. It's just a thing that happened to some people in a road and nobody's got to answer for it.
+
+And somebody is going to answer for this.
+
+I'm the witness. That's mine. That's the one thing they didn't take and they didn't take it because He wouldn't let them.
+
+You hear how that sounds. I hear how that sounds. I don't care. It's the only thing standing between me and that Buick and I am holding it with both hands.
+
+---
 
 Josie. Eleven. Feet on the console.
 
----
+Charlene Doss, forty-one, nineteen years, second chair from the window.
 
-Here is what nobody outside is going to work out, so I will say it once.
-
-**It hurts.**
-
-All of it. There is nothing wrong with my nerves. The bottom of my right foot opened up on something in the second week and it has never closed and it hurts exactly the way it would have hurt before, every time the weight comes onto it, which is most of the time, because whatever runs me does not know to favor it. My shoulder hurts from being held the same way for a month. My throat is raw from the sound that comes out of me when it wants a sound to come out of me. My lips split in the first week and split again every time they get pulled back into the smile.
-
-The pain arrives. It arrives perfectly. It simply never gets **answered.**
-
-That is the whole thing and it took me a long time to understand it. What is in me did not turn off the alarm. It just stopped being the kind of thing that comes when an alarm goes off. So the signal goes up and nothing comes down, and I am the room the alarm is ringing in.
-
-If a person out there is telling themselves that we do not feel it, I understand why. I would tell myself that. My face has not moved in five weeks. I have watched what people do to us and I know exactly what my face was doing while they did it, which is nothing.
+I do that in the mornings. Wind it like a clock. It's getting harder. It used to just be there when I came up and now I've got to go and get it.
 
 ---
 
-I took my own shoes off on the fourth day.
+Here's what I've got that they haven't.
 
-I want to explain that, because it is the thing I would most want somebody to know, if somebody were going to know anything.
+It can't tell when something's a lie.
 
-My hands did it. I felt the laces. I felt my thumb hook the heel. And then my hands set them down on the asphalt beside me and **squared them up.** Turned them so the toes lined up with each other. Adjusted one about half an inch.
+Second night, out front of a farmhouse, it used my mouth. *Honey, I'm home,* in my voice, at a door with nobody behind it. Eleven times. Changing it up a little each go, like a woman jiggling a key in a lock that isn't hers.
 
-Whatever is in me is tidy. It is not cruel and it is not anything, but it is *tidy*, and it took a minute of its time to make my shoes neat, and I was in here the whole time watching my own hands do it, and that is the moment I understood there was not going to be any negotiating.
+And I'm in here going, there's nobody in that house. There's nobody in that house, you fool.
 
-Then the jacket, a week later. It is working down and it has not finished. It folds everything. It has never once dropped anything.
+It wasn't lying to them. It doesn't know how. It was *guessing out loud with my throat* and it'd have done it all night because nothing has ever told it anything that wasn't so.
 
----
-
-Things I have lost, in the order they went.
-
-**Nights first.** There is no sleep but there is something that takes the dark hours, and a while back I stopped coming out the other side of it with the day before still attached. I used to be able to carry a thought across. Now I get to the morning holding nothing and have to build it again from the shoes.
-
-**Then the recent people.** The girl who started at the shop last spring — I had her face for a month and then I had the face and not the name and now I have neither, and I know she existed only because there is a shape in me where a person used to be.
-
-**Then the difference between remembering and happening.** That one is bad. Some days Josie's feet are on the console right now. Not a memory of it. *Now.* And I go along with it for a while because it is better, and then the shoes come through my field of view and I know.
-
-**Wanting is going too.** That is the newest one and it is the one that frightens me, because I can feel it thinning. There used to be a thing in me that pulled toward the car every second of every day, hard, like a hand on a rope. It is quieter now. Some mornings I have to go and get it on purpose.
-
-I do that. Every morning I go and get it on purpose.
-
-Charlene Doss. Forty-one. Nineteen years. Josie, eleven, feet on the console.
+Nineteen years reading faces across a chair and I never met a thing that couldn't lie until one got in me.
 
 ---
 
-There is one more thing, and this is the part I do not think any of them can do.
+The music comes on before light.
 
-I can still tell when something is not true.
+That girl singing about how she doesn't care what people say. I know it. Four thousand times in that shop. Kim hated it and I did not.
 
-They cannot. I have had five weeks to watch the thing that runs me and I know this the way you know your own kitchen. It has no idea. When it used my mouth on the second night, out in front of that farmhouse, it said *honey, I'm home* in my voice to a door with nobody behind it, and it said it eleven times, adjusting, the way you'd jiggle a key. It was not lying. There is nothing in it that could lie. It was **guessing**, out loud, forever, with my throat.
+And it's four in the morning at the bottom of a hill in a dead world.
 
-And whatever it is, however much of it there is out there in the dirt — it takes everything it hears as a report. A sound is the world telling it something. That is all a sound has ever been to it.
+**Somebody did that.**
 
-I am, as far as I can tell, the only thing standing in this road that knows a sound can be a *bait*.
+Two seconds. That's all it took me. Because I'm the only thing out here that knows a sound can be a *hook,* and that's a hook, somebody got up in the dark and went down there and set it.
 
----
+And my head comes around.
 
-The music starts before it is light.
+And my feet go.
 
-It comes from down among the stopped cars, on the far side of the barriers, and it is a girl singing about not caring what people say, and I know that song, it was on in the shop maybe four thousand times, and it is loud and cheerful and absolutely nothing else is happening.
-
-And I am the only one in a quarter mile who understands what it means.
-
-There is no car. There is nobody in that car. Cars do not start themselves after five weeks and stereos do not come on at four in the morning in a dead world, and a person did that, a living person did that on purpose, and there is exactly one reason a person turns music on at the bottom of a hill full of us.
-
-I know it in about two seconds. I have never been so sure of anything.
-
-And I turn toward it.
+I'm not fooled. Do you hear me. Whoever you are. **I am the only thing in this whole road that is not fooled** and I am walking down there anyway with my arms swinging like I'm going to get the mail.
 
 ---
 
-I want to be very precise about this part.
+They come in on both sides at the barriers and I know what that means, I've seen it, right here, second week, down at the low end where the cars are stacked three deep — too many of us in one spot and it all goes wrong at once, and I watched them take a minivan apart with their hands, and I watched what was left of them sitting in the gravel after with their arms bent the wrong way still trying to get up
 
-I do not walk toward it because I am fooled. I am not fooled. **I am the only thing here that isn't.** I turn because my head turns and I walk because my legs walk, and the entire way down that road I am screaming inside a body that is strolling.
+and the humming starts low and it's my ribs, it's my own ribs doing it
 
-There is a bottleneck where the concrete barriers narrow, and I feel the others come in against me on both sides, and I know what that is too. I have seen this once before, at the truck stop outside Alma in the third week, from a hundred yards up the embankment. I saw what happens when there are too many of us in one place. I saw them go through a building and I saw what was left of them afterward, sitting in the gravel with their arms bent wrong, still trying to get up.
+I've got a minute.
 
-So I know what the pressure of shoulders means. I know what the humming means when it starts low in the chest, mine and everyone's, and builds, and I can feel my own ribs doing it and I cannot stop my ribs.
+I've got about a minute and I know exactly what's coming and
 
-**I have about a minute and a half where I understand exactly what is going to happen to me and cannot do one single thing.**
+Josie. Eleven. Feet on the console.
 
-I use it on the name.
+Josie.
 
-Josie. Eleven. Feet on the console. Josie. Eleven.
-
----
-
-The wire.
-
-My hands go into it. That is the first thing. Not my body — my *hands*, out in front, closing on it, because whatever the roar does it makes everything reach and grab.
-
-Nineteen years I made a living with these hands. Ten thousand heads. I knew what a good pair of shears cost and I knew how to hold them so my wrist did not go, and my right thumb had a callus you could feel through a glove.
-
-They close on razor wire and they pull.
-
-I feel it. Every part of it, in order, with nothing missing.
-
-And then they open and close on it again, because the thing in me is not reacting to damage, it is just reaching, and it reaches again, and again, and I am in here with the whole of it and I cannot make one finger let go.
-
-The crush comes forward from behind and the coil comes up into my middle and folds around my arms and then I am held, and the rest of them go past me and over me and some of them go over the rail into the air, and it goes on for a while and then it stops.
-
-The pressure drops. The humming falls out of my chest.
-
-And I am left standing in the wire, exactly as I was, still in here, and nothing has changed about me at all except that most of my blood is on the road.
+Josie.
 
 ---
 
-It takes the rest of that day and most of the night.
+Hands.
 
-I will not be describing it. There is not a reason to and there is nobody to describe it to. I will say that I was there for all of it, and that the wire moves with your breathing, and that you go on breathing.
+My hands go first, out in front, into it, because whatever that roar does it makes everything *reach*
 
-The sun comes up on my right. It comes across. My head goes with it, four seconds, and the red car is not in it any more, because I am a hundred yards down the road from where I stood for five weeks and I will not see that car again.
+nineteen years, ten thousand heads, there was a callus on that thumb you could feel through a glove
 
-That is the worst thing that happened to me, and I want it on the record that it happened at about nine in the morning and it was not the wire.
+and they close and pull and I feel every bit of it and then they open and close on it AGAIN because it isn't reacting it's just reaching, it reaches again, again, and I cannot make one finger let go, not one, I am begging my own hand, I am in here begging my own hand
+
+God
+
+God
 
 ---
 
-They come through in the middle of the day.
+Wire moves when you breathe. That's the thing nobody would know. You keep breathing so it keeps moving.
 
-I hear the carts first — a grocery cart sound, ordinary, absurd — and then there are people walking up the road through what is on it, and they are alive. Seven or eight of them. An old woman. A man with a child on his back.
+Sun came up on the right and went across and my head went with it, four seconds, and the car wasn't in it.
+
+Because I'm a hundred yards down the road from where I stood for five weeks.
+
+That's the worst thing they did to me. Not the wire. That.
+
+---
+
+Buggies.
+
+That's the sound. Grocery buggies coming up a road like this. Like somebody's going to the store.
+
+Living people. Seven, eight. An old woman. A big fella with a child on his back and the child's face turned away.
 
 And a boy.
 
-He is fifteen, maybe. Heavy through the middle. He is walking at the end of the line the way you walk when you have made yourself go last, and when he gets level with me he stops.
+Fifteen. Heavy through the middle. Walking last.
 
-And he looks at me.
+And he stops.
 
-Not the way the others look, which is fast and away. He looks at me the way I used to look at a head of hair before I picked up the shears. All the way. Taking the whole thing in and putting it somewhere.
+And he *looks* at me.
 
-I know that face. I have made that face. That is a person checking their work.
+Not quick and gone like the rest of them. He looks at me all the way, and he takes his *time* —
 
-**It was him.** I do not know how I know and I know.
+and I want to tell you what I have done for nineteen years. I read faces. Across a chair, at eleven inches, all day, every day, since I was twenty-two years old. I know what I'm looking at.
 
-He is fifteen years old and he stands there in the road looking at what he did and he does not look away, and I will give him that, because most of them could not, and I have decided that it matters. Not much. Some.
+**That's the one that did it.**
 
-And I try.
+That is a boy standing in a road looking at his own work.
 
-I try to move my eyes. That is all I go for. Not a word, not a hand — I have not had a hand for a long time. Just my eyes, four inches, over onto his.
+I've seen that face. I've seen it on a man who backed into my car in the Kroger lot and got out to look at the dent and thought he was alone. That exact face. Checking. Seeing how it came out.
 
-I put everything I have left into it. Everything. Five weeks of standing and the shoes and the car and the name, all of it, into moving my eyes four inches.
+And somebody's going to say — I know how this goes, I know exactly how this goes — somebody's going to say he was *brave,* he didn't look away, he *faced* it —
 
-They do not move.
+He didn't face anything.
 
-He stands there another second and then he walks on north with the rest of them, and the carts go quiet, and that is the last living person I ever see.
+**He came back to see if it worked.**
 
----
+There's something in that child. I don't care what he is, I don't care how old he is. I have known bad men. Bad men run hot, bad men are *sloppy.* That is something sitting cold behind a face doing arithmetic, and I don't know if it got in him or if it was always in there, and it is worse than what's in me because mine didn't pick.
 
-And here is the thing I would tell him, if there were any way to tell him anything.
+Mine's an animal. He *thought this up.*
 
-I am not angry.
+And I try to move my eyes.
 
-I got five weeks to work out what I was inside of, and it is not a person and it does not hate anybody and it has never once meant a single thing it has done to me. It is more like weather than like a man. You cannot be angry at weather. I tried for about a week and there was nothing to put it on.
+Four inches. That's all I'm asking. Four inches, onto his.
 
-But he is not weather.
+Everything I have got left. Five weeks and the shoes and the car and the Buick and my girl, all of it, into four inches.
 
-He is the only thing in the whole of this that *meant* it. He made a sound that wasn't true and he made it on purpose and he counted on us to come, and we came, all of us, because coming when we are called is the only thing we are, and he knew that.
+They don't move.
 
-I did not know a person could do that to us. Neither did anything else on this road. **I am the only one here who understood, and I am about to go into the same place as all the rest of them, and I do not get to keep it separate.**
+He stands there another second and he walks on and the buggies go quiet up the road
 
-Whatever I have is going in. The wire is going in. My hands are going in. The four seconds of the red car twice a day is going in, and the shoes lined up on the asphalt, and nineteen years, and the sound my throat made all night.
-
-And so is the boy at the bottom of the hill with the music.
-
-It has never had one of these. Not once, not on this world or on any of them. It has been told the truth by everything it has ever met, since before there was anything here to tell it anything.
-
-I am about to hand it a lie, with the whole cost attached, from the inside.
-
-I do not think it will know what to do with it. I think it will do something.
+and that's the last living thing I ever see.
 
 ---
 
-The name goes in the dark, some time before the rest.
+All right.
 
-I go for it the way I have gone for it every morning for five weeks, and I get *Charlene* and I get the shop and I get a girl's feet up on a console where they are not allowed to be, and I go for the name that goes with the feet and it is not there.
+All right. Listen.
 
-I look for a while. It is not there.
+I'm going in. That's what it does, it takes it in and keeps it, and everything I've got is coming with me.
 
-I keep the feet.
+The wire's coming. My hands are coming. That Buick is coming, God forgive me, God forgive me —
 
-Josie, I say, and it is not the name any more, it is only a sound I have said so often that it stayed after the meaning left, and I say it anyway, into the dark, over and over, the way something says a thing it does not understand because saying it is all it has ever done.
+**and he's coming.**
+
+That face. That boy standing in the road with his hands down looking at his work.
+
+It's never had one. Not one, not here, not wherever else it's been. Nothing has ever told it a thing that wasn't so.
+
+And I'm going to hand it one. With the whole bill on it. In the only language it's got, which is what a body knows.
+
+That's what I was kept for. That's the *job.*
+
+You wanted a witness, Lord. You've got one.
+
+It is going to know his face.
+
+It is going to know his face.
+
+---
+
+hold on. hold it. hold on —
+
+Charlene Doss, forty-one, nineteen years, second chair from the
+
+Josie. Eleven. Feet on the.
+
+feet on the
+
+and she goes *Mo-om,* like that, two syllables
+
+and I didn't say anything the third time
+
+Renae said come. She said come on down and we'll figure it out in the morning and I said Josie's got school
+
+I said Josie's got *school*
+
+Deb never tipped me. Nineteen years. And I never said one word.
+
+six steps
+
+I got out of the car and I'd do it again, don't you tell me, don't you dare tell me I wouldn't, that's *who I am* —
+
+somebody has to answer for this
+
+the boy. don't lose the boy. don't lose the boy in the road with his hands down
+
+can't feel my hands. good. that's
+
+Mama it's cold
+
+Josie baby are you in the
 
 *How short are we going today?*
 
-*Let me get you a towel, hon.*
+*Sit up straight for me, hon.*
 
-I am still here. I want somebody to know that I was still here.
+I'm still in here.
 
-The body goes on breathing for a while after.
+I'm still
+
+The body kept breathing for a while after.
