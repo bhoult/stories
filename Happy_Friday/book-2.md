@@ -633,3 +633,57 @@ Three consequences worth holding on to.
 
 **The last word should be hers, and she should be wrong in it.** One sentence, in the improved handwriting, about her son, containing something the reader can see is false and she cannot.
 
+
+---
+
+# Winter — the clock the epilogue starts
+
+Book One ends **December 15**. The epilogue lands in **mid-January**, with twenty-six degrees over Little Rock, fog standing in the warehouse loading doors where the two air masses meet, and an inch of snow on the Turned in a hospital parking lot in Clarksville that is not melting on any of them.
+
+That raises a question the notes have never answered, and the answer is structurally useful.
+
+## The rooted cannot overwinter awake
+
+Form 1 runs on photosynthesis. Winter takes the day length, drops the sun angle, and puts a crust of snow across the collecting surface — which is skin. And the rooted **cannot move to solve it.** Their feet are in the ground. They cannot shelter, cannot turn away, cannot migrate. They are anchored solar collectors in a season with no sun.
+
+So the colony does what every temperate plant does. **It goes dormant.**
+
+Growth stops. Root advance stops. The hunters slow to a fraction of their activity and then mostly stop too, because the caloric economy that supported them was net-positive only while the rooted were producing. Some rooted die outright — the youngest, the shallowest, the ones on north-facing ground. The organism spends them the way it spends everything.
+
+## Which produces the false spring
+
+**The survivors will read the lull as the organism dying, and they will be wrong, and it is exactly the mechanism this series runs on.**
+
+Everything at the campus supports the comfortable reading. The roots stop creeping into the bare zone. The hunters stop testing the perimeter. The ring at four hundred yards goes still and grey and starts to look like a stand of dead timber. The emitter's declining-effectiveness curve — the one on Maria's whiteboard, the one Nate has been charting since Ch31 — **flattens**, for the first time since it was drawn.
+
+And every person on that campus has spent three months waiting for a number to stop getting worse.
+
+*This is Ch5 operating on a whole settlement: not-knowing is a stressor, so the brain closes the question with whatever material is lying around, and the answer only has to be finished. Moss will produce a hypothesis — a temperate-latitude organism failing outside its range, a lifecycle that does not survive a continental winter — and it will fit the observations, and it will drop everyone's pulse, and they will build on it.*
+
+Somebody should say it out loud in February, standing at the perimeter in the cold, looking at four hundred yards of grey: *"I think we won."*
+
+## And the two clocks collide in spring
+
+Maria's number is already on the page. Ch31, Day 45: **three months at current consumption.** That is early March.
+
+The colony breaks dormancy in March.
+
+The survivors' food runs out in the same weeks the thing outside starts growing again — and it comes back *bigger*, because dormancy is not decline. Everything the network took in during autumn has been sitting in the ground consolidating, and what stands up in spring is Form 2.
+
+That collision is the shape of Book Two's middle act and it requires no new invention. Both numbers exist in Book One.
+
+## Why the offer comes in winter
+
+This is the piece that makes the Emissary arc fall into place.
+
+The colony mind is already glacial — minutes to hours per thought across a continent. **Cold makes it slower.** In January it is operating at the outer edge of what could be called thinking at all. It has arrived at a conclusion about the boy on the hillside and it is physically incapable of acting on that conclusion at any speed a human would recognize as action.
+
+So it does the one thing available: it builds something that runs at human speed, and it launches her in the dead of the season when it can do nothing else.
+
+**Delia goes out into the snow because it is the only move the organism has left until March.** She is not the opening of a campaign. She is what a continent-sized mind does while it is too cold to move.
+
+## Small consequences worth using
+
+- **The rooted are visibly worse in winter and this is not mercy.** Frost damage. Split skin. Blackened extremities on the ones that rooted latest. They do not heal it and do not appear to register it, and in spring the damaged ones are simply reabsorbed.
+- **Snow does not melt on them.** Their skin sits at ambient. It is the cheapest possible test for what a thing is, and it is the test Delia fails in the epilogue without anyone there to run it — she is the only thing in that lot warm enough to melt anything.
+- **The barefoot problem.** Survivors will notice, in January, that a woman who walks sixty miles through snow with no shoes and no frostbite is not explicable by Moss's metabolic-gifts hypothesis. Somebody sensible will say so. It will be absorbed into the hypothesis rather than breaking it, which is what happens to inconvenient data in a group that badly needs a finished answer.

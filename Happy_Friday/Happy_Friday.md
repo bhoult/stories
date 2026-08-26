@@ -7021,7 +7021,9 @@ Workers came in through the loading doors of what had been a produce warehouse, 
 
 Their hands were gone by the fourth day. Not gone: *used*. Fingers worn to the tendon on concrete and doorframes and the lips of a hundred thousand skulls, and still working, still cradling, still exact. The organism does not repair what it can spend.
 
-The room was warm. That was the first wrong thing about it — sixty degrees outside and the warehouse ran at body temperature, a wet animal heat coming up off the floor with a smell underneath it like a wound and a greenhouse and the inside of a cut melon.
+The room was warm. That was the first wrong thing about it — twenty-six degrees outside and a hard January sky over the whole state, and the warehouse ran at body temperature, a wet animal heat coming up off the floor with a smell underneath it like a wound and a greenhouse and the inside of a cut melon.
+
+Where the two air masses met in the loading doors they made fog, and the line walked in through it all day and all night, and it never once cleared.
 
 At the center of the floor, the mass took them.
 
@@ -7105,7 +7107,7 @@ She had been standing a long time. She knew it the way you know you slept badly 
 
 Eleven days ago they had brought her up out of the ground. The soil had closed over the place where her feet had been and there was nothing in the grass now to show it. Her scrubs had been put back on her afterward, stiff and dark down the front, fastened wrong at the neck by something that had watched people dress themselves ten thousand times and had never once done it.
 
-She did not look at any of that. Her feet were bare. The soles were black and split across the ball and the heel and did not hurt either.
+She did not look at any of that. Her feet were bare and there was an inch of snow on the asphalt and she was standing in it. The soles were black and split across the ball and the heel and did not hurt, and neither did the cold, which did not arrive at all.
 
 The second thing she noticed was that she felt extraordinary.
 
@@ -7117,7 +7119,11 @@ Delia Carver had never in her life felt this good.
 
 The lot was full of people who were not moving.
 
-They stood in the rows between the cars with their faces tipped up, and their skin was the colour of something under a log, and none of them wore anything, and their clothes were folded on the hoods beside them. Four feet to her left, close enough to touch, Janelle Pruitt from third-floor med-surg stood facing east with her arms at her sides and a dark line down her chin, and her chest moved, and nothing else did.
+They stood in the rows between the cars with their faces tipped up, and their skin was the colour of something under a log, and none of them wore anything, and their clothes were folded on the hoods beside them under a crust of snow that had not been disturbed in days.
+
+There was snow on their shoulders. There was snow on their upturned faces, and on none of them was it melting.
+
+Something landed on the back of Delia's neck and she reached up and it came away wet on her fingers. She was the only thing in that lot warm enough to melt anything. She looked at her hand for a second and then she stopped looking at it, and nothing in her had a place to put it. Four feet to her left, close enough to touch, Janelle Pruitt from third-floor med-surg stood facing east with her arms at her sides and a dark line down her chin, and her chest moved, and nothing else did.
 
 Then the lot was full of cars.
 
@@ -7128,6 +7134,8 @@ She could not quite hear the words. Janelle's mouth was moving and the sound arr
 Then the lot was full of people who were not moving. There was a long smear from the ambulance bay doors out to the second row, wide as a body, dried to the colour of rust, and the doors stood open and had stood open a long time, and there were birds in the vestibule.
 
 Then it was six in the morning, and the coffee was warm through the cup.
+
+In one of them there was snow to the ankle and in the other there was dry asphalt still holding warmth off a day that had not happened for three months, and her feet reported neither.
 
 She did not notice the changing. Each one was simply what was there. Only afterward, in the small gap between one and the next, was there a half-second where both were true and neither was, and it slid closed before she could put a name on it.
 
@@ -7171,6 +7179,16 @@ Not a guess. Not a hope. She knew it the way she knew which way was down: sixty-
 
 Some part of her understood, briefly, that this was not a thing a person could know.
 
-Then it was six in the morning, and her shift was over, and she had to get home, because her boy was waiting and it was a long way and she felt strong enough to walk it.
+Then it was six in the morning, and her shift was over, and she had to get home, because her boy was waiting and it was a long way.
 
 She left her shoes where they had been set side by side on the hood.
+
+Then she ran.
+
+Not the way a person runs when they are late for something. She went out between the rows and down the access road and onto the highway barefoot in the snow at a pace a good high-school miler could hold for about four minutes, and after one mile it had not changed, and after six it had not changed. Her breathing stayed level. Her feet came down wrong on the frozen gravel at the shoulder and kept going.
+
+Nothing in her was working. That was the thing about it. There was no effort anywhere in the machine.
+
+She stayed on the highway while it went the right way and left it when it stopped going the right way, and went up into the trees on the bearing instead, over ground that had taken eight people eleven days.
+
+She would be there long before dark.
