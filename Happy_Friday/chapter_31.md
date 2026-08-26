@@ -16,7 +16,7 @@ He didn't talk about it. He led prayers. He made coffee from the campus supply. 
 
 I watched Jim the way I watched everything. I noticed the hand on the door frame. I didn't say anything. Some observations are too expensive to share.
 
-That is the whole of the inventory I actually took. What I have from the rest of that week is not counting. It is three things I saw and did not write down at the time, because writing them down would have meant deciding what they were.
+That is the whole of the inventory I actually took. What I have from the rest of that week is not counting. It is four things I saw and did not write down at the time, because writing them down would have meant deciding what they were.
 
 ---
 
@@ -27,6 +27,40 @@ He wasn't drinking. We all knew it the way we knew about Jim's health. Noticed, 
 He'd charged the phone the first night. Plugged it into a wall outlet in the dormitory hallway like it was the most ordinary act in the world, and when the screen lit up he'd stood there looking at it for a long time without saying anything. Ava's birthday photo. Purple frosting on her face, nine years old, laughing at whoever was holding the camera. He'd carried a dead phone for six weeks because putting it down would have meant putting her down, and now the screen was bright and her face was there and he could see her again and he stood in a hallway in Fayetteville, Arkansas, and looked at his daughter and didn't make a sound.
 
 I know this because I walked past and saw him and kept walking. Some moments you don't interrupt. Some moments aren't yours.
+
+---
+
+Dale finished the owl and started something I couldn't identify.
+
+On the third day I asked him whether he'd talked to Moss. She keeps a log — eleven groups, names where people gave them, which side of town they came in from. If anybody had walked in off his daughter's street it would be in it.
+
+He said he'd asked the first night.
+
+I didn't say anything, because I had not thought to ask for him, and I had not thought to ask him whether he'd asked, and those are the same failure twice, and it is the exact one Jim spent his last afternoon on.
+
+"Nobody," Dale said. He turned the wood over. "That's not information. That's just no information."
+
+"Marcus says the truck might run."
+
+"Marcus says a lot of things about that truck." He took a curl of cedar off and let it drop. "Her street's a mile inside the line. You've seen the line."
+
+I had seen the line.
+
+And then, walking back across the quad in the cold with nothing to occupy me, I worked out the thing I should have worked out on the first morning of the trail and didn't, because I was busy being winded.
+
+The beagle was hers.
+
+He said so in a church basement on Day Five, holding it up while the candles went: *it's for my daughter, in Fayetteville, who I haven't spoken to in two years.* He carried it out of Clarksville in his coat pocket. And on the first climb of the first day, six hundred feet up a hollow full of dead leaves, he took it out and put it in a seven-year-old's jacket so the boy would have something to hold going uphill, and he did not say one word about what it was, and none of us asked, and Caleb has slept with it every night since.
+
+He gave it away twenty miles into a ninety-five-mile walk toward the city she lives in.
+
+Which means he had already done the arithmetic. Which means he did it before we left Clarksville, and came anyway, and carried her present up every ridge on that trail after he had already decided to spend it on somebody else's kid.
+
+I have never told him I worked it out. There is nothing in it he does not already know, and there is a version of saying it out loud that would take something off him that he is entitled to keep.
+
+So I am putting it here instead.
+
+---
 
 Sienna was running.
 
@@ -126,7 +160,27 @@ She dropped two things in my lap. Vending machine candy bars: the fun-size kind,
 
 "That's your share. Don't look at mine." She was already unwrapping hers, breaking off a piece with the focused attention of a person performing surgery. We sat in the hallway eating bad chocolate and for thirty seconds the world was just two kids splitting a vending machine score and the apocalypse was someone else's problem.
 
-"You ready?" she said, when the chocolate was gone.
+"Moss told me about the second one," she said. "The other door. The collapse."
+
+"She told everybody."
+
+"She told everybody and then she looked at me while she was saying the part about who it doesn't work for." Sienna started folding the wrapper, halving it and halving it again. "Jim's got the pills. Ruth's got the pills. Dale's got the pills and then twelve years of practice on top of them. Marcus has got the thing that was already wrong with him before any of this. Caleb went away inside his own head, which is what a seven-year-old does when there's nowhere left to go." She got the wrapper down to a hard little square. "You've got whatever it is you do. You went somewhere else in a septic tank and you went somewhere else on a highway and both times it worked."
+
+"That's not a skill."
+
+"I know it's not. That's not the part I'm on." She set the square on her knee and left it there. "I don't have one. Not one of them. Not the pills, not the flat, not the going-away. What I've got is a body that does exactly the wrong thing extremely well, and eleven years of coaching that makes it do the wrong thing faster."
+
+I didn't say anything, because she was right and because there was nothing in the notebook for it.
+
+"So I'm going out there every morning and running at it until I know where it is," she said. "That's the whole plan. It's a stupid plan."
+
+"It's the only one anybody's got that doesn't come out of a bottle."
+
+"Yeah." She looked at the wrapper on her knee. "That's the stupid part."
+
+She put the wrapper in her pocket.
+
+"You ready?" she said.
 
 "No."
 

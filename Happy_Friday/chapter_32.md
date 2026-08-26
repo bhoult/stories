@@ -102,6 +102,8 @@ Moss said afterward that it was the beta-blockade. She said it flatly, the way s
 
 Ruth said it was not the beta-blockade.
 
+By then I had four categories and Moss had given me all of them in a seminar room with a dry-erase marker: blocked, blunted, collapsed, or overridden. Jim was in the first one on paper and he was in none of them in that room.
+
 I have gone at it from every direction I have and I keep arriving somewhere I did not expect, so I am going to put it down plainly and let it stand.
 
 The organism runs on one thing. Not pain, not proximity, not injury. I have watched a man walk on a leg bent the wrong way and I have watched a woman bleed out on a wire without her face changing. It runs on *fear*. Six weeks of observation and one broadcast from a research biologist and a nursing textbook all say the same sentence, which is that the thing gets in through the part of you that does not want to die.

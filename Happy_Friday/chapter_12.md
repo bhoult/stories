@@ -210,7 +210,7 @@ Craig Lyle was exactly the man I'd expected from the steeple: big, capable, comp
 
 "My situation." Not defensive. Curious. The way a cop listens to a witness. I respected this. I also recognized it as a framework about to collide with data it couldn't accommodate.
 
-I opened the notebook. I showed him the count: the Turned in his perimeter, plotted by day, the number climbing from sixteen on Day 8 to twenty-seven today. I showed him the behavioral observations: the shift from passive positioning to active circling, the increased restlessness, the tightening of the perimeter.
+I opened the notebook. I showed him the count: the Turned in his perimeter, plotted by day, the number climbing from fifteen on Day 8 to twenty-seven today. I showed him the behavioral observations: the shift from passive positioning to active circling, the increased restlessness, the tightening of the perimeter.
 
 "They're drawn to the noise," I said. "The generator, the bullhorn. Every broadcast brings more. The count has been rising by two to three per day. At this rate, in a week you'll have thirty-five to forty."
 

@@ -52,6 +52,56 @@ She drew a new diagram, four columns, and wrote them out: *Herding. Swarming. Hu
 
 "Correct, and the implication is the one that killed the checkpoints. Every shot fired at a Turned converts every Turned in auditory range into a hunter, on top of whatever the density is already doing. The military didn't lose those positions to a swarm. They lost them to a swarm *and* a mass hunting activation they triggered themselves, simultaneously." She underlined it. "Hunting is metabolically driven, not communicatively driven, which is why the emitter is less effective against it. I can jam a signal. I can't jam a stomach."
 
+She put the marker down, and for the first time since she'd started she looked at something other than the board.
+
+"The boy," she said. "Caleb. How long was he alone?"
+
+"Sixteen days. His parents turned in the house on Day Two and he was in there with them until Day Eighteen. Under the bed a lot of it. Cereal out of the box, water out of the bathroom tap. Then he walked out into the yard and sat down and cried until Sienna heard him from the steeple."
+
+"And he did not convert."
+
+"No."
+
+"Did that strike you as strange?"
+
+I opened my mouth to say yes and found out, in the half second before the word, that it never had. Not once. Six weeks of counting everything and I had never run the numbers on the one person in the group they most obviously applied to.
+
+"He was crying," I said. "For days. That's sustained. That's a long way past two minutes."
+
+"It is." She picked the marker back up. "So either your model is wrong, or my number is wrong, or there is a second thing in the system that your model does not contain. It's the third one, and it is the reason I asked."
+
+She drew a line down a clean section of board and put a heading over each half. *Fight or flight.* And then: *Collapse.*
+
+"The stress response is not one system. It is two, and they do opposite work. The one you have been describing since Day Three — the one you called stress juice, which is a better name than the one I use — is sympathetic. Rate up, pressure up, blood to the muscles, the animal preparing to do something about it. That is the branch the organism reads. That is the entire surface it has to grip."
+
+She tapped the second column.
+
+"This is the other half. When fighting has failed and running has failed and the thing is still coming, the system does not escalate. It *quits.* Parasympathetic dominance. Heart rate falls. Pressure falls. The animal goes slack and goes somewhere else inside its own head. Tonic immobility. Every prey species on this planet has it, and so do we, and we are embarrassed about it, so we call it shock, or dissociation, or *he wasn't himself afterward.*"
+
+"And the organism can't read it."
+
+"The organism cannot read it because there is nothing there to read. It is not a smaller quantity of the signal. It is the signal's absence, manufactured by a system running the other direction." She underlined *Collapse* once and left the marker on the tray. "Your boy did not survive by being calm and he did not survive by being brave. He survived because a seven-year-old under a bed with nowhere to go and nobody coming does the only thing a small mammal can do, which is stop. And it worked." She looked at me over the glasses. "I would like you to sit with how ugly that is before you decide it's good news."
+
+I was already sitting with it. I was doing something worse than sitting with it. I was going down the list.
+
+Jim, on fifty milligrams twice a day. Ruth on twenty-five of the same idea. Dale, whose counselor had told him he was chemically balanced and who had understood at the time that it was a diagnosis. Marcus, who had walked in off the highway shoulder on Day Eight through everything between his truck and the church because his stress juice had run dry years before any of this started, and who had told me so, holding a flask, on his third night, and I had written it down and called it a dominant strategy and been pleased with the phrase.
+
+And me. Under Henderson's trailer on Day Three, so cold that the fear could not get fuel — I had even found the term in my mother's textbook and copied it into the notebook, *cold-induced sympatholytic effect*, and never once asked what it implied about anything except that night. In the tank, where the thing that broke the invitation was not courage; vomiting is not a brave act, it is a vagal one, and I had been three feet from the answer with my face in it. On the center line of Highway 71 at fifty-eight beats a minute with nothing left in me worth harvesting.
+
+Four ways through, and not one of them is a virtue. Blocked. Blunted. Collapsed. Or so disgusted that the body throws the switch on your behalf.
+
+I had been keeping a survival guide for six weeks and the sentence that belonged at the top of it was: *nobody in this book is alive because of anything good about them.*
+
+"There's a fifth," I said. "It isn't on your board."
+
+Moss waited.
+
+"Jim's on metoprolol, so he goes in your first column, and I've been telling myself that's the whole answer since the morning I met him." I could hear my voice doing the flat thing it does when I am not sure I want to have said something. "But I've watched him for six weeks and the medication isn't what's happening. He isn't blocked. He isn't collapsed. He isn't anything. There's nothing in him for the drug to be holding down."
+
+"That would be a fifth," she agreed. "I would want to measure it before I put it on a board."
+
+She never got the chance.
+
 She drew another diagram: a cross-section of skin.
 
 "The photosynthesis. You noted the green discoloration: the sun-facing behavior, the skin changes. The organism is introducing chlorophyll analogs into the host's dermis. The skin is becoming a solar panel. This supplements caloric intake as conventional food sources deplete." She tapped the board. "The clothing removal you've been tracking, shoes first, then shirts, then everything, is the organism systematically eliminating anything that blocks photon absorption. The host's skin needs maximum sun exposure for the photosynthetic system to function. The removal is deliberate, ordered, and accelerates as caloric need increases."

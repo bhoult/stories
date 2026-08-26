@@ -1,7 +1,5 @@
 # Chapter 26: Sienna Stops
 
-*Third-person interstitial.*
-
 ---
 
 Nate woke because the silence changed.

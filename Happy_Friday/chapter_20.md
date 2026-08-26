@@ -28,7 +28,7 @@ He held it up. Water dripping. The fish twisting. Eight people standing in a cre
 
 "Saw them in every creek for two days," he said. "Figured eventually I'd get lucky."
 
-Dale cleaned it. His hands were shaking — the withdrawal, Day 5, deep in it — but he'd cleaned fish before, and the knife moved through the work the way his knife always moved: from memory, the hands knowing what the hands knew regardless of what the rest of him was doing. Ten inches of smallmouth bass, gutted and filleted on a flat rock, yielded two thin strips of pale flesh that looked like absolutely nothing and smelled like everything.
+Dale cleaned it. His hands were shaking — the withdrawal, the fifth day out, deep in it — but he'd cleaned fish before, and the knife moved through the work the way his knife always moved: from memory, the hands knowing what the hands knew regardless of what the rest of him was doing. Ten inches of smallmouth bass, gutted and filleted on a flat rock, yielded two thin strips of pale flesh that looked like absolutely nothing and smelled like everything.
 
 Marcus cooked it on the camp stove in the small pot: no oil, no seasoning, just heat and the fish and the smell of it browning in the cold air. The smell was an act of violence against every empty stomach in the group. Caleb stood three inches from the stove with his eyes closed, breathing in, and Maria had to move him back twice.
 
@@ -58,7 +58,7 @@ I let her talk. I gave her the half-smile she was looking for. The anger stayed 
 
 ---
 
-Dale was bad by Day 5.
+Dale was bad by the fifth day out.
 
 The Suboxone had been gone for four days and the withdrawal was no longer a tremor in the hands. It was a full systemic event, sweating despite the cold, muscles cramping, a nausea that bent him double every thirty minutes. The textbook described opioid withdrawal as "profoundly uncomfortable but rarely life-threatening." The textbook hadn't considered a world where withdrawal symptoms — the anxiety spike, the autonomic activation, the flood of stress hormones — were the exact biochemical signature that could convert you.
 
@@ -66,7 +66,7 @@ We managed it. Propranolol for the heart rate. Clonazepam for the acute anxiety.
 
 He walked. He carved. The cedar piece had become a fox. Ears back, body low, running. The strokes were rougher on the uphills, when the exertion layered on top of the withdrawal and his hands shook worse, but the shape was there. His hands shook and the fox emerged anyway.
 
-On the worst night — Day 5, the peak, the place where the withdrawal stopped being a condition and became a siege — he couldn't hold the knife steady enough to cut. The tremor had graduated from his hands to his arms, the muscles firing in spasms that turned every stroke into a gouge. He tried three times. Three ugly gashes across the fox's flank, ruining the grain he'd been following for days. He stared at it. Then he threw it. Hard, sidearm, into the dark beyond the firelight. It hit a tree and disappeared into the leaves and Dale crawled into his sleeping bag shaking and didn't say anything and nobody said anything to him because there was nothing to say to a man fighting a war inside his own chemistry.
+On the worst night — the fifth day out, the peak, the place where the withdrawal stopped being a condition and became a siege — he couldn't hold the knife steady enough to cut. The tremor had graduated from his hands to his arms, the muscles firing in spasms that turned every stroke into a gouge. He tried three times. Three ugly gashes across the fox's flank, ruining the grain he'd been following for days. He stared at it. Then he threw it. Hard, sidearm, into the dark beyond the firelight. It hit a tree and disappeared into the leaves and Dale crawled into his sleeping bag shaking and didn't say anything and nobody said anything to him because there was nothing to say to a man fighting a war inside his own chemistry.
 
 In the morning he went and found it. I watched him from my sleeping bag: the early light, the frost on the ground, Dale on his hands and knees in the leaves turning over sticks and bark until his fingers closed on the half-finished fox. He brushed it off. Studied the gouges. Put it in his coat pocket without trying to fix them. He carried it like that for the rest of the trail: the finished fox in one pocket, the ruined one in the other. A matched set. What the hands could do, and what the shaking had done, and both of them his.
 

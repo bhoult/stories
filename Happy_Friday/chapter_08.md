@@ -131,7 +131,7 @@ Maria finished the closet. I noticed she'd arranged it so the heavy items — ca
 
 ---
 
-That first evening in the church, with the seven of us gathered in the basement by candlelight because the overhead fluorescents hummed at a frequency Jim worried carried through the walls, something happened that I didn't expect and don't have a clinical term for: we became people to each other.
+That first evening in the church, with the six of us gathered in the basement by candlelight because the overhead fluorescents hummed at a frequency Jim worried carried through the walls, something happened that I didn't expect and don't have a clinical term for: we became people to each other.
 
 Not all at once. In pieces. Ruth told a story about a student who'd brought a live frog to class in 1987 and how she'd confiscated it and kept it on her desk for the rest of the year and named it Fitzgerald. Dale showed us the beagle he was carving and said it was for his daughter, who was in Fayetteville, who he hadn't spoken to in two years because of things he'd done when he was using, and who he was going to find. Maria described her filing system at the law firm — eleven attorneys, eleven different ideas about alphabetical order — and it was the closest thing to a joke she'd told since we met her, and Jim laughed, and the sound of Jim laughing in the basement of his church while the world ended outside was so incongruous and so human that I almost cried.
 
@@ -243,7 +243,7 @@ I wrote this down. It seemed like the kind of thing that might matter later.
 
 ---
 
-Jim held a service on Wednesday. Six people in candlelight. He read a psalm, said a prayer, was quiet. Ruth sang "Amazing Grace" — first verse, thin soprano, cracks on the high notes. The silence after was the most sacred thing I'd ever experienced, and I don't believe in sacred.
+Jim held a service that first week. Six people in candlelight. He read a psalm, said a prayer, was quiet. Ruth sang "Amazing Grace" — first verse, thin soprano, cracks on the high notes. The silence after was the most sacred thing I'd ever experienced, and I don't believe in sacred.
 
 Later that night I dreamed I was back in the trailer. Everything was right: the wood-grain paneling, the burn mark on the counter, the Sprite and Saltines lined up neat. But the front door was open and someone was standing on the step, facing in, and the someone was me. Not a mirror: a second me, standing in the gravel in my gym shorts and the too-small Panthers t-shirt, looking in with a face that was smooth and blank and tilted slightly toward the porch light the way the Turned tilt toward the sun. The me in the doorway raised one hand. Not waving. Reaching. And I understood, in the dream-logic way where understanding doesn't require evidence, that if I took the hand I would never be afraid again, and the price of never being afraid was everything else.
 
@@ -293,7 +293,7 @@ He sat in the dark pew and I sat behind him and neither of us said anything else
 
 **JOURNAL ENTRY #3:**
 
-*Day 7. Seven people. Fourteen Turned outside. The number's growing.*
+*Day 7. Six people. Fourteen Turned outside. The number's growing.*
 
 *Three behavioral modes. Three different signals. The drone says "something is happening here" — herding, reproduction, fear-farming. The short sharp call says "food here, come now" — coordinated feeding. And something changes at density: the Walmart cluster is at twenty-five and the behavior is twitchy, restless, something building. I'm building a taxonomy that's growing faster than my understanding.*
 

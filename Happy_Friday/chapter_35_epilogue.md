@@ -142,4 +142,4 @@ Some part of her understood, briefly, that this was not a thing a person could k
 
 Then it was six in the morning, and her shift was over, and she had to get home, because her boy was waiting and it was a long way and she felt strong enough to walk it.
 
-She left her shoes where they were folded on the hood.
+She left her shoes where they had been set side by side on the hood.
