@@ -90,6 +90,14 @@ I started sleeping with the blood pressure cuff on. Sienna's idea: the cuff was 
 
 I was not the only one. Marcus's dormitory door was open every morning. He slept with it open now, the enclosed space too much, the need for an exit route stronger than the need for privacy. Dale carved at 2 AM some nights, the knife and the wood and the muscle memory the only things that worked when the recovery dreams came back. Ruth's light was on at all hours. Even Sienna — who slept better than any of us, the runner's body efficient at recovery — told me once, quietly, that she dreamed about the dissolving. The edge. The warmth. And that in the dream, she didn't turn back.
 
+There is one I have never written down, and I am putting a line here only so the record shows there was one.
+
+It is not the wire. It is a question Jim asked me twice — once in a steeple with a pair of binoculars between us and once on the church steps in the cold — and both times I answered him with a good paragraph about procedural memory and motor loops, and both times he let me.
+
+Moss could settle it. She has the equipment, and she has several hundred of them standing at four hundred yards, and in six weeks neither of us has proposed it. That is not an oversight on her part and it is not one on mine. I have written a whole notebook on noticing when you decided, and I broadcast it to strangers, and there is a test I have never once asked anybody to run because I already know which answer I want.
+
+That is the entry. I am aware of what it is.
+
 Safety, it turned out, was when the bill came due.
 
 On the third night, the machinery stopped again. The emitter kept the Turned at four hundred yards. It did nothing about the thing in the mirror.

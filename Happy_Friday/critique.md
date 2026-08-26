@@ -363,7 +363,42 @@ Ranked by leverage, not by effort. The first four are the ones that would change
 
 ---
 
-## 9. Closing
+## 9. Addendum — "Interstitial: Charlene," and what it settles
+
+Written after this critique, filed between Ch22 and Ch23. First person, present tense, from inside a Turned. 3,165 words. It is the chapter I would have asked for if I'd thought of it.
+
+**What it does.**
+
+It answers the question the book has been refusing since Chapter 11 — Jim asking whether Tom Hadley is still in there, Nate answering twice with a good paragraph about procedural memory — and it answers it against the narrator. There is a person in there. She feels everything. The pain arrives perfectly and simply never gets answered, and her face does not move, and that is *why* it never moves.
+
+And it detonates the single worst line Nate ever writes. Ch22, standing over a woman in the wire: *"she didn't react to the cutting because the organism didn't process pain the way a person would."* He asserts that as fact, at the exact moment it is most convenient, about a person who is conscious and looking at him.
+
+**Which items it closes.**
+
+- **§3.2 (nobody the reader loves dies for being decent).** Charlene turned because she got out of her car to help a screaming woman. It is the Sienna-and-Caleb structure with the other outcome. She dies over a day and a night, conscious, and the reader has known her for eleven pages.
+- **§3.3 (nobody beats the narrator).** She is right about him, and correct in every particular, and cannot say a word — which is the only form of unanswerable opposition this book's structure permits. She gets the last four inches of effort in her life on trying to move her eyes onto his, and fails.
+- **§3.7 (nothing in it doesn't belong).** A chapter in a voice that appears once and never returns, doing something the rest of the novel cannot do.
+- **§8.9 (let Nate be wrong at the end and don't correct it).** Handled through the new Ch31 beat rather than the ending: Moss has the equipment and several hundred of them at four hundred yards and in six weeks neither of them has proposed the test. Nate names it as exactly what it is — a confirmation-bias failure by a boy who broadcast a warning about confirmation bias — and still doesn't ask. **The reader now knows the answer and the narrator has chosen not to.** That is the Algernon position, and it holds to the last page.
+
+**The *I Am Legend* turn, which is the reason the chapter earns its place.**
+
+Charlene is not a victim with a POV. She is a **witness**, and she is the only thing on that road capable of recognising a lie, because five weeks of watching the thing operate has taught her that it takes every sound as a report. She understands the lure in two seconds. She understands it before Nate's own group does, and she is the only one there who cannot be fooled, and she walks into it anyway.
+
+And then she goes into the network with it.
+
+The epilogue now inherits her. The rage the core mind experiences over eleven hours is no longer an abstraction about a false signal — it is a woman who explained a wound from the inside of it, in a language the organism has never had. And the face: nobody at the wire could see the hillside, so the network should not have Nate. It has him because Charlene looked at him for four seconds the next day, from four feet off the road, and was certain, and the certainty went in with everything else.
+
+**Her failed attempt to reach him is what marks him.** She could not move her eyes; the looking did the work anyway. Matheson's inversion, executed structurally: Nate becomes the monster of the story that is still being told, and the thing that will hunt him in Book Two knows his face because of the one person conscious enough to see it.
+
+**What it does not fix.**
+
+§3.1 — the book still explains itself everywhere else, and this chapter is not short. §3.4 — the mirror between Nate's group and Phil's is untouched. §3.5 — arguably worse, because establishing host interiority makes the personified prose harder to read as Nate's error. And it adds 3,586 words to a manuscript whose central problem is that it is 50,000 words longer than the shelf it wants to sit on.
+
+**Net:** it is the strongest single chapter added in four passes, it closes the two structural gaps I rated most serious, and it makes §8.1 more urgent rather than less.
+
+---
+
+## 10. Closing
 
 The honest summary is this. You have written a novel with a genuinely original premise, executed with more discipline than most published work in the genre, containing at least six passages that are as good as anything being written in it, and one chapter — Jim's death — that is better than that.
 

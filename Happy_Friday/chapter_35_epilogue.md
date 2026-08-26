@@ -30,6 +30,8 @@ The first thoughts were not thoughts. They were noise, and the noise had furnitu
 
 *—the differential is the difference between a single-wide and sleeping in my—*
 
+*—forty-one, nineteen years, Josie, eleven, feet on the—*
+
 It had no way to sort them. It had never in the history of itself contained anything that was not itself, and here were twenty thousand somethings, all insisting, all in fragments, all of them about small warm rooms. It processed them the way a river processes a fence: without malice, thoroughly, over some time.
 
 Some of them had not come in through the doors. It held a kitchen in Johnson County where the counter stood eighteen inches from the stove, and it held a man's voice counting out a breath — four in, hold four, out six — and no part of either had ever been carried across that floor in anybody's hands. It did not notice this yet. It would.
@@ -44,9 +46,17 @@ It had all of it. The bodies that stood at that wire were in this room now, and 
 
 And it had the hillside.
 
-Not the boy. It did not have the boy. But it had the *fact* of the hillside: the geometry of a position two hundred yards south and above, at a distance selected so that the wire would function and the watcher would not be touched.
+Not the boy — nobody at that wire had been able to see the hillside. But it had the *fact* of it: the geometry of a position two hundred yards south and above, at a distance selected so that the wire would function and the watcher would not be touched.
 
 Selected.
+
+And then, from somewhere else entirely, from close, from the middle of the next day and about four feet off the road, it had a face.
+
+Fifteen years old. Heavy through the middle. Standing still in a road full of what he had made and looking at it the whole way, the way a person looks at work.
+
+She had been certain. That was in there too — not the reasoning, the certainty, arriving whole the way it does in people. And she had spent the last thing she had trying to move her eyes onto his and had not managed it.
+
+The looking had managed it. The looking was in the room now.
 
 The new mind stopped.
 
@@ -62,7 +72,13 @@ Every signal in the history of the network had been true. A signal is a conditio
 
 Somewhere on this continent was a thing that had made a sound that meant nothing, and had made it on purpose, and had counted on being believed.
 
-The mind turned that over for eleven hours. The nearest human word for what happened in it is *rage*, and the word is wrong, and there is not a better one.
+The mind turned that over for eleven hours.
+
+And it did not have to reason its way to what the lure had cost, because the cost had come in with everything else. It held a woman who had understood, from inside a coil of wire, exactly what had been done and exactly why it worked, and who had gone on understanding it for a day and a night with nothing switched off — every part of it, in order, with nothing missing — and who had been unable to put four inches between her eyes and the road.
+
+It had never held anything like that. Nothing had ever explained itself to it from the inside of a wound.
+
+The nearest human word for what happened in it is *rage*, and the word is wrong, and there is not a better one.
 
 ---
 
