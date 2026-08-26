@@ -441,3 +441,195 @@ He has the method. He wrote it. And it is now pointed at the single most comfort
 | Ch15 — Ruth relieved Leonard died before the world did | a person grateful for a boundary, which the network has no concept of |
 | Ch31 — Sienna running laps to map her own threshold | she is first to distrust Delia, in her body, and cannot make it survive Nate's analysis |
 
+
+---
+
+# The Three Touchstones
+
+Three books govern what Book Two is trying to be. Each one owns a different problem.
+
+| | governs | the thing to steal |
+|---|---|---|
+| **The Worthing Saga** | the philosophical core | the guardians *loved* humanity and were wrong; the withdrawal of protection is a restoration; a boy writes it down and is changed by writing it |
+| **Flowers for Algernon** | the form | the document carries the damage; capability isolates and corrupts; the reader is smarter than the narrator at both ends |
+| **Lord of the Flies** | the group | the violence points inward; the decent and intelligent are killed by their own side; nobody explains the Beast |
+
+Everything below is downstream of those three.
+
+---
+
+## Worthing, part one: make it love them
+
+The notes above establish the organism as *architecturally unable* to perceive what it is taking — no model of self and other, no concept of refusal, no access to the idea that the organ it is removing has a second function. That is rigorous and it is correct and it is **too cold.**
+
+Cold is easy to refuse. A process that doesn't know you're there is a glacier, and nobody agonises over a glacier.
+
+Card's guardians spent thousands of years editing pain out of human life **because they loved people and could not stand to watch them suffer.** That is what makes *The Worthing Saga* unbearable: the catastrophe was compassion, executed with enormous patience, by people who were good.
+
+So: **the organism is not indifferent to Nate. It is trying to help him, specifically, and it has gone to considerable expense to do it.**
+
+The evidence is already in the design and should be foregrounded rather than explained away:
+
+- It did not send an infiltrator. It sent **his mother**, rebuilt, and it fixed her knee.
+- It fixed the knee *because it had noticed the knee.* Something in that network held the observation that this particular woman's body hurt in a particular place, and repaired it, and the repair serves no strategic purpose whatsoever.
+- It has never once attacked the campus. Every incursion in Book One is either metabolic (hunting) or reflexive (the wire, the bark). The Emissary is the first *deliberate* act it has ever taken toward humans, and the act is a gift.
+
+The organism's frame, stated the Worthing way rather than the glacier way:
+
+> There is a small warm thing in permanent, painful exclusion. It has been observed for a long time. It is in distress and the distress does not stop. The network has a solution to distress and the solution is not theoretical — it has worked on every world, on every species, for longer than this planet has had a crust. So it repaired the one this creature was most attached to, at real cost, and returned her, and it does not understand why he is still standing outside in the cold.
+
+That is a harder thing to say no to than a process. And it makes Nate's refusal cost more, because he is not refusing an enemy. **He is refusing to be helped, by something that has never wanted anything except to include him, using his mother as the argument.**
+
+---
+
+## Worthing, part two: demonstrate, don't argue
+
+`The organism's best counter-argument, stated fairly` and `Nate's answer, and what it costs` are the strongest sections in these notes. They are also a **debate**, and Card would not have staged it as one. He resolved the question by showing what a protected world produced: people with no stories, no art, nothing to say.
+
+So Book Two needs **the room of the returned.**
+
+Not a tragedy. Not zombies with better manners. A room of people who have been given back, who are healthy and articulate and no longer afraid, who are **kinder than anyone the reader has met in either book**, and who are the happiest human beings on the continent.
+
+And who have nothing to say to each other.
+
+The scene should be pleasant. It should be genuinely, uncomfortably pleasant — the first warm, well-fed, unafraid room in 150,000 words — and the thing the reader notices should take a full page to arrive: *nobody in here wants anything.* No one interrupts. No one is bored. Nobody has a preference about the chair they're sitting in. When someone leaves, nobody looks up.
+
+Then Nate asks one of them a question with a wrong answer in it, and they agree with him, and he asks the opposite and they agree with that too — not because they are stupid, because **agreement is cheaper than correction and there is no longer anything in them that would rather be right.**
+
+That one scene does more than every philosophical section in this document, and it is the Worthing move exactly: don't argue that the protected world is a horror. Put the reader in it and let it be nice.
+
+---
+
+## The forgetting argument — the strongest idea available for Book Two
+
+This is new and I think it is the spine. It gives humanity a case that is not *we like suffering* — which is a hard sell and slightly false — and it grows directly out of Book One's own thesis.
+
+### The organism cannot revise
+
+Book One's epilogue states it flatly:
+
+> *Every signal in the history of the network had been true. A signal is a condition of the world reporting itself. That is what a signal is. That is the only thing a signal has ever been, on this world or on the others.*
+
+It has twenty thousand assimilated brains and perfect retention, and in its entire history — spanning worlds, spanning geological time — **it has never once held a false belief.** It has therefore never corrected one. It has no mechanism for deciding that something it contains is wrong, because it has never needed one.
+
+It can **add**. The wire taught it that a signal can be constructed. That is an addition — a new category, appended.
+
+It cannot **subtract.** It has no operation for going back through what it holds and marking any of it false. Which means the new category is orphaned: it knows that deception exists and it has no way to audit its own contents for it.
+
+### And Moss already told us what that costs
+
+Book One, Ch30, the thesis of the entire novel in one sentence:
+
+> *"The people who survive this won't be the strongest or the bravest. They'll be the ones who write down what they got wrong."*
+
+Nate's notebook is wrong on almost every page. He puts *the vagal brake* in and Moss tells him it does not do what he said. He writes *the organism has thought about this longer than we have* and later calls it *"wrong in the most humiliating available direction."* He builds a survival model from a nursing textbook and revises it eleven times. Ch30's survivorship-bias passage is the document turning its own method on itself and finding it inadequate.
+
+**The notebook is a machine for being incorrect and then not being incorrect any more.** That is the only technology in either book that has ever beaten the organism, and it beat it because the organism has no equivalent.
+
+### Forgetting is the room in which revision happens
+
+You cannot correct a belief you are still holding at full fidelity. Revision requires that the old version *go away* — that it lose its grip, get crossed out, become the thing you used to think. A being with total recall holds every version simultaneously and forever, and therefore holds no version as *superseded*, and therefore cannot learn anything that isn't accumulation.
+
+Perfect memory is not an advantage over a notebook. **It is the absence of an eraser.**
+
+### Which makes it the same case as partiality
+
+And here is where it unifies with everything already in these notes.
+
+The organism corrects faults. `The non-negotiable condition` establishes that a component holding interests of its own is not a dissenter but a **malfunction**, repaired automatically.
+
+Now notice what partiality is, from the organism's side. Loving one person more than ten thousand strangers is a **bias**. It is a systematic weighting error. It is, in the most literal sense, *being wrong about the relative value of things* — and being unwilling to correct it.
+
+**So the case against the gift and the case for forgetting are the same case.** What the organism removes is not suffering. It is the capacity to be wrong and to stay wrong on purpose. Partiality is an error a person defends. Grief is an error a person will not let go of. A notebook full of crossings-out is the same organ as a mother who prefers her own child.
+
+Nate's answer, in its final form, is therefore not *we need pain*. It is:
+
+> *"You're offering to make us right. That's the whole offer. Nobody's ever going to be wrong again — not about the world, not about each other, not about who matters most. And every single thing I have ever cared about was a thing I was wrong about on purpose and refused to fix."*
+
+### And it is also the plot mechanism
+
+This is not only thematic. It is how Book Two is won, or survived.
+
+The organism now knows signals can be false. It cannot retroactively audit what it already holds. **So it remains permanently vulnerable to a lie about something it already believes** — not a new deception, which it now watches for, but a correction to an old truth, which it has no category for receiving.
+
+Everything it took from Book One is in there: the corridor from three hundred and eleven viewpoints, the geometry of the hillside, Delia's fifteen years of nursing, a kitchen in Johnson County where the counter stands eighteen inches from the stove. All of it held as true, none of it auditable.
+
+Nate does not out-think it. **He edits its memory**, and it cannot tell, because checking would require a faculty it has never needed and has no idea it lacks.
+
+*Note the symmetry, and use it: in Book One he exploited a reflex it could not decline to perform. In Book Two he exploits a check it does not know it should run. Same shape, one level up. And both times the exploit teaches it something, and both times what it learns costs him more than the win was worth.*
+
+---
+
+## Algernon, part one: two documents
+
+Book One is a document. Book Two should be **two.**
+
+Delia can write now. Total recall, no fatigue, a mind that follows Moss's biochemistry the first time through. Somebody — Moss, probably, for entirely defensible research reasons — asks her to keep an account.
+
+**She is better at it than he is.**
+
+Cleaner. Better organised. More precise. She notices things Nate misses and states them in fewer words. Her entries have no crossings-out, no revisions, no *I was wrong about this last week*, because she is never wrong. She has perfect recall of the conversation and reproduces it exactly.
+
+And it is empty, and the emptiness is not describable, and Nate cannot prove it.
+
+The formal move is Keyes inverted. In *Flowers for Algernon* the prose degrades and the reader watches a person go out through the punctuation. Here **the prose improves, page over page, and the reader watches a person go out through the improvement.** The entries get better as she gets further away, because everything that made them hers — the hesitation, the thing she'd have gone back and softened, the sentence that runs long because she cared about it — is exactly what is being filed off.
+
+Run them side by side. His, wrong and crossed out and getting more fragmentary as Book Two costs him. Hers, immaculate and warmer every month.
+
+**The last entry in Book Two should be hers**, and it should be the kindest and best-written thing in either book, and it should be about him, and it should be unbearable.
+
+## Algernon, part two: she should be hard to be around
+
+Charlie becomes cruel when he becomes capable. Not vicious — *impatient*. He is contemptuous of the bakery workers who were kind to him when he was slow, and Keyes never forgives him for it.
+
+Delia does not become cruel. She becomes something the notes haven't used yet: **correct, constantly, about things nobody asked.**
+
+- She fixes Maria's supply calendar. Maria has been maintaining it for two months. The fix is right and takes four minutes and Maria does not speak for the rest of the day.
+- She reorganises the medication protocol Nate built in a church basement. Hers is better. It is measurably better.
+- She tells Ruth, kindly, that the knee is arthritic and there is a way to manage it, and Ruth — who has been walking on those knees for twenty years and has made a personality out of not mentioning it — says *"Thank you, dear"* in a voice nobody has heard before.
+- She finishes people's sentences accurately.
+
+None of it is unkind. All of it is help. And within two weeks there is a specific, unnameable pressure in every room she is in, and the group starts having conversations in the rooms she is not in, and nobody can say why, and **Nate is the only one who understands that the reason they are avoiding her is the correct reason and he still cannot say it.**
+
+That is Charlie at the bakery, and it should make the reader's skin crawl before a single perception incident happens.
+
+---
+
+## Golding: the group has to break, and it cannot be about the organism
+
+The largest structural gap in Book One is that its people are simply better than the Lyles, and the only thing separating them is better information. The organism is entirely external. There is no Jack.
+
+**Book Two must not repeat this.** The schism as currently drafted — `Who breaks` — is about whether to accept the gift, which is a philosophical disagreement between people who all still like each other. That is a debate, and Golding did not write debates.
+
+The fracture has to be about **scarcity**, and it has to happen before the philosophical argument, so that by the time the offer arrives the group is already damaged and the offer lands on people who have recently seen what they are.
+
+Maria has been holding the loaded gun since Book One, Chapter 8:
+
+> *"Every person we help is a day we lose at current rationing… That's not compassion. That's arithmetic."*
+
+It has never once fired. Fire it.
+
+Survivors arrive — the twelve from the pharmacy, then more, because Nate has been broadcasting an invitation for months and that is a consequence he has not paid for yet. The emitter's radius is fixed at four hundred yards and shrinking. The greenhouse feeds a specific number of people. The arithmetic reaches the day when it gives an answer nobody can act on and nobody can refute.
+
+**And Maria should be right.** Not coldly, not villainously — she should be *correct*, and she should be the one who says it, and the thing she says should be unforgivable and true:
+
+> *"There are nine days of food and fourteen people and I have run it every way there is. I am not asking anyone to agree with me. I am asking somebody else to be the one who says it, for once, because I have been the one who says it since October and I am tired and it has not made me a single friend."*
+
+That is Golding's scene, and it is also, precisely, **Jim's bequest arriving in the wrong hands.** *Say the thing nobody in the room wants to hear.* Nate has spent a book learning to do that. Maria has been doing it since Chapter 8 and nobody ever thanked her for it, and now it is a proposal about who eats.
+
+Whatever the group decides, it should cost somebody their place in it, and it should not be resolved, and the organism should have nothing to do with it.
+
+*Then* the offer arrives, into a group that has just discovered what it is willing to do — and the offer's real power is not that it returns the dead. It is that it makes the arithmetic go away forever.
+
+---
+
+## What this does to the ending
+
+Three consequences worth holding on to.
+
+**Nate cannot win by being right.** He has been right for two books and it has killed three hundred people and cost him his mother twice. If Book Two ends with his analysis prevailing, the series has argued that clear sight is the virtue, and Book One spent 134,000 words arguing the opposite. The win, if there is one, has to come through the notebook — through the accumulated record of having been wrong — and not through him seeing clearly at the critical moment.
+
+**Delia should not be restored.** The Worthing structure forbids it. The withdrawal of the protection is the restoration, and what it restores is her ability to be wrong, which means it also restores her mortality, her fear, her knee, and her stumble. If Nate gets her back it must be as **less** — smaller, damaged, frightened, and partial — and that has to be presented as the victory. He has to choose to give his mother back her fear.
+
+**The last word should be hers, and she should be wrong in it.** One sentence, in the improved handwriting, about her son, containing something the reader can see is false and she cannot.
+
