@@ -82,7 +82,7 @@ I counted from the hillside through the binoculars. The south side: approximatel
 
 A hundred and thirty. Maybe more. Three groups separated by the jersey barriers and the wire, each below frenzy threshold, each drifting in its own orbit. The terrain funneled them: the steep hillside on the right made climbing impractical, especially with shopping carts. The fifty-foot drop on the left, with the twisted guardrail and the semi wreckage, made that side impassable. The roadblock controlled the only viable passage.
 
-The alternative was backtracking. South two miles, then east on a forest service road to bypass the ridgeline, then north on a county road to rejoin the highway past the roadblock. But the forest service road was unpaved, rutted, impossible with shopping carts. We'd have to carry the packs again. And the detour added half a day of exposed walking through open terrain where we'd already seen Turned drifting in from the surrounding towns. Ruth's atenolol supply was at four days. Four days of medication between her and a heart rate that would light up the organism like a signal flare.
+The alternative was backtracking. South two miles, then east on a forest service road to bypass the ridgeline, then north on a county road to rejoin the highway past the roadblock. But the forest service road was unpaved, rutted, impossible with shopping carts. We'd have to carry the packs again. And the detour added half a day of exposed walking through open terrain where we'd already seen Turned drifting in from the surrounding towns. Ruth's atenolol supply was at three days. Three days of medication between her and a heart rate that would light up the organism like a signal flare.
 
 I studied the compound for an hour. I studied the wire. I studied the three groups and their separation and the jersey barriers that kept them apart and the funnel geometry of the terrain and the coils of unused concertina wire stacked behind one of the Humvees. Still bundled, never deployed, the military's surplus, left behind when the checkpoint fell.
 
@@ -125,7 +125,7 @@ Jim spoke first. "Those are people, Nate."
 
 "They're still people," Jim said. "Somewhere in there, they're still —"
 
-"Jim, I know. I know they have memories. I know the organism uses those memories. I know that somewhere inside each of them is a person who had a name and a family and a life. I know all of this. And I also know that between us and Fayetteville there are a hundred and thirty of them blocking the highway, and Ruth has four days of atenolol, and we can't carry the packs on an unpaved detour, and we don't have half a day to go around."
+"Jim, I know. I know they have memories. I know the organism uses those memories. I know that somewhere inside each of them is a person who had a name and a family and a life. I know all of this. And I also know that between us and Fayetteville there are a hundred and thirty of them blocking the highway, and Ruth has three days of atenolol, and we can't carry the packs on an unpaved detour, and we don't have half a day to go around."
 
 "There's always another way."
 
@@ -139,7 +139,7 @@ The argument expanded. Sienna opposed it on instinct. "It feels wrong. It feels 
 
 "Maybe. But it's also true."
 
-Marcus, from his position at the edge of the group: "The detour adds half a day. Half a day carrying packs on unpaved roads with no cover. Ruth can't do it: not with four days of medication left."
+Marcus, from his position at the edge of the group: "The detour adds half a day. Half a day carrying packs on unpaved roads with no cover. Ruth can't do it: not with three days of medication left."
 
 Dale spoke. He was holding the fox carving. Finished now, the detail work clean, the strokes precise with steady hands. "When I was using," he said, "my counselor told me that recovery means choosing the hard thing that works over the easy thing that feels right. This is the hard thing."
 

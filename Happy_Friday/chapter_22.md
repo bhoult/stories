@@ -46,7 +46,7 @@ Jim would carry the prayer. I would carry the woman in the wire.
 
 That night, camped in a pulloff a mile north of the roadblock, I wrote by flashlight. The fire was too far from where I was sitting, and I was sitting apart because I didn't want to be near people and I didn't want to be alone. I'd washed the blood off my shoes in a creek but the smell was still there. In my clothes, in my hair, in the skin of my hands where the wire had cut me. The cuts on my palms were shallow but they stung and I didn't bandage them because the stinging felt correct.
 
-This was the first thing I'd written since the hillside. I had been offline for most of a day: the breakdown, the woods, the silence, the walk through the blood. Now it was back, and the first thing the machinery did with its restored capacity was try to process what had happened by writing it down, because that's what the machinery does, because I am the machinery and the machinery is me and the writing is the only tool I have that works on the things that break me.
+This was the first thing I'd written since the hillside. Something had been offline for most of a day: the breakdown, the woods, the silence, the walk through the blood. Now it was back, and the first thing the machinery did with its restored capacity was try to process what had happened by writing it down, because that's what the machinery does, because I am the machinery and the machinery is me and the writing is the only tool I have that works on the things that break me.
 
 **JOURNAL ENTRY #15:**
 

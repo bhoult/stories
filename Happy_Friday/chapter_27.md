@@ -2,7 +2,9 @@
 
 I came back slowly. From a state where you stop being the person who processes and become the person who is processed. I'd been there for two days and I don't remember much of it except Sienna's hand and Jim's shoulder and Caleb putting the beagle in my lap.
 
-I remember the guardrail. That night I have whole and in order, every word of it, which makes no sense against the rest: two days of fog with one night cut clean out of the middle of it. I've stopped trying to account for that. Something needed doing for somebody who wasn't me, and whatever had gone out in me apparently still answered to that.
+I remember the guardrail. That night I have whole and in order, every word of it, which makes no sense against the rest: two days of fog with one night cut clean out of the middle of it.
+
+I remember it from outside myself. Not the way you remember a thing — the way you remember a photograph of a thing, with me in the frame at the edge of it, and when I sat down to put that night on the page it would not go down any other way and I stopped fighting it. I've given up trying to account for that too. Something needed doing for somebody who wasn't me, and whatever had gone out in me apparently still answered to that.
 
 On the morning of Day 41 I tried to think. I lay in my sleeping bag and reached for the analytical machinery — the part of me that observes, categorizes, plans — and it flopped like a beached fish — a wet, desperate lurch toward the water. Caught for a second. Lost it. I tried to count the group, a basic inventory, and got to four before the count dissolved into the parking lot, the bare feet, the distance I couldn't close. I pulled back. Tried again. Got to six. Held it. Lost it again.
 

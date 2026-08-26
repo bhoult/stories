@@ -11,7 +11,7 @@ I hadn't planned to. The notebook was mine. Private, wrinkled, stained with sept
 
 But Moss asked. She'd heard Marcus describe the journal on the CB. She wanted primary source data. Eyewitness observations from the first six weeks, documented in real time, uncorrected by hindsight. "Everyone who comes in tells me what they remember," she said. "Memory is reconstruction. Memory edits. What I need is what someone wrote down while it was happening, including the parts they got wrong."
 
-I handed it over. She sat in her office: a small room off the main lab, cluttered with printouts and specimen jars and a poster of the periodic table that someone had annotated with hand-drawn sad faces over the elements whose lab stocks were exhausted. The comet printout was on the wall behind her. I did not ask about it. She read.
+I handed it over. She sat in her office: a small room off the main lab, cluttered with printouts and specimen jars and a poster of the periodic table that someone had annotated with hand-drawn sad faces over the elements whose lab stocks were exhausted. The comet printout was on the wall behind her. I did not ask about it. *Incubation window* is a phrase with a start and an end, and I had worked out on the stairs that a woman who writes it down with a question mark already has a guess, and I did not want her guess in my head while I was still learning how to sleep. She read.
 
 She read for two hours. I sat in a chair across from her and watched her read and tried not to spiral, because the journal was the most honest thing I'd ever produced and I had no control over what she'd make of it.
 
@@ -48,6 +48,10 @@ She picked up the journal and held it out.
 "I want to compile a guide. A manual. How to stay human in a world that punishes humanity's best instincts. Your journal is the model: not because it's correct, but because it shows the process of becoming correct. The failures are the curriculum."
 
 I took the journal back. It felt different in my hands. Heavier, or maybe I was lighter. Same pages, same entries, same wrinkled record of six weeks of being wrong and revising and surviving. But it wasn't just mine anymore. It was data. A survival guide written by accident.
+
+What you are holding is the thing she asked me for. I am writing it a good while after all of this, from somewhere I am not going to describe, and I have had time I did not expect to get. Where I was not in the room I have used what the people who were in it told me, checked against each other wherever two of them saw the same thing, and I have not marked the seams, because marking them would have made this a book about me instead of a book about six weeks.
+
+There is one exception and I want it on the record. My mother's shift is nobody's testimony. Everyone who could have given it to me is standing in a lot. I built it out of a phone log, a supply closet on the north corridor, a rule she had about not calling from work, and fifteen years of knowing exactly how she did things. I could be wrong about every detail in it. I am not wrong about the part that matters, which is what she did with the minute she had.
 
 "There's a private entry," I said. "One I didn't show anyone. About the roadblock. About —" I stopped. "About the thing I'm capable of."
 

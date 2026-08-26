@@ -44,6 +44,24 @@ I pressed the button again.
 
 I told them about Jim where I said I would. The metoprolol, fifty milligrams twice a day for eleven years. The thirty years of practice at not being afraid, which I cannot measure and will not discount. A cardiac event dumps every stress hormone the body has and it does not stop dumping, and he went four hours past every threshold in my notebook and the organism never got a hand on him. I told them I don't know which of the two did it. I told them that a man I trusted held both of those answers at once for six weeks and never made anyone choose, and that if they were sitting somewhere with a rosary in one hand and a pill bottle in the other, they should keep both.
 
+And then I told them the thing I had not decided whether to say until I heard myself saying it.
+
+"You already know that calm keeps you alive. You also already know that you can't do it on request. Somebody told you to calm down this week and you wanted to hit them. I know. So here is the part nobody has told you.
+
+"Your body has two ways of handling a thing it can't survive. The first is the one you've met: everything speeds up. That's the one that kills you now. The second one is the opposite, and it's what happens when there's no fight left and no run left and the thing is still coming. Everything slows down. You go quiet, and you go a long way off inside your own head, and for a while you stop being anybody. A doctor would call it shock. You have probably called it *I don't remember much about that part.*
+
+"It works. Whatever is outside cannot find you in there, because there is nothing in there to find.
+
+"I'm not going to tell you it's good. It is close to the worst thing that can happen to a person, and the only thing worse is the thing it's protecting you from. There is a seven-year-old in this building who spent sixteen days in it, in a house with his own parents in it, and he is alive, and he cries in his sleep every single night and does not remember it in the morning. I have been in it twice. Nobody chooses it. That's what it's for.
+
+"But you should know that it's there, and you should know what the front edge of it feels like, so that if it comes for you, you don't fight it. Fighting it is fighting the only door that opens.
+
+"And one more thing, and I want you to write this one down.
+
+"**Nobody else gets to put you through it.** If there is somebody in your group talking about the water supply, and a schedule, and a chart, and they are very reasonable about all of it, and they can explain exactly why it's necessary — they are not saving you. Ask the person they have already done it to. If that person can't answer you, then you have your answer."
+
+I had not planned any of that. It came out and I let it. Phil asked me for the error and stood there waiting and I gave him nothing, and that was it, and I found it thirteen days late and twenty-five miles north of the only man it would have been any use to.
+
 I told them the hardest thing last.
 
 "I'm not going to tell you to come to Fayetteville. We have an emitter here that keeps the Turned back, but it won't last. The organism adapts. The range is already shrinking. What we have here isn't a fortress. It's a lab. A place where people are learning. And the learning is the thing that matters, not the walls or the frequency.
